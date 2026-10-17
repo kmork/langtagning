@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1963
+# kort: Cahiers 1963
+# serie: Cahiers du cinéma
+# år: 1963
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Contempt (1963) | Jean-Luc Godard | tmdb:266
+2 | The Birds (1963) | Alfred Hitchcock | tmdb:571
+3 | The Exterminating Angel (1962) | Luis Buñuel | tmdb:29264
+4 | Adieu Philippine (1962) | Jacques Rozier | tmdb:63880
+5 | The Trial of Joan of Arc (1962) | Robert Bresson | tmdb:48764
+6 | Muriel (1963) | Alain Resnais | tmdb:54563
+7 | The Nutty Professor (1963) | Jerry Lewis | tmdb:18331
+8 | The Carabineers (1963) | Jean-Luc Godard | tmdb:52705
+9 | Salvatore Giuliano (1962) | Francesco Rosi | tmdb:27523
+10 | 8½ (1963) | Federico Fellini | tmdb:422

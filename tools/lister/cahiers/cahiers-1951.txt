@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1951
+# kort: Cahiers 1951
+# serie: Cahiers du cinéma
+# år: 1951
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | The River (1951) | Jean Renoir | tmdb:45218
+2 | Diary of a Country Priest (1951) | Robert Bresson | tmdb:43376
+3 | Miracle in Milan (1951) | Vittorio De Sica | tmdb:43379
+4 | Los Olvidados (1950) | Luis Buñuel | tmdb:800
+5 | All About Eve (1950) | Joseph L. Mankiewicz | tmdb:705
+6 | Miss Julie (1951) | Alf Sjöberg | tmdb:18650
+7 | Story of a Love Affair (1950) | Michelangelo Antonioni | tmdb:49781
+8 | Sunset Boulevard (1951) | Billy Wilder
+9 | Edward and Caroline (1951) | Jacques Becker | tmdb:189996
+10 | The Flowers of St. Francis (1950) | Roberto Rossellini | tmdb:56518

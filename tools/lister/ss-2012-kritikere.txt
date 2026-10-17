@@ -1,0 +1,111 @@
+# navn: Sight and Sound 2012 – kritikernes topp 100
+# kort: S&S kritikere 2012
+# serie: Sight and Sound – kritikere
+# år: 2012
+# størrelse: 100
+# kilde: https://web.archive.org/web/2022/https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time
+# Merk: BFI publiserte topp 250 i 2012, men bare topp 100 er bevart hos BFI.
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film.
+
+1 | Vertigo (1958) | Alfred Hitchcock
+2 | Citizen Kane (1941) | Orson Welles
+3 | Tokyo Story (1953) | Ozu Yasujiro
+4 | La Règle du jeu (1939) | Jean Renoir
+5 | Sunrise: A Song of Two Humans (1927) | F.W. Murnau
+6 | 2001: A Space Odyssey (1968) | Stanley Kubrick
+7 | The Searchers (1956) | John Ford
+8 | Man with a Movie Camera (1929) | Dziga Vertov
+9 | The Passion of Joan of Arc (1927) | Carl Dreyer
+10 | 8½ (1963) | Federico Fellini
+11 | Battleship Potemkin (1925) | Sergei Eisenstein
+12 | L’Atalante (1934) | Jean Vigo
+13 | Breathless (1960) | Jean-Luc Godard
+14 | Apocalypse Now (1979) | Francis Ford Coppola
+15 | Late Spring (1949) | Ozu Yasujiro
+16 | Au hasard Balthazar (1966) | Robert Bresson
+=17 | Seven Samurai (1954) | Kurosawa Akira
+=17 | Persona (1966) | Ingmar Bergman
+19 | Mirror (1974) | Andrei Tarkovsky
+20 | Singin’ in the Rain (1951) | Stanley Donen / Gene Kelly
+=21 | L’avventura (1960) | Michelangelo Antonioni
+=21 | Le Mépris (1963) | Jean-Luc Godard
+=21 | The Godfather (1972) | Francis Ford Coppola
+=24 | Ordet (1955) | Carl Dreyer
+=24 | In the Mood for Love (2000) | Wong Kar Wai
+=26 | Rashomon (1950) | Kurosawa Akira
+=26 | Andrei Rublev (1966) | Andrei Tarkovsky
+28 | Mulholland Dr. (2001) | David Lynch
+=29 | Stalker (1979) | Andrei Tarkovsky
+=29 | Shoah (1985) | Claude Lanzmann
+=31 | The Godfather Part II (1974) | Francis Ford Coppola
+=31 | Taxi Driver (1976) | Martin Scorsese
+33 | Bicycle Thieves (1948) | Vittoria De Sica
+34 | The General (1926) | Buster Keaton / Clyde Bruckman
+=35 | Metropolis (1927) | Fritz Lang
+=35 | Psycho (1960) | Alfred Hitchcock
+=35 | Jeanne Dielman, 23 quai du Commerce 1080 Bruxelles (1975) | Chantal Akerman
+=35 | Sátántangó (1994) | Béla Tarr
+=39 | The 400 Blows (1959) | François Truffaut
+=39 | La dolce vita (1960) | Federico Fellini
+41 | Journey to Italy (1954) | Roberto Rossellini
+=42 | Pather Panchali (1955) | Satyajit Ray
+=42 | Some Like It Hot (1959) | Billy Wilder
+=42 | Gertrud (1964) | Carl Dreyer
+=42 | Pierrot le fou (1965) | Jean-Luc Godard
+=42 | Play Time (1967) | Jacques Tati
+=42 | Close-Up (1990) | Abbas Kiarostami
+=48 | The Battle of Algiers (1966) | Gillo Pontecorvo
+=48 | Histoire(s) du cinéma (1998) | Jean-Luc Godard | tmdb:0
+=50 | City Lights (1931) | Charlie Chaplin
+=50 | Ugetsu monogatari (1953) | Mizoguchi Kenji
+=50 | La Jetée (1962) | Chris Marker
+=53 | North by Northwest (1959) | Alfred Hitchcock
+=53 | Rear Window (1954) | Alfred Hitchcock
+=53 | Raging Bull (1980) | Martin Scorsese
+56 | M (1931) | Fritz Lang
+=57 | The Leopard (1963) | Luchino Visconti
+=57 | Touch of Evil (1958) | Orson Welles
+=59 | Sherlock Jr. (1924) | Buster Keaton
+=59 | Barry Lyndon (1975) | Stanley Kubrick
+=59 | La Maman et la putain (1973) | Jean Eustache
+=59 | Sansho Dayu (1954) | Mizoguchi Kenji
+=63 | Wild Strawberries (1957) | Ingmar Bergman
+=63 | Modern Times (1936) | Charles Chaplin
+=63 | Sunset Blvd. (1950) | Billy Wilder
+=63 | The Night of the Hunter (1955) | Charles Laughton
+=63 | Pickpocket (1959) | Robert Bresson
+=63 | Rio Bravo (1958) | Howard Hawks
+=69 | Blade Runner (1982) | Ridley Scott
+=69 | Blue Velvet (1986) | David Lynch
+=69 | Sans Soleil (1982) | Chris Marker
+=69 | A Man Escaped (1956) | Robert Bresson
+=73 | The Third Man (1949) | Carol Reed
+=73 | L’eclisse (1962) | Michelangelo Antonioni
+=73 | Les enfants du paradis (1945) | Marcel Carné
+=73 | La grande illusion (1937) | Jean Renoir
+=73 | Nashville (1975) | Robert Altman
+=78 | Chinatown (1974) | Roman Polanski
+=78 | Beau Travail (1998) | Claire Denis
+=78 | Once Upon a Time in the West (1968) | Sergio Leone
+=81 | The Magnificent Ambersons (1942) | Orson Welles
+=81 | Lawrence of Arabia (1962) | David Lean
+=81 | The Spirit of the Beehive (1973) | Víctor Erice
+=84 | Fanny and Alexander (1984) | Ingmar Bergman
+=84 | Casablanca (1942) | Michael Curtiz
+=84 | The Colour of Pomegranates (1968) | Sergei Parajanov
+=84 | Greed (1925) | Erich von Stroheim
+=84 | A Brighter Summer Day (1991) | Edward Yang
+=84 | The Wild Bunch (1969) | Sam Peckinpah
+=90 | Partie de campagne (1936) | Jean Renoir
+=90 | Aguirre, Wrath of God (1972) | Werner Herzog
+=90 | A Matter of Life and Death (1946) | Michael Powell/Emeric Pressburger
+=93 | The Seventh Seal (1957) | Ingmar Bergman
+=93 | Un chien andalou (1928) | Luis Buñuel
+=93 | Intolerance (1916) | D.W. Griffith
+=93 | A One and a Two (1999) | Edward Yang | tmdb:25538
+=93 | The Life and Death of Colonel Blimp (1943) | Michael Powell/Emeric Pressburger
+=93 | Touki Bouki (1973) | Djibril Diop Mambéty
+=93 | Fear Eats the Soul (1974) | Rainer Werner Fassbinder
+=93 | Imitation of Life (1959) | Douglas Sirk
+=93 | Madame de… (1953) | Max Ophüls

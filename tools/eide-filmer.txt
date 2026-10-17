@@ -1,0 +1,287 @@
+# Én film per linje. Linjer som starter med # ignoreres.
+# Format:  Tittel (år) | status | tagger | egen beskrivelse
+# Alt etter tittelen er valgfritt. Årstall gir sikrere treff.
+# Status: sett, vil-se, samling  (flere kan kombineres)
+# Titler er oversatt til engelsk og har fått årstall. Originalen ligger i eide-filmer.original.txt.
+
+After Hours (1985) | sett, samling
+Elle (2016) | sett, samling
+Elite Squad (2007) | sett, samling
+Short Cuts (1993) | sett, samling
+Clockwise (1986) | sett, samling
+Carnage (2011) | sett, samling
+Bullitt (1968) | sett, samling
+The Towering Inferno (1974) | vil-se, samling
+The Cincinnati Kid (1965) | vil-se, samling
+Babel (2006) | sett, samling
+Boogie Nights (1997) | sett, samling
+El Topo (1970) | sett, samling
+Butch Cassidy and the Sundance Kid (1969) | sett, samling
+American Honey (2016) | sett, samling
+The Big Lebowski (1998) | sett, samling
+Playtime (1967) | sett, samling
+Jour de fête (1949) | sett, samling
+Trafic (1971) | sett, samling
+Mr. Hulot's Holiday (1953) | sett, samling
+The Master (2012) | sett, samling
+Drive My Car (2021) | sett, samling
+Masculin Féminin (1966) | sett, samling
+The Pink Panther (1963) | sett, samling
+A Shot in the Dark (1964) | sett, samling
+The Pink Panther Strikes Again (1976) | sett, samling
+Revenge of the Pink Panther (1978) | sett, samling
+Trail of the Pink Panther (1982) | sett, samling
+The Return of the Pink Panther (1975) | sett
+The Gods Must Be Crazy (1980) | sett, samling
+The Gods Must Be Crazy II (1989) | sett, samling
+La Grande Bouffe (1973) | sett, samling
+The Long Good Friday (1980) | sett, samling
+Chinatown (1974) | sett, samling
+What? (1972) | sett, samling
+The Conversation (1974) | sett, samling
+A Fistful of Dollars (1964) | sett, samling
+For a Few Dollars More (1965) | sett, samling
+The Good, the Bad and the Ugly (1966) | sett, samling
+True Romance (1993) | sett, samling
+The Cannonball Run (1981) | sett, samling
+Head above Water (1996) | sett, samling
+Werckmeister Harmonies (2000) | sett, samling
+Casino Royale (1967) | sett, samling
+Delicatessen (1991) | sett, samling
+The Deer Hunter (1978) | sett, samling
+Death Proof (2007) | sett, samling
+The Bride Wore Black (1968) | sett, samling
+Mississippi Mermaid (1969) | sett, samling
+The Man Who Loved Women (1977) | sett, samling
+Big Fish (2003) | sett, samling
+Le Cercle Rouge (1970) | sett, samling
+Badlands (1973) | sett, samling
+Coffy (1973) | sett, samling
+Planet Terror (2007) | sett, samling
+The Thin Red Line (1998) | sett, samling
+Get Carter (1971) | sett, samling
+L'Eclisse (1962) | sett, samling
+Dunkirk (2017) | sett, samling
+Breathless (1960) | sett, samling
+Bad Boy Bubby (1993) | sett, samling
+Lock, Stock and Two Smoking Barrels (1998) | sett, samling
+Kill Bill: Vol. 1 (2003) | sett, samling
+Kill Bill: Vol. 2 (2004) | sett, samling
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | sett, samling
+1900 (1976) | sett, samling
+Four Shades of Brown (2004) | sett, samling
+Hell or High Water (2016) | sett, samling
+Lawrence of Arabia (1962) | sett, samling
+Snatch (2000) | sett, samling
+Office Space (1999) | sett, samling
+Kelly's Heroes (1970) | sett, samling
+Blade Runner (1982) | sett, samling
+Three Colors: Red (1994) | sett, samling
+Three Colors: White (1994) | sett, samling
+Three Colors: Blue (1993) | sett, samling
+Nomadland (2020) | sett, samling
+The Handmaiden (2016) | sett, samling
+Coffee and Cigarettes (2003) | sett, samling
+Blow (2001) | sett, samling
+The Shawshank Redemption (1994) | sett, samling
+Aftersun (2022) | sett, samling
+The Square (2017) | sett, samling
+Dead Man (1995) | sett, samling
+The Godfather (1972) | sett, samling
+The Godfather Part II (1974) | sett, samling
+The Sting (1973) | sett, samling
+Fargo (1996) | sett, samling
+The Blues Brothers (1980) | sett, samling
+Open Hearts (2002) | sett, samling
+Brothers (2004) | sett, samling
+After the Wedding (2006) | sett, samling
+North (2009) | sett, samling
+One Flew Over the Cuckoo's Nest (1975) | sett, samling
+Lucky (2017) | sett, samling
+The Big Blue (1988) | sett, samling
+Blow-Up (1966) | sett, samling
+Troubled Water (2008) | sett, samling
+O Brother, Where Art Thou? (2000) | sett, samling
+Monty Python and the Holy Grail (1975) | sett, samling
+Blade Runner 2049 (2017) | sett, samling
+American Graffiti (1973) | sett, samling
+10 (1979) | sett, samling
+Paris, je t'aime (2006) | sett, samling
+The Apartment (1960) | sett, samling
+Wild Strawberries (1957) | sett, samling
+Once Upon a Time... in Hollywood (2019) | sett, samling
+Aguirre, the Wrath of God (1972) | sett, samling
+Songs from the Second Floor (2000) | sett, samling
+Most People Live in China (2002) | sett, samling
+Kick-Ass (2010) | sett, samling
+Garden State (2004) | sett, samling
+The Flamingo Kid (1984) | sett, samling
+The Adventures of Ford Fairlane (1990) | sett, samling
+P'tit Quinquin (2014) | sett, samling
+Wild Tales (2014) | sett, samling
+The Long Goodbye (1973) | sett, samling
+Withnail and I (1987) | sett, samling
+Zabriskie Point (1970) | sett, samling
+The Lovers on the Bridge (1991) | sett, samling
+Dead Poets Society (1989) | sett, samling
+Torsk på Tallinn (1999) | sett, samling
+Black Cat, White Cat (1998) | sett, samling
+Det blir aldrig som man tänkt sig (2000) | sett, samling
+Bad Taste (1987) | sett, samling
+Police Story 3: Super Cop (1992) | sett, samling
+Bad Santa (2003) | sett, samling
+M*A*S*H (1970) | sett, samling
+Down by Law (1986) | sett, samling
+Easy Rider (1969) | sett, samling
+My Life as a Dog (1985) | sett, samling
+Fletch (1985) | sett, samling
+From Dusk Till Dawn (1996) | sett, samling
+Syriana (2005) | sett, samling
+Fellini's Casanova (1976) | sett, samling
+The 100 Year-Old Man Who Climbed Out the Window and Disappeared (2013) | sett, samling
+Castaway on the Moon (2009) | sett, samling
+A Clockwork Orange (1971) | sett, samling
+U Turn (1997) | sett, samling
+Inherent Vice (2014) | sett, samling
+Stranger Than Paradise (1984) | sett, samling
+Fritz the Cat (1972) | sett, samling
+The Nine Lives of Fritz the Cat (1974) | sett, samling
+Brazil (1985) | sett, samling
+Singin' in the Rain (1952) | sett, samling
+Midnight Run (1988) | sett, samling
+Night on Earth (1991) | sett, samling
+Spring, Summer, Fall, Winter... and Spring (2003) | sett, samling
+Stalingrad (1993) | sett, samling
+Involuntary (2008) | sett, samling
+The 400 Blows (1959) | sett, samling
+Licorice Pizza (2021) | sett, samling
+Inside Out (2015) | sett, samling
+The Man Who Wasn't There (2001) | sett, samling
+Kurt Turns Evil (2008) | sett, samling
+Dogville (2003) | sett, samling
+Sweeney Todd: The Demon Barber of Fleet Street (2007) | sett, samling
+The Banshees of Inisherin (2022) | sett, samling
+The Diving Bell and the Butterfly (2007) | sett, samling
+Meet the Feebles (1989) | sett, samling
+The French Connection (1971) | sett, samling
+French Connection II (1975) | sett, samling
+The Eagle Has Landed (1976) | sett, samling
+Apocalypse Now (1979) | sett, samling
+Life of Brian (1979) | sett, samling
+Monsters, Inc. (2001) | sett, samling
+Finding Nemo (2003) | sett, samling
+Sleeping Beauty (1959) | sett, samling
+The Little Mermaid (1989) | sett, samling
+Braindead (1992) | sett, samling
+Blues Brothers 2000 (1998) | sett, samling
+Sympathy for Mr. Vengeance (2002) | sett, samling
+Oldboy (2003) | sett, samling
+Lady Vengeance (2005) | sett, samling
+Incendies (2010) | sett, samling
+Taxi Driver (1976) | sett, samling
+Gomorrah (2008) | sett, samling
+Plan 9 from Outer Space (1957) | sett, samling
+Eternal Sunshine of the Spotless Mind (2004) | sett, samling
+Raising Arizona (1987) | sett, samling
+The Tree of Life (2011) | sett, samling
+Toy Story (1995) | sett, samling
+Toy Story 2 (1999) | sett, samling
+Toy Story 3 (2010) | sett, samling
+Annie Hall (1977) | sett, samling
+Holy Motors (2012) | sett, samling
+Hannah and Her Sisters (1986) | vil-se, samling
+Mon Oncle (1958) | sett, samling
+Another Year (2010) | sett, samling
+One from the Heart (1981) | sett, samling
+Foxy Brown (1974) | sett, samling
+In the Loop (2009) | sett, samling
+Il Postino (1994) | sett, samling
+Raging Bull (1980) | sett, samling
+Fellini's Roma (1972) | sett, samling
+What's New Pussycat (1965) | vil-se, samling
+Full Metal Jacket (1987) | sett, samling
+Black Dynamite (2009) | sett, samling
+The King of Comedy (1982) | sett, samling
+Fantasia (1940) | sett, samling
+Barry Lyndon (1975) | sett, samling
+The Italian Job (1969) | sett, samling
+Persona (1966) | sett, samling
+Blood Simple (1984) | sett, samling
+Dogtooth (2009) | sett, samling
+Picnic at Hanging Rock (1975) | sett, samling
+Nashville (1975) | sett, samling
+Fellini Satyricon (1969) | sett, samling
+Beauty and the Beast (1991) | sett, samling
+Band of Outsiders (1964) | sett, samling
+Swimming Pool (2003) | sett, samling
+Contempt (1963) | sett, samling
+The Passenger (1975) | sett, samling
+Pierrot le Fou (1965) | sett, samling
+Sherlock Jr. (1924) | vil-se, samling
+The General (1926) | sett, samling
+Steamboat Bill, Jr. (1928) | vil-se, samling
+The Gumball Rally (1976) | sett, samling
+Woman in the Dunes (1964) | sett, samling
+Underground (1995) | sett, samling
+Fitzcarraldo (1982) | sett, samling
+North by Northwest (1959) | sett, samling
+The Other Side of Hope (2017) | sett, samling
+La Notte (1961) | sett, samling
+Alice in Wonderland (1951) | sett, samling
+Peter Pan (1953) | sett, samling
+Alphaville (1965) | sett, samling
+Andrei Rublev (1966) | sett, samling
+Being There (1979) | sett, samling
+A Woman Is a Woman (1961) | sett, samling
+The Killing (1956) | sett, samling
+Mediterraneo (1991) | sett, samling
+Pale Rider (1985) | sett, samling
+The Wild Bunch (1969) | vil-se, samling
+Rio Bravo (1959) | vil-se, samling
+How the West Was Won (1962) | vil-se, samling
+The Searchers (1956) | sett, samling
+I Vitelloni (1953) | sett, samling
+The Holy Mountain (1973) | sett, samling
+Poor Things (2023) | sett, samling
+Decision to Leave (2022) | sett, samling
+The Substance (2024) | sett, samling
+Perfect Days (2023) | sett, samling
+Manhattan (1979) | sett, samling
+L'Avventura (1960) | sett, samling
+The Jungle Book (1967) | sett, samling
+Up (2009) | sett, samling
+Dyrene i Hakkebakkeskogen (2016) | sett, samling
+Snow White and the Seven Dwarfs (1937) | sett, samling
+Pinocchio (1940) | sett, samling
+Mars & Venus (2007) | sett, samling
+Time Bandits (1981) | sett, samling
+The Lord of the Rings: The Return of the King (2003) | sett, samling
+1941 (1979) | vil-se, samling
+The Fault in Our Stars (2014) | samling
+Micmacs (2009) | sett, samling
+Le Havre (2011) | sett, samling
+Tokyo Story (1953) | sett, samling
+The Kid (1921) | vil-se, samling
+The Gold Rush (1925) | sett, samling
+The Circus (1928) | vil-se, samling
+Modern Times (1936) | vil-se, samling
+Limelight (1952) | vil-se, samling
+The Great Dictator (1940) | sett, samling
+Day for Night (1973) | sett, samling
+Cléo from 5 to 7 (1962) | sett, samling
+Yesterday, Today and Tomorrow (1963) | vil-se, samling
+In the Mood for Love (2000) | vil-se, samling
+Sorcerer (1977) | vil-se, samling
+Le Samouraï (1967) | vil-se, samling
+Klute (1971) | vil-se, samling
+Vivre sa vie (1962) | vil-se, samling
+The Lighthouse (2019) | vil-se, samling
+Nights of Cabiria (1957) | vil-se, samling
+La Strada (1954) | sett, samling
+The White Sheik (1952) | sett, samling
+Pickpocket (1959) | vil-se, samling
+The Adventures of Priscilla, Queen of the Desert (1994) | vil-se, samling
+Ghost Dog: The Way of the Samurai (1999) | vil-se, samling
+Weekend (1967) | sett, samling
+The Party (1968) | sett, samling
+The Rules of the Game (1939) | sett, samling

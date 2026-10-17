@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2001
+# kort: Cahiers 2001
+# serie: Cahiers du cinéma
+# år: 2001
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Mulholland Drive (2001) | David Lynch | tmdb:1018
+2 | The Lady and the Duke (2001) | Éric Rohmer | tmdb:2894
+3 | Millennium Mambo (2001) | Hou Hsiao-hsien | tmdb:11553
+4 | Time and Tide (2000) | Tsui Hark | tmdb:49291
+5 | I'm Going Home (2001) | Manoel de Oliveira | tmdb:49685
+=6 | Platform (2000) | Jia Zhangke | tmdb:80427
+=6 | Wild Innocence (2001) | Philippe Garrel | tmdb:103692
+8 | Sobibor, October 14, 1943, 4 p.m. (2001) | Claude Lanzmann | tmdb:103695
+9 | The Son's Room (2001) | Nanni Moretti | tmdb:11447
+10 | 'R Xmas (2001) | Abel Ferrara | tmdb:49110

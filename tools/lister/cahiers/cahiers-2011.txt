@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2011
+# kort: Cahiers 2011
+# serie: Cahiers du cinéma
+# år: 2011
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | We Have a Pope (2011) | Nanni Moretti | tmdb:61667
+=2 | The Strange Case of Angelica (2010) | Manoel de Oliveira | tmdb:53413
+=2 | The Tree of Life (2011) | Terrence Malick | tmdb:8967
+=4 | Essential Killing (2010) | Jerzy Skolimowski | tmdb:48243
+=4 | Hors Satan (2011) | Bruno Dumont | tmdb:89456
+=6 | Melancholia (2011) | Lars von Trier | tmdb:62215
+=6 | A Burning Hot Summer (2011) | Philippe Garrel | tmdb:80440
+=8 | House of Tolerance (2011) | Bertrand Bonello | tmdb:84427
+=8 | Meek's Cutoff (2010) | Kelly Reichardt | tmdb:57120
+=8 | Super 8 (2011) | J. J. Abrams | tmdb:37686

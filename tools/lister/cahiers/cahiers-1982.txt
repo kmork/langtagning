@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1982
+# kort: Cahiers 1982
+# serie: Cahiers du cinéma
+# år: 1982
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | A Room in Town (1982) | Jacques Demy | tmdb:4269
+=2 | Moonlighting (1982) | Jerzy Skolimowski | tmdb:42134
+=2 | Passion (1982) | Jean-Luc Godard | tmdb:32692
+4 | White Dog (1982) | Samuel Fuller | tmdb:47955
+=5 | The Color of Pomegranates (1969) | Sergueï Paradjanov | tmdb:26302
+=5 | Identification of a Woman (1982) | Michelangelo Antonioni | tmdb:53234
+=5 | Le Pont du Nord (1981) | Jacques Rivette | tmdb:59484
+8 | Parsifal (1982) | Hans-Jürgen Syberberg | tmdb:176167
+9 | Three Crowns of the Sailor (1982) | Raoul Ruiz | tmdb:64441
+10 | Le Beau Mariage (1982) | Éric Rohmer | tmdb:2861

@@ -1,0 +1,21 @@
+# navn: Cahiers du cinéma – årets topp 10, 2006
+# kort: Cahiers 2006
+# serie: Cahiers du cinéma
+# år: 2006
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | Private Fears in Public Places (2006) | Alain Resnais | tmdb:24170
+=1 | The Sun (2005) | Alexandre Sokourov | tmdb:98246
+3 | The Host (2006) | Bong Joon-ho | tmdb:1255
+4 | Lady Chatterley (2006) | Pascale Ferran | tmdb:3542
+5 | Un couple parfait (2005) | Nobuhiro Suwa | tmdb:79229
+=6 | Capote (2005) | Bennett Miller | tmdb:398
+=6 | These Encounters of Theirs (2006) | Jean-Marie Straub / Danièle Huillet | tmdb:108772
+=6 | Lady in the Water (2006) | M. Night Shyamalan | tmdb:9697
+9 | The Departed (2006) | Martin Scorsese | tmdb:1422
+=10 | Letters from Iwo Jima (2006) | Clint Eastwood | tmdb:1251
+=10 | Flags of Our Fathers (2006) | Clint Eastwood | tmdb:3683
+=10 | The New World (2006) | Terrence Malick | tmdb:11400

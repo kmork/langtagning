@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2000
+# kort: Cahiers 2000
+# serie: Cahiers du cinéma
+# år: 2000
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Esther Kahn (2000) | Arnaud Desplechin | tmdb:61578
+2 | The Captive (2000) | Chantal Akerman | tmdb:47244
+3 | Man on the Moon (1999) | Miloš Forman | tmdb:1850
+4 | Mission to Mars (2000) | Brian De Palma | tmdb:2067
+5 | In the Mood for Love (2000) | Wong Kar-wai | tmdb:843
+6 | M/Other (1999) | Nobuhiro Suwa | tmdb:49939
+=7 | Yi Yi (2000) | Edward Yang | tmdb:25538
+=7 | The Virgin Suicides (1999) | Sofia Coppola | tmdb:1443
+9 | Space Cowboys (2000) | Clint Eastwood | tmdb:5551
+10 | Workers for the Good Lord (2000) | Jean-Claude Brisseau | tmdb:101227

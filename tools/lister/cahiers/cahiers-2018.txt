@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2018
+# kort: Cahiers 2018
+# serie: Cahiers du cinéma
+# år: 2018
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | The Wild Boys (2017) | Bertrand Mandico | tmdb:474444
+2 | Coincoin et les Z'inhumains (2018) | Bruno Dumont | tmdb:428902
+3 | Phantom Thread (2017) | Paul Thomas Anderson | tmdb:400617
+4 | Burning (2018) | Lee Chang-dong | tmdb:491584
+5 | Paul Sanchez est revenu! (2018) | Patricia Mazuy | tmdb:499728
+6 | The Post (2017) | Steven Spielberg | tmdb:446354
+7 | On the Beach at Night Alone (2017) | Hong Sang-soo | tmdb:434773
+8 | The House That Jack Built (2018) | Lars von Trier | tmdb:398173
+9 | Leto (2018) | Kirill Serebrennikov | tmdb:502897
+10 | L'Île au trésor (2018) | Guillaume Brac | tmdb:525894

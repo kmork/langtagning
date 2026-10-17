@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1996
+# kort: Cahiers 1996
+# serie: Cahiers du cinéma
+# år: 1996
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Crash (1996) | David Cronenberg | tmdb:884
+2 | For Ever Mozart (1996) | Jean-Luc Godard | tmdb:111367
+3 | Casino (1995) | Martin Scorsese | tmdb:524
+4 | My Sex Life... or How I Got into an Argument (1996) | Arnaud Desplechin | tmdb:83994
+5 | God's Comedy (1995) | João César Monteiro | tmdb:49974
+6 | Dead Man (1995) | Jim Jarmusch | tmdb:922
+7 | Thieves (1996) | André Téchiné | tmdb:49935
+8 | Mission: Impossible (1996) | Brian De Palma | tmdb:954
+=9 | Encore (1996) | Pascal Bonitzer | tmdb:267273
+=9 | Parfait Amour ! (1996) | Catherine Breillat | tmdb:64584
+=9 | Don't Forget You're Going to Die (1995) | Xavier Beauvois | tmdb:72368

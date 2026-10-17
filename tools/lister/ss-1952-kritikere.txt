@@ -1,0 +1,21 @@
+# navn: Sight and Sound 1952 – kritikernes topp 10
+# kort: S&S kritikere 1952
+# serie: Sight and Sound – kritikere
+# år: 1952
+# størrelse: 10
+# kilde: https://en.wikipedia.org/wiki/Sight_and_Sound#The_Sight_and_Sound_Poll_of_the_Greatest_Films_of_All_Time
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Bicycle Thieves (1948) | Vittorio De Sica
+=2 | City Lights (1931) | Charles Chaplin
+=2 | The Gold Rush (1925) | Charles Chaplin
+4 | Battleship Potemkin (1925) | Sergei Eisenstein
+=5 | Intolerance (1916) | D.W. Griffith
+=5 | Louisiana Story (1948) | Robert Flaherty
+=7 | Greed (1924) | Erich von Stroheim
+=7 | The Passion of Joan of Arc (1928) | Carl Theodor Dreyer
+=7 | Le Jour se lève (1939) | Marcel Carné
+=10 | Le Million (1931) | René Clair
+=10 | The Rules of the Game (1939) | Jean Renoir
+=10 | Brief Encounter (1945) | David Lean

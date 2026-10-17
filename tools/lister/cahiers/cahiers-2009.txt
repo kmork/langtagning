@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2009
+# kort: Cahiers 2009
+# serie: Cahiers du cinéma
+# år: 2009
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Wild Grass (2009) | Alain Resnais | tmdb:37842
+2 | Vincere (2009) | Marco Bellocchio | tmdb:30239
+3 | Inglourious Basterds (2009) | Quentin Tarantino | tmdb:16869
+4 | Gran Torino (2008) | Clint Eastwood | tmdb:13223
+5 | Eccentricities of a Blonde-Haired Girl (2009) | Manoel de Oliveira | tmdb:44411
+6 | Tetro (2009) | Francis Ford Coppola | tmdb:11928
+7 | The Hurt Locker (2008) | Kathryn Bigelow | tmdb:12162
+8 | Le Roi de l'évasion (2008) | Alain Guiraudie | tmdb:43616
+9 | Tokyo Sonata (2008) | Kiyoshi Kurosawa | tmdb:8937
+10 | Hadewijch (2009) | Bruno Dumont | tmdb:72852

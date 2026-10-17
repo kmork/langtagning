@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1965
+# kort: Cahiers 1965
+# serie: Cahiers du cinéma
+# år: 1965
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Pierrot le Fou (1965) | Jean-Luc Godard | tmdb:2786
+2 | Sandra (1965) | Luchino Visconti | tmdb:92432
+3 | Winter Light (1963) | Ingmar Bergman | tmdb:29455
+4 | Six in Paris (1965) | Jean Rouch | tmdb:51808
+5 | Alphaville (1965) | Jean-Luc Godard | tmdb:8072
+6 | Lilith (1964) | Robert Rossen | tmdb:60437
+7 | Shock Corridor (1963) | Samuel Fuller | tmdb:25504
+8 | The Family Jewels (1965) | Jerry Lewis | tmdb:52122
+9 | The Gospel According to St. Matthew (1964) | Pier Paolo Pasolini | tmdb:24192
+10 | Le Bonheur (1965) | Agnès Varda | tmdb:53023

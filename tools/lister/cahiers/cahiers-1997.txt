@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1997
+# kort: Cahiers 1997
+# serie: Cahiers du cinéma
+# år: 1997
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Hana-bi (1997) | Takeshi Kitano | tmdb:5910
+2 | Goodbye South, Goodbye (1996) | Hou Hsiao-hsien | tmdb:88811
+3 | Lost Highway (1997) | David Lynch | tmdb:638
+=4 | The Eel (1997) | Shōhei Imamura | tmdb:20506
+=4 | The River (1997) | Tsai Ming-liang | tmdb:54291
+=6 | Same Old Song (1997) | Alain Resnais | tmdb:2817
+=6 | Seventh Heaven (1997) | Benoît Jacquot | tmdb:98505
+=6 | Taste of Cherry (1997) | Abbas Kiarostami | tmdb:30020
+=9 | Happy Together (1997) | Wong Kar-wai | tmdb:18329
+=9 | Face/Off (1997) | John Woo | tmdb:754
+=9 | Scream (1996) | Wes Craven | tmdb:4232

@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2008
+# kort: Cahiers 2008
+# serie: Cahiers du cinéma
+# år: 2008
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Redacted (2007) | Brian De Palma | tmdb:11600
+2 | Colossal Youth (2006) | Pedro Costa | tmdb:82404
+3 | Cloverfield (2008) | Matt Reeves | tmdb:7191
+4 | No Country for Old Men (2007) | Joel / Ethan Coen | tmdb:6977
+5 | Two Lovers (2008) | James Gray | tmdb:10362
+6 | Waltz with Bashir (2008) | Ari Folman | tmdb:8885
+7 | Dernier Maquis (2008) | Rabah Ameur-Zaïmeche | tmdb:81302
+8 | Hunger (2008) | Steve McQueen | tmdb:10360
+9 | A Short Film About the Indio Nacional (2008) | Raya Martin | tmdb:44569
+10 | On War (2008) | Bertrand Bonello | tmdb:40007

@@ -1,0 +1,59 @@
+# navn: Danny Peary – Cult Movies 2 (1983)
+# kort: Cult Movies 2
+# serie: Kultfilmer (Danny Peary)
+# år: 1983
+# størrelse: 50
+# type: samling
+# kilde: https://en.wikipedia.org/wiki/Cult_Movies_2
+# Usortert samling (alfabetisk i boka) – nummeret er bare løpenummer.
+
+1 | Altered States (1980) | | tmdb:11542
+2 | The American Friend (1977) | | tmdb:11222
+3 | Barbarella (1968) | | tmdb:8069
+4 | Basket Case (1982) | | tmdb:27813
+5 | Beat the Devil (1953) | | tmdb:22733
+6 | Bedazzled (1968) | | tmdb:18209
+7 | The Big Heat (1953) | | tmdb:14580
+8 | Blood Feast (1963) | | tmdb:28172
+9 | Blood Money (1933) | | tmdb:29744
+10 | A Boy and His Dog (1975) | | tmdb:4917
+11 | Breathless (1960) | | tmdb:269
+12 | Bride of Frankenstein (1935) | | tmdb:229
+13 | Children of Paradise (1945) | | tmdb:2457
+14 | A Clockwork Orange (1971) | | tmdb:185
+15 | Cutter's Way (1981) | | tmdb:31593
+16 | Dark Star (1974) | | tmdb:1410
+17 | Daughters of Darkness (1971) | | tmdb:46175
+18 | The First Nudie Musical (1976) | | tmdb:42244
+19 | Godzilla (1954) | | tmdb:1678
+20 | The Great Texas Dynamite Chase (1976) | | tmdb:44005
+21 | High School Confidential! (1958) | | tmdb:43116
+22 | His Girl Friday (1940) | | tmdb:3085
+23 | Last Tango in Paris (1972) | | tmdb:1643
+24 | The Man Who Fell to Earth (1976) | | tmdb:991
+25 | Marnie (1964) | | tmdb:506
+26 | Massacre at Central High (1976) | | tmdb:16271
+27 | Mommie Dearest (1981) | | tmdb:15660
+28 | Monty Python and the Holy Grail (1975) | | tmdb:762
+29 | Morgan – A Suitable Case for Treatment (1966) | | tmdb:42724
+30 | Ms .45 (1981) | | tmdb:22171
+31 | My Darling Clementine (1946) | | tmdb:3088
+32 | Night of the Demon (1957) | | tmdb:25103
+33 | Nightmare Alley (1947) | | tmdb:19169
+34 | The Parallax View (1974) | | tmdb:17365
+35 | Phantom of the Paradise (1974) | | tmdb:27327
+36 | Picnic at Hanging Rock (1975) | | tmdb:11020
+37 | Pretty Baby (1978) | | tmdb:26973
+38 | Quadrophenia (1979) | | tmdb:10373
+39 | Salt of the Earth (1954) | | tmdb:23620
+40 | The Seventh Seal (1957) | | tmdb:490
+41 | Some Like It Hot (1959) | | tmdb:239
+42 | Sullivan's Travels (1942) | | tmdb:16305
+43 | Taxi Driver (1976) | | tmdb:103
+44 | To Be or Not to Be (1942) | | tmdb:198
+45 | Vanishing Point (1971) | | tmdb:11951
+46 | White Heat (1949) | | tmdb:15794
+47 | The Wicker Man (1973) | | tmdb:16307
+48 | Willy Wonka & the Chocolate Factory (1971) | | tmdb:252
+49 | Wuthering Heights (1939) | | tmdb:3084
+50 | Zardoz (1974) | | tmdb:4923

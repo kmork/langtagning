@@ -1,0 +1,21 @@
+# navn: Cahiers du cinéma – årets topp 10, 2007
+# kort: Cahiers 2007
+# serie: Cahiers du cinéma
+# år: 2007
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Paranoid Park (2007) | Gus Van Sant | tmdb:1990
+=2 | Still Life (2006) | Jia Zhangke | tmdb:2346
+=2 | Death Proof (2007) | Quentin Tarantino | tmdb:1991
+=2 | Inland Empire (2006) | David Lynch | tmdb:1730
+=5 | La France (2007) | Serge Bozon | tmdb:75981
+=5 | Zodiac (2007) | David Fincher | tmdb:1949
+=7 | Before I Forget (2007) | Jacques Nolot | tmdb:40942
+=7 | Honor of the Knights (2006) | Albert Serra | tmdb:85461
+=7 | The Romance of Astrea and Celadon (2007) | Éric Rohmer | tmdb:45458
+=10 | The Duchess of Langeais (2006) | Jacques Rivette | tmdb:46335
+=10 | I Don't Want to Sleep Alone (2006) | Tsai Ming-liang | tmdb:12130
+=10 | Syndromes and a Century (2006) | Apichatpong Weerasethakul | tmdb:27904

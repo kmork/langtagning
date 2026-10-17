@@ -1,0 +1,10 @@
+# Én film per linje. Linjer som starter med # ignoreres.
+# Format:  Tittel (år) | status | tagger | egen beskrivelse
+# Alt etter tittelen er valgfritt. Årstall gir sikrere treff.
+# Status: sett, vil-se, samling  (flere kan kombineres)
+
+Stalker (1979) | sett, samling | klassiker
+Oslo, 31. august (2011) | sett | nordisk | Trier på sitt beste.
+Heat (1995) | sett, samling
+Paris, Texas (1984) | vil-se
+Kvinnen i mitt liv

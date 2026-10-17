@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1984
+# kort: Cahiers 1984
+# serie: Cahiers du cinéma
+# år: 1984
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Full Moon in Paris (1984) | Éric Rohmer | tmdb:27102
+2 | Klassenverhältnisse (1984) | Jean-Marie Straub / Danièle Huillet | tmdb:117479
+=3 | Biquefarre (1983) | Georges Rouquier | tmdb:146398
+=3 | First Name: Carmen (1983) | Jean-Luc Godard | tmdb:32689
+=3 | Liberté, la nuit (1983) | Philippe Garrel | tmdb:110743
+6 | Rumble Fish (1983) | Francis Ford Coppola | tmdb:232
+=7 | And the Ship Sails On (1983) | Federico Fellini | tmdb:5622
+=7 | Paris, Texas (1984) | Wim Wenders | tmdb:655
+=7 | The Right Stuff (1983) | Philip Kaufman | tmdb:9549
+10 | Once Upon a Time in America (1984) | Sergio Leone | tmdb:311

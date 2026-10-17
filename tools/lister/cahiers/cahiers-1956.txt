@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1956
+# kort: Cahiers 1956
+# serie: Cahiers du cinéma
+# år: 1956
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | A Man Escaped (1956) | Robert Bresson | tmdb:15244
+2 | Elena and Her Men (1956) | Jean Renoir | tmdb:53156
+3 | Rebel Without a Cause (1955) | Nicholas Ray | tmdb:221
+4 | Mr. Arkadin (1955) | Orson Welles | tmdb:44026
+5 | Senso (1954) | Luchino Visconti | tmdb:43195
+6 | Smiles of a Summer Night (1955) | Ingmar Bergman | tmdb:11700
+7 | Il bidone (1955) | Federico Fellini | tmdb:36102
+8 | L'amore (1948) | Roberto Rossellini | tmdb:43444
+9 | Picnic (1955) | Joshua Logan | tmdb:39940
+10 | Fear (1954) | Roberto Rossellini | tmdb:96546

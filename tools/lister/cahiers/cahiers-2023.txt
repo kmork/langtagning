@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 2023
+# kort: Cahiers 2023
+# serie: Cahiers du cinéma
+# år: 2023
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Trenque Lauquen (2022) | Laura Citarella | tmdb:715742
+2 | Close Your Eyes (2023) | Víctor Erice | tmdb:997294
+3 | Anatomy of a Fall (2023) | Justine Triet | tmdb:915935
+4 | The Fabelmans (2022) | Steven Spielberg | tmdb:804095
+5 | Fallen Leaves (2023) | Aki Kaurismäki | tmdb:986280
+6 | Unrest (2022) | Cyril Schäublin | tmdb:749136
+7 | Do Not Expect Too Much from the End of the World (2023) | Radu Jude | tmdb:937085
+8 | Le Gang des bois du temple (2023) | Rabah Ameur-Zaïmeche | tmdb:1000517
+9 | Last Summer (2023) | Catherine Breillat | tmdb:812037
+=10 | A Prince (2023) | Pierre Creton | tmdb:1110135
+=10 | Showing Up (2022) | Kelly Reichardt | tmdb:790416

@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1999
+# kort: Cahiers 1999
+# serie: Cahiers du cinéma
+# år: 1999
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Eyes Wide Shut (1999) | Stanley Kubrick | tmdb:345
+2 | The Wind Will Carry Us (1999) | Abbas Kiarostami | tmdb:43423
+3 | Sicilia! (1999) | Jean-Marie Straub / Danièle Huillet | tmdb:104871
+4 | Existenz (1999) | David Cronenberg | tmdb:1946
+5 | Night Wind (1999) | Philippe Garrel | tmdb:79435
+6 | True Crime (1999) | Clint Eastwood | tmdb:10354
+7 | The Letter (1999) | Manoel de Oliveira | tmdb:105448
+8 | The Straight Story (1999) | David Lynch | tmdb:404
+9 | Ghost Dog: The Way of the Samurai (1999) | Jim Jarmusch | tmdb:4816
+10 | As Bodas de Deus (1999) | João César Monteiro | tmdb:101342

@@ -1,0 +1,1009 @@
+# navn: They Shoot Pictures, Don't They? – The 1,000 Greatest Films (2026)
+# kort: TSPDT 2026
+# serie: TSPDT
+# år: 2026
+# størrelse: 1000
+# kilde: https://www.theyshootpictures.com/gf1000_all1000films_table.php
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Citizen Kane (1941) | Orson Welles
+2 | Vertigo (1958) | Alfred Hitchcock
+3 | 2001: A Space Odyssey (1968) | Stanley Kubrick
+4 | Tokyo Story (1953) | Yasujiro Ozu
+5 | The Rules of the Game (1939) | Jean Renoir
+6 | The Godfather (1972) | Francis Ford Coppola
+7 | 8½ (1963) | Federico Fellini
+8 | Sunrise: A Song of Two Humans (1927) | F.W. Murnau
+9 | The Searchers (1956) | John Ford
+10 | Seven Samurai (1954) | Akira Kurosawa
+11 | Singin' in the Rain (1952) | Stanley Donen / Gene Kelly
+12 | Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975) | Chantal Akerman
+13 | Apocalypse Now (1979) | Francis Ford Coppola
+14 | Taxi Driver (1976) | Martin Scorsese
+15 | Bicycle Thieves (1948) | Vittorio De Sica
+16 | Persona (1966) | Ingmar Bergman
+17 | In the Mood for Love (2000) | Wong Kar-wai
+18 | Breathless (1960) | Jean-Luc Godard
+19 | The Passion of Joan of Arc (1928) | Carl Theodor Dreyer
+20 | Battleship Potemkin (1925) | Sergei Eisenstein
+21 | L'Atalante (1934) | Jean Vigo
+22 | Man with a Movie Camera (1929) | Dziga Vertov
+23 | Mirror (1975) | Andrei Tarkovsky
+24 | Psycho (1960) | Alfred Hitchcock
+25 | Rashomon (1950) | Akira Kurosawa
+26 | City Lights (1931) | Charles Chaplin
+27 | The 400 Blows (1959) | François Truffaut
+28 | Andrei Rublev (1966) | Andrei Tarkovsky
+29 | Mulholland Dr. (2001) | David Lynch
+30 | The Godfather Part II (1974) | Francis Ford Coppola
+31 | Some Like it Hot (1959) | Billy Wilder
+32 | Au hasard Balthazar (1966) | Robert Bresson
+33 | La Dolce vita (1960) | Federico Fellini
+34 | Ordet (1955) | Carl Theodor Dreyer
+35 | Raging Bull (1980) | Martin Scorsese
+36 | The Night of the Hunter (1955) | Charles Laughton
+37 | Casablanca (1942) | Michael Curtiz
+38 | L'Avventura (1960) | Michelangelo Antonioni
+39 | Blade Runner (1982) | Ridley Scott
+40 | Rear Window (1954) | Alfred Hitchcock
+41 | Sunset Blvd. (1950) | Billy Wilder
+42 | Touch of Evil (1958) | Orson Welles
+43 | Barry Lyndon (1975) | Stanley Kubrick
+44 | Contempt (1963) | Jean-Luc Godard
+45 | Playtime (1967) | Jacques Tati
+46 | Pather Panchali (1955) | Satyajit Ray
+47 | Close-Up (1990) | Abbas Kiarostami
+48 | Lawrence of Arabia (1962) | David Lean
+49 | Stalker (1979) | Andrei Tarkovsky
+50 | The General (1926) | Buster Keaton / Clyde Bruckman
+51 | Modern Times (1936) | Charles Chaplin
+52 | Beau travail (1999) | Claire Denis
+53 | M (1931) | Fritz Lang
+54 | The Third Man (1949) | Carol Reed
+55 | Late Spring (1949) | Yasujiro Ozu
+56 | The Apartment (1960) | Billy Wilder
+57 | North by Northwest (1959) | Alfred Hitchcock
+58 | Ugetsu monogatari (1953) | Kenji Mizoguchi
+59 | GoodFellas (1990) | Martin Scorsese
+60 | The Battle of Algiers (1966) | Gillo Pontecorvo
+61 | La Grande illusion (1937) | Jean Renoir
+62 | Wild Strawberries (1957) | Ingmar Bergman
+63 | Rio Bravo (1959) | Howard Hawks
+64 | Fanny and Alexander (1982) | Ingmar Bergman
+65 | Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Stanley Kubrick
+66 | Shoah (1985) | Claude Lanzmann
+67 | Once Upon a Time in the West (1968) | Sergio Leone
+68 | Chinatown (1974) | Roman Polanski
+69 | Journey to Italy (1954) | Roberto Rossellini
+70 | Pierrot le fou (1965) | Jean-Luc Godard
+71 | Do the Right Thing (1989) | Spike Lee
+72 | Metropolis (1927) | Fritz Lang
+73 | A Woman Under the Influence (1974) | John Cassavetes
+74 | Les Enfants du paradis (1945) | Marcel Carné
+75 | La Strada (1954) | Federico Fellini
+76 | The Leopard (1963) | Luchino Visconti
+77 | Amarcord (1973) | Federico Fellini
+78 | It's a Wonderful Life (1946) | Frank Capra
+79 | The Wild Bunch (1969) | Sam Peckinpah
+80 | Pulp Fiction (1994) | Quentin Tarantino
+81 | Viridiana (1961) | Luis Buñuel
+82 | Jaws (1975) | Steven Spielberg
+83 | The Shining (1980) | Stanley Kubrick
+84 | A Man Escaped (1956) | Robert Bresson
+85 | Blue Velvet (1986) | David Lynch
+86 | Sansho the Bailiff (1954) | Kenji Mizoguchi
+87 | The Conformist (1970) | Bernardo Bertolucci
+88 | The Seventh Seal (1957) | Ingmar Bergman
+89 | The Man Who Shot Liberty Valance (1962) | John Ford
+90 | Nashville (1975) | Robert Altman
+91 | The Magnificent Ambersons (1942) | Orson Welles
+92 | Pickpocket (1959) | Robert Bresson
+93 | The Gold Rush (1925) | Charles Chaplin
+94 | La Jetée (1962) | Chris Marker
+95 | Gertrud (1964) | Carl Theodor Dreyer
+96 | Sans soleil (1983) | Chris Marker
+97 | Cléo from 5 to 7 (1962) | Agnès Varda
+98 | Jules et Jim (1962) | François Truffaut
+99 | To Be or Not to Be (1942) | Ernst Lubitsch
+100 | Meshes of the Afternoon (1943) | Maya Deren / Alexander Hammid
+101 | The Mother and the Whore (1973) | Jean Eustache
+102 | Sátántangó (1994) | Béla Tarr
+103 | Madame de... (1953) | Max Ophüls
+104 | Sherlock Jr. (1924) | Buster Keaton
+105 | A Clockwork Orange (1971) | Stanley Kubrick
+106 | Ikiru (1952) | Akira Kurosawa
+107 | Ali: Fear Eats the Soul (1974) | Rainer Werner Fassbinder
+108 | Aguirre, the Wrath of God (1972) | Werner Herzog
+109 | Come and See (1985) | Elem Klimov
+110 | Annie Hall (1977) | Woody Allen
+111 | The Spirit of the Beehive (1973) | Víctor Erice
+112 | Last Year at Marienbad (1961) | Alain Resnais
+113 | Once Upon a Time in America (1984) | Sergio Leone
+114 | Greed (1924) | Erich von Stroheim
+115 | The Wizard of Oz (1939) | Victor Fleming
+116 | The Piano (1993) | Jane Campion
+117 | A Brighter Summer Day (1991) | Edward Yang
+118 | Yi Yi (2000) | Edward Yang
+119 | Don't Look Now (1973) | Nicolas Roeg
+120 | Hiroshima mon amour (1959) | Alain Resnais
+121 | The Red Shoes (1948) | Michael Powell / Emeric Pressburger
+122 | Alien (1979) | Ridley Scott
+123 | E.T. The Extra-Terrestrial (1982) | Steven Spielberg
+124 | Bringing Up Baby (1938) | Howard Hawks
+125 | Blow-Up (1966) | Michelangelo Antonioni
+126 | A Day in the Country (1936) | Jean Renoir
+127 | Notorious (1946) | Alfred Hitchcock
+128 | Vivre sa vie (1962) | Jean-Luc Godard
+129 | Intolerance (1916) | D.W. Griffith
+130 | L'Eclisse (1962) | Michelangelo Antonioni
+131 | Spirited Away (2001) | Hayao Miyazaki
+132 | A Matter of Life and Death (1946) | Michael Powell / Emeric Pressburger
+133 | Letter from an Unknown Woman (1948) | Max Ophüls
+134 | All About Eve (1950) | Joseph L. Mankiewicz
+135 | Los Olvidados (1950) | Luis Buñuel
+136 | The Exterminating Angel (1962) | Luis Buñuel
+137 | Star Wars (1977) | George Lucas
+138 | Imitation of Life (1959) | Douglas Sirk
+139 | His Girl Friday (1940) | Howard Hawks
+140 | Histoire(s) du cinéma (1998) | Jean-Luc Godard | tmdb:0
+141 | Gone with the Wind (1939) | Victor Fleming
+142 | Nosferatu (1922) | F.W. Murnau
+143 | There Will Be Blood (2007) | Paul Thomas Anderson
+144 | My Darling Clementine (1946) | John Ford
+145 | Rome, Open City (1945) | Roberto Rossellini
+146 | Daisies (1966) | Věra Chytilová
+147 | Wanda (1970) | Barbara Loden
+148 | Céline and Julie Go Boating (1974) | Jacques Rivette
+149 | The Gospel According to St. Matthew (1964) | Pier Paolo Pasolini
+150 | One Flew Over the Cuckoo's Nest (1975) | Milos Forman
+151 | The Umbrellas of Cherbourg (1964) | Jacques Demy
+152 | The Conversation (1974) | Francis Ford Coppola
+153 | Killer of Sheep (1977) | Charles Burnett
+154 | Un Chien andalou (1928) | Luis Buñuel
+155 | Days of Heaven (1978) | Terrence Malick
+156 | The Good, the Bad and the Ugly (1966) | Sergio Leone
+157 | Double Indemnity (1944) | Billy Wilder
+158 | Trouble in Paradise (1932) | Ernst Lubitsch
+159 | The Deer Hunter (1978) | Michael Cimino
+160 | L'Argent (1983) | Robert Bresson
+161 | Chungking Express (1994) | Wong Kar-wai
+162 | My Neighbour Totoro (1988) | Hayao Miyazaki
+163 | Cries and Whispers (1972) | Ingmar Bergman
+164 | Tropical Malady (2004) | Apichatpong Weerasethakul
+165 | Manhattan (1979) | Woody Allen
+166 | Rosemary's Baby (1968) | Roman Polanski
+167 | The Passenger (1975) | Michelangelo Antonioni
+168 | Badlands (1973) | Terrence Malick
+169 | L'Âge d'or (1930) | Luis Buñuel
+170 | The Texas Chain Saw Massacre (1974) | Tobe Hooper
+171 | Dekalog (1989) | Krzysztof Kieslowski
+172 | The Discreet Charm of the Bourgeoisie (1972) | Luis Buñuel
+173 | Portrait of a Lady on Fire (2019) | Céline Sciamma
+174 | Raiders of the Lost Ark (1981) | Steven Spielberg
+175 | Only Angels Have Wings (1939) | Howard Hawks
+176 | Stagecoach (1939) | John Ford
+177 | Brief Encounter (1945) | David Lean
+178 | Touki Bouki (1973) | Djibril Diop Mambéty
+179 | Duck Soup (1933) | Leo McCarey
+180 | Close Encounters of the Third Kind (1977) | Steven Spielberg
+181 | The Birds (1963) | Alfred Hitchcock
+182 | Johnny Guitar (1954) | Nicholas Ray
+183 | Ran (1985) | Akira Kurosawa
+184 | Mouchette (1967) | Robert Bresson
+185 | The Colour of Pomegranates (1969) | Sergei Parajanov
+186 | Earth (1930) | Alexander Dovzhenko
+187 | Vampyr (1932) | Carl Theodor Dreyer
+188 | Napoléon (1927) | Abel Gance
+189 | Out of the Past (1947) | Jacques Tourneur
+190 | Paris, Texas (1984) | Wim Wenders
+191 | The River (1951) | Jean Renoir
+192 | The Tree of Life (2011) | Terrence Malick
+193 | Chimes at Midnight (1965) | Orson Welles
+194 | Black Narcissus (1947) | Michael Powell / Emeric Pressburger
+195 | The Gleaners & I (2000) | Agnès Varda
+196 | La Notte (1961) | Michelangelo Antonioni
+197 | Paisan (1946) | Roberto Rossellini
+198 | King Kong (1933) | Merian C. Cooper / Ernest B. Schoedsack
+199 | Nights of Cabiria (1957) | Federico Fellini
+200 | Rocco and His Brothers (1960) | Luchino Visconti
+201 | Spring in a Small Town (1948) | Fei Mu
+202 | Salò, or the 120 Days of Sodom (1975) | Pier Paolo Pasolini
+203 | The Lady Eve (1941) | Preston Sturges
+204 | On the Waterfront (1954) | Elia Kazan
+205 | The Last Laugh (1924) | F.W. Murnau
+206 | A City of Sadness (1989) | Hou Hsiao-hsien
+207 | News from Home (1976) | Chantal Akerman
+208 | The Thing (1982) | John Carpenter
+209 | Vagabond (1985) | Agnès Varda
+210 | The Great Dictator (1940) | Charles Chaplin
+211 | Magnolia (1999) | Paul Thomas Anderson
+212 | Death in Venice (1971) | Luchino Visconti
+213 | Wings of Desire (1987) | Wim Wenders
+214 | The Life and Death of Colonel Blimp (1943) | Michael Powell / Emeric Pressburger
+215 | Moonlight (2016) | Barry Jenkins
+216 | Breaking the Waves (1996) | Lars von Trier
+217 | Solaris (1972) | Andrei Tarkovsky
+218 | The Quiet Man (1952) | John Ford
+219 | Wavelength (1967) | Michael Snow
+220 | Brazil (1985) | Terry Gilliam
+221 | Le Samouraï (1967) | Jean-Pierre Melville
+222 | Kes (1969) | Ken Loach
+223 | Zero for Conduct (1933) | Jean Vigo
+224 | Umberto D. (1952) | Vittorio De Sica
+225 | Where is the Friend's House? (1987) | Abbas Kiarostami
+226 | The Grapes of Wrath (1940) | John Ford
+227 | The Big Lebowski (1998) | Joel Coen / Ethan Coen
+228 | Eternal Sunshine of the Spotless Mind (2004) | Michel Gondry
+229 | The Best Years of Our Lives (1946) | William Wyler
+230 | The Life of Oharu (1952) | Kenji Mizoguchi
+231 | Parasite (2019) | Bong Joon-ho
+232 | Sullivan's Travels (1941) | Preston Sturges
+233 | Back to the Future (1985) | Robert Zemeckis
+234 | The Matrix (1999) | Lana Wachowski / Lilly Wachowski
+235 | McCabe & Mrs. Miller (1971) | Robert Altman
+236 | The Travelling Players (1975) | Theo Angelopoulos
+237 | Black God, White Devil (1964) | Glauber Rocha
+238 | Love Streams (1984) | John Cassavetes
+239 | The House is Black (1963) | Forugh Farrokhzad
+240 | Germany, Year Zero (1948) | Roberto Rossellini
+241 | The Crowd (1928) | King Vidor
+242 | Ashes and Diamonds (1958) | Andrzej Wajda
+243 | Red Desert (1964) | Michelangelo Antonioni
+244 | Memories of Underdevelopment (1968) | Tomás Gutiérrez Alea
+245 | Eraserhead (1977) | David Lynch
+246 | Ivan the Terrible, Part II (1946) | Sergei Eisenstein
+247 | In a Lonely Place (1950) | Nicholas Ray
+248 | The Band Wagon (1953) | Vincente Minnelli
+249 | The Graduate (1967) | Mike Nichols
+250 | Ivan the Terrible, Part I (1944) | Sergei Eisenstein
+251 | Schindler's List (1993) | Steven Spielberg
+252 | Caché (2005) | Michael Haneke
+253 | An Autumn Afternoon (1962) | Yasujiro Ozu
+254 | Performance (1970) | Nicolas Roeg / Donald Cammell
+255 | The Exorcist (1973) | William Friedkin
+256 | Heat (1995) | Michael Mann
+257 | Meet Me in St. Louis (1944) | Vincente Minnelli
+258 | The Thin Red Line (1998) | Terrence Malick
+259 | Cinema Paradiso (1988) | Giuseppe Tornatore
+260 | Daughters of the Dust (1991) | Julie Dash
+261 | Belle de jour (1967) | Luis Buñuel
+262 | The Green Ray (1986) | Eric Rohmer
+263 | Eyes Wide Shut (1999) | Stanley Kubrick
+264 | El Verdugo (1963) | Luis García Berlanga
+265 | Fargo (1996) | Joel Coen / Ethan Coen
+266 | Diary of a Country Priest (1951) | Robert Bresson
+267 | Uncle Boonmee Who Can Recall His Past Lives (2010) | Apichatpong Weerasethakul
+268 | The Treasure of the Sierra Madre (1948) | John Huston
+269 | F for Fake (1973) | Orson Welles
+270 | The Cabinet of Dr. Caligari (1920) | Robert Wiene
+271 | Red River (1948) | Howard Hawks
+272 | Tabu (1931) | F.W. Murnau
+273 | Night and Fog (1955) | Alain Resnais
+274 | La Ciénaga (2001) | Lucrecia Martel
+275 | Three Colours: Blue (1993) | Krzysztof Kieslowski
+276 | Kind Hearts and Coronets (1949) | Robert Hamer
+277 | Sweet Smell of Success (1957) | Alexander Mackendrick
+278 | Taste of Cherry (1997) | Abbas Kiarostami
+279 | Day of Wrath (1943) | Carl Theodor Dreyer
+280 | My Night at Maud's (1969) | Eric Rohmer
+281 | Black Girl (1966) | Ousmane Sembene
+282 | All That Jazz (1979) | Bob Fosse
+283 | Groundhog Day (1993) | Harold Ramis
+284 | The Shop Around the Corner (1940) | Ernst Lubitsch
+285 | Paths of Glory (1957) | Stanley Kubrick
+286 | The Ascent (1977) | Larisa Shepitko
+287 | The Story of the Last Chrysanthemums (1939) | Kenji Mizoguchi
+288 | Goodbye, Dragon Inn (2003) | Tsai Ming-liang
+289 | Pandora's Box (1929) | G.W. Pabst
+290 | India Song (1975) | Marguerite Duras
+291 | Army of Shadows (1969) | Jean-Pierre Melville
+292 | Throne of Blood (1957) | Akira Kurosawa
+293 | 2 or 3 Things I Know About Her (1967) | Jean-Luc Godard
+294 | All That Heaven Allows (1955) | Douglas Sirk
+295 | The Sacrifice (1986) | Andrei Tarkovsky
+296 | Cabaret (1972) | Bob Fosse
+297 | All About My Mother (1999) | Pedro Almodóvar
+298 | Three Colours: Red (1994) | Krzysztof Kieslowski
+299 | City of God (2002) | Fernando Meirelles / Kátia Lund
+300 | Unforgiven (1992) | Clint Eastwood
+301 | The Big Sleep (1946) | Howard Hawks
+302 | Mean Streets (1973) | Martin Scorsese
+303 | Distant Voices, Still Lives (1988) | Terence Davies
+304 | Happy Together (1997) | Wong Kar-wai
+305 | The Empire Strikes Back (1980) | Irvin Kershner
+306 | The Maltese Falcon (1941) | John Huston
+307 | Werckmeister Harmonies (2000) | Béla Tarr
+308 | Terra em Transe (1967) | Glauber Rocha
+309 | The Music Room (1958) | Satyajit Ray
+310 | Mr. Hulot's Holiday (1953) | Jacques Tati
+311 | A Separation (2011) | Asghar Farhadi
+312 | Floating Clouds (1955) | Mikio Naruse
+313 | Freaks (1932) | Tod Browning
+314 | Midnight Cowboy (1969) | John Schlesinger
+315 | Charulata (1964) | Satyajit Ray
+316 | Nanook of the North (1922) | Robert J. Flaherty
+317 | The World of Apu (1959) | Satyajit Ray
+318 | Faces (1968) | John Cassavetes
+319 | Melancholia (2011) | Lars von Trier
+320 | Amadeus (1984) | Milos Forman
+321 | High and Low (1963) | Akira Kurosawa
+322 | The King of Comedy (1982) | Martin Scorsese
+323 | In the Realm of the Senses (1976) | Nagisa Oshima
+324 | Videodrome (1983) | David Cronenberg
+325 | I Am Cuba (1964) | Mikhail Kalatozov
+326 | Monsieur Verdoux (1947) | Charles Chaplin
+327 | Harold and Maude (1971) | Hal Ashby
+328 | Husbands (1970) | John Cassavetes
+329 | Lola Montès (1955) | Max Ophüls
+330 | Pyaasa (1957) | Guru Dutt
+331 | Kings of the Road (1976) | Wim Wenders
+332 | La Belle et la bête (1946) | Jean Cocteau
+333 | The Philadelphia Story (1940) | George Cukor
+334 | Dog Day Afternoon (1975) | Sidney Lumet
+335 | Berlin Alexanderplatz (1980) | Rainer Werner Fassbinder | tmdb:0
+336 | A Canterbury Tale (1944) | Michael Powell / Emeric Pressburger
+337 | The Kid (1921) | Charles Chaplin
+338 | The Young Girls of Rochefort (1967) | Jacques Demy
+339 | West Side Story (1961) | Robert Wise / Jerome Robbins
+340 | The Wages of Fear (1953) | Henri-Georges Clouzot
+341 | Mad Max: Fury Road (2015) | George Miller
+342 | Tie Xi Qu: West of the Tracks (2002) | Wang Bing
+343 | Bonnie and Clyde (1967) | Arthur Penn
+344 | Some Came Running (1958) | Vincente Minnelli
+345 | Get Out (2017) | Jordan Peele
+346 | The Time to Live and the Time to Die (1985) | Hou Hsiao-hsien
+347 | Broken Blossoms (1919) | D.W. Griffith
+348 | Kiss Me Deadly (1955) | Robert Aldrich
+349 | Underground (1995) | Emir Kusturica
+350 | The Tree of Wooden Clogs (1978) | Ermanno Olmi
+351 | The Double Life of Véronique (1991) | Krzysztof Kieslowski
+352 | Aliens (1986) | James Cameron
+353 | The Last Picture Show (1971) | Peter Bogdanovich
+354 | It Happened One Night (1934) | Frank Capra
+355 | The Elephant Man (1980) | David Lynch
+356 | Weekend (1967) | Jean-Luc Godard
+357 | Opening Night (1977) | John Cassavetes
+358 | The Cranes Are Flying (1957) | Mikhail Kalatozov
+359 | A Touch of Zen (1971) | King Hu
+360 | The Puppetmaster (1993) | Hou Hsiao-hsien
+361 | The Cloud-Capped Star (1960) | Ritwik Ghatak
+362 | The Silence of the Lambs (1991) | Jonathan Demme
+363 | Night of the Living Dead (1968) | George A. Romero
+364 | Last Tango in Paris (1972) | Bernardo Bertolucci
+365 | The Turin Horse (2011) | Béla Tarr
+366 | How Green Was My Valley (1941) | John Ford
+367 | Written on the Wind (1956) | Douglas Sirk
+368 | El (1953) | Luis Buñuel
+369 | Safe (1995) | Todd Haynes
+370 | Peeping Tom (1960) | Michael Powell
+371 | All the President's Men (1976) | Alan J. Pakula
+372 | Out 1 (1971) | Jacques Rivette
+373 | The Quince Tree Sun (1992) | Víctor Erice
+374 | Make Way for Tomorrow (1937) | Leo McCarey
+375 | Heaven's Gate (1980) | Michael Cimino
+376 | The Killing of a Chinese Bookie (1976) | John Cassavetes
+377 | Yojimbo (1961) | Akira Kurosawa
+378 | Muriel (1963) | Alain Resnais
+379 | Fitzcarraldo (1982) | Werner Herzog
+380 | Through the Olive Trees (1994) | Abbas Kiarostami
+381 | Marnie (1964) | Alfred Hitchcock
+382 | This is Spinal Tap (1984) | Rob Reiner
+383 | The White Ribbon (2009) | Michael Haneke
+384 | Two-Lane Blacktop (1971) | Monte Hellman
+385 | Stromboli (1950) | Roberto Rossellini
+386 | An Affair to Remember (1957) | Leo McCarey
+387 | Teorema (1968) | Pier Paolo Pasolini
+388 | Lost Highway (1997) | David Lynch
+389 | I Was Born, But... (1932) | Yasujiro Ozu
+390 | Stranger Than Paradise (1984) | Jim Jarmusch
+391 | Dogville (2003) | Lars von Trier
+392 | Under the Skin (2013) | Jonathan Glazer
+393 | Tristana (1970) | Luis Buñuel
+394 | The Hour of the Furnaces (1968) | Octavio Getino / Fernando E. Solanas
+395 | Woman in the Dunes (1964) | Hiroshi Teshigahara
+396 | Mon oncle (1958) | Jacques Tati
+397 | Day for Night (1973) | François Truffaut
+398 | The Long Goodbye (1973) | Robert Altman
+399 | In a Year with 13 Moons (1978) | Rainer Werner Fassbinder
+400 | Nostalghia (1983) | Andrei Tarkovsky
+401 | Limite (1931) | Mario Peixoto
+402 | The Thin Blue Line (1988) | Errol Morris
+403 | Orlando (1992) | Sally Potter
+404 | Fantasia (1940) | Various Directors | tmdb:756
+405 | The Flowers of St. Francis (1950) | Roberto Rossellini
+406 | Eyes Without a Face (1960) | Georges Franju
+407 | The Tenant (1976) | Roman Polanski
+408 | The Birth of a Nation (1915) | D.W. Griffith
+409 | Dawn of the Dead (1978) | George A. Romero
+410 | Crimes and Misdemeanors (1989) | Woody Allen
+411 | The Headless Woman (2008) | Lucrecia Martel
+412 | Suspiria (1977) | Dario Argento
+413 | I Know Where I'm Going! (1945) | Michael Powell / Emeric Pressburger
+414 | 1900 (1976) | Bernardo Bertolucci
+415 | Lost in Translation (2003) | Sofia Coppola
+416 | Toni Erdmann (2016) | Maren Ade
+417 | Orpheus (1950) | Jean Cocteau
+418 | Snow White and the Seven Dwarfs (1937) | David Hand
+419 | Miracle in Milan (1951) | Vittorio De Sica
+420 | Splendor in the Grass (1961) | Elia Kazan
+421 | Le Plaisir (1952) | Max Ophüls
+422 | Twenty Years Later (1984) | Eduardo Coutinho
+423 | The Innocents (1961) | Jack Clayton
+424 | Europa '51 (1952) | Roberto Rossellini
+425 | Network (1976) | Sidney Lumet
+426 | Le Bonheur (1965) | Agnès Varda
+427 | Scenes from a Marriage (1973) | Ingmar Bergman
+428 | Holy Motors (2012) | Leos Carax
+429 | The Awful Truth (1937) | Leo McCarey
+430 | An Angel at My Table (1990) | Jane Campion
+431 | Chelsea Girls (1966) | Andy Warhol
+432 | Bride of Frankenstein (1935) | James Whale
+433 | A.I. Artificial Intelligence (2001) | Steven Spielberg
+434 | Salvatore Giuliano (1962) | Francesco Rosi
+435 | Days of Being Wild (1990) | Wong Kar-wai
+436 | Possession (1981) | Andrzej Żuławski
+437 | Casino (1995) | Martin Scorsese
+438 | Naked (1993) | Mike Leigh
+439 | No Country for Old Men (2007) | Joel Coen / Ethan Coen
+440 | Phantom Thread (2017) | Paul Thomas Anderson
+441 | If…. (1968) | Lindsay Anderson
+442 | A Star is Born (1954) | George Cukor
+443 | Winter Light (1963) | Ingmar Bergman
+444 | French Cancan (1955) | Jean Renoir
+445 | Shadows of Forgotten Ancestors (1965) | Sergei Parajanov
+446 | Carrie (1976) | Brian De Palma
+447 | Boogie Nights (1997) | Paul Thomas Anderson
+448 | The Act of Killing (2012) | Joshua Oppenheimer
+449 | The Shawshank Redemption (1994) | Frank Darabont
+450 | Listen to Britain (1942) | Humphrey Jennings / Stewart McAllister
+451 | Songs from the Second Floor (2000) | Roy Andersson
+452 | Ivan's Childhood (1962) | Andrei Tarkovsky
+453 | Accattone (1961) | Pier Paolo Pasolini
+454 | Limelight (1952) | Charles Chaplin
+455 | The Cameraman (1928) | Buster Keaton / Edward Sedgwick
+456 | The Scarlet Empress (1934) | Josef von Sternberg
+457 | La Terra trema (1948) | Luchino Visconti
+458 | The Wind (1928) | Victor Sjöström
+459 | Syndromes and a Century (2006) | Apichatpong Weerasethakul
+460 | The Crime of Monsieur Lange (1936) | Jean Renoir
+461 | Festen (1998) | Thomas Vinterberg
+462 | October (1928) | Sergei Eisenstein / Grigori Aleksandrov
+463 | Flowers of Shanghai (1998) | Hou Hsiao-hsien
+464 | A Trip to the Moon (1902) | Georges Méliès
+465 | In Vanda's Room (2000) | Pedro Costa
+466 | Pan's Labyrinth (2006) | Guillermo del Toro
+467 | À nos amours (1983) | Maurice Pialat
+468 | Koyaanisqatsi (1982) | Godfrey Reggio
+469 | Dersu Uzala (1975) | Akira Kurosawa
+470 | Pinocchio (1940) | Ben Sharpsteen / Hamilton Luske
+471 | Lola (1961) | Jacques Demy
+472 | Grave of the Fireflies (1988) | Isao Takahata
+473 | Barren Lives (1963) | Nelson Pereira dos Santos
+474 | The Dead (1987) | John Huston
+475 | Shoot the Piano Player (1960) | François Truffaut
+476 | Platform (2000) | Jia Zhangke
+477 | Once Upon a Time in Anatolia (2011) | Nuri Bilge Ceylan
+478 | Elephant (2003) | Gus Van Sant
+479 | Wagon Master (1950) | John Ford
+480 | Oldboy (2003) | Park Chan-wook
+481 | Paris is Burning (1990) | Jennie Livingston
+482 | High Noon (1952) | Fred Zinnemann
+483 | To Kill a Mockingbird (1962) | Robert Mulligan
+484 | Talk to Her (2002) | Pedro Almodóvar
+485 | Withnail & I (1987) | Bruce Robinson
+486 | Harlan County, U.S.A. (1976) | Barbara Kopple
+487 | Steamboat Bill, Jr. (1928) | Buster Keaton / Charles Reisner
+488 | La Région centrale (1971) | Michael Snow
+489 | Five Easy Pieces (1970) | Bob Rafelson
+490 | The Palm Beach Story (1942) | Preston Sturges
+491 | Senso (1954) | Luchino Visconti
+492 | Fight Club (1999) | David Fincher
+493 | The Death of Mr. Lazarescu (2005) | Cristi Puiu
+494 | Landscape in the Mist (1988) | Theo Angelopoulos
+495 | By the Bluest of Seas (1936) | Boris Barnet
+496 | Zama (2017) | Lucrecia Martel
+497 | Secrets & Lies (1996) | Mike Leigh
+498 | Children of Men (2006) | Alfonso Cuarón
+499 | Reservoir Dogs (1992) | Quentin Tarantino
+500 | Raise the Red Lantern (1991) | Zhang Yimou
+501 | The Hustler (1961) | Robert Rossen
+502 | The Lives of Others (2006) | Florian Henckel von Donnersmarck
+503 | Punch-Drunk Love (2002) | Paul Thomas Anderson
+504 | Memories of Murder (2003) | Bong Joon-ho
+505 | Twin Peaks: Fire Walk with Me (1992) | David Lynch
+506 | Die Hard (1988) | John McTiernan
+507 | Shane (1953) | George Stevens
+508 | After Life (1998) | Hirokazu Koreeda
+509 | Inland Empire (2006) | David Lynch
+510 | Blow Out (1981) | Brian De Palma
+511 | The Bitter Tears of Petra von Kant (1972) | Rainer Werner Fassbinder
+512 | The Bridge on the River Kwai (1957) | David Lean
+513 | Early Summer (1951) | Yasujiro Ozu
+514 | Twin Peaks: The Return (2017) | David Lynch | tmdb:0
+515 | Princess Mononoke (1997) | Hayao Miyazaki
+516 | To Have and Have Not (1944) | Howard Hawks
+517 | Crash (1996) | David Cronenberg
+518 | Being There (1979) | Hal Ashby
+519 | Our Hospitality (1923) | Buster Keaton / John G. Blystone
+520 | Monty Python's Life of Brian (1979) | Terry Jones
+521 | Masculin féminin (1966) | Jean-Luc Godard
+522 | 12 Angry Men (1957) | Sidney Lumet
+523 | Closely Watched Trains (1966) | Jirí Menzel
+524 | Jurassic Park (1993) | Steven Spielberg
+525 | Marketa Lazarová (1967) | Frantisek Vlácil
+526 | Dead Ringers (1988) | David Cronenberg
+527 | Alice in the Cities (1974) | Wim Wenders
+528 | East of Eden (1955) | Elia Kazan
+529 | Mad Max 2 (1981) | George Miller
+530 | The French Connection (1971) | William Friedkin
+531 | Short Cuts (1993) | Robert Altman
+532 | The Sound of Music (1965) | Robert Wise
+533 | Doctor Zhivago (1965) | David Lean
+534 | Butch Cassidy and the Sundance Kid (1969) | George Roy Hill
+535 | A Moment of Innocence (1996) | Mohsen Makhmalbaf
+536 | Se7en (1995) | David Fincher
+537 | The Age of Innocence (1993) | Martin Scorsese
+538 | Hannah and Her Sisters (1986) | Woody Allen
+539 | Boyhood (2014) | Richard Linklater
+540 | A Night at the Opera (1935) | Sam Wood
+541 | And Life Goes On... (1992) | Abbas Kiarostami
+542 | Faust (1926) | F.W. Murnau
+543 | Morvern Callar (2002) | Lynne Ramsay
+544 | The Devil, Probably (1977) | Robert Bresson
+545 | Les Vampires (1915) | Louis Feuillade
+546 | The Enigma of Kaspar Hauser (1974) | Werner Herzog
+547 | The Damned (1969) | Luchino Visconti
+548 | Alexander Nevsky (1938) | Sergei Eisenstein
+549 | The Wind Will Carry Us (1999) | Abbas Kiarostami
+550 | Strangers on a Train (1951) | Alfred Hitchcock
+551 | La Haine (1995) | Mathieu Kassovitz
+552 | Nostalgia for the Light (2010) | Patricio Guzmán
+553 | Yeelen (1987) | Souleymane Cissé
+554 | Blue (1993) | Derek Jarman
+555 | Tootsie (1982) | Sydney Pollack
+556 | The Master (2012) | Paul Thomas Anderson
+557 | Aparajito (1956) | Satyajit Ray
+558 | The Lady from Shanghai (1948) | Orson Welles
+559 | Picnic at Hanging Rock (1975) | Peter Weir
+560 | Rosetta (1999) | Jean-Pierre Dardenne / Luc Dardenne
+561 | Terminator 2: Judgment Day (1991) | James Cameron
+562 | The Terminator (1984) | James Cameron
+563 | Russian Ark (2002) | Aleksandr Sokurov
+564 | Ninotchka (1939) | Ernst Lubitsch
+565 | Young Mr. Lincoln (1939) | John Ford
+566 | As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty (2000) | Jonas Mekas
+567 | Point Blank (1967) | John Boorman
+568 | Forrest Gump (1994) | Robert Zemeckis
+569 | Amélie (2001) | Jean-Pierre Jeunet
+570 | Bigger Than Life (1956) | Nicholas Ray
+571 | Man of Aran (1934) | Robert J. Flaherty
+572 | I Walked with a Zombie (1943) | Jacques Tourneur
+573 | Crouching Tiger, Hidden Dragon (2000) | Ang Lee
+574 | Land Without Bread (1933) | Luis Buñuel
+575 | Je, tu, il, elle (1974) | Chantal Akerman
+576 | WALL-E (2008) | Andrew Stanton
+577 | The Blue Angel (1930) | Josef von Sternberg
+578 | Brokeback Mountain (2005) | Ang Lee
+579 | Laura (1944) | Otto Preminger
+580 | Cat People (1942) | Jacques Tourneur
+581 | Halloween (1978) | John Carpenter
+582 | Dead Man (1995) | Jim Jarmusch
+583 | Kagemusha (1980) | Akira Kurosawa
+584 | Fellini Satyricon (1969) | Federico Fellini
+585 | The Testament of Dr. Mabuse (1933) | Fritz Lang
+586 | Shadow of a Doubt (1943) | Alfred Hitchcock
+587 | Deliverance (1972) | John Boorman
+588 | That Obscure Object of Desire (1977) | Luis Buñuel
+589 | Zodiac (2007) | David Fincher
+590 | Rocky (1976) | John G. Avildsen
+591 | The Lord of the Rings: The Fellowship of the Ring (2001) | Peter Jackson
+592 | The Wedding March (1928) | Erich von Stroheim
+593 | When Harry Met Sally... (1989) | Rob Reiner
+594 | Yellow Earth (1984) | Chen Kaige
+595 | Sambizanga (1972) | Sarah Maldoror
+596 | Full Metal Jacket (1987) | Stanley Kubrick
+597 | Loves of a Blonde (1965) | Milos Forman
+598 | Repulsion (1965) | Roman Polanski
+599 | Easy Rider (1969) | Dennis Hopper
+600 | Hatari! (1962) | Howard Hawks
+601 | The Servant (1963) | Joseph Losey
+602 | Amour (2012) | Michael Haneke
+603 | The Silence (1963) | Ingmar Bergman
+604 | Plácido (1961) | Luis García Berlanga
+605 | The Asphalt Jungle (1950) | John Huston
+606 | Rebecca (1940) | Alfred Hitchcock
+607 | Barton Fink (1991) | Joel Coen / Ethan Coen
+608 | D'Est (1993) | Chantal Akerman
+609 | Fellini's Roma (1972) | Federico Fellini
+610 | Grey Gardens (1975) | David/Albert Maysles/Ellen Hovde/Muffie Meyer Maysles
+611 | Seven Chances (1925) | Buster Keaton
+612 | Bande à part (1964) | Jean-Luc Godard
+613 | Shadows (1959) | John Cassavetes
+614 | Edvard Munch (1974) | Peter Watkins
+615 | Colossal Youth (2006) | Pedro Costa
+616 | The Taking of Power by Louis XIV (1966) | Roberto Rossellini
+617 | Symbiopsychotaxiplasm: Take One (1968) | William Greaves
+618 | The Piano Teacher (2001) | Michael Haneke
+619 | Frankenstein (1931) | James Whale
+620 | West Indies: The Fugitive Slaves of Liberty (1979) | Med Hondo
+621 | Tale of Tales (1979) | Yuriy Norshteyn
+622 | Providence (1977) | Alain Resnais
+623 | Gentlemen Prefer Blondes (1953) | Howard Hawks
+624 | The Devils (1971) | Ken Russell
+625 | Synecdoche, New York (2008) | Charlie Kaufman
+626 | The Wicker Man (1973) | Robin Hardy
+627 | 3 Women (1977) | Robert Altman
+628 | The Long Day Closes (1992) | Terence Davies
+629 | Raising Arizona (1987) | Joel Coen / Ethan Coen
+630 | Down by Law (1986) | Jim Jarmusch
+631 | Don't Look Back (1967) | D.A. Pennebaker
+632 | The Ladies Man (1961) | Jerry Lewis
+633 | The Royal Tenenbaums (2001) | Wes Anderson
+634 | The Round-Up (1966) | Miklós Jancsó
+635 | My Friend Ivan Lapshin (1985) | Aleksei German
+636 | I Vitelloni (1953) | Federico Fellini
+637 | The Red Circle (1970) | Jean-Pierre Melville
+638 | Les Amants du Pont-Neuf (1991) | Leos Carax
+639 | Mr. Smith Goes to Washington (1939) | Frank Capra
+640 | Fat City (1972) | John Huston
+641 | Titanic (1997) | James Cameron
+642 | Boudu Saved from Drowning (1932) | Jean Renoir
+643 | Walkabout (1971) | Nicolas Roeg
+644 | Harakiri (1962) | Masaki Kobayashi
+645 | Scorpio Rising (1963) | Kenneth Anger
+646 | Pink Flamingos (1972) | John Waters
+647 | Hour of the Wolf (1968) | Ingmar Bergman
+648 | The Dark Knight (2008) | Christopher Nolan
+649 | Ace in the Hole (1951) | Billy Wilder
+650 | Hana-bi (1997) | Takeshi Kitano
+651 | A Prophet (2009) | Jacques Audiard
+652 | Nazarín (1958) | Luis Buñuel
+653 | Alphaville (1965) | Jean-Luc Godard
+654 | Portrait of Jason (1967) | Shirley Clarke
+655 | Casque d'or (1952) | Jacques Becker
+656 | Y tu mamá también (2001) | Alfonso Cuarón
+657 | Millennium Mambo (2001) | Hou Hsiao-hsien
+658 | Pat Garrett and Billy the Kid (1973) | Sam Peckinpah
+659 | Malcolm X (1992) | Spike Lee
+660 | The Golden Coach (1952) | Jean Renoir
+661 | RoboCop (1987) | Paul Verhoeven
+662 | Ferris Bueller's Day Off (1986) | John Hughes
+663 | Silent Light (2007) | Carlos Reygadas
+664 | Ratcatcher (1999) | Lynne Ramsay
+665 | Scarface (1932) | Howard Hawks
+666 | Hoop Dreams (1994) | Steve James
+667 | The Watermelon Woman (1996) | Cheryl Dunye
+668 | The Virgin Spring (1960) | Ingmar Bergman
+669 | Strike (1925) | Sergei Eisenstein
+670 | Top Hat (1935) | Mark Sandrich
+671 | Young Frankenstein (1974) | Mel Brooks
+672 | Arrebato (1979) | Iván Zulueta
+673 | My Own Private Idaho (1991) | Gus Van Sant
+674 | They Live by Night (1948) | Nicholas Ray
+675 | Bring Me the Head of Alfredo Garcia (1974) | Sam Peckinpah
+676 | Dr. Mabuse, the Gambler (1922) | Fritz Lang
+677 | The Lady Vanishes (1938) | Alfred Hitchcock
+678 | The Marriage of Maria Braun (1979) | Rainer Werner Fassbinder
+679 | Akira (1988) | Katsuhiro Otomo
+680 | The Manchurian Candidate (1962) | John Frankenheimer
+681 | The Navigator (1924) | Buster Keaton / Donald Crisp
+682 | Wake in Fright (1971) | Ted Kotcheff
+683 | Rushmore (1998) | Wes Anderson
+684 | Xala (1975) | Ousmane Sembene
+685 | An American Werewolf in London (1981) | John Landis
+686 | Il Posto (1961) | Ermanno Olmi
+687 | A Place in the Sun (1951) | George Stevens
+688 | Dancer in the Dark (2000) | Lars von Trier
+689 | Hyènes (1992) | Djibril Diop Mambéty
+690 | The Purple Rose of Cairo (1985) | Woody Allen
+691 | Chronicle of a Summer (1961) | Jean Rouch / Edgar Morin
+692 | Trainspotting (1996) | Danny Boyle
+693 | Bambi (1942) | David Hand
+694 | The Killing (1956) | Stanley Kubrick
+695 | The Ghost and Mrs. Muir (1947) | Joseph L. Mankiewicz
+696 | The Great Beauty (2013) | Paolo Sorrentino
+697 | Farewell, My Concubine (1993) | Chen Kaige
+698 | The Intruder (2004) | Claire Denis
+699 | A Hard Day's Night (1964) | Richard Lester
+700 | Toy Story (1995) | John Lasseter
+701 | Wild at Heart (1990) | David Lynch
+702 | Carol (2015) | Todd Haynes
+703 | The Sorrow and the Pity (1969) | Marcel Ophüls | tmdb:0
+704 | Thelma & Louise (1991) | Ridley Scott
+705 | Gimme Shelter (1970) | Albert/David Maysles/Charlotte Zwerin Maysles
+706 | Chronicle of Anna Magdalena Bach (1968) | Jean-Marie Straub
+707 | Roma (2018) | Alfonso Cuarón
+708 | Cure (1997) | Kiyoshi Kurosawa
+709 | Salesman (1969) | Albert/David Maysles/Charlotte Zwerin Maysles
+710 | WR: Mysteries of the Organism (1971) | Dušan Makavejev
+711 | 4 Months, 3 Weeks and 2 Days (2007) | Cristian Mungiu
+712 | Before Sunset (2004) | Richard Linklater
+713 | Distant (2002) | Nuri Bilge Ceylan
+714 | Local Hero (1983) | Bill Forsyth
+715 | The Holy Mountain (1973) | Alejandro Jodorowsky
+716 | The Social Network (2010) | David Fincher
+717 | Ben-Hur (1959) | William Wyler
+718 | Lancelot du Lac (1974) | Robert Bresson
+719 | Memento (2000) | Christopher Nolan
+720 | 7 Women (1965) | John Ford
+721 | Once Upon a Time... in Hollywood (2019) | Quentin Tarantino
+722 | The Party (1968) | Blake Edwards
+723 | Il Grido (1957) | Michelangelo Antonioni
+724 | The Phantom of Liberty (1974) | Luis Buñuel
+725 | The Firemen's Ball (1967) | Milos Forman
+726 | Fish Tank (2009) | Andrea Arnold
+727 | Paper Moon (1973) | Peter Bogdanovich
+728 | Sauve qui peut (la vie) (1980) | Jean-Luc Godard
+729 | Kaagaz Ke Phool (1959) | Guru Dutt
+730 | The Sun Shines Bright (1953) | John Ford
+731 | The Adventures of Prince Achmed (1926) | Lotte Reiniger
+732 | Big Deal on Madonna Street (1958) | Mario Monicelli
+733 | Good Morning (1959) | Yasujiro Ozu
+734 | Dazed and Confused (1993) | Richard Linklater
+735 | Nouvelle vague (1990) | Jean-Luc Godard
+736 | Red Beard (1965) | Akira Kurosawa
+737 | Love Me Tonight (1932) | Rouben Mamoulian
+738 | Hunger (2008) | Steve McQueen
+739 | The Idiots (1998) | Lars von Trier
+740 | Moonfleet (1955) | Fritz Lang
+741 | A New Leaf (1971) | Elaine May
+742 | The Hawks and the Sparrows (1966) | Pier Paolo Pasolini
+743 | The Emperor's Naked Army Marches On (1987) | Kazuo Hara
+744 | The Big Heat (1953) | Fritz Lang
+745 | Moulin Rouge! (2001) | Baz Luhrmann
+746 | Stand by Me (1986) | Rob Reiner
+747 | Antonio das Mortes (1969) | Glauber Rocha
+748 | A Streetcar Named Desire (1951) | Elia Kazan
+749 | Les Dames du Bois de Boulogne (1945) | Robert Bresson
+750 | The Fly (1986) | David Cronenberg
+751 | Miller's Crossing (1990) | Joel Coen / Ethan Coen
+752 | Titicut Follies (1967) | Frederick Wiseman
+753 | A Short Film About Killing (1987) | Krzysztof Kieslowski
+754 | Rebel Without a Cause (1955) | Nicholas Ray
+755 | Oh, Sun (1970) | Med Hondo
+756 | The Bad and the Beautiful (1952) | Vincente Minnelli
+757 | The Tiger of Eschnapur (1958) | Fritz Lang
+758 | 35 Shots of Rum (2008) | Claire Denis
+759 | The Circus (1928) | Charles Chaplin
+760 | One Way or Another (1977) | Sara Gómez
+761 | Design for Living (1933) | Ernst Lubitsch
+762 | Lolita (1962) | Stanley Kubrick
+763 | Phantom of the Paradise (1974) | Brian De Palma
+764 | Triumph of the Will (1935) | Leni Riefenstahl
+765 | JFK (1991) | Oliver Stone
+766 | Born in Flames (1983) | Lizzie Borden
+767 | New York, New York (1977) | Martin Scorsese
+768 | The New World (2005) | Terrence Malick
+769 | Diaries, Notes and Sketches (1969) | Jonas Mekas
+770 | Subarnarekha (1965) | Ritwik Ghatak
+771 | The Cook, the Thief, His Wife & Her Lover (1989) | Peter Greenaway
+772 | The Wild Child (1970) | François Truffaut
+773 | Clueless (1995) | Amy Heckerling
+774 | Fort Apache (1948) | John Ford
+775 | Diabolique (1955) | Henri-Georges Clouzot
+776 | Ossessione (1943) | Luchino Visconti
+777 | Mädchen in Uniform (1931) | Leontine Sagan
+778 | Detour (1945) | Edgar G. Ulmer
+779 | La Belle Noiseuse (1991) | Jacques Rivette
+780 | Two English Girls (1971) | François Truffaut
+781 | Flaming Creatures (1963) | Jack Smith
+782 | The Man Who Would Be King (1975) | John Huston
+783 | Vive L'Amour (1994) | Tsai Ming-liang
+784 | Hellzapoppin' (1941) | H.C. Potter
+785 | The Age of the Earth (1980) | Glauber Rocha
+786 | Edward Scissorhands (1990) | Tim Burton
+787 | Great Expectations (1946) | David Lean
+788 | Blissfully Yours (2002) | Apichatpong Weerasethakul
+789 | Veronika Voss (1982) | Rainer Werner Fassbinder
+790 | Mother and Son (1997) | Aleksandr Sokurov
+791 | Code Unknown (2000) | Michael Haneke
+792 | My Life as a Dog (1985) | Lasse Hallström
+793 | The Trial (1962) | Orson Welles
+794 | Airplane! (1980) | Jim/David Zucker/Jerry Zucker Abrahams
+795 | Foolish Wives (1922) | Erich von Stroheim
+796 | El Sur (1983) | Víctor Erice
+797 | Mamma Roma (1962) | Pier Paolo Pasolini
+798 | Morocco (1930) | Josef von Sternberg
+799 | The 39 Steps (1935) | Alfred Hitchcock
+800 | Mikey and Nicky (1976) | Elaine May
+801 | Scarface (1983) | Brian De Palma
+802 | Chikamatsu monogatari (1954) | Kenji Mizoguchi
+803 | Wings (1966) | Larisa Shepitko
+804 | Trouble Every Day (2001) | Claire Denis
+805 | Requiem for a Dream (2000) | Darren Aronofsky
+806 | Dog Star Man (1964) | Stan Brakhage
+807 | Un Chant d'amour (1950) | Jean Genet
+808 | Evil Dead II (1987) | Sam Raimi
+809 | The Thief of Bagdad (1940) | Michael/Ludwig Berger/Tim Whelan Powell
+810 | Cairo Station (1958) | Youssef Chahine
+811 | Let the Right One In (2008) | Tomas Alfredson
+812 | Zelig (1983) | Woody Allen
+813 | Broadcast News (1987) | James L. Brooks
+814 | Margaret (2011) | Kenneth Lonergan
+815 | All Quiet on the Western Front (1930) | Lewis Milestone
+816 | Faster, Pussycat! Kill! Kill! (1965) | Russ Meyer
+817 | The Great Escape (1963) | John Sturges
+818 | Saving Private Ryan (1998) | Steven Spielberg
+819 | Funny Games (1997) | Michael Haneke
+820 | Taipei Story (1985) | Edward Yang
+821 | A Woman of Paris (1923) | Charles Chaplin
+822 | Dumbo (1941) | Ben Sharpsteen
+823 | Inglourious Basterds (2009) | Quentin Tarantino
+824 | The Producers (1968) | Mel Brooks
+825 | She Wore a Yellow Ribbon (1949) | John Ford
+826 | Smiles of a Summer Night (1955) | Ingmar Bergman
+827 | Forbidden Games (1952) | René Clément
+828 | Still Life (2006) | Jia Zhangke
+829 | Van Gogh (1991) | Maurice Pialat
+830 | Shock Corridor (1963) | Samuel Fuller
+831 | Grizzly Man (2005) | Werner Herzog
+832 | Women on the Verge of a Nervous Breakdown (1988) | Pedro Almodóvar
+833 | After Hours (1985) | Martin Scorsese
+834 | Abraham's Valley (1993) | Manoel de Oliveira
+835 | Passion (1982) | Jean-Luc Godard
+836 | My Little Loves (1974) | Jean Eustache
+837 | Gummo (1997) | Harmony Korine
+838 | Shanghai Express (1932) | Josef von Sternberg
+839 | Invasion of the Body Snatchers (1956) | Don Siegel
+840 | Rose Hobart (1936) | Joseph Cornell
+841 | Blue is the Warmest Colour (2013) | Abdellatif Kechiche
+842 | Funeral Parade of Roses (1969) | Toshio Matsumoto
+843 | Petite Maman (2021) | Céline Sciamma
+844 | Amores perros (2000) | Alejandro González Iñárritu
+845 | Point Break (1991) | Kathryn Bigelow
+846 | The Son (2002) | Jean-Pierre Dardenne / Luc Dardenne
+847 | O Lucky Man! (1973) | Lindsay Anderson
+848 | Deep End (1970) | Jerzy Skolimowski
+849 | Street of Shame (1956) | Kenji Mizoguchi
+850 | White Heat (1949) | Raoul Walsh
+851 | La Commune (Paris, 1871) (2000) | Peter Watkins
+852 | Toute une nuit (1982) | Chantal Akerman
+853 | Losing Ground (1982) | Kathleen Collins
+854 | Irréversible (2002) | Gaspar Noé
+855 | The Red and the White (1967) | Miklós Jancsó
+856 | The Naked Island (1960) | Kaneto Shindo
+857 | Who's Afraid of Virginia Woolf? (1966) | Mike Nichols
+858 | Spione (1928) | Fritz Lang
+859 | Dodes'ka-den (1970) | Akira Kurosawa
+860 | The Asthenic Syndrome (1989) | Kira Muratova
+861 | Starship Troopers (1997) | Paul Verhoeven
+862 | Persepolis (2007) | Vincent Paronnaud / Marjane Satrapi
+863 | L'Amour fou (1969) | Jacques Rivette
+864 | Angel (1937) | Ernst Lubitsch
+865 | The Adventures of Robin Hood (1938) | Michael Curtiz / William Keighley
+866 | Mon oncle d'Amérique (1980) | Alain Resnais
+867 | The Right Stuff (1983) | Philip Kaufman
+868 | They Were Expendable (1945) | John Ford
+869 | Female Trouble (1974) | John Waters
+870 | Claire's Knee (1970) | Eric Rohmer
+871 | Time of the Gypsies (1988) | Emir Kusturica
+872 | Hitler: A Film from Germany (1977) | Hans-Jürgen Syberberg
+873 | The Unknown (1927) | Tod Browning
+874 | The Tin Drum (1979) | Volker Schlöndorff
+875 | Too Early/Too Late (1981) | Jean-Marie Straub / Danièle Huillet
+876 | Welfare (1975) | Frederick Wiseman
+877 | Breakfast at Tiffany's (1961) | Blake Edwards
+878 | The Last Detail (1973) | Hal Ashby
+879 | Showgirls (1995) | Paul Verhoeven
+880 | Shame (1968) | Ingmar Bergman
+881 | Mysteries of Lisbon (2010) | Raúl Ruiz
+882 | The Princess Bride (1987) | Rob Reiner
+883 | Sicilia! (1999) | Jean-Marie Straub / Danièle Huillet
+884 | Atlantics (2019) | Mati Diop
+885 | We All Loved Each Other So Much (1974) | Ettore Scola
+886 | Gloria (1980) | John Cassavetes
+887 | Cría cuervos (1976) | Carlos Saura
+888 | Juliet of the Spirits (1965) | Federico Fellini
+889 | Excalibur (1981) | John Boorman
+890 | Elephant (1989) | Alan Clarke
+891 | Monty Python and the Holy Grail (1975) | Terry Gilliam / Terry Jones
+892 | The Misfits (1961) | John Huston
+893 | Outskirts (1933) | Boris Barnet
+894 | Wendy and Lucy (2008) | Kelly Reichardt
+895 | Avatar (2009) | James Cameron
+896 | Port of Shadows (1938) | Marcel Carné
+897 | Red Sorghum (1987) | Zhang Yimou
+898 | The Miracle of Morgan's Creek (1944) | Preston Sturges
+899 | The African Queen (1951) | John Huston
+900 | Spring, Summer, Autumn, Winter… and Spring (2003) | Kim Ki-duk
+901 | The Woman Next Door (1981) | François Truffaut
+902 | The Bridges of Madison County (1995) | Clint Eastwood
+903 | They Live (1988) | John Carpenter
+904 | The Night of Counting the Years (1969) | Shadi Abdel Salam
+905 | L'Enfance nue (1968) | Maurice Pialat
+906 | The Tarnished Angels (1957) | Douglas Sirk
+907 | Shaun of the Dead (2004) | Edgar Wright
+908 | Exotica (1994) | Atom Egoyan
+909 | Caro diario (1993) | Nanni Moretti
+910 | Akira Kurosawa's Dreams (1990) | Akira Kurosawa
+911 | Stroszek (1977) | Werner Herzog
+912 | The Seasons (1975) | Artavazd Peleshian
+913 | Meek's Cutoff (2010) | Kelly Reichardt
+914 | The Fountainhead (1949) | King Vidor
+915 | Sideways (2004) | Alexander Payne
+916 | Tabu (2012) | Miguel Gomes
+917 | Deep Red (1975) | Dario Argento
+918 | Tongues Untied (1989) | Marlon Riggs
+919 | Assault on Precinct 13 (1976) | John Carpenter
+920 | The Phantom Carriage (1921) | Victor Sjöström
+921 | People on Sunday (1930) | Robert Siodmak / Edgar G. Ulmer
+922 | Zabriskie Point (1970) | Michelangelo Antonioni
+923 | The Blues Brothers (1980) | John Landis
+924 | It's a Gift (1934) | Norman Z. McLeod
+925 | Heimat (1984) | Edgar Reitz | tmdb:0
+926 | Seven Beauties (1975) | Lina Wertmüller
+927 | Reds (1981) | Warren Beatty
+928 | The River (1997) | Tsai Ming-liang
+929 | Sholay (1975) | Ramesh Sippy
+930 | Night of the Demon (1957) | Jacques Tourneur
+931 | The End of Summer (1961) | Yasujiro Ozu
+932 | The Criminal Life of Archibaldo de la Cruz (1955) | Luis Buñuel
+933 | Ceddo (1977) | Ousmane Sembene
+934 | A History of Violence (2005) | David Cronenberg
+935 | Le Trou (1960) | Jacques Becker
+936 | Duel (1971) | Steven Spielberg
+937 | La Flor (2018) | Mariano Llinás
+938 | Simon of the Desert (1965) | Luis Buñuel
+939 | Anatomy of a Murder (1959) | Otto Preminger
+940 | An American in Paris (1951) | Vincente Minnelli
+941 | Kwaidan (1964) | Masaki Kobayashi
+942 | Le Boucher (1970) | Claude Chabrol
+943 | The Straight Story (1999) | David Lynch
+944 | The Last Temptation of Christ (1988) | Martin Scorsese
+945 | Carlito's Way (1993) | Brian De Palma
+946 | Roman Holiday (1953) | William Wyler
+947 | Zorns Lemma (1970) | Hollis Frampton
+948 | The Hurt Locker (2008) | Kathryn Bigelow
+949 | Cool Hand Luke (1967) | Stuart Rosenberg
+950 | Portrait of Jennie (1948) | William Dieterle
+951 | No Home Movie (2015) | Chantal Akerman
+952 | Mothlight (1963) | Stan Brakhage
+953 | Before Sunrise (1995) | Richard Linklater
+954 | 7th Heaven (1927) | Frank Borzage
+955 | Near Dark (1987) | Kathryn Bigelow
+956 | The Killer (1989) | John Woo
+957 | The Godfather Part III (1990) | Francis Ford Coppola
+958 | Z (1969) | Costa-Gavras
+959 | The Lord of the Rings: The Return of the King (2003) | Peter Jackson
+960 | American Graffiti (1973) | George Lucas
+961 | Blood Simple (1984) | Joel Coen / Ethan Coen
+962 | Dirty Harry (1971) | Don Siegel
+963 | Il Sorpasso (1962) | Dino Risi
+964 | Enter the Dragon (1973) | Robert Clouse
+965 | La Chienne (1931) | Jean Renoir
+966 | From the Clouds to the Resistance (1979) | Jean-Marie Straub / Danièle Huillet
+967 | Othello (1951) | Orson Welles
+968 | Doomed Love (1978) | Manoel de Oliveira
+969 | The Return (2003) | Andrey Zvyagintsev
+970 | A Page of Madness (1926) | Teinosuke Kinugasa
+971 | Ghostbusters (1984) | Ivan Reitman
+972 | American Beauty (1999) | Sam Mendes
+973 | Khrustalyov, My Car! (1998) | Aleksei German
+974 | Duel in the Sun (1946) | King Vidor
+975 | The Last Emperor (1987) | Bernardo Bertolucci
+976 | Spartacus (1960) | Stanley Kubrick
+977 | Diary (1983) | David Perlov
+978 | Berlin: Symphony of a Great City (1927) | Walter Ruttmann
+979 | Elevator to the Gallows (1958) | Louis Malle
+980 | The Host (2006) | Bong Joon-ho
+981 | The Reckless Moment (1949) | Max Ophüls
+982 | Dead Poets Society (1989) | Peter Weir
+983 | Gun Crazy (1950) | Joseph H. Lewis
+984 | The Breakfast Club (1985) | John Hughes
+985 | La Bête humaine (1938) | Jean Renoir
+986 | Perfumed Nightmare (1977) | Kidlat Tahimik
+987 | Fox and His Friends (1975) | Rainer Werner Fassbinder
+988 | Olympia (1938) | Leni Riefenstahl
+989 | The Ice Storm (1997) | Ang Lee
+990 | The Pianist (2002) | Roman Polanski
+991 | Léon (1994) | Luc Besson
+992 | Saturday Night and Sunday Morning (1960) | Karel Reisz
+993 | True Heart Susie (1919) | D.W. Griffith
+994 | Ed Wood (1994) | Tim Burton
+995 | The Long Farewell (1971) | Kira Muratova
+996 | Rope (1948) | Alfred Hitchcock
+997 | Lady Windermere's Fan (1925) | Ernst Lubitsch
+998 | Sawdust and Tinsel (1953) | Ingmar Bergman
+999 | Ride the High Country (1962) | Sam Peckinpah
+1000 | L.A. Confidential (1997) | Curtis Hanson

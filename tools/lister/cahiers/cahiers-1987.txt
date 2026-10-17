@@ -1,0 +1,23 @@
+# navn: Cahiers du cinéma – årets topp 10, 1987
+# kort: Cahiers 1987
+# serie: Cahiers du cinéma
+# år: 1987
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Under the Sun of Satan (1987) | Maurice Pialat | tmdb:31300
+=2 | The Death of Empedocles (1987) | Jean-Marie Straub / Danièle Huillet | tmdb:255769
+=2 | Intervista (1987) | Federico Fellini | tmdb:47715
+=2 | Wings of Desire (1987) | Wim Wenders | tmdb:144
+5 | The Last Emperor (1987) | Bernardo Bertolucci | tmdb:746
+=6 | Four Adventures of Reinette and Mirabelle (1987) | Éric Rohmer | tmdb:37189
+=6 | Full Metal Jacket (1987) | Stanley Kubrick | tmdb:600
+=6 | Yeelen (1987) | Souleymane Cissé | tmdb:71329
+9 | The Mass Is Ended (1985) | Nanni Moretti | tmdb:60732
+=10 | Blue Velvet (1986) | David Lynch | tmdb:793
+=10 | The Color of Money (1986) | Martin Scorsese | tmdb:11873
+=10 | King Lear (1987) | Jean-Luc Godard | tmdb:50012
+=10 | A Portuguese Goodbye (1986) | João Botelho | tmdb:181342
+=10 | Wedding in Galilee (1987) | Michel Khleifi | tmdb:49168

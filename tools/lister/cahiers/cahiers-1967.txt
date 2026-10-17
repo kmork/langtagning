@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1967
+# kort: Cahiers 1967
+# serie: Cahiers du cinéma
+# år: 1967
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Persona (1966) | Ingmar Bergman | tmdb:797
+2 | Belle de Jour (1967) | Luis Buñuel | tmdb:649
+3 | Weekend (1967) | Jean-Luc Godard | tmdb:8075
+4 | La Chasse au lion à l'arc (1967) | Jean Rouch | tmdb:110770
+5 | Playtime (1967) | Jacques Tati | tmdb:10227
+6 | The Big Mouth (1967) | Jerry Lewis | tmdb:99377
+=7 | Daisies (1966) | Věra Chytilová | tmdb:46919
+=7 | The Nun (1966) | Jacques Rivette | tmdb:42722
+9 | Two or Three Things I Know About Her (1967) | Jean-Luc Godard | tmdb:8074
+10 | La Chinoise (1967) | Jean-Luc Godard | tmdb:1629

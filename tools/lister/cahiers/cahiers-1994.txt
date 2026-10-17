@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1994
+# kort: Cahiers 1994
+# serie: Cahiers du cinéma
+# år: 1994
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Caro diario (1993) | Nanni Moretti | tmdb:25403
+2 | I Can't Sleep (1994) | Claire Denis | tmdb:64900
+3 | Carlito's Way (1993) | Brian De Palma | tmdb:6075
+4 | Wild Reeds (1994) | André Téchiné | tmdb:26933
+5 | The Nightmare Before Christmas (1993) | Henry Selick | tmdb:9479
+6 | Travolta et moi (1994) | Patricia Mazuy | tmdb:280233
+7 | Hell (1994) | Claude Chabrol | tmdb:17961
+8 | Joan the Maid (1994) | Jacques Rivette
+9 | US Go Home (1994) | Claire Denis | tmdb:124491
+=10 | Coming to Terms with the Dead (1994) | Pascale Ferran | tmdb:64573
+=10 | M. Butterfly (1993) | David Cronenberg | tmdb:1413

@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 2002
+# kort: Cahiers 2002
+# serie: Cahiers du cinéma
+# år: 2002
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | Ten (2002) | Abbas Kiarostami | tmdb:14633
+=1 | Secret Things (2002) | Jean-Claude Brisseau | tmdb:35712
+3 | Blissfully Yours (2002) | Apichatpong Weerasethakul | tmdb:47046
+4 | De l'autre côté (2002) | Chantal Akerman | tmdb:103699
+5 | The Uncertainty Principle (2002) | Manoel de Oliveira | tmdb:103701
+6 | My Mother's Smile (2002) | Marco Bellocchio | tmdb:65045
+7 | Talk to Her (2002) | Pedro Almodóvar | tmdb:64
+=8 | Spider (2002) | David Cronenberg | tmdb:9613
+=8 | Spirited Away (2001) | Hayao Miyazaki | tmdb:129
+=10 | Gerry (2002) | Gus Van Sant | tmdb:1956
+=10 | 24 (2002) | N/A | tmdb:0

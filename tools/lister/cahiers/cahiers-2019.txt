@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2019
+# kort: Cahiers 2019
+# serie: Cahiers du cinéma
+# år: 2019
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | The Image Book (2018) | Jean-Luc Godard | tmdb:414030
+2 | Parasite (2019) | Bong Joon-ho | tmdb:496243
+3 | Synonyms (2019) | Nadav Lapid | tmdb:501590
+4 | Bacurau (2019) | Kleber Mendonça Filho et | tmdb:446159
+5 | Joan of Arc (2019) | Bruno Dumont | tmdb:540111
+6 | Pain and Glory (2019) | Pedro Almodóvar | tmdb:519010
+7 | Les Misérables (2019) | Ladj Ly | tmdb:586863
+8 | The Mule (2018) | Clint Eastwood | tmdb:504172
+9 | Joker (2019) | Todd Phillips | tmdb:475557
+10 | The Irishman (2019) | Martin Scorsese | tmdb:398978

@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1961
+# kort: Cahiers 1961
+# serie: Cahiers du cinéma
+# år: 1961
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Lola (1961) | Jacques Demy | tmdb:40641
+2 | A Woman Is a Woman (1961) | Jean-Luc Godard | tmdb:31522
+3 | Paris Belongs to Us (1961) | Jacques Rivette | tmdb:43026
+4 | Rocco and His Brothers (1960) | Luchino Visconti | tmdb:8422
+5 | Shin Heike Monogatari (1955) | Kenji Mizoguchi | tmdb:45987
+6 | Le Cheval qui pleure (1957) | Marc Donskoï | tmdb:262748
+7 | La Notte (1961) | Michelangelo Antonioni | tmdb:41050
+8 | Last Year at Marienbad (1961) | Alain Resnais | tmdb:4024
+9 | Elmer Gantry (1960) | Richard Brooks | tmdb:22013
+10 | Two Rode Together (1961) | John Ford | tmdb:32634

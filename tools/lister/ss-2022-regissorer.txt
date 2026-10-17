@@ -1,0 +1,113 @@
+# navn: Sight and Sound 2022 – regissørenes topp 100
+# kort: S&S regissører 2022
+# serie: Sight and Sound – regissører
+# år: 2022
+# størrelse: 100
+# kilde: https://www.bfi.org.uk/sight-and-sound/directors-100-greatest-films-all-time
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film.
+
+1 | 2001: A Space Odyssey (1968) | Stanley Kubrick
+2 | Citizen Kane (1941) | Orson Welles
+3 | The Godfather (1972) | Francis Ford Coppola
+=4 | Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles (1975) | Chantal Akerman
+=4 | Tokyo Story (1953) | Yasujirō Ozu
+=6 | 8½ (1963) | Federico Fellini
+=6 | Vertigo (1958) | Alfred Hitchcock
+8 | Mirror (1975) | Andrei Tarkovsky
+=9 | Close-up (1989) | Abbas Kiarostami
+=9 | In the Mood for Love (2000) | Wong Kar Wai
+=9 | Persona (1966) | Ingmar Bergman
+=12 | Barry Lyndon (1975) | Stanley Kubrick
+=12 | Taxi Driver (1976) | Martin Scorsese
+=14 | Beau travail (1998) | Claire Denis
+=14 | Seven Samurai (1954) | Akira Kurosawa
+=14 | Stalker (1979) | Andrei Tarkovsky
+=14 | À bout de souffle (1960) | Jean-Luc Godard
+=18 | A Woman under the Influence (1974) | John Cassavetes
+=18 | Apocalypse Now (1979) | Francis Ford Coppola
+=20 | Bicycle Thieves (1948) | Vittorio De Sica
+=20 | Rashomon (1950) | Akira Kurosawa
+=22 | Mulholland Dr. (2001) | David Lynch
+=22 | Pather Panchali (1955) | Satyajit Ray
+=22 | Raging Bull (1980) | Martin Scorsese
+=22 | The Battle of Algiers (1966) | Gillo Pontecorvo
+=26 | Andrei Rublev (1966) | Andrei Tarkovsky
+=26 | The Godfather Part II (1974) | Francis Ford Coppola
+28 | GoodFellas (1990) | Martin Scorsese
+29 | Do the Right Thing (1989) | Spike Lee
+=30 | Man with a Movie Camera (1929) | Dziga Vertov
+=30 | Ordet (1955) | Carl Th. Dreyer
+=30 | The Passion of Joan of Arc (1927) | Carl Th. Dreyer
+=33 | Sunrise A Song of Two Humans (1927) | F.W. Murnau
+=33 | The 400 Blows (1959) | François Truffaut
+=35 | La Jetée (1962) | Chris Marker
+=35 | La dolce vita (1960) | Federico Fellini
+37 | Au hasard Balthazar (1966) | Robert Bresson
+=38 | L'avventura (1960) | Michelangelo Antonioni
+=38 | La Règle du jeu (1939) | Jean Renoir
+=38 | La strada (1954) | Federico Fellini
+=41 | A Man Escaped (1956) | Robert Bresson
+=41 | Come and See (1985) | Elem Klimov
+=41 | Playtime (1967) | Jacques Tati
+=41 | The Night of the Hunter (1955) | Charles Laughton
+=41 | Vagabond (1985) | Agnès Varda
+=46 | Don't Look Now (1973) | Nicolas Roeg
+=46 | Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963) | Stanley Kubrick
+=46 | L'Atalante (1934) | Jean Vigo
+=46 | Le Mépris (1963) | Jean-Luc Godard
+=46 | Once upon a Time in the West (1968) | Sergio Leone
+=46 | Psycho (1960) | Alfred Hitchcock
+=52 | City Lights (1931) | Charles Chaplin
+=52 | Cléo from 5 to 7 (1962) | Agnès Varda
+=52 | Eraserhead (1976) | David Lynch
+=52 | Fanny and Alexander (1982) | Ingmar Bergman
+=52 | Fear Eats the Soul (1974) | Rainer Werner Fassbinder
+=52 | La Maman et la Putain (1973) | Jean Eustache
+=52 | La notte (1961) | Michelangelo Antonioni
+=52 | Singin' in the Rain (1951) | Gene Kelly, Stanley Donen
+=52 | The Piano (1992) | Jane Campion
+=52 | Viridiana (1961) | Luis Buñuel
+=62 | Blade Runner (1982) | Ridley Scott
+=62 | Jaws (1975) | Steven Spielberg
+=62 | La ciénaga (2001) | Lucrecia Martel
+=62 | Late Spring (1949) | Yasujirō Ozu
+=62 | Lawrence of Arabia (1962) | David Lean
+=62 | Meshes of the Afternoon (1943) | Maya Deren, Alexander Hackenschmied
+=62 | Some Like It Hot (1959) | Billy Wilder
+=62 | Sunset Blvd. (1950) | Billy Wilder
+=62 | Sátántangó (1994) | Béla Tarr
+=62 | Tropical Malady (2004) | Apichatpong Weerasethakul
+=72 | A Brighter Summer Day (1991) | Edward Yang
+=72 | A Separation (2011) | Asghar Farhadi
+=72 | Blue Velvet (1986) | David Lynch
+=72 | Chinatown (1974) | Roman Polanski
+=72 | Ikiru (1952) | Akira Kurosawa
+=72 | Kes (1969) | Ken Loach
+=72 | L'Argent (1983) | Robert Bresson
+=72 | Modern Times (1936) | Charles Chaplin
+=72 | News from Home (1976) | Chantal Akerman
+=72 | Salò, or the 120 Days of Sodom (1975) | Pier Paolo Pasolini
+=72 | Sans soleil (1982) | Chris Marker
+=72 | Shoah (1985) | Claude Lanzmann
+=72 | The Ascent (1976) | Larissa Shepitko
+=72 | The Conversation (1974) | Francis Ford Coppola
+=72 | The Red Shoes (1948) | Michael Powell, Emeric Pressburger
+=72 | The Searchers (1956) | John Ford
+=72 | The Seventh Seal (1957) | Ingmar Bergman
+=72 | The Spirit of the Beehive (1973) | Víctor Erice
+=72 | Touki Bouki (1973) | Djibril Diop Mambéty
+=72 | Where Is the Friend's House? (1987) | Abbas Kiarostami
+=72 | Wild Strawberries (1957) | Ingmar Bergman
+=93 | Battleship Potemkin (1925) | Sergei M. Eisenstein
+=93 | Eternal Sunshine of the Spotless Mind (2004) | Michel Gondry
+=93 | Hidden (2004) | Michael Haneke | tmdb:445
+=93 | Moonlight (2016) | Barry Jenkins
+=93 | Parasite (2019) | Bong Joon-ho
+=93 | Pickpocket (1959) | Robert Bresson
+=93 | Taste of Cherry (1997) | Abbas Kiarostami
+=93 | The Colour of Pomegranates (1968) | Sergei Paradjanov
+=93 | The Conformist (1970) | Bernardo Bertolucci
+=93 | Throne of Blood (1957) | Akira Kurosawa
+=93 | Wanda (1970) | Barbara Loden
+=93 | Yi Yi (1999) | Edward Yang

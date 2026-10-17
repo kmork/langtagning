@@ -1,0 +1,109 @@
+# navn: Danny Peary – Cult Movies (1981)
+# kort: Cult Movies
+# serie: Kultfilmer (Danny Peary)
+# år: 1981
+# størrelse: 100
+# type: samling
+# kilde: https://en.wikipedia.org/wiki/Cult_Movies_(book)
+# Usortert samling (alfabetisk i boka) – nummeret er bare løpenummer.
+
+1 | Aguirre, the Wrath of God (1972) | | tmdb:2000
+2 | All About Eve (1950) | | tmdb:705
+3 | Andy Warhol's Bad (1977) | | tmdb:66489
+4 | Badlands (1973) | | tmdb:3133
+5 | Beauty and the Beast (1946) | | tmdb:648
+6 | Bedtime for Bonzo (1951) | | tmdb:43371
+7 | Behind the Green Door (1972) | | tmdb:24992
+8 | Beyond the Valley of the Dolls (1970) | | tmdb:5722
+9 | Billy Jack (1971) | | tmdb:21142
+10 | Black Sunday (1960) | | tmdb:27632
+11 | The Brood (1979) | | tmdb:28942
+12 | Burn! (1969) | | tmdb:42617
+13 | Caged Heat (1974) | | tmdb:39775
+14 | Casablanca (1941) | | tmdb:289
+15 | Citizen Kane (1941) | | tmdb:15
+16 | Witchfinder General (1968) | | tmdb:31965
+17 | Dance, Girl, Dance (1940) | | tmdb:32196
+18 | Deep End (1971) | | tmdb:59408
+19 | Detour (1946) | | tmdb:20367
+20 | Duck Soup (1933) | | tmdb:3063
+21 | El Topo (1971) | | tmdb:13041
+22 | Emmanuelle (1974) |
+23 | Enter the Dragon (1973) | | tmdb:9461
+24 | Eraserhead (1977) | | tmdb:985
+25 | Fantasia (1940) | | tmdb:756
+26 | Forbidden Planet (1956) | | tmdb:830
+27 | Force of Evil (1948) | | tmdb:26744
+28 | 42nd Street (1933) | | tmdb:3062
+29 | Freaks (1932) | | tmdb:136
+30 | The Girl Can't Help It (1956) | | tmdb:42839
+31 | Greetings (1968) | | tmdb:73604
+32 | Gun Crazy (1949) | | tmdb:18671
+33 | Halloween (1978) | | tmdb:948
+34 | A Hard Day's Night (1964) | | tmdb:704
+35 | The Harder They Come (1973) | | tmdb:7514
+36 | Harold and Maude (1971) | | tmdb:343
+37 | The Honeymoon Killers (1970) | | tmdb:10237
+38 | House of Wax (1953) | | tmdb:18573
+39 | I Married a Monster from Outer Space (1958) | | tmdb:43117
+40 | I Walked with a Zombie (1943) | | tmdb:27130
+41 | Invasion of the Body Snatchers (1956) | | tmdb:11549
+42 | It's a Gift (1934) | | tmdb:28001
+43 | It's a Wonderful Life (1946) | | tmdb:1585
+44 | Jason and the Argonauts (1963) | | tmdb:11533
+45 | Johnny Guitar (1954) | | tmdb:26596
+46 | The Killing (1956) | | tmdb:247
+47 | King Kong (1933) | | tmdb:244
+48 | King of Hearts (1967) | | tmdb:17685
+49 | Kiss Me Deadly (1955) | | tmdb:18030
+50 | La Cage aux Folles (1979) | | tmdb:4484
+51 | Land of the Pharaohs (1955) | | tmdb:42564
+52 | Laura (1944) | | tmdb:1939
+53 | The Little Shop of Horrors (1960) | | tmdb:24452
+54 | Lola Montès (1955) | | tmdb:35987
+55 | The Long Goodbye (1973) | | tmdb:1847
+56 | Mad Max (1979) | | tmdb:9659
+57 | The Maltese Falcon (1941) | | tmdb:963
+58 | Man of the West (1958) | | tmdb:14674
+59 | Night of the Living Dead (1968) | | tmdb:10331
+60 | The Nutty Professor (1963) | | tmdb:18331
+61 | Once Upon a Time in the West (1968) | | tmdb:335
+62 | Out of the Past (1947) | | tmdb:678
+63 | Outrageous! (1977) | | tmdb:41923
+64 | Pandora's Box (1929) | | tmdb:905
+65 | Peeping Tom (1960) | | tmdb:11167
+66 | Performance (1970) | | tmdb:26606
+67 | Petulia (1968) | | tmdb:42634
+68 | Pink Flamingos (1973) | | tmdb:692
+69 | Plan 9 from Outer Space (1956) | | tmdb:10513
+70 | Pretty Poison (1968) | | tmdb:32969
+71 | The Producers (1968) | | tmdb:30197
+72 | The Rain People (1969) | | tmdb:59231
+73 | Rebel Without a Cause (1955) | | tmdb:221
+74 | The Red Shoes (1948) | | tmdb:19542
+75 | Reefer Madness (1936) | | tmdb:37833
+76 | Rio Bravo (1959) | | tmdb:301
+77 | Rock 'n' Roll High School (1979) | | tmdb:26326
+78 | The Rocky Horror Picture Show (1975) | | tmdb:36685
+79 | The Scarlet Empress (1934) | | tmdb:31527
+80 | The Searchers (1956) | | tmdb:3114
+81 | Shock Corridor (1963) | | tmdb:25504
+82 | The Shooting (1967) | | tmdb:42701
+83 | Singin' in the Rain (1952) | | tmdb:872
+84 | Sunset Boulevard (1950) | | tmdb:599
+85 | Sylvia Scarlett (1936) | | tmdb:31866
+86 | The Tall T (1957) | | tmdb:43253
+87 | Targets (1968) | | tmdb:19383
+88 | Tarzan and His Mate (1934) | | tmdb:18994
+89 | The Texas Chain Saw Massacre (1974) | | tmdb:30497
+90 | Top Hat (1935) | | tmdb:3080
+91 | Trash (1970) | | tmdb:89199
+92 | Two for the Road (1967) | | tmdb:5767
+93 | Two-Lane Blacktop (1971) | | tmdb:27236
+94 | 2001: A Space Odyssey (1968) | | tmdb:62
+95 | Up in Smoke (1978) | | tmdb:11455
+96 | Vertigo (1958) | | tmdb:426
+97 | The Warriors (1979) | | tmdb:11474
+98 | Where's Poppa? (1970) | | tmdb:42569
+99 | The Wild Bunch (1969) | | tmdb:576
+100 | The Wizard of Oz (1939) | | tmdb:630

@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2017
+# kort: Cahiers 2017
+# serie: Cahiers du cinéma
+# år: 2017
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Twin Peaks season 3 (2017) | David Lynch | tmdb:0
+2 | Jeannette: The Childhood of Joan of Arc (2017) | Bruno Dumont | tmdb:399049
+3 | Certain Women (2016) | Kelly Reichardt | tmdb:340487
+4 | Get Out (2017) | Jordan Peele | tmdb:419430
+5 | The Day After (2017) | Hong Sang-soo | tmdb:451957
+6 | Lover for a Day (2017) | Philippe Garrel | tmdb:434131
+7 | Good Time (2017) | Joshua / Ben Safdie | tmdb:429200
+8 | Split (2016) | M. Night Shyamalan | tmdb:381288
+9 | Jackie (2016) | Pablo Larraín | tmdb:376866
+10 | Billy Lynn's Long Halftime Walk (2016) | Ang Lee | tmdb:293767

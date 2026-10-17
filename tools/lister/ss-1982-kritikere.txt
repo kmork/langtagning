@@ -1,0 +1,20 @@
+# navn: Sight and Sound 1982 – kritikernes topp 10
+# kort: S&S kritikere 1982
+# serie: Sight and Sound – kritikere
+# år: 1982
+# størrelse: 10
+# kilde: https://en.wikipedia.org/wiki/Sight_and_Sound#The_Sight_and_Sound_Poll_of_the_Greatest_Films_of_All_Time
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Citizen Kane (1941) | Orson Welles
+2 | The Rules of the Game (1939) | Jean Renoir
+=3 | Seven Samurai (1954) | Akira Kurosawa
+=3 | Singin' in the Rain (1952) | Stanley Donen / Gene Kelly
+5 | 8½ (1963) | Federico Fellini
+6 | Battleship Potemkin (1925) | Sergei Eisenstein
+=7 | L'Avventura (1960) | Michelangelo Antonioni
+=7 | The Magnificent Ambersons (1942) | Orson Welles
+=7 | Vertigo (1958) | Alfred Hitchcock
+=10 | The General (1926) | Buster Keaton / Clyde Bruckman
+=10 | The Searchers (1956) | John Ford

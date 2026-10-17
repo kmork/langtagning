@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1962
+# kort: Cahiers 1962
+# serie: Cahiers du cinéma
+# år: 1962
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Vivre sa vie (1962) | Jean-Luc Godard | tmdb:1626
+2 | Jules and Jim (1962) | François Truffaut | tmdb:1628
+3 | Hatari! (1962) | Howard Hawks | tmdb:11385
+4 | Viridiana (1961) | Luis Buñuel | tmdb:4497
+5 | Le Signe du Lion (1959) | Éric Rohmer | tmdb:64414
+6 | Wild River (1960) | Elia Kazan | tmdb:82311
+7 | The Trial (1962) | Orson Welles | tmdb:3009
+8 | Through a Glass Darkly (1961) | Ingmar Bergman | tmdb:11602
+9 | The Elusive Corporal (1962) | Jean Renoir | tmdb:43000
+10 | Vanina Vanini (1961) | Roberto Rossellini | tmdb:121464

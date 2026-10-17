@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1960
+# kort: Cahiers 1960
+# serie: Cahiers du cinéma
+# år: 1960
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Sansho the Bailiff (1954) | Kenji Mizoguchi | tmdb:20532
+2 | L'Avventura (1960) | Michelangelo Antonioni | tmdb:5165
+3 | Breathless (1960) | Jean-Luc Godard | tmdb:269
+4 | Shoot the Piano Player (1960) | François Truffaut | tmdb:1818
+5 | Poem of the Sea (1958) | Alexandre Dovjenko / Ioulia Solntseva | tmdb:257637
+=6 | Les Bonnes Femmes (1960) | Claude Chabrol | tmdb:27419
+=6 | Nazarín (1959) | Luis Buñuel | tmdb:35124
+8 | Moonfleet (1954) | Fritz Lang | tmdb:29967
+9 | Psychosis (1960) | Alfred Hitchcock
+10 | The Hole (1960) | Jacques Becker | tmdb:29259

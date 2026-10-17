@@ -1,0 +1,59 @@
+# navn: Danny Peary – Cult Movies 3 (1989)
+# kort: Cult Movies 3
+# serie: Kultfilmer (Danny Peary)
+# år: 1989
+# størrelse: 50
+# type: samling
+# kilde: https://en.wikipedia.org/wiki/Cult_Movies_3
+# Usortert samling (alfabetisk i boka) – nummeret er bare løpenummer.
+
+1 | An American Werewolf in London (1981) | | tmdb:814
+2 | Annie Hall (1977) | | tmdb:703
+3 | The Black Cat (1934) | | tmdb:24106
+4 | Blade Runner (1982) | | tmdb:78
+5 | Blue Velvet (1986) | | tmdb:793
+6 | Body Heat (1981) | | tmdb:14412
+7 | The Cabinet of Dr. Caligari (1919) | | tmdb:234
+8 | Café Flesh (1982) | | tmdb:30824
+9 | Chilly Scenes of Winter (1979) | | tmdb:42173
+10 | Choose Me (1984) | | tmdb:42086
+11 | Diva (1981) | | tmdb:4485
+12 | Dr. Strangelove (1964) | | tmdb:935
+13 | Easy Rider (1969) | | tmdb:624
+14 | Faster, Pussycat! Kill! Kill! (1965) | | tmdb:315
+15 | Quatermass and the Pit (1967) | | tmdb:26912
+16 | Gentlemen Prefer Blondes (1953) | | tmdb:759
+17 | Glen or Glenda (1953) | | tmdb:24018
+18 | The Gods Must Be Crazy (1980) | | tmdb:8393
+19 | Imitation of Life (1959) | | tmdb:34148
+20 | In a Lonely Place (1950) | | tmdb:17057
+21 | It's a Mad, Mad, Mad, Mad World (1963) | | tmdb:11576
+22 | Liquid Sky (1982) | | tmdb:20980
+23 | Martin (1978) | | tmdb:26517
+24 | Miracle on 34th Street (1947) | | tmdb:11881
+25 | Monsieur Verdoux (1947) | | tmdb:30588
+26 | The Naked Kiss (1964) | | tmdb:26031
+27 | Napoléon (1927) | | tmdb:42536
+28 | New York, New York (1977) | | tmdb:12637
+29 | The Night of the Hunter (1955) | | tmdb:3112
+30 | Now, Voyager (1942) | | tmdb:32847
+31 | Los Olvidados (1950) | | tmdb:800
+32 | On Her Majesty's Secret Service (1969) | | tmdb:668
+33 | One-Eyed Jacks (1961) | | tmdb:18647
+34 | Over the Edge (1979) | | tmdb:23957
+35 | Psycho (1960) | | tmdb:539
+36 | The Quiet Man (1952) | | tmdb:3109
+37 | Ride the High Country (1962) | | tmdb:36206
+38 | Mad Max 2 (1981) | | tmdb:8810
+39 | Seconds (1966) | | tmdb:20620
+40 | Sons of the Desert (1933) | | tmdb:43128
+41 | A Star Is Born (1954) | | tmdb:3111
+42 | The Stunt Man (1980) | | tmdb:42160
+43 | The Terminator (1984) | | tmdb:218
+44 | That Hamilton Woman (1941) | | tmdb:43798
+45 | The Thief of Bagdad (1940) | | tmdb:12232
+46 | The Thing from Another World (1951) | | tmdb:10785
+47 | Touch of Evil (1958) | | tmdb:1480
+48 | Walkabout (1971) | | tmdb:36040
+49 | The Wanderers (1979) | | tmdb:233
+50 | Where the Boys Are (1960) | | tmdb:43049

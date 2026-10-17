@@ -1,0 +1,19 @@
+# navn: Sight and Sound 1962 – kritikernes topp 10
+# kort: S&S kritikere 1962
+# serie: Sight and Sound – kritikere
+# år: 1962
+# størrelse: 10
+# kilde: https://en.wikipedia.org/wiki/Sight_and_Sound#The_Sight_and_Sound_Poll_of_the_Greatest_Films_of_All_Time
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Citizen Kane (1941) | Orson Welles
+2 | L'Avventura (1960) | Michelangelo Antonioni
+3 | The Rules of the Game (1939) | Jean Renoir
+=4 | Greed (1924) | Erich von Stroheim
+=4 | Ugetsu (1953) | Kenji Mizoguchi
+=6 | Battleship Potemkin (1925) | Sergei Eisenstein
+=6 | Ivan the Terrible (1944) | Sergei Eisenstein
+=6 | Bicycle Thieves (1948) | Vittorio De Sica
+9 | La Terra Trema (1948) | Luchino Visconti
+10 | L'Atalante (1934) | Jean Vigo

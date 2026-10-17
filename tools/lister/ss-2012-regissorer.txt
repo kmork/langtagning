@@ -1,0 +1,109 @@
+# navn: Sight and Sound 2012 – regissørenes topp 100
+# kort: S&S regissører 2012
+# serie: Sight and Sound – regissører
+# år: 2012
+# størrelse: 100
+# kilde: https://www.awardsdaily.com/2012/08/23/sight-sound-directors-poll-top-100/ (kopi av BFIs liste; plass 1–20 kontrollert mot BFIs arkiv)
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film.
+
+1 | Tokyo Story (1953) | Ozu Yasujirô
+=2 | 2001: A Space Odyssey (1968) | Stanley Kubrick
+=2 | Citizen Kane (1941) | Orson Welles
+4 | 8½ (1963) | Federico Fellini
+5 | Taxi Driver (1976) | Martin Scorsese
+6 | Apocalypse Now (1979) | 
+=7 | Vertigo (1958) | Alfred Hitchcock
+=7 | The Godfather (1972) | 
+9 | Mirror (1974) | Andrei Tarkovsky
+10 | Bicycle Thieves (1948) | 
+11 | Breathless (1960) | Jean-Luc Godard
+12 | Raging Bull (1980) | Martin Scorsese
+=13 | Persona (1966) | Ingmar Bergman
+=13 | The 400 Blows (1959) | François Truffaut
+=13 | Andrei Rublev (1966) | Andrei Tarkovsky
+16 | Fanny and Alexander (1984) | Ingmar Bergman
+17 | Seven Samurai (1954) | 
+18 | Rashomon (1950) | Akira Kurosawa
+=19 | Barry Lyndon (1975) | Stanley Kubrick
+=19 | Ordet (1955) | Carl Theodor Dreyer
+21 | Au Hasard Balthazar (1966) | Robert Bresson
+=22 | Modern Times (1936) | Charles Chaplin
+=22 | L’Atalante (1934) | Jean Vigo
+=22 | Sunrise: A Song of Two Humans (1927) | F. W. Murnau
+=22 | La Règle du jeu (1939) | Jean Renoir
+=26 | Touch of Evil (1958) | Orson Welles
+=26 | The Night of the Hunter (1955) | Charles Laughton
+=26 | The Battle of Algiers (1966) | Gillo Pontecorvo
+=26 | La strada (1954) | Federico Fellini
+=30 | Stalker (1979) | Andrei Tarkovsky
+=30 | City Lights (1931) | Charles Chaplin
+=30 | L’Avventura (1960) | Michelangelo Antonioni
+=30 | Amarcord (1972) | Federico Fellini
+=30 | The Gospel According to St Matthew (1964) | Pier Paolo Pasolini
+=30 | The Godfather: Part II (1974) | Francis Ford Coppola
+=30 | Come And See (1985) | Elem Klimov
+=37 | Close-Up (1989) | Abbas Kiarostami
+=37 | Some Like It Hot (1959) | Billy Wilder
+=37 | La dolce vita (1960) | Federico Fellini
+=37 | The Passion of Joan of Arc (1927) | Carl Theodor Dreyer
+=37 | Playtime (1967) | Jacques Tati
+=37 | A Man Escaped (1956) | Robert Bresson
+=37 | Viridiana (1961) | Luis Buñuel
+=44 | Once Upon a Time in the West (1968) | Sergio Leone
+=44 | Le mépris (1963) | Jean-Luc Godard
+=44 | The Apartment (1960) | Billy Wilder
+=44 | Hour of the Wolf (1968) | Ingmar Bergman
+=48 | One Flew Over the Cuckoo’s Nest (1975) | Milos Forman
+=48 | The Searchers (1956) | John Ford
+=48 | Psycho (1960) | Alfred Hitchcock
+=48 | Man with a Movie Camera (1929) | Dziga Vertov
+=48 | Shoah (1985) | Claude Lanzmann
+=48 | Lawrence of Arabia (1962) | David Lean
+=48 | L’eclisse (1962) | Michelangelo Antonioni
+=48 | Pickpocket (1959) | Robert Bresson
+=48 | Pather Panchali (1955) | Satyajit Ray
+=48 | Rear Window (1954) | Alfred Hitchcock
+=48 | Goodfellas (1990) | Martin Scorsese
+=59 | Blow-Up (1966) | Michelangelo Antonioni
+=59 | The Conformist (1970) | Bernardo Bertolucci
+=59 | Aguirre, Wrath of God (1972) | Werner Herzog
+=59 | Gertrud (1964) | Carl Theodor Dreyer
+=59 | A Woman Under the Influence (1974) | John Cassavetes
+=59 | The Good, the Bad and the Ugly (1966) | Sergio Leone
+=59 | Blue Velvet (1986) | David Lynch
+=59 | La grande illusion (1937) | Jean Renoir
+=67 | Badlands (1973) | Terrence Malick
+=67 | Blade Runner (1982) | Ridley Scott
+=67 | Sunset Blvd. (1950) | Billy Wilder
+=67 | Ugetsu Monogatari (1953) | Mizoguchi Kenji
+=67 | Singin’ in the Rain (1951) | Stanley Donen/Gene Kelly
+=67 | In The Mood For Love (2000) | Wong Kar Wai
+=67 | Journey to Italy (1954) | Roberto Rossellini
+=67 | Vivre Sa Vie (1962) | Jean-Luc Godard
+=75 | The Seventh Seal (1957) | Ingmar Bergman
+=75 | Hidden (2004) | Michael Haneke | tmdb:445
+=75 | Battleship Potemkin (1925) | Sergei M Eisenstein
+=75 | M (1931) | Fritz Lang
+=75 | There Will Be Blood (2007) | Paul Thomas Anderson
+=75 | The Shining (1980) | Stanley Kubrick
+=75 | The General (1926) | Buster Keaton
+=75 | Mulholland Dr. (2003) | David Lynch
+=75 | A Clockwork Orange (1971) | Stanley Kubrick
+=75 | Fear Eats the Soul (1974) | Rainer Werner Fassbinder
+=75 | Kes (1969) | Ken Loach
+=75 | Husbands (1970) | John Cassavetes
+=75 | The Wild Bunch (1969) | Sam Peckinpah
+=75 | Salo, or The 120 Days of Sodom (1975) | Pier Paolo Pasolini
+=75 | Jaws (1975) | Steven Spielberg
+=75 | Los Olvidados (1950) | Luis Buñuel
+=91 | Pierrot le Fou (1965) | Jean-Luc Godard
+=91 | Un chien andalou (1928) | Luis Buñuel
+=91 | Chinatown (1974) | Roman Polanski
+=91 | La Maman et la putain (1973) | Jean Eustache
+=91 | Beau Travail (1998) | Claire Denis
+=91 | Opening Night (1977) | John Cassavetes
+=91 | The Gold Rush (1925) | Charles Chaplin
+=91 | Zero de Conduite (1933) | Jean Vigo
+=91 | The Deer Hunter (1977) | Michael Cimino
+=91 | L’argent (1983) | Robert Bresson

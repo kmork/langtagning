@@ -1,0 +1,21 @@
+# navn: Cahiers du cinéma – årets topp 10, 1989
+# kort: Cahiers 1989
+# serie: Cahiers du cinéma
+# år: 1989
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | Red Wood Pigeon (1989) | Nanni Moretti | tmdb:56521
+=1 | Do the Right Thing (1989) | Spike Lee | tmdb:925
+=3 | Gang of Four (1989) | Jacques Rivette | tmdb:55853
+=3 | Dead Ringers (1988) | David Cronenberg | tmdb:9540
+=5 | The Cannibals (1988) | Manoel de Oliveira | tmdb:198450
+=5 | Yaaba (1989) | Idrissa Ouedraogo | tmdb:66182
+=7 | Black Rain (1989) | Shōhei Imamura | tmdb:185987
+=7 | Thick Skinned (1989) | Patricia Mazuy | tmdb:267100
+=7 | Little Vera (1988) | Vassili Pitchoul | tmdb:41961
+=10 | The Accidental Tourist (1988) | Lawrence Kasdan | tmdb:31052
+=10 | I Want to Go Home (1989) | Alain Resnais | tmdb:48200
+=10 | Time of the Gypsies (1988) | Emir Kusturica | tmdb:20123

@@ -1,0 +1,22 @@
+# navn: Cahiers du cinéma – årets topp 10, 1992
+# kort: Cahiers 1992
+# serie: Cahiers du cinéma
+# år: 1992
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Unforgiven (1992) | Clint Eastwood | tmdb:33
+2 | Agantuk (1991) | Satyajit Ray | tmdb:41781
+3 | And Life Goes On (1992) | Abbas Kiarostami | tmdb:83761
+4 | Husbands and Wives (1992) | Woody Allen | tmdb:28384
+=5 | Border Line (1992) | Danièle Dubroux | tmdb:369747
+=5 | Savage Nights (1992) | Cyril Collard | tmdb:41878
+=5 | The Sentinel (1992) | Arnaud Desplechin | tmdb:71401
+=8 | La Chasse aux papillons (1992) | Otar Iosseliani | tmdb:69287
+=8 | A Tale of Winter (1992) | Éric Rohmer | tmdb:10241
+=10 | A Brighter Summer Day (1991) | Edward Yang | tmdb:15804
+=10 | The House of Smiles (1991) | Marco Ferreri | tmdb:148757
+=10 | Le Mirage (1992) | Jean-Claude Guiguet | tmdb:258995
+=10 | The Oak (1992) | Lucian Pintilie | tmdb:41678

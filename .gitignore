@@ -1,0 +1,18 @@
+# Hemmeligheter
+tools/tmdb_key.txt
+
+# Opphavsrett: Cinemateket-tekster (© Cinemateket/Norsk filminstitutt)
+data/cinemateket.js
+tools/cinemateket-cache.json
+
+# Opphavsrett: plakater og bakgrunnsbilder fra TMDB (hentes med `langtagning.py sync`)
+posters/
+
+# Lokal kø
+todo/ko.txt
+
+# Editor/OS
+.idea/
+*.iml
+.DS_Store
+*.tmp

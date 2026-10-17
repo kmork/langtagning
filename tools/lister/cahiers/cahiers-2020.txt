@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2020
+# kort: Cahiers 2020
+# serie: Cahiers du cinéma
+# år: 2020
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | City Hall (2020) | Frederick Wiseman | tmdb:726041
+2 | The Woman Who Ran (2020) | Hong Sang-soo | tmdb:662401
+3 | Uncut Gems (2019) | Joshua / Ben Safdie | tmdb:473033
+4 | Malmkrog (2020) | Cristi Puiu | tmdb:575448
+5 | Love Affair(s) (2020) | Emmanuel Mouret | tmdb:661935
+6 | Hotel by the River (2018) | Hong Sang-soo | tmdb:535550
+7 | Dwelling in the Fuchun Mountains (2019) | Gu Xiaogang | tmdb:596881
+8 | The Salt of Tears (2020) | Philippe Garrel | tmdb:574094
+9 | Énorme (2020) | Sophie Letourneur | tmdb:640561
+10 | The August Virgin (2019) | Jonás Trueba | tmdb:562299

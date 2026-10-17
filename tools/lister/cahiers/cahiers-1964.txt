@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1964
+# kort: Cahiers 1964
+# serie: Cahiers du cinéma
+# år: 1964
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Bande à part (1964) | Jean-Luc Godard | tmdb:8073
+2 | Gertrud (1964) | Carl Theodor Dreyer | tmdb:34181
+3 | Marnie (1964) | Alfred Hitchcock | tmdb:506
+4 | A Married Woman (1964) | Jean-Luc Godard | tmdb:40652
+5 | Man's Favorite Sport? (1964) | Howard Hawks | tmdb:39231
+6 | Red Desert (1964) | Michelangelo Antonioni | tmdb:26638
+7 | America America (1963) | Elia Kazan | tmdb:47249
+8 | The Silence (1963) | Ingmar Bergman | tmdb:11506
+9 | All These Women (1964) | Ingmar Bergman | tmdb:96118
+10 | The Servant (1963) | Joseph Losey | tmdb:42987

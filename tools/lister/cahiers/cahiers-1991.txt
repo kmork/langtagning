@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1991
+# kort: Cahiers 1991
+# serie: Cahiers du cinéma
+# år: 1991
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Van Gogh (1991) | Maurice Pialat | tmdb:4734
+2 | Miller's Crossing (1990) | Joel / Ethan Coen | tmdb:379
+3 | Barton Fink (1991) | Joel / Ethan Coen | tmdb:290
+4 | The Godfather Part III (1990) | Francis Ford Coppola | tmdb:242
+5 | Close-Up (1990) | Abbas Kiarostami | tmdb:30017
+6 | J'entends plus la guitare (1991) | Philippe Garrel | tmdb:65943
+7 | Edward Scissorhands (1990) | Tim Burton | tmdb:162
+8 | Rhapsody in August (1991) | Akira Kurosawa | tmdb:20645
+9 | Les Amants du Pont-Neuf (1991) | Leos Carax | tmdb:2767
+10 | Paris Awakens (1991) | Olivier Assayas | tmdb:66552

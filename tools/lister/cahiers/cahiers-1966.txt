@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1966
+# kort: Cahiers 1966
+# serie: Cahiers du cinéma
+# år: 1966
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Au hasard Balthazar (1966) | Robert Bresson | tmdb:20108
+2 | Walkover (1965) | Jerzy Skolimowski | tmdb:163863
+3 | Not Reconciled (1965) | Jean-Marie Straub / Danièle Huillet | tmdb:128846
+4 | Masculin Féminin (1966) | Jean-Luc Godard | tmdb:4710
+5 | The Man Who Had His Hair Cut Short (1965) | André Delvaux | tmdb:86482
+6 | 7 Women (1966) | John Ford | tmdb:68692
+7 | The Taking of Power by Louis XIV (1966) | Roberto Rossellini | tmdb:69912
+8 | Torn Curtain (1966) | Alfred Hitchcock | tmdb:5780
+9 | Red Line 7000 (1965) | Howard Hawks | tmdb:80046
+10 | Fists in the Pocket (1965) | Marco Bellocchio | tmdb:46591

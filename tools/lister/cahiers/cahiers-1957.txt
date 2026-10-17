@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1957
+# kort: Cahiers 1957
+# serie: Cahiers du cinéma
+# år: 1957
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | A King in New York (1957) | Charles Chaplin | tmdb:28973
+2 | Will Success Spoil Rock Hunter? (1957) | Frank Tashlin | tmdb:37124
+3 | Nights of Cabiria (1957) | Federico Fellini | tmdb:19426
+4 | The Wrong Man (1956) | Alfred Hitchcock | tmdb:22527
+5 | The Criminal Life of Archibaldo de la Cruz (1955) | Luis Buñuel | tmdb:37628
+6 | Sawdust and Tinsel (1953) | Ingmar Bergman | tmdb:47721
+7 | Bigger Than Life (1956) | Nicholas Ray | tmdb:26036
+8 | The Girl Can't Help It (1956) | Frank Tashlin | tmdb:42839
+9 | Beyond a Reasonable Doubt (1956) | Fritz Lang | tmdb:20330
+10 | 12 Angry Men (1957) | Sidney Lumet | tmdb:389

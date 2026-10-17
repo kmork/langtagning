@@ -1,0 +1,22 @@
+# navn: Cahiers du cinéma – årets topp 10, 1986
+# kort: Cahiers 1986
+# serie: Cahiers du cinéma
+# år: 1986
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | The Green Ray (1986) | Éric Rohmer | tmdb:54898
+=2 | The Legend of Suram Fortress (1985) | Sergueï Paradjanov / Dodo Abachidze | tmdb:103590
+=2 | The Sacrifice (1986) | Andreï Tarkovski | tmdb:24657
+4 | Double messieurs (1986) | Jean-François Stévenin | tmdb:63982
+=5 | Mauvais Sang (1986) | Leos Carax | tmdb:64131
+=5 | Maine-Ocean Express (1986) | Jacques Rozier | tmdb:63663
+7 | Thérèse (1986) | Alain Cavalier | tmdb:42029
+8 | Scene of the Crime (1986) | André Téchiné | tmdb:63691
+=9 | After Hours (1985) | Martin Scorsese | tmdb:10843
+=9 | Alpine Fire (1985) | Fredi Murer | tmdb:67263
+=9 | Désordre (1986) | Olivier Assayas | tmdb:64102
+=9 | Gardien de la nuit (1986) | Jean-Pierre Limosin | tmdb:267077
+=9 | Grandeur et décadence d'un petit commerce de cinéma (1986) | Jean-Luc Godard | tmdb:271799

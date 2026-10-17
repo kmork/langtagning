@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1955
+# kort: Cahiers 1955
+# serie: Cahiers du cinéma
+# år: 1955
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Journey to Italy (1954) | Roberto Rossellini | tmdb:2748
+2 | Ordet (1955) | Carl Theodor Dreyer | tmdb:48035
+3 | The Big Knife (1955) | Robert Aldrich | tmdb:48155
+4 | Lola Montès (1955) | Max Ophuls | tmdb:35987
+5 | Rear Window (1954) | Alfred Hitchcock | tmdb:567
+6 | Les mauvaises rencontres (1955) | Alexandre Astruc | tmdb:67535
+7 | La Strada (1954) | Federico Fellini | tmdb:405
+8 | The Barefoot Contessa (1954) | Joseph L. Mankiewicz | tmdb:34689
+9 | Johnny Guitar (1954) | Nicholas Ray | tmdb:26596
+10 | Kiss Me Deadly (1955) | Robert Aldrich | tmdb:18030

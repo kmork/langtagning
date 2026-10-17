@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 2004
+# kort: Cahiers 2004
+# serie: Cahiers du cinéma
+# år: 2004
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Tropical Malady (2004) | Apichatpong Weerasethakul | tmdb:11534
+=2 | S-21: The Khmer Rouge Killing Machine (2003) | Rithy Panh | tmdb:43936
+=2 | Tie Xi Qu: West of the Tracks (2003) | Wang Bing | tmdb:86282
+=2 | The Village (2004) | M. Night Shyamalan | tmdb:6947
+5 | Shara (2003) | Naomi Kawase | tmdb:36281
+=6 | The Brown Bunny (2003) | Vincent Gallo | tmdb:12703
+=6 | Elephant (2003) | Gus Van Sant | tmdb:1807
+=6 | Kings and Queen (2004) | Arnaud Desplechin | tmdb:44524
+=9 | Café Lumière (2004) | Hou Hsiao-hsien | tmdb:52512
+=9 | Kill Bill: Volume 2 (2004) | Quentin Tarantino | tmdb:393
+=9 | Saraband (2003) | Ingmar Bergman | tmdb:55650

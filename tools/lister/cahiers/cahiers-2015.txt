@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2015
+# kort: Cahiers 2015
+# serie: Cahiers du cinéma
+# år: 2015
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Mia Madre (2015) | Nanni Moretti | tmdb:315872
+2 | Cemetery of Splendour (2015) | Apichatpong Weerasethakul | tmdb:298721
+3 | In the Shadow of Women (2015) | Philippe Garrel | tmdb:315865
+4 | The Smell of Us (2014) | Larry Clark | tmdb:157824
+5 | Mad Max: Fury Road (2015) | George Miller | tmdb:76341
+6 | Jauja (2014) | Lisandro Alonso | tmdb:266031
+7 | Inherent Vice (2014) | Paul Thomas Anderson | tmdb:171274
+8 | Arabian Nights (2015) | Miguel Gomes | tmdb:411360
+9 | The Summer of Sangailė (2015) | Alanté Kavaïté | tmdb:310568
+10 | Journey to the Shore (2015) | Kiyoshi Kurosawa | tmdb:334991

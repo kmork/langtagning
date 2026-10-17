@@ -1,0 +1,22 @@
+# navn: Sight and Sound 2002 – regissørenes topp 10
+# kort: S&S regissører 2002
+# serie: Sight and Sound – regissører
+# år: 2002
+# størrelse: 10
+# kilde: https://en.wikipedia.org/wiki/Sight_and_Sound#The_Sight_and_Sound_Poll_of_the_Greatest_Films_of_All_Time
+# Merk: I 2002 ble The Godfather I og II talt som én oppføring – begge står derfor på samme plass.
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Citizen Kane (1941) | Orson Welles
+=2 | The Godfather (1972) | Francis Ford Coppola
+=2 | The Godfather Part II (1974) | Francis Ford Coppola
+3 | 8½ (1963) | Federico Fellini
+4 | Lawrence of Arabia (1962) | David Lean
+5 | Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Stanley Kubrick
+=6 | Bicycle Thieves (1948) | Vittorio De Sica
+=6 | Raging Bull (1980) | Martin Scorsese
+=6 | Vertigo (1958) | Alfred Hitchcock
+=9 | Rashomon (1950) | Akira Kurosawa
+=9 | The Rules of the Game (1939) | Jean Renoir
+=9 | Seven Samurai (1954) | Akira Kurosawa

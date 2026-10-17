@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2010
+# kort: Cahiers 2010
+# serie: Cahiers du cinéma
+# år: 2010
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Uncle Boonmee Who Can Recall His Past Lives (2010) | Apichatpong Weerasethakul | tmdb:38368
+2 | Bad Lieutenant: Port of Call New Orleans (2009) | Werner Herzog | tmdb:11699
+3 | Film Socialisme (2010) | Jean-Luc Godard | tmdb:54083
+4 | Toy Story 3 (2010) | Lee Unkrich | tmdb:10193
+5 | Fantastic Mr. Fox (2009) | Wes Anderson | tmdb:10315
+6 | A Serious Man (2009) | Joel / Ethan Coen | tmdb:12573
+7 | To Die like a Man (2009) | João Pedro Rodrigues | tmdb:95538
+8 | The Social Network (2010) | David Fincher | tmdb:37799
+9 | Chouga (2007) | Darejan Omіrbaïev | tmdb:125541
+10 | Mother (2009) | Bong Joon-ho | tmdb:30018

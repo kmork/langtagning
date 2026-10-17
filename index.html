@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="no" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Langtagning</title>
+  <meta name="theme-color" content="#0d0c0b">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23171513'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23d9a441' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23d9a441'/%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#" id="brand">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="12" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="16" cy="9" r="2.6" fill="currentColor"/><circle cx="16" cy="23" r="2.6" fill="currentColor"/><circle cx="9" cy="16" r="2.6" fill="currentColor"/><circle cx="23" cy="16" r="2.6" fill="currentColor"/></svg>
+        <span>Langtagning</span>
+      </a>
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="search" placeholder="Søk i tittel, regissør, skuespiller, tagger …" autocomplete="off" aria-label="Søk">
+      </div>
+      <div class="topbar-actions">
+        <button class="icon-btn" id="random" title="Tilfeldig film" aria-label="Tilfeldig film">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="8.5" cy="8.5" r="1.4" fill="currentColor"/><circle cx="15.5" cy="15.5" r="1.4" fill="currentColor"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/></svg>
+        </button>
+        <button class="icon-btn" id="about-open" title="Om Langtagning" aria-label="Om Langtagning">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="7.8" r="1.2" fill="currentColor"/></svg>
+        </button>
+        <button class="icon-btn" id="theme" title="Bytt lys/mørk" aria-label="Bytt lys/mørk">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="icon-btn filter-toggle" id="filter-open" aria-label="Vis filtre">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <span class="dot" id="filter-dot" hidden></span>
+        </button>
+      </div>
+    </div>
+    <div class="toolbar">
+      <label class="srcpick"><span>Vis</span><select id="src" aria-label="Vis filmer fra"></select>
+        <button class="src-clear" id="src-clear" type="button" title="Tilbake til Mitt utvalg" aria-label="Tilbake til Mitt utvalg" hidden>×</button></label>
+      <nav class="tabs" id="tabs" aria-label="Status"></nav>
+      <div class="layoutpick" id="layoutpick" role="group" aria-label="Visning">
+        <button data-layout="grid" title="Plakater" aria-label="Plakater"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></button>
+        <button data-layout="rows" title="Liste" aria-label="Liste"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="4.8" cy="6" r="1.3" fill="currentColor"/><circle cx="4.8" cy="12" r="1.3" fill="currentColor"/><circle cx="4.8" cy="18" r="1.3" fill="currentColor"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="filters" id="filters" aria-label="Filtre">
+      <div class="filters-head">
+        <h2>Filtre</h2>
+        <button class="icon-btn" id="filter-close" aria-label="Lukk filtre">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <label class="field">
+        <span>Sorter</span>
+        <select id="sort">
+          <option value="list">Plassering i lista</option>
+          <option value="title">Tittel (A–Å)</option>
+          <option value="year-desc">År (nyeste først)</option>
+          <option value="year-asc">År (eldste først)</option>
+          <option value="director">Regissør</option>
+          <option value="added">Sist lagt til</option>
+          <option value="runtime">Lengde</option>
+          <option value="awards">Flest priser</option>
+        </select>
+      </label>
+      <div id="facets"></div>
+      <button class="btn-ghost" id="reset">Nullstill alle filtre</button>
+      <button class="btn-primary show-results" id="filter-done">Vis filmer</button>
+    </aside>
+    <div class="scrim" id="scrim" hidden></div>
+
+    <main class="content">
+      <div id="suggest" class="suggest" hidden></div>
+      <section id="src-head" class="lv-head" hidden></section>
+      <div class="resultbar">
+        <p id="count" class="count"></p>
+        <div id="chips" class="chips"></div>
+      </div>
+      <div id="grid" class="grid" aria-live="polite"></div>
+      <ol id="rows" class="lv-list" hidden></ol>
+      <div id="more" class="more" aria-hidden="true"></div>
+      <div id="empty" class="empty" hidden>
+        <p class="empty-title">Ingen filmer her</p>
+        <p>Prøv å fjerne et filter eller endre søket.</p>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    Data og bilder fra <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">The Movie Database</a>.
+    Dette produktet bruker TMDB API, men er ikke godkjent eller sertifisert av TMDB.
+  </footer>
+
+  <div id="qbar" class="qbar" hidden></div>
+
+  <dialog id="about" class="about" aria-labelledby="about-title">
+    <div class="about-scroll">
+      <button class="icon-btn close" data-close-about aria-label="Lukk">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
+      <h1 id="about-title">Om Langtagning</h1>
+      <p class="about-byline">(av redaksjonen)</p>
+      <p>Knut Mork ville ha oversikt over filmer som gir noe tilbake. Ikke Hollywood-produkter laget for å tjene penger, men ekte filmer. Han vil finne nye filmer å se, og se tilbake på dem han har sett: mimre, reflektere, kanskje se dem igjen med nye øyne.</p>
+      <p>Langtagning er Knuts gamle filmkartotek, opprinnelig et Excel-ark modernisert for vår tid. Her står hva han har sett, hva han satte pris på, hvor filmene kan sees igjen, og hva han vil se. Rake motsetning til f.eks. Netflix’ algoritmer hvor en blar og blar uten å finne noe man setter pris på.</p>
+      <p>Her finnes ingen terningkast. Ingen film er nødvendigvis bedre enn en annen; det avhenger av hvem du er og hva du søker. Her finnes heller ingen handlingsreferat. Handlingen betyr lite. Det som teller, er innlevelsen: universet, karakterene, stemningen. Sjanger betyr like lite. Ofte er de bare misvisende, hva markedsavdelingen kaller den er derfor uinteressant.</p>
+      <p>Redaksjonen har koblet på kritikernes kåringer og kuraterte lister. De hjelper med å finne igjen filmer han har likt, og kjente og ukjente perler. Prisvinnere fra Cannes, Berlin, Venezia, Sundance og andre festivaler er merket og søkbare. Oscar-prisene skulle vært fjernet, men kom med ved en glipp. Redaksjonen beklager.</p>
+      <p>Verdens cinemateker viser sjeldne og skjøre filmskatter. Som helnorsk redaksjon lenker vi derfor til Cinemateket i Oslo, som beskriver godt hva filmene bringer og hvorfor de er interessante. Ofte er filmene vanskelig å oppdrive, men her hjelper vi bl.a. med med å vise om de kan lånes med bibliotekkortet på Filmoteket.</p>
+      <p>Lista er på ingen måte komplett, her mangler mange filmer vi setter høyt, f.eks. kultfilmer kritikerne aldri nevner. Slik vil det nok alltid være.</p>
+      <p class="about-end">God filmopplevelse!</p>
+    </div>
+  </dialog>
+
+  <dialog id="detail" class="detail" aria-labelledby="d-title"></dialog>
+
+  <script src="data/movies.js"></script>
+  <script src="data/lists.js"></script>
+  <script src="data/directors.js"></script>
+  <script src="data/cinemateket-lenker.js"></script>
+  <script src="data/filmoteket.js"></script>
+  <script>
+    // Omtalene fra Cinemateket er opphavsrettslig beskyttet: lastes bare når siden kjøres lokalt
+    if (location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname))
+      document.write('<script src="data/cinemateket.js"><\/script>');
+  </script>
+  <script src="js/app.js"></script>
+</body>
+</html>

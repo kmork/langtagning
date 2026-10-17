@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1990
+# kort: Cahiers 1990
+# serie: Cahiers du cinéma
+# år: 1990
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | Freeze Die Come to Life (1990) | Vitali Kanevski | tmdb:41948
+=1 | The Little Gangster (1990) | Jacques Doillon | tmdb:162827
+=3 | Goodfellas (1990) | Martin Scorsese | tmdb:769
+=3 | Nouvelle Vague (1990) | Jean-Luc Godard | tmdb:32691
+=5 | Alexandria Again and Forever (1990) | Youssef Chahine | tmdb:123652
+=5 | Meghe Dhaka Tara (1960) | Ritwik Ghatak | tmdb:59239
+=5 | No, or the Vain Glory of Command (1990) | Manoel de Oliveira | tmdb:103417
+=8 | Crimes and Misdemeanors (1989) | Woody Allen | tmdb:11562
+=8 | The Disenchanted (1990) | Benoît Jacquot | tmdb:66537
+=8 | Dreams (1990) | Akira Kurosawa | tmdb:12516

@@ -1,0 +1,21 @@
+# navn: Sight and Sound 1992 – regissørenes topp 10
+# kort: S&S regissører 1992
+# serie: Sight and Sound – regissører
+# år: 1992
+# størrelse: 10
+# kilde: https://en.wikipedia.org/wiki/Sight_and_Sound#The_Sight_and_Sound_Poll_of_the_Greatest_Films_of_All_Time
+# Format: plass | Tittel (år) | regissør   («=» foran plassen betyr delt plassering)
+# Legg til «| tmdb:12345» på slutten for å tvinge riktig film, eller «| tmdb:0» for ingen kobling.
+
+1 | Citizen Kane (1941) | Orson Welles
+=2 | 8½ (1963) | Federico Fellini
+=2 | Raging Bull (1980) | Martin Scorsese
+4 | La Strada (1954) | Federico Fellini
+5 | L'Atalante (1934) | Jean Vigo
+=6 | The Godfather (1972) | Francis Ford Coppola
+=6 | Modern Times (1936) | Charles Chaplin
+=6 | Vertigo (1958) | Alfred Hitchcock
+=9 | The Godfather Part II (1974) | Francis Ford Coppola
+=9 | The Passion of Joan of Arc (1928) | Carl Theodor Dreyer
+=9 | Rashomon (1950) | Akira Kurosawa
+=9 | Seven Samurai (1954) | Akira Kurosawa

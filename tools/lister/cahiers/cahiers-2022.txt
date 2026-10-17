@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2022
+# kort: Cahiers 2022
+# serie: Cahiers du cinéma
+# år: 2022
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Pacifiction (2022) | Albert Serra | tmdb:691214
+2 | Licorice Pizza (2021) | Paul Thomas Anderson | tmdb:718032
+3 | Nope (2022) | Jordan Peele | tmdb:762504
+4 | EO (2022) | Jerzy Skolimowski | tmdb:785398
+5 | Wheel of Fortune and Fantasy (2021) | Ryūsuke Hamaguchi | tmdb:795811
+6 | Bowling Saturne (2022) | Patricia Mazuy | tmdb:848950
+7 | Apollo 10½: A Space Age Childhood (2022) | Richard Linklater | tmdb:664996
+8 | Introduction (2022) | Hong Sang-soo | tmdb:795797
+9 | Nobody's Hero (2022) | Alain Guiraudie | tmdb:660709
+10 | Who's Stopping Us (2021) | Jonás Trueba | tmdb:531921

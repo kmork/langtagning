@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1968
+# kort: Cahiers 1968
+# serie: Cahiers du cinéma
+# år: 1968
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | The Chronicle of Anna Magdalena Bach (1968) | Jean-Marie Straub / Danièle Huillet | tmdb:95600
+2 | Before the Revolution (1964) | Bernardo Bertolucci | tmdb:42788
+3 | The Edge (1968) | Robert Kramer | tmdb:262755
+4 | Spirits of the Dead (1968) | Federico Fellini | tmdb:41225
+5 | Don't Let It Kill You (1967) | Jean Pierre Lefebvre | tmdb:354604
+6 | The Times That Are (1967) | Pierre Perrault | tmdb:260590
+7 | Barrier (1966) | Jerzy Skolimowski | tmdb:121942
+8 | Stolen Kisses (1968) | François Truffaut | tmdb:255
+9 | Ride in the Whirlwind (1966) | Monte Hellman | tmdb:60555
+=10 | The Bride Wore Black (1968) | François Truffaut | tmdb:4191
+=10 | The Smugglers (1967) | Luc Moullet | tmdb:134217

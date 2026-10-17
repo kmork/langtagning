@@ -1,0 +1,286 @@
+# Én film per linje. Linjer som starter med # ignoreres.
+# Format:  Tittel (år) | status | tagger | egen beskrivelse
+# Alt etter tittelen er valgfritt. Årstall gir sikrere treff.
+# Status: sett, vil-se, samling  (flere kan kombineres)
+
+Natt på Manhatten | sett, samling
+Elle | sett, samling
+Tropa de Elite | sett, samling
+Shortcuts | sett, samling
+Clockwise | sett, samling
+Carnage | sett, samling
+Bullitt | sett, samling
+The Towering Inferno | vil-se, samling
+The Cincinnati Kid | vil-se, samling
+Babel | sett, samling
+Boogie Nights | sett, samling
+El Topo | sett, samling
+Butch Cassidy and the Sundance Kid | sett, samling
+American Honey | sett, samling
+The Big Lebowski | sett, samling
+Playtime | sett, samling
+Fest i By'n | sett, samling
+Trafikk | sett, samling
+Feriesabotøren | sett, samling
+The Master | sett, samling
+Drive My Car | sett, samling
+Masculin Feminin | sett, samling
+Pink Panther | sett, samling
+A Shot in the Dark | sett, samling
+The Pink Panther Strikes Again | sett, samling
+Revenge of the Pink Panther | sett, samling
+Trail of the Pink Panther | sett, samling
+The Return of the Pink Panther | sett
+Gudene må være gale | sett, samling
+Gudene må være gale 2 | sett, samling
+la Grande Bouffe | sett, samling
+The Long Good Friday | sett, samling
+Chinatown | sett, samling
+What? | sett, samling
+The Conversation | sett, samling
+A Fistful of Dollars | sett, samling
+For a Few Dollars More | sett, samling
+The Good, the Bad and the Ugly | sett, samling
+True Romance | sett, samling
+Cannonball Run | sett, samling
+Head Above Water | sett, samling
+Werckmeister Harmonies | sett, samling
+Casino Royale | sett, samling
+Delikatessen | sett, samling
+The Deer Hunter | sett, samling
+Death Proof | sett, samling
+Brud i Sort | sett, samling
+Havfruen fra Mississippi | sett, samling
+Mannen som elsket kvinner | sett, samling
+Big fish | sett, samling
+Le Cercle Rouge | sett, samling
+Badlands | sett, samling
+Coffy | sett, samling
+Planet Terror | sett, samling
+The Thin Red Line | sett, samling
+Get Carter | sett, samling
+L'eclisse | sett, samling
+Dunkirk | sett, samling
+Breathless | sett, samling
+Bad Boy Bubby | sett, samling
+Lock, Stock and Two Smoking Barrels | sett, samling
+Kill Bill Vol. 1 | sett, samling
+Kill Bill Vol. 2 | sett, samling
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb | sett, samling
+1900 | sett, samling
+Fire nyanser av brunt | sett, samling
+Hell or High Water | sett, samling
+Lawrence of Arabia | sett, samling
+Snatch | sett, samling
+Office Space | sett, samling
+Kell's Heroes | sett, samling
+Blade Runner | sett, samling
+Rød | sett, samling
+Hvit | sett, samling
+Blå | sett, samling
+Nomadland | sett, samling
+Kammerpiken | sett, samling
+Coffee and Cigarettes | sett, samling
+Blow | sett, samling
+Nyckeln till frihet | sett, samling
+Aftersun | sett, samling
+The Square | sett, samling
+Dead Man | sett, samling
+The Godfather | sett, samling
+The Godfather Part II | sett, samling
+Stikket | sett, samling
+Fargo | sett, samling
+The Blues Brothers | sett, samling
+Elsker deg for evig | sett, samling
+Brødre | sett, samling
+Etter Bryllupet | sett, samling
+Nord | sett, samling
+Gjøkeredet | sett, samling
+Lucky | sett, samling
+Det Store Blå | sett, samling
+Blow-up | sett, samling
+Lawrence of Arabia | sett, samling
+De Usynlige | sett, samling
+O Brother Where Art Thou? | sett, samling
+Monty Python and the Holy Grail | sett, samling
+Blade Runner 2049 | sett, samling
+American Graffiti | sett, samling
+10 | sett, samling
+Paris je t'aime | sett, samling
+The Apartment | sett, samling
+Smultronstället | sett, samling
+Once upon a Time in Hollywood | sett, samling
+Aguirre, the Wrath of God | sett, samling
+Sanger frå andre etasje | sett, samling
+Folk flest bor i Kina | sett, samling
+Kick-ass | sett, samling
+Garden State | sett, samling
+The Flamingo Kid | sett, samling
+Ford Fairlane | sett, samling
+Ptit Quinquin | sett, samling
+Wild Tales | sett, samling
+The Long Goodbye | sett, samling
+Withnail and I | sett, samling
+Zabriski Point | sett, samling
+De elskede på Point Neuf | sett, samling
+Dead Poets Society | sett, samling
+Torsk På Tallinn | sett, samling
+Sort katt hvit katt | sett, samling
+Det blir aldri som man tenker seg | sett, samling
+Bad Taste | sett, samling
+Supercop | sett, samling
+Bad Santa | sett, samling
+Mash | sett, samling
+Down by Law | sett, samling
+Easy Rider | sett, samling
+Mitt liv som hund | sett, samling
+Fletch | sett, samling
+From Dusk Till Dawn | sett, samling
+Syriana | sett, samling
+Fellinis Casanova | sett, samling
+Hundreåringen som klatret ut gjennom vinduet og forsvant | sett, samling
+Castaway on the Moon | sett, samling
+A Clockwork Orange | sett, samling
+U-turn | sett, samling
+Inherent Vice | sett, samling
+Stranger than paradise | sett, samling
+Fritz the Cat | sett, samling
+Fritz the Cat II | sett, samling
+Brasil | sett, samling
+Singin' in the Rain | sett, samling
+Midnight Run | sett, samling
+Night On Earth | sett, samling
+Spring, Summer, Fall, Winter... and Spring | sett, samling
+Stalingrad | sett, samling
+De Ufrivillige | sett, samling
+The 400 Blows | sett, samling
+Licorice Pizza | sett, samling
+Inside Out | sett, samling
+The man who wasn't there | sett, samling
+Kurt blir grusom | sett, samling
+Dogville | sett, samling
+Sweeney Todd: The Demon Barber of Fleet Street | sett, samling
+The Banshees of Inisherin | sett, samling
+Dykkerklokken og sommerfuglen | sett, samling
+Meet the Feebles | sett, samling
+The French Connection | sett, samling
+The French Connection II | sett, samling
+The Eagle Has Landed | sett, samling
+Apocalypse Now | sett, samling
+Life of Brian | sett, samling
+Monsters Inc | sett, samling
+Finding Nemo | sett, samling
+Tornerose | sett, samling
+The Little Mermaid | sett, samling
+Braindead | sett, samling
+Blues Brothers 2000 | sett, samling
+Sympathy for Mr. Vengeance | sett, samling
+Oldboy | sett, samling
+Lady Vengeance | sett, samling
+Nawals hemmelighet | sett, samling
+Taxi Driver | sett, samling
+Gomorra | sett, samling
+Plan 9 from Outer Space | sett, samling
+Eternal Sunshine of the Spotless Mind | sett, samling
+Raising Arizona | sett, samling
+The Tree of Life | sett, samling
+Silly Symphony | sett, samling
+Toy Story | sett, samling
+Toy Story 2 | sett, samling
+Toy Story 3 | sett, samling
+Annie Hall | sett, samling
+Holy Motors | sett, samling
+Hannah and Her Sisters | vil-se, samling
+Min Onkel | sett, samling
+Another Year | sett, samling
+Elskede, Jeg hater deg | sett, samling
+Foxy Brown | sett, samling
+In The Loop | sett, samling
+The Postman | sett, samling
+Raging Bull | sett, samling
+Fellinis Roma | sett, samling
+What's new Pussycat? | vil-se, samling
+Full Metal Jacket | sett, samling
+Black Dynamite | sett, samling
+The King of Comedy | sett, samling
+Fantasia | sett, samling
+Barry Lyndon | sett, samling
+The Italian Job | sett, samling
+Persona | sett, samling
+Blood Simple | sett, samling
+DogTooth | sett, samling
+Picnic at Hanging Rock | sett, samling
+Nashville | sett, samling
+Satyricon | sett, samling
+Beaty and the Beast | sett, samling
+Bande A Part | sett, samling
+Swimming Pool | sett, samling
+Le mepris | sett, samling
+The Passenger | sett, samling
+Pierrot le Fou | sett, samling
+Sherlock Jr. | vil-se, samling
+The General | sett, samling
+Steamboat Bill Jr. | vil-se, samling
+The Gumball Rally | sett, samling
+Woman in the Dunes | sett, samling
+Underground | sett, samling
+Fitzcarraldo | sett, samling
+North by Northwest | sett, samling
+Den andre siden av håpet | sett, samling
+La notte | sett, samling
+Alice in Wonderland | sett, samling
+Peter Pan | sett, samling
+Alphaville | sett, samling
+Andrei Rublev | sett, samling
+Being There | sett, samling
+Une femme est une femme | sett, samling
+The Killing | sett, samling
+Mediterraneo | sett, samling
+Pale Rider | sett, samling
+The Wild Bunch | vil-se, samling
+Rio Bravo | vil-se, samling
+How the west was won | vil-se, samling
+The searchers | sett, samling
+I vitelloni | sett, samling
+The holy mountain | sett, samling
+Poor Things | sett, samling
+Decision to Leave | sett, samling
+The substance | sett, samling
+Perfect days | sett, samling
+Manhatten | sett, samling
+L'avventura | sett, samling
+Jungelboken | sett, samling
+Se opp | sett, samling
+Hakkebakkeskogen | sett, samling
+Snehvit | sett, samling
+Pinocchio | sett, samling
+Mars & Venus | sett, samling
+Time Bandits | sett, samling
+Ringenes Herre: Atter en konge | sett, samling
+Taxi | samling
+1941 | vil-se, samling
+The fault in our stars | samling
+Migmacs | sett, samling
+Le Havre | sett, samling
+Tokyo Story | sett, samling
+The Kid | vil-se, samling
+The Gold Rush | sett, samling
+The Circus | vil-se, samling
+Modern Times | vil-se, samling
+Limelight | vil-se, samling
+Diktatoren | sett, samling
+Day for Night | sett, samling
+Cleo fra 5 til 7 | sett, samling
+Ieri, oggi, domani | vil-se, samling
+In the Mood for Love | vil-se, samling
+Sorcerer | vil-se, samling
+Le samourai | vil-se, samling
+Klute | vil-se, samling
+Vivre sa vie | vil-se, samling
+The Lighthouse | vil-se, samling
+Nights of Cabiria | vil-se, samling
+La strada | sett, samling
+The White Sheik | sett, samling
+Pickpocket | vil-se, samling
+The adventures of Priscilla, Queen of the Desert | vil-se, samling
+Ghost Dog: The Way of the Samurai | vil-se, samling

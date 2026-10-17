@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 2005
+# kort: Cahiers 2005
+# serie: Cahiers du cinéma
+# år: 2005
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Last Days (2005) | Gus Van Sant | tmdb:1665
+=2 | A History of Violence (2005) | David Cronenberg | tmdb:59
+=2 | Regular Lovers (2005) | Philippe Garrel | tmdb:45126
+=4 | Three Times (2005) | Hou Hsiao-hsien | tmdb:11554
+=4 | The World (2004) | Jia Zhangke | tmdb:41292
+=4 | 1/3 des yeux (2004) | Olivier Zabat | tmdb:405115
+=4 | Le Petit Lieutenant (2005) | Xavier Beauvois | tmdb:12455
+=8 | Be with Me (2005) | Eric Khoo | tmdb:29965
+=8 | Tale of Cinema (2005) | Hong Sang-soo | tmdb:85550
+=8 | Sin City (2005) | Frank Miller / Robert Rodriguez | tmdb:187
+=8 | Grizzly Man (2005) | Werner Herzog | tmdb:501

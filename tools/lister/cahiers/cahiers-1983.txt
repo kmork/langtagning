@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1983
+# kort: Cahiers 1983
+# serie: Cahiers du cinéma
+# år: 1983
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | À Nos Amours (1983) | Maurice Pialat | tmdb:2282
+=1 | L'Argent (1983) | Robert Bresson | tmdb:42112
+=3 | Merry Christmas, Mr. Lawrence (1983) | Nagisa Ōshima | tmdb:11948
+=3 | Un jeu brutal (1983) | Jean-Claude Brisseau | tmdb:80307
+=5 | The King of Comedy (1982) | Martin Scorsese | tmdb:262
+=5 | Pauline at the Beach (1983) | Éric Rohmer | tmdb:10293
+=7 | L'Enfant Secret (1979) | Philippe Garrel | tmdb:123817
+=7 | Faux-Fuyants (1983) | Alain Bergala / Jean-Pierre Limosin | tmdb:258045
+=7 | Three Crowns of the Sailor (1983) | Raoul Ruiz | tmdb:64441
+=10 | Cracking Up (1983) | Jerry Lewis | tmdb:36818
+=10 | Fanny and Alexander (1982) | Ingmar Bergman | tmdb:5961

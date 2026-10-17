@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1988
+# kort: Cahiers 1988
+# serie: Cahiers du cinéma
+# år: 1988
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Bird (1988) | Clint Eastwood | tmdb:24679
+=2 | Sound and Fury (1988) | Jean-Claude Brisseau | tmdb:51228
+=2 | A Short Film About Killing (1988) | Krzysztof Kieślowski | tmdb:10754
+=2 | Story of Women (1988) | Claude Chabrol | tmdb:41975
+=5 | The Dead (1987) | John Huston | tmdb:39507
+=5 | Three Seats for the 26th (1988) | Jacques Demy | tmdb:105572
+=5 | Urgences (1987) | Raymond Depardon | tmdb:37474
+=5 | Who Framed Roger Rabbit (1988) | Robert Zemeckis | tmdb:856
+=9 | L'Amoureuse (1987) | Jacques Doillon | tmdb:568528
+=9 | Ashik Kerib (1988) | Sergueï Paradjanov / Dodo Abachidze | tmdb:92663

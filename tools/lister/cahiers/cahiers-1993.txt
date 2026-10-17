@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1993
+# kort: Cahiers 1993
+# serie: Cahiers du cinéma
+# år: 1993
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | A Perfect World (1993) | Clint Eastwood | tmdb:9559
+2 | Abraham's Valley (1993) | Manoel de Oliveira | tmdb:107693
+3 | The Tree, the Mayor and the Mediatheque (1993) | Éric Rohmer | tmdb:134463
+4 | Smoking/No Smoking (1993) | Alain Resnais | tmdb:61560
+5 | In the Land of the Deaf (1992) | Nicolas Philibert | tmdb:118348
+6 | Days and Nights in the Forest (1970) | Satyajit Ray | tmdb:35867
+7 | Mad Dog and Glory (1993) | John McNaughton | tmdb:10433
+8 | Innocent Blood (1992) | John Landis | tmdb:27381
+9 | Bad Lieutenant (1992) | Abel Ferrara | tmdb:12143
+10 | Hélas pour moi (1993) | Jean-Luc Godard | tmdb:52713

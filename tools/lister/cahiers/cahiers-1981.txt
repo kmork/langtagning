@@ -1,0 +1,22 @@
+# navn: Cahiers du cinéma – årets topp 10, 1981
+# kort: Cahiers 1981
+# serie: Cahiers du cinéma
+# år: 1981
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+=1 | The Aviator's Wife (1981) | Éric Rohmer | tmdb:27145
+=1 | Francisca (1981) | Manoel de Oliveira | tmdb:110789
+=3 | Hotel America (1981) | André Téchiné | tmdb:76821
+=3 | Tragedy of a Ridiculous Man (1981) | Bernardo Bertolucci | tmdb:42144
+=5 | Germany, Pale Mother (1980) | Helma Sanders-Brahms | tmdb:65481
+=5 | The Woman Next Door (1981) | François Truffaut | tmdb:12579
+7 | Stalker (1979) | Andreï Tarkovski | tmdb:1398
+=8 | Jalsaghar (1958) | Satyajit Ray | tmdb:822
+=8 | Raging Bull (1980) | Martin Scorsese | tmdb:1578
+=10 | Gloria (1980) | John Cassavetes | tmdb:10889
+=10 | In girum imus nocte et consumimur igni (1978) | Guy Debord | tmdb:61662
+=10 | Palermo or Wolfsburg (1980) | Werner Schroeter | tmdb:130544
+=10 | The Wings of the Dove (1981) | Benoît Jacquot | tmdb:63225

@@ -1,0 +1,22 @@
+# navn: Cahiers du cinéma – årets topp 10, 1998
+# kort: Cahiers 1998
+# serie: Cahiers du cinéma
+# år: 1998
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Flowers of Shanghai (1998) | Hou Hsiao-hsien | tmdb:45935
+2 | Dr. Akagi (1998) | Shōhei Imamura | tmdb:68528
+=3 | Autumn Tale (1998) | Éric Rohmer | tmdb:10239
+=3 | Midnight in the Garden of Good and Evil (1997) | Clint Eastwood | tmdb:8197
+=5 | Anxiety (1998) | Manoel de Oliveira | tmdb:110214
+=5 | Sue (1998) | Amos Kollek | tmdb:49813
+=7 | L'Ennui (1998) | Cédric Kahn | tmdb:55107
+=7 | Velvet Goldmine (1998) | Todd Haynes | tmdb:1808
+9 | Snake Eyes (1998) | Brian De Palma | tmdb:8688
+=10 | Ossos (1997) | Pedro Costa | tmdb:55700
+=10 | Jackie Brown (1997) | Quentin Tarantino | tmdb:184
+=10 | Titanic (1997) | James Cameron | tmdb:597
+=10 | Hinterland (1998) | Jacques Nolot | tmdb:110216

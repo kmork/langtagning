@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2024
+# kort: Cahiers 2024
+# serie: Cahiers du cinéma
+# år: 2024
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Misericordia (2024) | Alain Guiraudie | tmdb:1063574
+2 | May December (2023) | Todd Haynes | tmdb:839369
+3 | In Water (2023) | Hong Sang-soo | tmdb:1077647
+4 | The Zone of Interest (2023) | Jonathan Glazer | tmdb:467244
+5 | All We Imagine as Light (2024) | Payal Kapadia | tmdb:927547
+6 | The Delinquents (2023) | Rodrigo Moreno | tmdb:714889
+7 | Evil Does Not Exist (2023) | Ryūsuke Hamaguchi | tmdb:1156125
+8 | This Life of Mine (2024) | Sophie Fillières | tmdb:1001434
+9 | Trap (2024) | M. Night Shyamalan | tmdb:1032823
+10 | The Other Way Around (2024) | Jonás Trueba | tmdb:1214118

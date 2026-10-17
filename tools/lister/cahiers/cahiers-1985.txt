@@ -1,0 +1,20 @@
+# navn: Cahiers du cinéma – årets topp 10, 1985
+# kort: Cahiers 1985
+# serie: Cahiers du cinéma
+# år: 1985
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Hail Mary (1985) | Jean-Luc Godard | tmdb:32720
+2 | Détective (1985) | Jean-Luc Godard | tmdb:52710
+3 | Year of the Dragon (1985) | Michael Cimino | tmdb:11018
+4 | After the Rehearsal (1984) | Ingmar Bergman | tmdb:42090
+5 | Love Streams (1984) | John Cassavetes | tmdb:52109
+6 | Ghare Baire (1984) | Satyajit Ray | tmdb:42092
+7 | Les Amants terribles (1984) | Danièle Dubroux | tmdb:404352
+8 | The Children (1985) | Marguerite Duras | tmdb:86096
+9 | Ran (1985) | Akira Kurosawa | tmdb:11645
+=10 | Favorites of the Moon (1984) | Otar Iosseliani | tmdb:47450
+=10 | Rendez-vous (1985) | André Téchiné | tmdb:34093

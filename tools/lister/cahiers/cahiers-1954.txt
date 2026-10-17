@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1954
+# kort: Cahiers 1954
+# serie: Cahiers du cinéma
+# år: 1954
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Él (1953) | Luis Buñuel | tmdb:43344
+2 | Touchez pas au grisbi (1954) | Jacques Becker | tmdb:27430
+3 | Knave of Hearts (1954) | René Clément | tmdb:163333
+4 | The Wild One (1953) | László Benedek | tmdb:28696
+5 | Gentlemen Prefer Blondes (1953) | Howard Hawks | tmdb:759
+6 | I Vitelloni (1953) | Federico Fellini | tmdb:12548
+7 | It Should Happen to You (1954) | George Cukor | tmdb:20127
+8 | The Blue Gardenia (1953) | Fritz Lang | tmdb:21594
+9 | Robinson Crusoe (1954) | Luis Buñuel | tmdb:54979
+10 | Mother (1952) | Mikio Naruse | tmdb:41173

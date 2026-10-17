@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 1959
+# kort: Cahiers 1959
+# serie: Cahiers du cinéma
+# år: 1959
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Ugetsu (1953) | Kenji Mizoguchi | tmdb:14696
+2 | Hiroshima mon amour (1959) | Alain Resnais | tmdb:5544
+3 | Ivan the Terrible (1944) | Sergueï Eisenstein
+4 | Pickpocket (1959) | Robert Bresson | tmdb:690
+5 | The 400 Blows (1959) | François Truffaut | tmdb:147
+6 | Rio Bravo (1959) | Howard Hawks | tmdb:301
+7 | Wild Strawberries (1957) | Ingmar Bergman | tmdb:614
+8 | Vertigo (1958) | Alfred Hitchcock | tmdb:426
+9 | Princess Yang Kwei Fei (1955) | Kenji Mizoguchi | tmdb:91426
+10 | The Tiger of Eschnapur (1959) | Fritz Lang | tmdb:71041

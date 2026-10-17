@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2021
+# kort: Cahiers 2021
+# serie: Cahiers du cinéma
+# år: 2021
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | First Cow (2019) | Kelly Reichardt | tmdb:558582
+2 | Annette (2021) | Leos Carax | tmdb:424277
+3 | Memoria (2021) | Apichatpong Weerasethakul | tmdb:511819
+4 | Drive My Car (2021) | Ryūsuke Hamaguchi | tmdb:758866
+5 | France (2021) | Bruno Dumont | tmdb:602334
+6 | The French Dispatch (2021) | Wes Anderson | tmdb:542178
+7 | All Hands on Deck (2020) | Guillaume Brac | tmdb:665753
+8 | The Girl and the Spider (2021) | Ramon Zürcher et | tmdb:517815
+9 | The Card Counter (2021) | Paul Schrader | tmdb:643532
+10 | Benedetta (2021) | Paul Verhoeven | tmdb:454527

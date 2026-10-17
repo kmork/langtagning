@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2014
+# kort: Cahiers 2014
+# serie: Cahiers du cinéma
+# år: 2014
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | P'tit Quinquin (2014) | Bruno Dumont | tmdb:961596
+2 | Goodbye to Language (2014) | Jean-Luc Godard | tmdb:114982
+3 | Under the Skin (2013) | Jonathan Glazer | tmdb:97370
+4 | Maps to the Stars (2014) | David Cronenberg | tmdb:157851
+5 | The Wind Rises (2013) | Hayao Miyazaki | tmdb:149870
+6 | Nymphomaniac (2013) | Lars von Trier | tmdb:258216
+7 | Mommy (2014) | Xavier Dolan | tmdb:265177
+8 | Love Is Strange (2014) | Ira Sachs | tmdb:244268
+9 | Le Paradis (2014) | Alain Cavalier | tmdb:294721
+10 | Our Sunhi (2013) | Hong Sang-soo | tmdb:211579

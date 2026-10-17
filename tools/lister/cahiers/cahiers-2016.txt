@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2016
+# kort: Cahiers 2016
+# serie: Cahiers du cinéma
+# år: 2016
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Toni Erdmann (2016) | Maren Ade | tmdb:374475
+2 | Elle (2016) | Paul Verhoeven | tmdb:337674
+3 | The Neon Demon (2016) | Nicolas Winding Refn | tmdb:301365
+4 | Aquarius (2015) | Kleber Mendonça Filho | tmdb:377273
+5 | Slack Bay (2016) | Bruno Dumont | tmdb:371865
+6 | Julieta (2016) | Pedro Almodóvar | tmdb:332872
+7 | Staying Vertical (2016) | Alain Guiraudie | tmdb:380622
+8 | La Loi de la jungle (2016) | Antonin Peretjatko | tmdb:377276
+9 | Carol (2015) | Todd Haynes | tmdb:258480
+10 | Le Bois dont les rêves sont faits (2016) | Claire Simon | tmdb:378489

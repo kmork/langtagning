@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2013
+# kort: Cahiers 2013
+# serie: Cahiers du cinéma
+# år: 2013
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Stranger by the Lake (2013) | Alain Guiraudie | tmdb:186992
+2 | Spring Breakers (2013) | Harmony Korine | tmdb:122081
+3 | Blue Is the Warmest Colour (2013) | Abdellatif Kechiche | tmdb:152584
+4 | Gravity (2013) | Alfonso Cuarón | tmdb:49047
+5 | A Touch of Sin (2013) | Jia Zhangke | tmdb:187022
+6 | Lincoln (2012) | Steven Spielberg | tmdb:72976
+7 | Jealousy (2013) | Philippe Garrel | tmdb:216457
+8 | Nobody's Daughter Haewon (2013) | Hong Sang-soo | tmdb:160075
+9 | You and the Night (2013) | Yann Gonzalez | tmdb:191718
+10 | Age of Panic (2013) | Justine Triet | tmdb:195173

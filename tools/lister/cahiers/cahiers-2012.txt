@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2012
+# kort: Cahiers 2012
+# serie: Cahiers du cinéma
+# år: 2012
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Holy Motors (2012) | Leos Carax | tmdb:103328
+2 | Cosmopolis (2012) | David Cronenberg | tmdb:49014
+3 | Twixt (2011) | Francis Ford Coppola | tmdb:78381
+4 | 4:44 Last Day on Earth (2011) | Abel Ferrara | tmdb:86820
+5 | In Another Country (2012) | Hong Sang-soo | tmdb:103753
+6 | Take Shelter (2011) | Jeff Nichols | tmdb:64720
+7 | Go Go Tales (2007) | Abel Ferrara | tmdb:50318
+8 | Tabu (2012) | Miguel Gomes | tmdb:93858
+9 | Faust (2011) | Alexandre Sokourov | tmdb:77560
+10 | Keep the Lights On (2012) | Ira Sachs | tmdb:84290

@@ -1,0 +1,19 @@
+# navn: Cahiers du cinéma – årets topp 10, 2025
+# kort: Cahiers 2025
+# serie: Cahiers du cinéma
+# år: 2025
+# størrelse: 10
+# type: årlig
+# kilde: https://fr.wikipedia.org/wiki/Top_10_des_Cahiers_du_cin%C3%A9ma
+# Format: plass | Tittel (år) | regissør | tmdb:ID   («=» betyr delt plassering)
+
+1 | Afternoons of Solitude (2024) | Albert Serra | tmdb:975324
+2 | One Battle After Another (2025) | Paul Thomas Anderson | tmdb:1054867
+3 | Yes (2025) | Nadav Lapid | tmdb:1149614
+4 | The Secret Agent (2025) | Kleber Mendonça Filho | tmdb:1220564
+5 | I Only Rest in the Storm (2025) | Pedro Pinho | tmdb:1103551
+6 | L'Aventura (2025) | Sophie Letourneur | tmdb:1317616
+7 | 7 Walks with Mark Brown (2025) | Pierre Creton / Vincent Barré | tmdb:1301218
+8 | Nouvelle Vague (2025) | Richard Linklater | tmdb:1254808
+9 | Laurent dans le vent (2025) | Anton Balekdjian / Léo Couture / Mattéo Eustachon | tmdb:1383289
+10 | Miroirs No. 3 (2025) | Christian Petzold | tmdb:1178602
