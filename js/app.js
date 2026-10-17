@@ -788,7 +788,7 @@
     if (m.tmdb_id) L.push({ cls: "tmdb", tag: "TMDB", name: "TMDB", url: `https://www.themoviedb.org/movie/${m.tmdb_id}` });
     if (fmtUrl(m)) L.push({ cls: "fmt", tag: "▶", name: "Filmoteket", url: fmtUrl(m) });
     const cine = m.tmdb_id && CINE_LINKS[m.tmdb_id];
-    if (cine) L.push({ cls: "cine", tag: "C", name: "Cinemateket", url: cine });
+    if (cine) L.push({ cls: "cinemateket", tag: "C", name: "Cinemateket", url: cine });
     for (const [k, url] of Object.entries(m.links)) {
       if (!url || ["imdb", "bfi", "rt", "ebert", "criterion"].includes(k)) continue;
       L.push({ cls: "", tag: "↗", name: k, url });
@@ -892,7 +892,6 @@
     if (m.countries.length) rows.push(["Land", filterBtns("country", m.countries, countryName)]);
     if (m.cast.length) rows.push(["Medvirkende", filterBtns("actor", m.cast)]);
     if (m.tags.length) rows.push(["Tagger", m.tags.map((t) => `<button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button>`).join(" ")]);
-    if (m.added) rows.push(["Lagt til", esc(m.added)]);
 
     const showOrig = m.original_title && m.original_title !== m.title;
     dialog.innerHTML = `
@@ -911,10 +910,10 @@
               `<li><button data-filter="award" data-v="${esc(a)}">${LAUREL}<span>${a.includes(" – ") ? `<small>${esc(awardGroup(a))}</small>${esc(a.split(" – ").slice(1).join(" – "))}` : esc(a)}</span></button></li>`).join("")}</ul>` : ""}
             ${m.description ? `<div class="note"><span class="note-label">Mine tanker</span>${esc(m.description)}</div>` : ""}
             ${cineHTML(m) || (m.overview ? `<p class="overview">${esc(m.overview)}</p>` : "")}
-            ${rankingsHTML(m)}
             ${addBoxHTML(m)}
             <dl class="meta">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("")}</dl>
             <div class="links">${linksFor(m)}</div>
+            ${rankingsHTML(m)}
           </div>
         </div>
       </div>`;

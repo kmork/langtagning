@@ -956,7 +956,7 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
 .cine cite::before { content: "— "; }
 .cine .cine-src { font-size: .78rem; color: var(--text-faint); }
 .cine .cine-src a { color: var(--text-dim); }
-.extlink .cine { background: #e2312c; color: #fff; }
+.extlink .cinemateket { background: #e2312c; color: #fff; }
 
 /* ---------- Filmoteket (strømming via biblioteket) ---------- */
 .badge.stream { color: #9fd3e0; }
