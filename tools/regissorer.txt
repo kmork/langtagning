@@ -1,0 +1,6 @@
+# Ekstra regissører som skal ha hele filmografien (én per linje)
+Roy Andersson
+Steven Soderbergh
+David Zucker
+Jerry Zucker
+Thomas Vinterberg

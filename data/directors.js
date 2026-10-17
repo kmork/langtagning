@@ -958,6 +958,92 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 54494,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 466,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 46941,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 17365,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 891,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 42201,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 54663,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 47888,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 15764,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 103600,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 31645,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 120518,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 11092,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 37753,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 9944,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 4477,
+"kind": "feature",
+"year": 1997
+}
+],
+"name": "Alan J. Pakula",
+"person_id": 6349
+},
+{
+"films": [
+{
 "id": 32891,
 "kind": "short",
 "year": 1957
@@ -1020,6 +1106,158 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Alejandro Jodorowsky",
 "person_id": 55119
+},
+{
+"films": [
+{
+"id": 111322,
+"kind": "short",
+"year": 1985
+},
+{
+"id": 353912,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 359116,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 353921,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 13891,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 9451,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 2755,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 9675,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 2266,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 126446,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 1388304,
+"kind": "short",
+"year": 2006
+},
+{
+"id": 65057,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 129670,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 301337,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 840430,
+"kind": "feature",
+"year": 2023
+}
+],
+"name": "Alexander Payne",
+"person_id": 13235
+},
+{
+"films": [
+{
+"id": 69910,
+"kind": "short",
+"year": 1983
+},
+{
+"id": 368352,
+"kind": "short",
+"year": 1983
+},
+{
+"id": 422298,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 49971,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 19101,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 9410,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 1391,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 673,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 2266,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 9693,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 231390,
+"kind": "doc",
+"year": 2007
+},
+{
+"id": 49047,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 426426,
+"kind": "feature",
+"year": 2018
+}
+],
+"name": "Alfonso Cuarón",
+"person_id": 11218
 },
 {
 "films": [
@@ -1412,6 +1650,57 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Andrei Tarkovsky",
 "person_id": 8452
+},
+{
+"films": [
+{
+"id": 209681,
+"kind": "short",
+"year": 1986
+},
+{
+"id": 148950,
+"kind": "short",
+"year": 1987
+},
+{
+"id": 12,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 10681,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 877268,
+"kind": "short",
+"year": 2008
+},
+{
+"id": 49529,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 127380,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 1032892,
+"kind": "feature",
+"year": 2026
+},
+{
+"id": 1084244,
+"kind": "feature",
+"year": 2026
+}
+],
+"name": "Andrew Stanton",
+"person_id": 7
 },
 {
 "films": [
@@ -2272,6 +2561,293 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Blake Edwards",
 "person_id": 1927
+},
+{
+"films": [
+{
+"id": 1199006,
+"kind": "short",
+"year": 1992
+},
+{
+"id": 623630,
+"kind": "short",
+"year": 1994
+},
+{
+"id": 623631,
+"kind": "short",
+"year": 1994
+},
+{
+"id": 21531,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 11423,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 118179,
+"kind": "short",
+"year": 2004
+},
+{
+"id": 187425,
+"kind": "short",
+"year": 2004
+},
+{
+"id": 638373,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 1255,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 8938,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 30018,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 398149,
+"kind": "doc",
+"year": 2011
+},
+{
+"id": 110415,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 387426,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 496243,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 67415,
+"kind": "short",
+"year": 2025
+},
+{
+"id": 696506,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Bong Joon Ho",
+"person_id": 21684
+},
+{
+"films": [
+{
+"id": 351403,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 351404,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 186959,
+"kind": "short",
+"year": 1963
+},
+{
+"id": 351405,
+"kind": "doc",
+"year": 1964
+},
+{
+"id": 187693,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 586860,
+"kind": "doc",
+"year": 1966
+},
+{
+"id": 64936,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 73604,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 74137,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 351407,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 42589,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 98048,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 89417,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 22307,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 27327,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 4780,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 7340,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 12611,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 6984,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 11033,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 11644,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 111,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 11507,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 31659,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 117,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 10142,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 9586,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 13937,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 6075,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 954,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 8688,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 2067,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 115186,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 9280,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 9676,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 11600,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 109099,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 455957,
+"kind": "feature",
+"year": 2019
+}
+],
+"name": "Brian De Palma",
+"person_id": 1150
 },
 {
 "films": [
@@ -3310,6 +3886,107 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 804706,
+"kind": "short",
+"year": 1990
+},
+{
+"id": 456684,
+"kind": "short",
+"year": 1996
+},
+{
+"id": 43629,
+"kind": "short",
+"year": 1997
+},
+{
+"id": 11660,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 77,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 320,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 126444,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 272,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 1124,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 505819,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 155,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 27205,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 49026,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 157336,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 352114,
+"kind": "doc",
+"year": 2015
+},
+{
+"id": 374720,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 577922,
+"kind": "feature",
+"year": 2020
+},
+{
+"id": 872585,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1368337,
+"kind": "feature",
+"year": 2026
+}
+],
+"name": "Christopher Nolan",
+"person_id": 525
+},
+{
+"films": [
+{
 "id": 184457,
 "kind": "feature",
 "year": 1925
@@ -3606,6 +4283,308 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 237730,
+"kind": "short",
+"year": 1966
+},
+{
+"id": 104404,
+"kind": "short",
+"year": 1967
+},
+{
+"id": 33691,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 813168,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 813173,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 813178,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 813183,
+"kind": "short",
+"year": 1972
+},
+{
+"id": 813233,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 813234,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 813236,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 813237,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 813238,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 27429,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 29437,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 28942,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 38493,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 9538,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 837,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 11336,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 27371,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 9426,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 9540,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 2742,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 1413,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 884,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 1946,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 100607,
+"kind": "short",
+"year": 2000
+},
+{
+"id": 993716,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 9613,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 59,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 2252,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 36108,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 1687093,
+"kind": "short",
+"year": 2007
+},
+{
+"id": 48231,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 49014,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 278995,
+"kind": "short",
+"year": 2013
+},
+{
+"id": 157851,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 819876,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 875425,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 1094746,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 970947,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "David Cronenberg",
+"person_id": 224
+},
+{
+"films": [
+{
+"id": 384953,
+"kind": "doc",
+"year": 1985
+},
+{
+"id": 284582,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 8077,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 267246,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 39683,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 807,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 2649,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 550,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 286396,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 4547,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 1949,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 4922,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 37799,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 65754,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 210577,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 614560,
+"kind": "feature",
+"year": 2020
+},
+{
+"id": 800158,
+"kind": "feature",
+"year": 2023
+}
+],
+"name": "David Fincher",
+"person_id": 7467
+},
+{
+"films": [
+{
 "id": 189597,
 "kind": "short",
 "year": 1926
@@ -3813,6 +4792,163 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "David Hand",
 "person_id": 5446
+},
+{
+"films": [
+{
+"id": 28093,
+"kind": "feature",
+"year": 1942
+},
+{
+"id": 51617,
+"kind": "feature",
+"year": 1944
+},
+{
+"id": 851,
+"kind": "feature",
+"year": 1945
+},
+{
+"id": 19072,
+"kind": "feature",
+"year": 1945
+},
+{
+"id": 14320,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 10949,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 51618,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 46995,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 51619,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 16410,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 50363,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 826,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 947,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 907,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 38953,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 292451,
+"kind": "doc",
+"year": 1979
+},
+{
+"id": 15927,
+"kind": "feature",
+"year": 1984
+}
+],
+"name": "David Lean",
+"person_id": 12238
+},
+{
+"films": [
+{
+"id": 813,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 8764,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 12151,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 37136,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 37137,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 505481,
+"kind": "short",
+"year": 1993
+},
+{
+"id": 14013,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 1644680,
+"kind": "tv",
+"year": 2000
+},
+{
+"id": 2830,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 4256,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 4257,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 13948,
+"kind": "feature",
+"year": 2008
+}
+],
+"name": "David Zucker",
+"person_id": 12987
 },
 {
 "films": [
@@ -4071,11 +5207,6 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "id": 36108,
 "kind": "feature",
-"year": 2007
-},
-{
-"id": 1788921,
-"kind": "short",
 "year": 2007
 },
 {
@@ -5026,6 +6157,92 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 64828,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 343,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 14886,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 31121,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 42232,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 31657,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 10322,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 183182,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 1518771,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 47878,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 85910,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 276651,
+"kind": "doc",
+"year": 1984
+},
+{
+"id": 78364,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 20858,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 380291,
+"kind": "tv",
+"year": 1988
+},
+{
+"id": 1032927,
+"kind": "doc",
+"year": 2007
+}
+],
+"name": "Hal Ashby",
+"person_id": 4964
+},
+{
+"films": [
+{
 "id": 67047,
 "kind": "short",
 "year": 1936
@@ -5318,6 +6535,217 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Hamilton Luske",
 "person_id": 11429
+},
+{
+"films": [
+{
+"id": 133132,
+"kind": "feature",
+"year": 1926
+},
+{
+"id": 420011,
+"kind": "feature",
+"year": 1926
+},
+{
+"id": 140271,
+"kind": "feature",
+"year": 1927
+},
+{
+"id": 211451,
+"kind": "feature",
+"year": 1927
+},
+{
+"id": 110887,
+"kind": "feature",
+"year": 1928
+},
+{
+"id": 140272,
+"kind": "feature",
+"year": 1928
+},
+{
+"id": 317466,
+"kind": "feature",
+"year": 1928
+},
+{
+"id": 198217,
+"kind": "feature",
+"year": 1929
+},
+{
+"id": 81847,
+"kind": "feature",
+"year": 1930
+},
+{
+"id": 42815,
+"kind": "feature",
+"year": 1931
+},
+{
+"id": 877,
+"kind": "feature",
+"year": 1932
+},
+{
+"id": 109262,
+"kind": "feature",
+"year": 1932
+},
+{
+"id": 125736,
+"kind": "feature",
+"year": 1932
+},
+{
+"id": 103938,
+"kind": "feature",
+"year": 1933
+},
+{
+"id": 31835,
+"kind": "feature",
+"year": 1934
+},
+{
+"id": 76499,
+"kind": "feature",
+"year": 1935
+},
+{
+"id": 84208,
+"kind": "feature",
+"year": 1936
+},
+{
+"id": 93313,
+"kind": "feature",
+"year": 1936
+},
+{
+"id": 140276,
+"kind": "feature",
+"year": 1936
+},
+{
+"id": 900,
+"kind": "feature",
+"year": 1938
+},
+{
+"id": 43832,
+"kind": "feature",
+"year": 1939
+},
+{
+"id": 3085,
+"kind": "feature",
+"year": 1940
+},
+{
+"id": 16442,
+"kind": "feature",
+"year": 1941
+},
+{
+"id": 29884,
+"kind": "feature",
+"year": 1941
+},
+{
+"id": 15807,
+"kind": "feature",
+"year": 1943
+},
+{
+"id": 22584,
+"kind": "feature",
+"year": 1945
+},
+{
+"id": 910,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 3089,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 17829,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 23567,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 24006,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 24008,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 43367,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 759,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 42564,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 301,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 11385,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 39231,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 80046,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 6644,
+"kind": "feature",
+"year": 1966
+},
+{
+"id": 26593,
+"kind": "feature",
+"year": 1970
+}
+],
+"name": "Howard Hawks",
+"person_id": 11435
 },
 {
 "films": [
@@ -5754,6 +7182,507 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 10895,
+"kind": "feature",
+"year": 1940
+},
+{
+"id": 66868,
+"kind": "short",
+"year": 1940
+},
+{
+"id": 68489,
+"kind": "short",
+"year": 1940
+},
+{
+"id": 11360,
+"kind": "feature",
+"year": 1941
+},
+{
+"id": 66821,
+"kind": "short",
+"year": 1941
+},
+{
+"id": 67570,
+"kind": "short",
+"year": 1941
+},
+{
+"id": 67571,
+"kind": "short",
+"year": 1941
+},
+{
+"id": 14906,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 58527,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 66884,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 66983,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 66986,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 165024,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 22779,
+"kind": "doc",
+"year": 1943
+},
+{
+"id": 33600,
+"kind": "short",
+"year": 1943
+},
+{
+"id": 64708,
+"kind": "short",
+"year": 1943
+},
+{
+"id": 109355,
+"kind": "short",
+"year": 1943
+},
+{
+"id": 15947,
+"kind": "feature",
+"year": 1944
+},
+{
+"id": 62599,
+"kind": "short",
+"year": 1944
+},
+{
+"id": 64662,
+"kind": "short",
+"year": 1944
+},
+{
+"id": 66984,
+"kind": "short",
+"year": 1944
+},
+{
+"id": 55541,
+"kind": "short",
+"year": 1945
+},
+{
+"id": 66818,
+"kind": "short",
+"year": 1945
+},
+{
+"id": 66831,
+"kind": "short",
+"year": 1945
+},
+{
+"id": 66876,
+"kind": "short",
+"year": 1945
+},
+{
+"id": 67694,
+"kind": "short",
+"year": 1945
+},
+{
+"id": 20343,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 58828,
+"kind": "doc",
+"year": 1946
+},
+{
+"id": 147240,
+"kind": "short",
+"year": 1946
+},
+{
+"id": 147242,
+"kind": "short",
+"year": 1946
+},
+{
+"id": 247614,
+"kind": "short",
+"year": 1946
+},
+{
+"id": 641736,
+"kind": "short",
+"year": 1946
+},
+{
+"id": 46929,
+"kind": "feature",
+"year": 1947
+},
+{
+"id": 131119,
+"kind": "short",
+"year": 1947
+},
+{
+"id": 144458,
+"kind": "short",
+"year": 1947
+},
+{
+"id": 13757,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 282897,
+"kind": "short",
+"year": 1948
+},
+{
+"id": 13465,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 43650,
+"kind": "short",
+"year": 1949
+},
+{
+"id": 66867,
+"kind": "short",
+"year": 1949
+},
+{
+"id": 67505,
+"kind": "short",
+"year": 1949
+},
+{
+"id": 66877,
+"kind": "short",
+"year": 1950
+},
+{
+"id": 67129,
+"kind": "short",
+"year": 1950
+},
+{
+"id": 78482,
+"kind": "short",
+"year": 1950
+},
+{
+"id": 66836,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 66851,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 66865,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 66878,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 66993,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 67145,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 67695,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 80040,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 66862,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 66874,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 66882,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 66998,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 67503,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 67704,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 67706,
+"kind": "short",
+"year": 1952
+},
+{
+"id": 57220,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 66852,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 66863,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 66883,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 66985,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 67624,
+"kind": "short",
+"year": 1953
+},
+{
+"id": 921016,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 55357,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 56011,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 56015,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 85917,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 160286,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 899079,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 385153,
+"kind": "tv",
+"year": 1955
+},
+{
+"id": 673615,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 899144,
+"kind": "short",
+"year": 1955
+},
+{
+"id": 54176,
+"kind": "short",
+"year": 1956
+},
+{
+"id": 44871,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 430591,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 427768,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 801986,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 802042,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 809427,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 809540,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 903757,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 903759,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 1223804,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 1305899,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 1796107,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 96872,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 1245649,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 282387,
+"kind": "short",
+"year": 1980
+},
+{
+"id": 400177,
+"kind": "tv",
+"year": 1984
+},
+{
+"id": 614823,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 24678,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 122387,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 293973,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 49030,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 260331,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 58817,
+"kind": "feature",
+"year": 2005
+}
+],
+"name": "Jack Kinney",
+"person_id": 74565
+},
+{
+"films": [
+{
 "id": 69995,
 "kind": "short",
 "year": 1946
@@ -5801,6 +7730,97 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Jacques Tati",
 "person_id": 5763
+},
+{
+"films": [
+{
+"id": 25639,
+"kind": "short",
+"year": 1978
+},
+{
+"id": 31646,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 218,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 679,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 1587174,
+"kind": "short",
+"year": 1988
+},
+{
+"id": 2756,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 280,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 36955,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 1775691,
+"kind": "short",
+"year": 1996
+},
+{
+"id": 597,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 25314,
+"kind": "doc",
+"year": 2002
+},
+{
+"id": 24982,
+"kind": "doc",
+"year": 2003
+},
+{
+"id": 22559,
+"kind": "doc",
+"year": 2005
+},
+{
+"id": 19995,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 76600,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 83533,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1515899,
+"kind": "doc",
+"year": 2026
+}
+],
+"name": "James Cameron",
+"person_id": 2710
 },
 {
 "films": [
@@ -6975,6 +8995,42 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 813,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 8764,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 12151,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 251,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 6520,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 9896,
+"kind": "feature",
+"year": 2001
+}
+],
+"name": "Jerry Zucker",
+"person_id": 3415
+},
+{
+"films": [
+{
 "id": 37997,
 "kind": "feature",
 "year": 1981
@@ -7181,11 +9237,6 @@ window.LANGTAGNING_DIRECTORS = {
 "year": 2007
 },
 {
-"id": 1788921,
-"kind": "short",
-"year": 2007
-},
-{
 "id": 4944,
 "kind": "feature",
 "year": 2008
@@ -7223,6 +9274,193 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Joel Coen",
 "person_id": 1223
+},
+{
+"films": [
+{
+"id": 582183,
+"kind": "doc",
+"year": 1963
+},
+{
+"id": 49921,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 1769572,
+"kind": "doc",
+"year": 1966
+},
+{
+"id": 26039,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 31681,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 77333,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 10669,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 4923,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 11586,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 11527,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 11532,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 32054,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 48864,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 423059,
+"kind": "doc",
+"year": 1991
+},
+{
+"id": 1873,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 48336,
+"kind": "doc",
+"year": 1995
+},
+{
+"id": 389636,
+"kind": "short",
+"year": 1995
+},
+{
+"id": 16885,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 76363,
+"kind": "doc",
+"year": 1998
+},
+{
+"id": 2575,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 16635,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 10097,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 266084,
+"kind": "feature",
+"year": 2015
+}
+],
+"name": "John Boorman",
+"person_id": 19665
+},
+{
+"films": [
+{
+"id": 15484,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 75752,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 88912,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 753,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 52105,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 24349,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 29845,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 32040,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 33665,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 10889,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 52109,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 78041,
+"kind": "feature",
+"year": 1986
+}
+],
+"name": "John Cassavetes",
+"person_id": 11147
 },
 {
 "films": [
@@ -7963,6 +10201,232 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 963,
+"kind": "feature",
+"year": 1941
+},
+{
+"id": 18790,
+"kind": "feature",
+"year": 1942
+},
+{
+"id": 43525,
+"kind": "feature",
+"year": 1942
+},
+{
+"id": 152237,
+"kind": "doc",
+"year": 1942
+},
+{
+"id": 23388,
+"kind": "doc",
+"year": 1943
+},
+{
+"id": 257084,
+"kind": "doc",
+"year": 1944
+},
+{
+"id": 84701,
+"kind": "doc",
+"year": 1945
+},
+{
+"id": 86990,
+"kind": "doc",
+"year": 1946
+},
+{
+"id": 3090,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 11016,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 50117,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 16958,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 59401,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 488,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 10910,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 22733,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 10339,
+"kind": "feature",
+"year": 1956
+},
+{
+"id": 37103,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 65590,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 75799,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 6643,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 11536,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 35806,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 11605,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 14703,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 2525,
+"kind": "feature",
+"year": 1966
+},
+{
+"id": 3547,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 12208,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 98248,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 130296,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 45817,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 16993,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 33638,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 32627,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 983,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 368491,
+"kind": "short",
+"year": 1976
+},
+{
+"id": 38082,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 42179,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 73354,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 17360,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 15739,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 41089,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 2075,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 39507,
+"kind": "feature",
+"year": 1987
+}
+],
+"name": "John Huston",
+"person_id": 6593
+},
+{
+"films": [
+{
 "id": 54123,
 "kind": "feature",
 "year": 1973
@@ -8266,6 +10730,534 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "John Lasseter",
 "person_id": 7879
+},
+{
+"films": [
+{
+"id": 74468,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 257085,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 257123,
+"kind": "feature",
+"year": 1946
+},
+{
+"id": 86114,
+"kind": "doc",
+"year": 1947
+},
+{
+"id": 90349,
+"kind": "feature",
+"year": 1947
+},
+{
+"id": 256797,
+"kind": "feature",
+"year": 1947
+},
+{
+"id": 51554,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 343391,
+"kind": "feature",
+"year": 1948
+},
+{
+"id": 241754,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 19170,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 62084,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 101653,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 178607,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 36634,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 53832,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 193547,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 176399,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 41611,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 83099,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 346644,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 14554,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 102295,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 208434,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 62648,
+"kind": "feature",
+"year": 1956
+},
+{
+"id": 22201,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 11331,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 44766,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 4820,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 14677,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 966,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 146915,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 18512,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 173654,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 5925,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 23194,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 27709,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 31658,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 17657,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 40140,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 14881,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 73984,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 26185,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 11372,
+"kind": "feature",
+"year": 1976
+}
+],
+"name": "John Sturges",
+"person_id": 14520
+},
+{
+"films": [
+{
+"id": 38037,
+"kind": "short",
+"year": 1968
+},
+{
+"id": 38036,
+"kind": "short",
+"year": 1969
+},
+{
+"id": 38040,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 38097,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 37852,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 38099,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 38100,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 205708,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 283571,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 13514,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 266463,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 283573,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 112594,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 283574,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 69161,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 283578,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 203152,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 11471,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 18305,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 10835,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 74287,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 11909,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 47423,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 11782,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 2019,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 9208,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 39084,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 754,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 39083,
+"kind": "tv",
+"year": 1998
+},
+{
+"id": 955,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 12100,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 38185,
+"kind": "short",
+"year": 2002
+},
+{
+"id": 9620,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 132772,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 24553,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 12289,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 15384,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 44092,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 264264,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 295273,
+"kind": "feature",
+"year": 2015
+},
+{
+"id": 372782,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 891699,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 970347,
+"kind": "feature",
+"year": 2024
+}
+],
+"name": "John Woo",
+"person_id": 11401
+},
+{
+"films": [
+{
+"id": 1518260,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 145410,
+"kind": "short",
+"year": 1978
+},
+{
+"id": 36826,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 11879,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 9491,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 1089,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 281,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 13526,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 8665,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 1732815,
+"kind": "short",
+"year": 2007
+},
+{
+"id": 12162,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 97630,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 308329,
+"kind": "doc",
+"year": 2014
+},
+{
+"id": 407448,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 836882,
+"kind": "doc",
+"year": 2017
+},
+{
+"id": 1290159,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Kathryn Bigelow",
+"person_id": 14392
 },
 {
 "films": [
@@ -8808,6 +11800,328 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 144692,
+"kind": "short",
+"year": 1981
+},
+{
+"id": 19184,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 1770959,
+"kind": "short",
+"year": 1983
+},
+{
+"id": 10656,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 175,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 9322,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 15466,
+"kind": "doc",
+"year": 1991
+},
+{
+"id": 101,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 18,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 10047,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 273303,
+"kind": "doc",
+"year": 2001
+},
+{
+"id": 11227,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 318017,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 9992,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 26505,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 1225622,
+"kind": "short",
+"year": 2009
+},
+{
+"id": 35552,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 42949,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 77878,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 112205,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 240832,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 339964,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 484641,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 944401,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1216571,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1246049,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Luc Besson",
+"person_id": 59
+},
+{
+"films": [
+{
+"id": 806348,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 93907,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 110924,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 99883,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 287868,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 67378,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 54141,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 61823,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 99095,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 150605,
+"kind": "feature",
+"year": 1966
+},
+{
+"id": 700592,
+"kind": "doc",
+"year": 1966
+},
+{
+"id": 107065,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 248592,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 56693,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 108179,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 487617,
+"kind": "doc",
+"year": 1970
+},
+{
+"id": 63176,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 81775,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 10102,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 83343,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 3935,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 42200,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 504564,
+"kind": "tv",
+"year": 1978
+},
+{
+"id": 53648,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 69014,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 53914,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 81787,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 198466,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 138656,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 138797,
+"kind": "tv",
+"year": 1989
+},
+{
+"id": 72808,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 148757,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 196979,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 737447,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 1125464,
+"kind": "doc",
+"year": 1995
+},
+{
+"id": 65475,
+"kind": "doc",
+"year": 1997
+}
+],
+"name": "Marco Ferreri",
+"person_id": 34264
+},
+{
+"films": [
+{
 "id": 1414647,
 "kind": "short",
 "year": 1959
@@ -9099,6 +12413,168 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 30197,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 24918,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 3034,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 11072,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 10970,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 12535,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 10156,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 957,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 6524,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 8005,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 12110,
+"kind": "feature",
+"year": 1995
+}
+],
+"name": "Mel Brooks",
+"person_id": 14639
+},
+{
+"films": [
+{
+"id": 1085766,
+"kind": "short",
+"year": 1993
+},
+{
+"id": 9737,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 9802,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 95,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 676,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 312355,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 8961,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 1635,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 1858,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 8373,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 38356,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 134374,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 91314,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 300671,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 335988,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 509967,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 763285,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 1422037,
+"kind": "doc",
+"year": 2025
+},
+{
+"id": 1739217,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Michael Bay",
+"person_id": 865
+},
+{
+"films": [
+{
 "id": 159220,
 "kind": "doc",
 "year": 1947
@@ -9285,6 +12761,187 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 122271,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 436298,
+"kind": "tv",
+"year": 1973
+},
+{
+"id": 890998,
+"kind": "doc",
+"year": 1973
+},
+{
+"id": 187580,
+"kind": "tv",
+"year": 1975
+},
+{
+"id": 265640,
+"kind": "tv",
+"year": 1976
+},
+{
+"id": 23999,
+"kind": "tv",
+"year": 1977
+},
+{
+"id": 188076,
+"kind": "tv",
+"year": 1977
+},
+{
+"id": 187578,
+"kind": "tv",
+"year": 1979
+},
+{
+"id": 187565,
+"kind": "tv",
+"year": 1980
+},
+{
+"id": 194386,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 194390,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 194397,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 194410,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 194413,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 307677,
+"kind": "tv",
+"year": 1982
+},
+{
+"id": 57978,
+"kind": "tv",
+"year": 1983
+},
+{
+"id": 187569,
+"kind": "tv",
+"year": 1984
+},
+{
+"id": 49455,
+"kind": "tv",
+"year": 1987
+},
+{
+"id": 47870,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 36843,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 61120,
+"kind": "short",
+"year": 1992
+},
+{
+"id": 21450,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 124109,
+"kind": "doc",
+"year": 1993
+},
+{
+"id": 11159,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 49462,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 46435,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 12454,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 126444,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 11109,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 10503,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 44009,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 125127,
+"kind": "tv",
+"year": 2012
+},
+{
+"id": 245700,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 399440,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 1013154,
+"kind": "feature",
+"year": 2024
+}
+],
+"name": "Mike Leigh",
+"person_id": 65452
+},
+{
+"films": [
+{
 "id": 1034840,
 "kind": "doc",
 "year": 1960
@@ -9388,6 +13045,11 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "id": 10895,
 "kind": "feature",
+"year": 1940
+},
+{
+"id": 1508730,
+"kind": "short",
 "year": 1940
 },
 {
@@ -9680,6 +13342,152 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Paul Thomas Anderson",
 "person_id": 4762
+},
+{
+"films": [
+{
+"id": 655207,
+"kind": "short",
+"year": 1959
+},
+{
+"id": 655210,
+"kind": "short",
+"year": 1959
+},
+{
+"id": 122920,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 295607,
+"kind": "short",
+"year": 1961
+},
+{
+"id": 295605,
+"kind": "short",
+"year": 1962
+},
+{
+"id": 295599,
+"kind": "short",
+"year": 1963
+},
+{
+"id": 295601,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 293204,
+"kind": "doc",
+"year": 1970
+},
+{
+"id": 98050,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 269438,
+"kind": "short",
+"year": 1971
+},
+{
+"id": 21035,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 42258,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 633,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 40072,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 204066,
+"kind": "tv",
+"year": 1981
+},
+{
+"id": 29140,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 12775,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 5548,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 861,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 402,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 10802,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 563,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 9383,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 318017,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 9075,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 140894,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 337674,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 454527,
+"kind": "feature",
+"year": 2021
+}
+],
+"name": "Paul Verhoeven",
+"person_id": 10491
 },
 {
 "films": [
@@ -10174,6 +13982,157 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 201304,
+"kind": "doc",
+"year": 1985
+},
+{
+"id": 83346,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 14022,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 943810,
+"kind": "doc",
+"year": 1991
+},
+{
+"id": 9571,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 76,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 28059,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 42807,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 9081,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 23949,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 1584,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 275983,
+"kind": "doc",
+"year": 2003
+},
+{
+"id": 80,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 13341,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 3509,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 8324,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 12404,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 194514,
+"kind": "doc",
+"year": 2008
+},
+{
+"id": 92591,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 132344,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 85350,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 295699,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 419709,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 405177,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 655865,
+"kind": "short",
+"year": 2019
+},
+{
+"id": 664996,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 974635,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1254808,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1299655,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Richard Linklater",
+"person_id": 564
+},
+{
+"films": [
+{
 "id": 49457,
 "kind": "short",
 "year": 1965
@@ -10366,6 +14325,142 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Ridley Scott",
 "person_id": 578
+},
+{
+"films": [
+{
+"id": 1598720,
+"kind": "short",
+"year": 1974
+},
+{
+"id": 401459,
+"kind": "short",
+"year": 1981
+},
+{
+"id": 11031,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 8992,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 235,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 2493,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 639,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 1700,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 881,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 31586,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 9087,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 31908,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 12220,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 17813,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 2800,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 43404,
+"kind": "short",
+"year": 2005
+},
+{
+"id": 7350,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 43949,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 101731,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 1321694,
+"kind": "tv",
+"year": 2012
+},
+{
+"id": 253235,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 358895,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 353575,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 476335,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 1184849,
+"kind": "doc",
+"year": 2023
+},
+{
+"id": 975225,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Rob Reiner",
+"person_id": 3026
 },
 {
 "films": [
@@ -10802,6 +14897,162 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 144686,
+"kind": "short",
+"year": 1972
+},
+{
+"id": 263997,
+"kind": "short",
+"year": 1973
+},
+{
+"id": 55457,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 14475,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 9326,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 105,
+"kind": "feature",
+"year": 1985
+},
+{
+"id": 576510,
+"kind": "tv",
+"year": 1986
+},
+{
+"id": 856,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 165,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 196,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 9374,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 213503,
+"kind": "tv",
+"year": 1992
+},
+{
+"id": 13,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 686,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 750894,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 762987,
+"kind": "doc",
+"year": 1999
+},
+{
+"id": 2655,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 8358,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 5255,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 318017,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 2310,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 17979,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 87502,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 285783,
+"kind": "feature",
+"year": 2015
+},
+{
+"id": 362000,
+"kind": "short",
+"year": 2015
+},
+{
+"id": 369885,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 351044,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 531219,
+"kind": "feature",
+"year": 2020
+},
+{
+"id": 532639,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 940139,
+"kind": "feature",
+"year": 2024
+}
+],
+"name": "Robert Zemeckis",
+"person_id": 24
+},
+{
+"films": [
+{
 "id": 104144,
 "kind": "short",
 "year": 1957
@@ -11003,6 +15254,92 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 195468,
+"kind": "short",
+"year": 1967
+},
+{
+"id": 113670,
+"kind": "short",
+"year": 1968
+},
+{
+"id": 278770,
+"kind": "doc",
+"year": 1968
+},
+{
+"id": 142406,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 31304,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 91873,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 984706,
+"kind": "doc",
+"year": 1979
+},
+{
+"id": 96958,
+"kind": "doc",
+"year": 1987
+},
+{
+"id": 44238,
+"kind": "short",
+"year": 1991
+},
+{
+"id": 34070,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 505822,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 5817,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 505819,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 142258,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 110390,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 348672,
+"kind": "feature",
+"year": 2019
+}
+],
+"name": "Roy Andersson",
+"person_id": 45791
+},
+{
+"films": [
+{
 "id": 481055,
 "kind": "doc",
 "year": 1997
@@ -11089,6 +15426,188 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 849116,
+"kind": "doc",
+"year": 1947
+},
+{
+"id": 5647,
+"kind": "doc",
+"year": 1954
+},
+{
+"id": 5648,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 357180,
+"kind": "short",
+"year": 1960
+},
+{
+"id": 5642,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 5645,
+"kind": "feature",
+"year": 1961
+},
+{
+"id": 5650,
+"kind": "doc",
+"year": 1961
+},
+{
+"id": 5646,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 5649,
+"kind": "doc",
+"year": 1963
+},
+{
+"id": 5711,
+"kind": "doc",
+"year": 1963
+},
+{
+"id": 54993,
+"kind": "doc",
+"year": 1963
+},
+{
+"id": 5741,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 5744,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 315,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 5719,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 5720,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 5726,
+"kind": "doc",
+"year": 1966
+},
+{
+"id": 5747,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 5748,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 5518,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 5721,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 5742,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 5722,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 5745,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 5656,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 5725,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 5651,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 5157,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 5674,
+"kind": "doc",
+"year": 2004
+}
+],
+"name": "Russ Meyer",
+"person_id": 4590
+},
+{
+"films": [
+{
+"id": 756,
+"kind": "feature",
+"year": 1940
+},
+{
+"id": 1747425,
+"kind": "feature",
+"year": 1940
+},
+{
+"id": 11360,
+"kind": "feature",
+"year": 1941
+},
+{
+"id": 344682,
+"kind": "short",
+"year": 1942
+},
+{
+"id": 374447,
+"kind": "short",
+"year": 1946
+}
+],
+"name": "Samuel Armstrong",
+"person_id": 5691
+},
+{
+"films": [
+{
 "id": 43020,
 "kind": "feature",
 "year": 1961
@@ -11131,6 +15650,448 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Sergio Leone",
 "person_id": 4385
+},
+{
+"films": [
+{
+"id": 829921,
+"kind": "tv",
+"year": 1955
+},
+{
+"id": 467731,
+"kind": "tv",
+"year": 1956
+},
+{
+"id": 389,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 1168279,
+"kind": "tv",
+"year": 1957
+},
+{
+"id": 111910,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 265859,
+"kind": "tv",
+"year": 1958
+},
+{
+"id": 925508,
+"kind": "tv",
+"year": 1958
+},
+{
+"id": 1168319,
+"kind": "tv",
+"year": 1958
+},
+{
+"id": 1774706,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 177474,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 1721981,
+"kind": "tv",
+"year": 1959
+},
+{
+"id": 47837,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 621109,
+"kind": "tv",
+"year": 1960
+},
+{
+"id": 1168322,
+"kind": "tv",
+"year": 1960
+},
+{
+"id": 1339714,
+"kind": "tv",
+"year": 1960
+},
+{
+"id": 1556052,
+"kind": "tv",
+"year": 1960
+},
+{
+"id": 43004,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 183889,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 502,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 20540,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 24395,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 84278,
+"kind": "feature",
+"year": 1966
+},
+{
+"id": 14755,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 82460,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 184795,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 57666,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 117999,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 149320,
+"kind": "doc",
+"year": 1970
+},
+{
+"id": 30941,
+"kind": "feature",
+"year": 1971
+},
+{
+"id": 82465,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 9040,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 32615,
+"kind": "feature",
+"year": 1973
+},
+{
+"id": 4176,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 172340,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 968,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 10774,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 37258,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 24961,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 184799,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 32047,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 17590,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 24226,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 55819,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 105404,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 31924,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 46948,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 18197,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 10551,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 31598,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 41670,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 4916,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 46027,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 61337,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 45712,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 41847,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 1168332,
+"kind": "short",
+"year": 2004
+},
+{
+"id": 9950,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 7972,
+"kind": "feature",
+"year": 2007
+}
+],
+"name": "Sidney Lumet",
+"person_id": 39996
+},
+{
+"films": [
+{
+"id": 31516,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 18646,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 872,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 43362,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 241804,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 114685,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 16563,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 43196,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 17640,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 13320,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 40867,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 52367,
+"kind": "feature",
+"year": 1957
+},
+{
+"id": 22874,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 41253,
+"kind": "feature",
+"year": 1958
+},
+{
+"id": 25767,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 188136,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 208692,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 4808,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 23030,
+"kind": "feature",
+"year": 1966
+},
+{
+"id": 5767,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 18209,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 77937,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 37627,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 78353,
+"kind": "feature",
+"year": 1975
+},
+{
+"id": 85420,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 19761,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 14347,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 269516,
+"kind": "tv",
+"year": 1999
+}
+],
+"name": "Stanley Donen",
+"person_id": 13284
 },
 {
 "films": [
@@ -11217,6 +16178,252 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Stanley Kubrick",
 "person_id": 240
+},
+{
+"films": [
+{
+"id": 1583484,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 42409,
+"kind": "doc",
+"year": 1985
+},
+{
+"id": 507485,
+"kind": "doc",
+"year": 1985
+},
+{
+"id": 201048,
+"kind": "short",
+"year": 1987
+},
+{
+"id": 1412,
+"kind": "feature",
+"year": 1989
+},
+{
+"id": 2297,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 34024,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 36141,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 32686,
+"kind": "doc",
+"year": 1996
+},
+{
+"id": 16375,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 1389,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 10388,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 462,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 1900,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 161,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 2103,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 15186,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 163,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 39850,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 182,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 14788,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 279647,
+"kind": "short",
+"year": 2006
+},
+{
+"id": 298,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 8880,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 8881,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 11323,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 17680,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 50779,
+"kind": "doc",
+"year": 2010
+},
+{
+"id": 39538,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 70435,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 77930,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 768494,
+"kind": "doc",
+"year": 2012
+},
+{
+"id": 109421,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 119675,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 1610750,
+"kind": "doc",
+"year": 2014
+},
+{
+"id": 399170,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 467660,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 510498,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 517909,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 574056,
+"kind": "short",
+"year": 2019
+},
+{
+"id": 623856,
+"kind": "feature",
+"year": 2020
+},
+{
+"id": 649409,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 800510,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 906221,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1140535,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1233575,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1400357,
+"kind": "feature",
+"year": 2026
+},
+{
+"id": 1475047,
+"kind": "doc",
+"year": 2026
+}
+],
+"name": "Steven Soderbergh",
+"person_id": 1884
 },
 {
 "films": [
@@ -11548,6 +16755,11 @@ window.LANGTAGNING_DIRECTORS = {
 "year": 1940
 },
 {
+"id": 1508730,
+"kind": "short",
+"year": 1940
+},
+{
 "id": 400177,
 "kind": "tv",
 "year": 1984
@@ -11803,6 +17015,92 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Terry Jones",
 "person_id": 10707
+},
+{
+"films": [
+{
+"id": 254741,
+"kind": "short",
+"year": 1993
+},
+{
+"id": 555857,
+"kind": "short",
+"year": 1993
+},
+{
+"id": 122368,
+"kind": "short",
+"year": 1995
+},
+{
+"id": 49302,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 309,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 55178,
+"kind": "tv",
+"year": 2000
+},
+{
+"id": 314082,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 12777,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 10913,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 15844,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 46789,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 103663,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 250734,
+"kind": "feature",
+"year": 2015
+},
+{
+"id": 308409,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 401200,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 580175,
+"kind": "feature",
+"year": 2020
+}
+],
+"name": "Thomas Vinterberg",
+"person_id": 4453
 },
 {
 "films": [
@@ -12676,6 +17974,132 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 56149,
+"kind": "short",
+"year": 1993
+},
+{
+"id": 13685,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 11545,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 9428,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 421,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 4538,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 6418,
+"kind": "short",
+"year": 2007
+},
+{
+"id": 10315,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 83666,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 126909,
+"kind": "short",
+"year": 2012
+},
+{
+"id": 542609,
+"kind": "short",
+"year": 2012
+},
+{
+"id": 236028,
+"kind": "short",
+"year": 2013
+},
+{
+"id": 120467,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 399174,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 542178,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 747188,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 923939,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 1172674,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 1172675,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 1172676,
+"kind": "short",
+"year": 2023
+},
+{
+"id": 1799933,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1259365,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1800083,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1137350,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Wes Anderson",
+"person_id": 5655
+},
+{
+"films": [
+{
 "id": 15516,
 "kind": "feature",
 "year": 1972
@@ -13084,6 +18508,11 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "id": 10895,
 "kind": "feature",
+"year": 1940
+},
+{
+"id": 1508731,
+"kind": "short",
 "year": 1940
 },
 {
@@ -14389,6 +19818,437 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Yorgos Lanthimos",
 "person_id": 122423
+},
+{
+"films": [
+{
+"id": 693299,
+"kind": "short",
+"year": 1950
+},
+{
+"id": 47454,
+"kind": "short",
+"year": 1951
+},
+{
+"id": 693302,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 256107,
+"kind": "short",
+"year": 1954
+},
+{
+"id": 256105,
+"kind": "short",
+"year": 1956
+},
+{
+"id": 47456,
+"kind": "short",
+"year": 1959
+},
+{
+"id": 64414,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 81399,
+"kind": "short",
+"year": 1963
+},
+{
+"id": 86764,
+"kind": "feature",
+"year": 1963
+},
+{
+"id": 693268,
+"kind": "short",
+"year": 1963
+},
+{
+"id": 47451,
+"kind": "doc",
+"year": 1964
+},
+{
+"id": 123570,
+"kind": "doc",
+"year": 1964
+},
+{
+"id": 528591,
+"kind": "doc",
+"year": 1964
+},
+{
+"id": 693282,
+"kind": "short",
+"year": 1964
+},
+{
+"id": 48206,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 51808,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 385921,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 533570,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 539735,
+"kind": "doc",
+"year": 1965
+},
+{
+"id": 540204,
+"kind": "short",
+"year": 1965
+},
+{
+"id": 693274,
+"kind": "short",
+"year": 1965
+},
+{
+"id": 693284,
+"kind": "short",
+"year": 1965
+},
+{
+"id": 47455,
+"kind": "doc",
+"year": 1966
+},
+{
+"id": 528893,
+"kind": "short",
+"year": 1966
+},
+{
+"id": 4837,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 693308,
+"kind": "doc",
+"year": 1967
+},
+{
+"id": 693310,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 693312,
+"kind": "doc",
+"year": 1967
+},
+{
+"id": 693314,
+"kind": "short",
+"year": 1967
+},
+{
+"id": 255929,
+"kind": "doc",
+"year": 1968
+},
+{
+"id": 308782,
+"kind": "doc",
+"year": 1968
+},
+{
+"id": 323974,
+"kind": "doc",
+"year": 1968
+},
+{
+"id": 642794,
+"kind": "doc",
+"year": 1968
+},
+{
+"id": 693313,
+"kind": "feature",
+"year": 1968
+},
+{
+"id": 48831,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 476554,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 533599,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 693279,
+"kind": "short",
+"year": 1969
+},
+{
+"id": 693286,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 2860,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 693263,
+"kind": "short",
+"year": 1970
+},
+{
+"id": 693295,
+"kind": "short",
+"year": 1970
+},
+{
+"id": 693296,
+"kind": "short",
+"year": 1970
+},
+{
+"id": 12116,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 503452,
+"kind": "doc",
+"year": 1975
+},
+{
+"id": 503453,
+"kind": "doc",
+"year": 1975
+},
+{
+"id": 503454,
+"kind": "doc",
+"year": 1975
+},
+{
+"id": 503455,
+"kind": "doc",
+"year": 1975
+},
+{
+"id": 48205,
+"kind": "feature",
+"year": 1976
+},
+{
+"id": 75733,
+"kind": "feature",
+"year": 1978
+},
+{
+"id": 198262,
+"kind": "tv",
+"year": 1980
+},
+{
+"id": 27145,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 2861,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 693277,
+"kind": "short",
+"year": 1982
+},
+{
+"id": 10293,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 547658,
+"kind": "short",
+"year": 1983
+},
+{
+"id": 559411,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 27102,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 547660,
+"kind": "short",
+"year": 1984
+},
+{
+"id": 291175,
+"kind": "short",
+"year": 1985
+},
+{
+"id": 54898,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 37189,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 64544,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 547661,
+"kind": "short",
+"year": 1987
+},
+{
+"id": 547663,
+"kind": "short",
+"year": 1988
+},
+{
+"id": 642801,
+"kind": "tv",
+"year": 1988
+},
+{
+"id": 446329,
+"kind": "tv",
+"year": 1989
+},
+{
+"id": 28213,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 10241,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 134463,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 77056,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 37563,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 693331,
+"kind": "short",
+"year": 1997
+},
+{
+"id": 10239,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 693322,
+"kind": "short",
+"year": 1998
+},
+{
+"id": 693332,
+"kind": "short",
+"year": 1998
+},
+{
+"id": 693333,
+"kind": "short",
+"year": 1998
+},
+{
+"id": 693324,
+"kind": "short",
+"year": 1999
+},
+{
+"id": 2894,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 65041,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 215587,
+"kind": "short",
+"year": 2005
+},
+{
+"id": 45458,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 693326,
+"kind": "short",
+"year": 2008
+},
+{
+"id": 267615,
+"kind": "doc",
+"year": 2011
+},
+{
+"id": 529040,
+"kind": "doc",
+"year": 2025
+}
+],
+"name": "Éric Rohmer",
+"person_id": 28615
 }
 ],
 "films": {
@@ -14489,6 +20349,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "How Much Wood Would a Woodchuck Chuck",
 "tmdb_id": 100224,
 "year": 1976
+},
+"10047": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
+"cast": [
+"Milla Jovovich",
+"John Malkovich",
+"Faye Dunaway",
+"Dustin Hoffman",
+"Pascal Greggory",
+"Vincent Cassel"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0151137",
+"original_title": "Joan of Arc",
+"overview": "In 1429, a French teenager stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. As she reclaims God's diminished kingdom, this courageous young woman has various amazing victories until her violent and untimely death.",
+"poster": "https://image.tmdb.org/t/p/w342/lFzOGA2LPdOfQyhEiY74uDf2WKa.jpg",
+"runtime": 158,
+"title": "The Messenger: The Story of Joan of Arc",
+"tmdb_id": 10047,
+"year": 1999
 },
 "1005092": {
 "backdrop": null,
@@ -14613,6 +20498,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 100605,
 "year": 1943
 },
+"100607": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kOOSq0dgTCC3uOausmISwtQPWmS.jpg",
+"cast": [
+"Leslie Carlson",
+"Marc Donato",
+"Kyle Kass",
+"Daniel Magder",
+"Harrison Kane",
+"Stephanie Sams"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0260776",
+"original_title": "Camera",
+"overview": "While a veteran actor laments the state of film and film acting, a group of young children sneak a Panavision camera into the apartment where the actor resides and decide to make a film with it.",
+"poster": "https://image.tmdb.org/t/p/w342/eeQFid2pEldA9gBrTHUpe5s4Ow0.jpg",
+"runtime": 6,
+"title": "Camera",
+"tmdb_id": 100607,
+"year": 2000
+},
+"10097": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fcIXHxXFCI28SkRVVq8qT0StAoX.jpg",
+"cast": [
+"Brendan Gleeson",
+"Kim Cattrall",
+"Ciarán Hinds",
+"Sinéad Cusack",
+"Sean McGinley",
+"Angeline Ball"
+],
+"countries": [
+"IE",
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0490499",
+"original_title": "The Tiger's Tail",
+"overview": "After a chance encounter, a Dubliner is stalked by a murderous facsimile of himself.",
+"poster": "https://image.tmdb.org/t/p/w342/tjmEMHtngREqVm2NOzIrE4Lx52L.jpg",
+"runtime": 107,
+"title": "The Tiger's Tail",
+"tmdb_id": 10097,
+"year": 2006
+},
 "10110": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xt7boIC763DdceVQIGJdnmKlDVu.jpg",
 "cast": [
@@ -14637,6 +20573,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Empire of the Sun",
 "tmdb_id": 10110,
 "year": 1987
+},
+"1013154": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xE0ZIQ0uUwyVBugVCobrhU5hyme.jpg",
+"cast": [
+"Marianne Jean-Baptiste",
+"Michele Austin",
+"David Webber",
+"Tuwaine Barrett",
+"Ani Nelson",
+"Sophia Brown"
+],
+"countries": [
+"GB",
+"ES"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt11891850",
+"original_title": "Hard Truths",
+"overview": "Pansy is a woman so full of rage that every interaction she has devolves into lashing out, whether at her utterly cowed husband and son, or random strangers who have the temerity to address her. In contrast, her younger sister Chantelle lives with her two vivacious daughters and plies a successful trade as a hairdresser, putting clients at their ease all day long. Yet beneath Pansy’s abrasive exterior are hints of a more fragile psyche, one motivated by fear and damaged by repressed pain.",
+"poster": "https://image.tmdb.org/t/p/w342/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg",
+"runtime": 97,
+"title": "Hard Truths",
+"tmdb_id": 1013154,
+"year": 2024
 },
 "1013574": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gknnHhpNT2kJSNu831eS7gjJVMn.jpg",
@@ -14689,6 +20651,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 10139,
 "year": 2008
 },
+"10142": {
+"backdrop": "https://image.tmdb.org/t/p/w780/asg9dWAGNVjgztjOIhbaWQIYqrr.jpg",
+"cast": [
+"Michael J. Fox",
+"Sean Penn",
+"Don Harvey",
+"John C. Reilly",
+"John Leguizamo",
+"Thuy Thu Le"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0097027",
+"original_title": "Casualties of War",
+"overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+"poster": "https://image.tmdb.org/t/p/w342/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+"runtime": 113,
+"title": "Casualties of War",
+"tmdb_id": 10142,
+"year": 1989
+},
+"10156": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AfOPonJZYtuJKy57ORBJj1dv3bm.jpg",
+"cast": [
+"Mel Brooks",
+"Dom DeLuise",
+"Madeline Kahn",
+"Harvey Korman",
+"Cloris Leachman",
+"Ron Carey"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0082517",
+"original_title": "History of the World: Part I",
+"overview": "An uproarious version of history that proves nothing is sacred – not even the Roman Empire, the French Revolution and the Spanish Inquisition.",
+"poster": "https://image.tmdb.org/t/p/w342/1bMaEfI76yrGjCSDquCippAFIDI.jpg",
+"runtime": 92,
+"title": "History of the World: Part I",
+"tmdb_id": 10156,
+"year": 1981
+},
 "1016069": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vomK242jcbMIBBNKQ3kzZBsfD80.jpg",
 "cast": [
@@ -14738,6 +20750,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fear and Desire",
 "tmdb_id": 10165,
 "year": 1953
+},
+"101653": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ykpk4U8dFxKKJJaMSRJri6guQlQ.jpg",
+"cast": [
+"Louis Calhern",
+"Ann Harding",
+"Eduard Franz",
+"Philip Ober",
+"Ian Wolfe",
+"Edith Evanson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0042702",
+"original_title": "The Magnificent Yankee",
+"overview": "Biography of celebrated American jurist Oliver Wendell Holmes.",
+"poster": "https://image.tmdb.org/t/p/w342/mCbx68P3X9pMStvSzoA0Hyvp2ol.jpg",
+"runtime": 80,
+"title": "The Magnificent Yankee",
+"tmdb_id": 101653,
+"year": 1950
+},
+"101731": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
+"cast": [
+"Morgan Freeman",
+"Virginia Madsen",
+"Madeline Carroll",
+"Emma Fuhrmann",
+"Nicolette Pierini",
+"Kenan Thompson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt1839654",
+"original_title": "The Magic of Belle Isle",
+"overview": "I et forsøk på å komme i kontakt med sitt eget talent, flytter den rullestolbundne forfatteren Monte Wildhorn til en småby på landet. Her blir han kjent med en alenemor og hennes tre barn, som hjelper ham med å gjenoppdage sin lidenskap som forfatter.",
+"poster": "https://image.tmdb.org/t/p/w342/imoZLjmCnfG4f69Dq0f2Zsr9XOR.jpg",
+"runtime": 109,
+"title": "The Magic of Belle Isle",
+"tmdb_id": 101731,
+"year": 2012
 },
 "101806": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3X22WFLQR0KSiUjkJeD6oJ1NmDO.jpg",
@@ -14837,6 +20899,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Operation Undersea",
 "tmdb_id": 1021931,
 "year": 1954
+},
+"102295": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dE5UNv0YYBnvOAUYpVS3km7A6Yk.jpg",
+"cast": [
+"Jane Russell",
+"Gilbert Roland",
+"Richard Egan",
+"Lori Nelson",
+"Robert Keith",
+"Joseph Calleia"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0048764",
+"original_title": "Underwater!",
+"overview": "Two scuba divers find a shipwreck which may contain undiscovered treasure, however, their attempt to salvage it is threatened by scavengers.",
+"poster": "https://image.tmdb.org/t/p/w342/3DZtI8eUVJkODVS3VXgu4ewYFMO.jpg",
+"runtime": 99,
+"title": "Underwater!",
+"tmdb_id": 102295,
+"year": 1955
 },
 "1024": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
@@ -15094,6 +21181,77 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1032222,
 "year": 1967
 },
+"1032892": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+"cast": [
+"Kate McKinnon",
+"Rashida Jones",
+"Daveed Diggs",
+"Jorge Vargas",
+"Tanaya Beatty",
+"Skywalker Hughes"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt6341826",
+"original_title": "In the Blink of an Eye",
+"overview": "Tre historier som spenner over mange tusen år, krysser hverandre og reflekterer over håp, forbindelser og livets kretsløp.",
+"poster": "https://image.tmdb.org/t/p/w342/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+"runtime": 94,
+"title": "In the Blink of an Eye",
+"tmdb_id": 1032892,
+"year": 2026
+},
+"1032927": {
+"backdrop": null,
+"cast": [
+"Mick Jagger",
+"Brian Jones",
+"Keith Richards",
+"Charlie Watts"
+],
+"countries": [],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt6560110",
+"original_title": "The Rolling Stones: Satisfaction Interviews",
+"overview": "This film contains interview material and archival footage presented all on one film. It begins with very rare black and white Australian documentary from the 60s with Jagger looking like the rebel, and Keith, looking somewhat wasted, talking about Brian Jones in some depth. Also featured are press conferences, a classic interview with Mick, Ronnie and a hung over Charlie Watts, the Life Time Achievements awards, Bill Wyman interview, Keith on why he loves the Stones, Charlie speaking about touring etc, and a long Australian interview to finish.",
+"poster": "https://image.tmdb.org/t/p/w342/fA981NMHSZES41lpSv28xCRRP6H.jpg",
+"runtime": 104,
+"title": "The Rolling Stones: Satisfaction Interviews",
+"tmdb_id": 1032927,
+"year": 2007
+},
+"10339": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lbuYAwwTuqiWgpzlxMMPrYkUop4.jpg",
+"cast": [
+"Gregory Peck",
+"Richard Basehart",
+"Leo Genn",
+"James Robertson Justice",
+"Harry Andrews",
+"Bernard Miles"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0049513",
+"original_title": "Moby Dick",
+"overview": "In 1841, young Ishmael signs up for service aboard the Pequod, a whaler sailing out of New Bedford. The ship is under the command of Captain Ahab, a strict disciplinarian who exhorts his men to find Moby Dick, the great white whale. Ahab lost his leg to that creature and is desperate for revenge. As the crew soon learns, he will stop at nothing to gain satisfaction.",
+"poster": "https://image.tmdb.org/t/p/w342/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg",
+"runtime": 115,
+"title": "Moby Dick",
+"tmdb_id": 10339,
+"year": 1956
+},
 "10340": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
 "cast": [
@@ -15120,33 +21278,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Lady and the Tramp",
 "tmdb_id": 10340,
 "year": 1955
-},
-"10341": {
-"backdrop": "https://image.tmdb.org/t/p/w780/wF08MKJWgBIJqmTQXSWwXbQe0OU.jpg",
-"cast": [
-"Solveig Dommartin",
-"William Hurt",
-"Sam Neill",
-"Rüdiger Vogler",
-"Max von Sydow",
-"Jeanne Moreau"
-],
-"countries": [
-"DE",
-"AU",
-"FR"
-],
-"directors": [
-"Wim Wenders"
-],
-"imdb_id": "tt0101458",
-"original_title": "Bis ans Ende der Welt",
-"overview": "In 1999, a woman's life is forever changed after she survives a car crash with two bank robbers, who enlist her help to take the money to a drop in Paris. On the way, she runs into another fugitive from the law — an American doctor on the run from the CIA. They want to confiscate his father's invention – a device which allows anyone to record their dreams and visions.",
-"poster": "https://image.tmdb.org/t/p/w342/sDpYWgYkBlrVnpySXQNsxVvDAAG.jpg",
-"runtime": 158,
-"title": "Until the End of the World",
-"tmdb_id": 10341,
-"year": 1991
 },
 "103475": {
 "backdrop": "https://image.tmdb.org/t/p/w780/v2KYxwkG4qxXJTTzSFbccYrsx44.jpg",
@@ -15220,6 +21351,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1034941,
 "year": 1920
 },
+"103600": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dELQgGkRUSXgqbHy4JfTjqQanN5.jpg",
+"cast": [
+"Kristy McNichol",
+"Ben Masters",
+"Paul Shenar",
+"Justin Deas",
+"John McMartin",
+"Gayle Hunnicutt"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0090970",
+"original_title": "Dream Lover",
+"overview": "After she's been attacked in her apartment, Cathy starts reliving the event in her dreams. She seeks help at a sleep disorder research center, but in doing so she encounters some unexpected results.",
+"poster": "https://image.tmdb.org/t/p/w342/71LKYA4IBYmGcMzQMxkhmJNI5nd.jpg",
+"runtime": 104,
+"title": "Dream Lover",
+"tmdb_id": 103600,
+"year": 1986
+},
 "103613": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iN5mASmQFcV4ZjjHBz7WfAGiIFn.jpg",
 "cast": [
@@ -15252,6 +21408,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 103613,
 "year": 1967
 },
+"103663": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jmVWlCZ8hRtmrQGbKXXFHsrSohp.jpg",
+"cast": [
+"Mads Mikkelsen",
+"Thomas Bo Larsen",
+"Annika",
+"Lasse Fogelstrøm",
+"Susse Wold",
+"Anne Louise Hassing"
+],
+"countries": [
+"DK",
+"SE"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt2106476",
+"original_title": "Jagten",
+"overview": "JAKTEN er en foruroligende skildring av hvordan løgn blir til sannhet - en moderne fortelling om heksejakt, urettferdighet, skyld og tilgivelse. En beretning om hvor skrøpelig fellesskapet er, når sladder, tvil og ondskap får lov til å spre om seg.",
+"poster": "https://image.tmdb.org/t/p/w342/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+"runtime": 116,
+"title": "The Hunt",
+"tmdb_id": 103663,
+"year": 2012
+},
 "103717": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8NI5t1Ps7ODeJnNSMXqwW2ASicj.jpg",
 "cast": [
@@ -15278,30 +21460,55 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 103717,
 "year": 2012
 },
-"10403": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+"10388": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mKm56aTBr34ciZTpTWX6WoPubUY.jpg",
 "cast": [
-"Tim Robbins",
-"Greta Scacchi",
-"Fred Ward",
-"Whoopi Goldberg",
-"Peter Gallagher",
-"Brion James"
+"Terence Stamp",
+"Lesley Ann Warren",
+"Luis Guzmán",
+"Barry Newman",
+"Joe Dallesandro",
+"Nicky Katt"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Robert Altman"
+"Steven Soderbergh"
 ],
-"imdb_id": "tt0105151",
-"original_title": "The Player",
-"overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
-"poster": "https://image.tmdb.org/t/p/w342/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
-"runtime": 124,
-"title": "The Player",
-"tmdb_id": 10403,
-"year": 1992
+"imdb_id": "tt0165854",
+"original_title": "The Limey",
+"overview": "The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to avenge his daughter's death. Upon arrival, Wilson goes to task battling Valentine and an army of L.A.'s toughest criminals, hoping to find clues and piece together what happened. After surviving a near-death beating, getting thrown from a building and being chased down a dangerous mountain road, the Englishman decides to dole out some bodily harm of his own.",
+"poster": "https://image.tmdb.org/t/p/w342/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+"runtime": 89,
+"title": "The Limey",
+"tmdb_id": 10388,
+"year": 1999
+},
+"103938": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kDnIMnIDXhi1V8JoKHzxkbaR0su.jpg",
+"cast": [
+"Joan Crawford",
+"Gary Cooper",
+"Robert Young",
+"Franchot Tone",
+"Roscoe Karns",
+"Louise Closser Hale"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0024675",
+"original_title": "Today We Live",
+"overview": "Two lovers are living together and are not married; they had made a promise as children to get married when they grew up, but they \"didn't wait.\"",
+"poster": "https://image.tmdb.org/t/p/w342/ecKQuSqPbPiKihaTradMU2SpTzM.jpg",
+"runtime": 113,
+"title": "Today We Live",
+"tmdb_id": 103938,
+"year": 1933
 },
 "104141": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zfxw1zjZwdavWUQHJKL8i4CdyEt.jpg",
@@ -15390,6 +21597,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Manhattan Murder Mystery",
 "tmdb_id": 10440,
 "year": 1993
+},
+"104404": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7OYydiMyh9MIxkO8UPItgEF9oqG.jpg",
+"cast": [
+"Mort Ritts",
+"Stefan Nosko"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0061687",
+"original_title": "From the Drain",
+"overview": "The film is centered on two men in a bathtub; it is implied that they are veterans of some past conflict.  The first man is paranoid about the drain of the tub, the second indifferent to it. As the conversation between the two men progresses, a vine-like tendril emerges from the drain…",
+"poster": "https://image.tmdb.org/t/p/w342/8FxwoYoKroUmiZVJB8TlSu9xn6r.jpg",
+"runtime": 13,
+"title": "From the Drain",
+"tmdb_id": 104404,
+"year": 1967
 },
 "10443": {
 "backdrop": "https://image.tmdb.org/t/p/w780/auKXOVH7znRHb8rl7DAS3c98hp4.jpg",
@@ -15692,6 +21920,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1049812,
 "year": 1989
 },
+"10503": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nrKkpJ4qOWWXl2v4a9UAw5nXYex.jpg",
+"cast": [
+"Sally Hawkins",
+"Eddie Marsan",
+"Alexis Zegerman",
+"Sylvestra Le Touzel",
+"Stanley Townsend",
+"Kate O'Flynn"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1045670",
+"original_title": "Happy-Go-Lucky",
+"overview": "A look at a few chapters in the life of Poppy, a cheery, colorful, North London schoolteacher whose optimism tends to exasperate those around her.",
+"poster": "https://image.tmdb.org/t/p/w342/sO9ZZsqDfreFxiCPrUuBYeqsAHi.jpg",
+"runtime": 118,
+"title": "Happy-Go-Lucky",
+"tmdb_id": 10503,
+"year": 2008
+},
 "105254": {
 "backdrop": "https://image.tmdb.org/t/p/w780/q94dUDBVP3RqLyAS0DkADJXmB4H.jpg",
 "cast": [
@@ -15823,6 +22077,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 10534,
 "year": 1996
 },
+"105404": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8v21imc2RgPmSuTrBSGib60HkFe.jpg",
+"cast": [
+"Anne Bancroft",
+"Ron Silver",
+"Carrie Fisher",
+"Catherine Hicks",
+"Steven Hill",
+"Howard Da Silva"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0087313",
+"original_title": "Garbo Talks",
+"overview": "When New York accountant Gilbert Rolfe finds out his mother has a brain tumor, he is devastated. His incorrigible mother, Estelle, has one last wish: to meet the great Greta Garbo. Gilbert, wanting to do this last thing for her, sets out on a wild goose chase through the streets of New York City to track down the iconic star, at the expense of his personal life and much to the chagrin of his wife, Lisa. Can he find Garbo before it's too late?",
+"poster": "https://image.tmdb.org/t/p/w342/eanplWrug7tnMtEXdB3d5joqDdT.jpg",
+"runtime": 103,
+"title": "Garbo Talks",
+"tmdb_id": 105404,
+"year": 1984
+},
+"10551": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sSsEQ67SujjCJgMTj6xDQfnA0O6.jpg",
+"cast": [
+"Sean Connery",
+"Dustin Hoffman",
+"Matthew Broderick",
+"Rosanna DeSoto",
+"Janet Carroll",
+"Victoria Jackson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0097328",
+"original_title": "Family Business",
+"overview": "Jessie is an aging career criminal who has been in more jails, fights, schemes, and lineups than just about anyone else. His son Vito, while currently on the straight and narrow, has had a fairly shady past and is indeed no stranger to illegal activity. They both have great hope for Adam, Vito's son and Jessie's grandson, who is bright, good-looking, and without a criminal past.",
+"poster": "https://image.tmdb.org/t/p/w342/nALlbKdoKxlvwx9LDglOHZj0hs9.jpg",
+"runtime": 110,
+"title": "Family Business",
+"tmdb_id": 10551,
+"year": 1989
+},
 "1056336": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dqs78RQNSYihjgIrECODvbSDG4z.jpg",
 "cast": [
@@ -15895,31 +22199,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bedhead",
 "tmdb_id": 105704,
 "year": 1991
-},
-"1059": {
-"backdrop": "https://image.tmdb.org/t/p/w780/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
-"cast": [
-"Toshirō Mifune",
-"Minoru Chiaki",
-"Kamatari Fujiwara",
-"Misa Uehara",
-"Susumu Fujita",
-"Takashi Shimura"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Akira Kurosawa"
-],
-"imdb_id": "tt0051808",
-"original_title": "隠し砦の三悪人",
-"overview": "In feudal Japan, during a bloody war between clans, two cowardly and greedy peasants, soldiers of a defeated army, stumble upon a mysterious man who guides them to a fortress hidden in the mountains.",
-"poster": "https://image.tmdb.org/t/p/w342/uQHej0cFJHwSuaENizIZpYtsuNa.jpg",
-"runtime": 139,
-"title": "The Hidden Fortress",
-"tmdb_id": 1059,
-"year": 1958
 },
 "106097": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g3vp5G6IcIbABfgMdzAOWncbYdx.jpg",
@@ -16154,6 +22433,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 10654,
 "year": 1979
 },
+"10656": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oJuxVwei4MEWr6NJZFKWvzm6u6r.jpg",
+"cast": [
+"Isabelle Adjani",
+"Christopher Lambert",
+"Richard Bohringer",
+"Michel Galabru",
+"Jean-Hugues Anglade",
+"Jean-Pierre Bacri"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0090095",
+"original_title": "Subway",
+"overview": "Fred, a raffish safe blower, takes refuge in the Paris Metro after being chased by the henchmen of a shady businessman from whom he has just stolen some documents. While hiding out in the back rooms and conduits of the Metro, Fred encounters a subterranean society of eccentric characters and petty criminals.",
+"poster": "https://image.tmdb.org/t/p/w342/5EOFUWs0ImeyiRUtFpbHuGGTNUx.jpg",
+"runtime": 104,
+"title": "Subway",
+"tmdb_id": 10656,
+"year": 1985
+},
 "1065727": {
 "backdrop": null,
 "cast": [
@@ -16252,6 +22556,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Frantic",
 "tmdb_id": 10675,
 "year": 1988
+},
+"107065": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bPKBmKrmz0uAgFUazcqW9cmUvBa.jpg",
+"cast": [
+"Carroll Baker",
+"Gastone Moschin",
+"Renato Salvatori",
+"Michel Le Royer",
+"William Berger",
+"Clotilde Sakaroff"
+],
+"countries": [
+"FR",
+"DE",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0063042",
+"original_title": "L'Harem",
+"overview": "A seductive woman pushes three men to the limits toying with their sexual desires and male pride.",
+"poster": "https://image.tmdb.org/t/p/w342/rALRFL1VwjP1zGQZ6mvjaURiU3O.jpg",
+"runtime": 100,
+"title": "The Harem",
+"tmdb_id": 107065,
+"year": 1967
 },
 "1071568": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fPoikXq7Kk3qTKnRZURXXpIYt.jpg",
@@ -16577,6 +22908,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 107975,
 "year": 2000
 },
+"108179": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8DvcYl10r4NXnEWOT6OJZksAird.jpg",
+"cast": [
+"Anne Wiazemsky",
+"Marco Margine",
+"Rada Rassimov",
+"Maria Teresa Piaggio",
+"Milvia Deanna Frosini",
+"Annie Girardot"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0064959",
+"original_title": "Il seme dell'uomo",
+"overview": "During a Post-Apocalyptic period in the near future the majority of the European population has been wiped out by some sort of undefined plague. Cino and Dora, a young couple, are rounded up by what constitutes the authorities on an isolated temporary base. They are examined and given antibiotics which will protect them for six months, told to pick out a deserted house to live in the area, and use that time to conceive a child.",
+"poster": "https://image.tmdb.org/t/p/w342/8ujurVDzbiTukRu4edPsyz6u7pE.jpg",
+"runtime": 113,
+"title": "The Seed of Man",
+"tmdb_id": 108179,
+"year": 1969
+},
+"1084244": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+"cast": [
+"Joan Cusack",
+"Tom Hanks",
+"Tim Allen",
+"Conan O'Brien",
+"Scarlett Spears",
+"Greta Lee"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt29355505",
+"original_title": "Toy Story 5",
+"overview": "Buzz, Woody, Jessie og alle de andre blir satt på prøve når de møter Lilypad, et helt nytt nettbrett som har sine egne ideer om hva som er best for barna. Er lekenes tid forbi?",
+"poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+"runtime": 102,
+"title": "Toy Story 5",
+"tmdb_id": 1084244,
+"year": 2026
+},
 "10851": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9mQYX1AXNJsD9WcDrDQeDPMNq0x.jpg",
 "cast": [
@@ -16664,6 +23045,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "12 Directors for 12 Cities",
 "tmdb_id": 108534,
 "year": 1989
+},
+"1085766": {
+"backdrop": null,
+"cast": [
+"Meat Loaf",
+"Dana Patrick",
+"Jim Fitzpatrick"
+],
+"countries": [],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt7019730",
+"original_title": "I'd Do Anything for Love (But I Won't Do That)",
+"overview": "A take on \"Beauty and The Beast\" and \"Phantom of the Opera\" in which Meatloaf pursues a beautiful woman as he's chased by the cops.",
+"poster": "https://image.tmdb.org/t/p/w342/fjbIiUjDGyuNj15Rpq1A1A5TStq.jpg",
+"runtime": 8,
+"title": "I'd Do Anything for Love (But I Won't Do That)",
+"tmdb_id": 1085766,
+"year": 1993
 },
 "108733": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9SgUUgf2CZQfvKgGm3zbVqT6aP9.jpg",
@@ -16833,6 +23234,110 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Counselor",
 "tmdb_id": 109091,
 "year": 2013
+},
+"109099": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
+"cast": [
+"Rachel McAdams",
+"Noomi Rapace",
+"Karoline Herfurth",
+"Paul Anderson",
+"Dominic Raacke",
+"Rainer Bock"
+],
+"countries": [
+"FR",
+"DE"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt1829012",
+"original_title": "Passion",
+"overview": "The rivalry between the manipulative boss of an advertising agency and her talented protégée escalates from stealing credit to public humiliation to murder.",
+"poster": "https://image.tmdb.org/t/p/w342/o9DoB4Rsuc8wdkSZCJWB6fq9QPP.jpg",
+"runtime": 101,
+"title": "Passion",
+"tmdb_id": 109099,
+"year": 2013
+},
+"10910": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dqNVSLoksKIdCHMyrRYmpWyGbtQ.jpg",
+"cast": [
+"José Ferrer",
+"Zsa Zsa Gabor",
+"Colette Marchand",
+"Suzanne Flon",
+"Claude Nollier",
+"Katherine Kath"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0044926",
+"original_title": "Moulin Rouge",
+"overview": "In 1890 Paris, Moulin Rouge is a nightclub where crippled artist Toulouse-Lautrec feels like he fits in. In the following years, he meets two women who provide an opportunity for him to find true love.",
+"poster": "https://image.tmdb.org/t/p/w342/iTPcjDqJnimppXYwDcLScKCJTnI.jpg",
+"runtime": 119,
+"title": "Moulin Rouge",
+"tmdb_id": 10910,
+"year": 1952
+},
+"10913": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h3EmI6sR3THbrsMe5x12qnFtsH4.jpg",
+"cast": [
+"Jamie Bell",
+"Bill Pullman",
+"Michael Angarano",
+"Danso Gordon",
+"Novella Nelson",
+"Chris Owen"
+],
+"countries": [
+"DK",
+"FR",
+"GB",
+"DE"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0342272",
+"original_title": "Dear Wendy",
+"overview": "In a blue-collar American town, a group of teens bands together to form the Dandies, a gang of gunslingers led by Dick Dandelion. Following a code of strict pacifism at odds with the fact that they all carry guns, the group eventually lets in Sebastian, the grandson of Dick's childhood nanny, Clarabelle, who fears the other gangs in the area. Dick and company try to protect Clarabelle, but events transpire that push the gang past posturing.",
+"poster": "https://image.tmdb.org/t/p/w342/2IF19Tcx5D9d8iUWa0PxFhO6MYZ.jpg",
+"runtime": 105,
+"title": "Dear Wendy",
+"tmdb_id": 10913,
+"year": 2005
+},
+"109262": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oGe7xOU0cohvsSYmeDHSvkq9i71.jpg",
+"cast": [
+"Edward G. Robinson",
+"Richard Arlen",
+"Zita Johann",
+"Leila Bennett",
+"J. Carrol Naish",
+"Vince Barnett"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0023594",
+"original_title": "Tiger Shark",
+"overview": "A Portuguese tuna fisherman catches his bride with his first mate.",
+"poster": "https://image.tmdb.org/t/p/w342/hBnxEG4HCVqtScs6Ew8UrHMMzlj.jpg",
+"runtime": 77,
+"title": "Tiger Shark",
+"tmdb_id": 109262,
+"year": 1932
 },
 "109299": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ruTA4M9Q57DphNRTe3joKfFnYXY.jpg",
@@ -17055,6 +23560,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 109335,
 "year": 1937
 },
+"109355": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qteKHPbf0AK45V5MeILKh3h8bWS.jpg",
+"cast": [
+"Clarence Nash",
+"Lillian Randolph"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0035873",
+"original_title": "Figaro and Cleo",
+"overview": "Figaro the cat wants to eat Cleo the goldfish in this Pinocchio short.",
+"poster": "https://image.tmdb.org/t/p/w342/zk3OefCZQt71SoTRfx71AsdNl21.jpg",
+"runtime": 8,
+"title": "Figaro and Cleo",
+"tmdb_id": 109355,
+"year": 1943
+},
 "109364": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rA8axOsWYxunhCvJKoKR8jWAWaQ.jpg",
 "cast": [
@@ -17118,6 +23644,49 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Nocturne",
 "tmdb_id": 109408,
 "year": 1980
+},
+"109421": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gCTrUQMjcwUXiWUCAq4SGG6kUro.jpg",
+"cast": [
+"Rooney Mara",
+"Jude Law",
+"Catherine Zeta-Jones",
+"Channing Tatum",
+"Vinessa Shaw",
+"Ann Dowd"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt2053463",
+"original_title": "Side Effects",
+"overview": "A woman turns to prescription medication as a way of handling her anxiety concerning her husband's upcoming release from prison.",
+"poster": "https://image.tmdb.org/t/p/w342/dk10bwGyj8aRdOTl3EkgATEefh2.jpg",
+"runtime": 106,
+"title": "Side Effects",
+"tmdb_id": 109421,
+"year": 2013
+},
+"1094746": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oOaCe4UzDbXs5iUennkaVwRPE2U.jpg",
+"cast": [],
+"countries": [
+"IT"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt34387715",
+"original_title": "Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection",
+"overview": "Long live the new flesh. Surgery is the new sex. These Cronenbergian epigrams come together in a tableau that reimagines the ecstasy and eroticism of Renaissance sculpture for the future. Or is it already the present?",
+"poster": "https://image.tmdb.org/t/p/w342/aeVYh2YPjNSKcGT67JdP8Cd4NGS.jpg",
+"runtime": 4,
+"title": "Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection",
+"tmdb_id": 1094746,
+"year": 2023
 },
 "109485": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jTHoMktPRsdG2llKQExTIxmlMWm.jpg",
@@ -17242,6 +23811,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1095145,
 "year": 1969
 },
+"10970": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
+"cast": [
+"Mel Brooks",
+"Marty Feldman",
+"Dom DeLuise",
+"Sid Caesar",
+"Harold Gould",
+"Ron Carey"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0075222",
+"original_title": "Silent Movie",
+"overview": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
+"poster": "https://image.tmdb.org/t/p/w342/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
+"runtime": 87,
+"title": "Silent Movie",
+"tmdb_id": 10970,
+"year": 1976
+},
 "1098006": {
 "backdrop": "https://image.tmdb.org/t/p/w780/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg",
 "cast": [
@@ -17267,6 +23861,85 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fountain of Youth",
 "tmdb_id": 1098006,
 "year": 2025
+},
+"11016": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
+"cast": [
+"Humphrey Bogart",
+"Edward G. Robinson",
+"Lauren Bacall",
+"Thomas Gomez",
+"Lionel Barrymore",
+"Harry Lewis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0040506",
+"original_title": "Key Largo",
+"overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
+"poster": "https://image.tmdb.org/t/p/w342/rySfmQQZhS7RswOiJcJrww6FcHy.jpg",
+"runtime": 100,
+"title": "Key Largo",
+"tmdb_id": 11016,
+"year": 1948
+},
+"110390": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
+"cast": [
+"Holger Andersson",
+"Nisse Vestblom",
+"Viktor Gyllenberg",
+"Lotti Törnros",
+"Jonas Gerholm",
+"Ola Stensson"
+],
+"countries": [
+"FR",
+"DE",
+"NO",
+"SE",
+"DK"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt1883180",
+"original_title": "En duva satt på en gren och funderade på tillvaron",
+"overview": "An absurdist, surrealistic and shocking pitch-black comedy, which moves freely from nightmare to fantasy to hilariously deadpan humour as it muses on man’s perpetual inhumanity to man.",
+"poster": "https://image.tmdb.org/t/p/w342/h2uRIr0fNpZbTGH5youi7MDRL2T.jpg",
+"runtime": 101,
+"title": "A Pigeon Sat on a Branch Reflecting on Existence",
+"tmdb_id": 110390,
+"year": 2014
+},
+"110415": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vz45GHSnBNYRcyoZe3UCQ4HD4D4.jpg",
+"cast": [
+"Chris Evans",
+"Song Kang-ho",
+"Ed Harris",
+"John Hurt",
+"Tilda Swinton",
+"Jamie Bell"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt1706620",
+"original_title": "설국열차",
+"overview": "I 2031 har en ny istid gjort jorden nærmest ubeboelig. Menneskehetens siste tilfluktssted er et høyteknologisk tog som raser rundt på den ugjestmilde kloden. Togets arbeidere lever fra hånd til munn, men drømmer om opprør.",
+"poster": "https://image.tmdb.org/t/p/w342/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+"runtime": 127,
+"title": "Snowpiercer",
+"tmdb_id": 110415,
+"year": 2013
 },
 "11044": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
@@ -17294,6 +23967,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11044,
 "year": 1993
 },
+"11072": {
+"backdrop": "https://image.tmdb.org/t/p/w780/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+"cast": [
+"Cleavon Little",
+"Gene Wilder",
+"Slim Pickens",
+"Harvey Korman",
+"Madeline Kahn",
+"Mel Brooks"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0071230",
+"original_title": "Blazing Saddles",
+"overview": "Crafty railroad worker Bart becomes the first Black sheriff of Rock Ridge, a frontier town about to be destroyed in order to make way for a new railroad. Initially, the citizens of Rock Ridge harbor a racial bias toward their new protector. However, they warm to him after realizing that Bart and his perpetually drunk gunfighter friend Jim are their only defense against a wave of thugs sent to rid the town of its population.",
+"poster": "https://image.tmdb.org/t/p/w342/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+"runtime": 93,
+"title": "Blazing Saddles",
+"tmdb_id": 11072,
+"year": 1974
+},
 "110747": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yl73Eb3Hvu5zYAFGv0wN5agW6Mh.jpg",
 "cast": [
@@ -17318,6 +24016,108 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Savage!",
 "tmdb_id": 110747,
 "year": 1973
+},
+"110887": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8gRzaUleK5ik6ddRvZbOpxolHLh.jpg",
+"cast": [
+"Victor McLaglen",
+"Louise Brooks",
+"Robert Armstrong",
+"Maria Alba",
+"Francis McDonald",
+"Leila Hyams"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0018937",
+"original_title": "A Girl in Every Port",
+"overview": "Two sailors with a rivalry over chasing women become friends. But when one decides to finally settle down, will this mysterious young woman come between them?",
+"poster": "https://image.tmdb.org/t/p/w342/kaIyUSHMimpUGXfTtMlif22Giwa.jpg",
+"runtime": 78,
+"title": "A Girl in Every Port",
+"tmdb_id": 110887,
+"year": 1928
+},
+"11092": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+"cast": [
+"Harrison Ford",
+"Brian Dennehy",
+"Raúl Juliá",
+"Bonnie Bedelia",
+"Paul Winfield",
+"Greta Scacchi"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0100404",
+"original_title": "Presumed Innocent",
+"overview": "Rusty Sabich er en assisterende aktor som er involvert i en besatt affære med en kollega som blir myrdet. Kort tid etter blir han anklaget for forbrytelsen. Og kampen hans for å renvaske navnet sitt blir en virvelvind av løgner og skjulte lidenskaper.",
+"poster": "https://image.tmdb.org/t/p/w342/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+"runtime": 127,
+"title": "Presumed Innocent",
+"tmdb_id": 11092,
+"year": 1990
+},
+"110924": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7O0RFvWkMnNfPf3AnoPlOHRSMo9.jpg",
+"cast": [
+"José Luis López Vázquez",
+"Mary Carrillo",
+"Concha López Silva",
+"Ángel Álvarez",
+"María Luisa Ponte",
+"Andrea Moro"
+],
+"countries": [
+"ES"
+],
+"directors": [
+"Marco Ferreri",
+"Isidoro M. Ferry"
+],
+"imdb_id": "tt0052073",
+"original_title": "El pisito",
+"overview": "Rodolfo and Petrita each live in separate quarters in dilapidated Madrid, while looking to have a little apartment (or \"pisito\", in Spanish dialect). Unfortunately their low salaries prevent them from acquiring one. Soon, Rodolfo's co-workers urge him to marry the old and frail Doña Martina, who is the main tenant in the apartment he boards in. According to Spanish rent-control law, he could inherit the lease from his spouse. Thus begin his misgivings, and Petrita's.",
+"poster": "https://image.tmdb.org/t/p/w342/dStiJbDzWC1Edkr5eYWmCq0ZONU.jpg",
+"runtime": 87,
+"title": "The Little Apartment",
+"tmdb_id": 110924,
+"year": 1959
+},
+"11109": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ziJgbmfktniqisfCqJSqQ8VreZe.jpg",
+"cast": [
+"Imelda Staunton",
+"Phil Davis",
+"Sally Hawkins",
+"Daniel Mays",
+"Eddie Marsan",
+"Alex Kelly"
+],
+"countries": [
+"GB",
+"FR"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0383694",
+"original_title": "Vera Drake",
+"overview": "Abortionist Vera Drake finds her beliefs and practices clash with the mores of 1950s Britain – a conflict that leads to tragedy for her family.",
+"poster": "https://image.tmdb.org/t/p/w342/556fElboCLlEmP8UULaYosU45Bc.jpg",
+"runtime": 125,
+"title": "Vera Drake",
+"tmdb_id": 11109,
+"year": 2004
 },
 "111193": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2MFPTEf8wyrzz30HxmvIiptMs9U.jpg",
@@ -17394,32 +24194,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1112090,
 "year": 1963
 },
-"11121": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
-"cast": [
-"Nastassja Kinski",
-"Peter Firth",
-"Leigh Lawson",
-"John Collin",
-"Rosemary Martin",
-"Carolyn Pickles"
-],
-"countries": [
-"FR",
-"GB"
-],
-"directors": [
-"Roman Polanski"
-],
-"imdb_id": "tt0080009",
-"original_title": "Tess",
-"overview": "A strong-willed peasant girl is sent by her father to the estate of some local aristocrats to capitalize on a rumour that their families are from the same line. This fateful visit commences an epic narrative of sex, class, betrayal, and revenge.",
-"poster": "https://image.tmdb.org/t/p/w342/xejUFnoAVxzvU95o2jlzG2USmY.jpg",
-"runtime": 172,
-"title": "Tess",
-"tmdb_id": 11121,
-"year": 1979
-},
 "1112547": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uXkyaqoc8wgujotPCeUARrqVdOv.jpg",
 "cast": [
@@ -17442,6 +24216,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Anselm",
 "tmdb_id": 1112547,
 "year": 2023
+},
+"111322": {
+"backdrop": null,
+"cast": [
+"Steve Freedman",
+"Khorshield MacHalle",
+"Joe Marinelli",
+"Margo Newman",
+"Buddha Jon Parker",
+"Jeri Alyse Pittman"
+],
+"countries": [],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt0872315",
+"original_title": "Carmen",
+"overview": "Carmen was Alexander Payne’s first short film, made while he was studying at UCLA Film School. It is a silent comedy, derived from the opera of the same name. In the film a mentally challenged gas station attendant is put in charge of the store, which leads to love and a tragic-comic end.",
+"poster": "https://image.tmdb.org/t/p/w342/2T9rpTUvDjHXDN21pEeptzZVtrr.jpg",
+"runtime": 18,
+"title": "Carmen",
+"tmdb_id": 111322,
+"year": 1985
 },
 "1116020": {
 "backdrop": null,
@@ -17531,6 +24328,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 111835,
 "year": 1990
 },
+"111910": {
+"backdrop": "https://image.tmdb.org/t/p/w780/c5RUCfmhpHrkMF6TrgFy3WvsA3V.jpg",
+"cast": [
+"Henry Fonda",
+"Susan Strasberg",
+"Joan Greenwood",
+"Herbert Marshall",
+"Christopher Plummer",
+"Daniel Ocko"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0052235",
+"original_title": "Stage Struck",
+"overview": "A young woman arrives in New York City determined to become a great theatrical star, but discovers that her goal may not be as easily attainable as she had hoped.",
+"poster": "https://image.tmdb.org/t/p/w342/2taT00UvxPyKIofYvIJ5RTV1pV9.jpg",
+"runtime": 95,
+"title": "Stage Struck",
+"tmdb_id": 111910,
+"year": 1958
+},
 "1121639": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6kvqb2zaKFav3GuW0Ae92ETqZ7F.jpg",
 "cast": [
@@ -17578,6 +24400,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Trouble with Harry",
 "tmdb_id": 11219,
 "year": 1955
+},
+"112205": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mt4cfjeFHNKda7KDSvvJlG50swc.jpg",
+"cast": [
+"Robert De Niro",
+"Michelle Pfeiffer",
+"Tommy Lee Jones",
+"Dianna Agron",
+"John D'Leo",
+"Jon Freda"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt2404311",
+"original_title": "The Family",
+"overview": "After ratting out his Mafia cohorts, Giovanni Manzoni and his family enter the Witness Protection Program and relocate to a sleepy town in France. Despite the best efforts of their handler to keep them in line, Giovanni (now called Fred Blake), his wife and children can't help but resort to doing things the \"family\" way. However, their dependence on such old habits places everyone in danger from vengeful mobsters.",
+"poster": "https://image.tmdb.org/t/p/w342/x2arN02JFsZcDKmBb0SIjG8Smc8.jpg",
+"runtime": 111,
+"title": "The Family",
+"tmdb_id": 112205,
+"year": 2013
 },
 "11224": {
 "backdrop": "https://image.tmdb.org/t/p/w780/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
@@ -17632,6 +24480,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "In the Grey",
 "tmdb_id": 1122573,
 "year": 2026
+},
+"11227": {
+"backdrop": "https://image.tmdb.org/t/p/w780/z3xpnup2yshwV88pj3VmxQPO5F1.jpg",
+"cast": [
+"Jamel Debbouze",
+"Rie Rasmussen",
+"Gilbert Melki",
+"Serge Riaboukine",
+"Akim Chir",
+"Laurent Jumeaucourt"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0473753",
+"original_title": "Angel-A",
+"overview": "A beautiful and mysterious woman helps an inept scam artist get his game together... but is their meeting purely coincidence?",
+"poster": "https://image.tmdb.org/t/p/w342/ojUGHGfroGRwW7jO0727txepQbC.jpg",
+"runtime": 91,
+"title": "Angel-A",
+"tmdb_id": 11227,
+"year": 2005
 },
 "1123352": {
 "backdrop": null,
@@ -17715,6 +24588,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1123394,
 "year": 2010
 },
+"1124": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg",
+"cast": [
+"Hugh Jackman",
+"Christian Bale",
+"Michael Caine",
+"Piper Perabo",
+"Rebecca Hall",
+"Scarlett Johansson"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt0482571",
+"original_title": "The Prestige",
+"overview": "Finnes det en hemmelighet du kunne ha drept for å få høre? To unge tryllekunstnere i Victoriatidens England utkjemper en vennskapelig konkurranse som utarter til bitter rivalisering etter at et dristig triks ender i tragedie. De setter eget og andres liv i fare for å flytte magiske grenser og knuse hverandre.",
+"poster": "https://image.tmdb.org/t/p/w342/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+"runtime": 130,
+"title": "The Prestige",
+"tmdb_id": 1124,
+"year": 2006
+},
 "11252": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8mxJjrPymsCg4rJxmVNjXByQ2ee.jpg",
 "cast": [
@@ -17739,6 +24638,96 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Psycho",
 "tmdb_id": 11252,
 "year": 1998
+},
+"1125464": {
+"backdrop": null,
+"cast": [
+"Sergio D'Antoni",
+"Sergio Cofferati",
+"Massimo Ghini",
+"Rosy Bindi",
+"Walter Veltroni",
+"Fausto Bertinotti"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Alfredo Angeli",
+"Giorgio Arlorio",
+"Marco Bellocchio",
+"Gioia Benelli",
+"Franco Brogi Taviani",
+"Alessandro Cane",
+"Fabio Carpi",
+"Sandro Cecca",
+"Rocco Cesareo",
+"Michele Conforti",
+"Carlo Di Carlo",
+"Antonio Falduto",
+"Marco Ferreri",
+"Lucio Gaudino",
+"Roberto Giannarelli",
+"Liliana Ginanneschi",
+"Franco Giraldi",
+"Veronica Bilbao La Vieja",
+"Wilma Labate",
+"Francesco Laudadio",
+"Carlo Lizzani",
+"Francesco Longo",
+"Nanni Loy",
+"Luigi Magni",
+"Salvatore Maira",
+"Massimo Manuelli",
+"Francesco Maselli",
+"Gianfranco Mingozzi",
+"Giuliano Montaldo",
+"Luigi Perelli",
+"Paolo Pietrangeli",
+"Rosalia Polizzi",
+"Gillo Pontecorvo",
+"Maurizio Ponzi",
+"Marco Risi",
+"Ettore Scola",
+"Daniele Segre",
+"Gianni Serra",
+"Ricky Tognazzi",
+"Vito Zagarrio",
+"Giuliana Gamba"
+],
+"imdb_id": "tt5432102",
+"original_title": "Roma dodici novembre 1994",
+"overview": "Francesco Maselli pitched this documentary to the CGIL, CISL, and UIL trade unions as part of the 1.5 million-strong protest march on November 12, 1994 against Silvio Berlusconi's projects on social security and the reform of the pension system. A large number of directors, cinematographers, camera operators and technicians from all over the country worked for free in 22 different crews, chronicling one of largest political gatherings ever held in Italy.",
+"poster": null,
+"runtime": 33,
+"title": "Rome, November 12, 1994",
+"tmdb_id": 1125464,
+"year": 1995
+},
+"112594": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vOTgH14upusrNspTPHzrnl8Iuvi.jpg",
+"cast": [
+"Ricky Hui Koon-Ying",
+"Jade Hsu",
+"Stanley Fung Shui-Fan",
+"Paul Chun Pui",
+"Natalis Chan Pak-Cheung",
+"Paul Chung Fat"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0082762",
+"original_title": "摩登天師",
+"overview": "A shmo makes a deal with the devil so he can become a great Pop star just to impress his dream girl. After he makes the deal, a catholic priest hangs around him to try and convince him that he screwed up and he needs to get his soul back or he'll be damned for eternity. Well, everything goes bad for the shmo and he wants his soul back. But, the devil's lacky doesn't want to give it back. So the priest and the devil's lackey go at it mano y mano.",
+"poster": "https://image.tmdb.org/t/p/w342/5pd0oNYpjT8jpOJdjWCJQRh2NPP.jpg",
+"runtime": 88,
+"title": "To Hell with the Devil",
+"tmdb_id": 112594,
+"year": 1982
 },
 "112823": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8iAiIqaUa3uwOQYxslgIib4pz0x.jpg",
@@ -17814,32 +24803,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11302,
 "year": 1971
 },
-"11305": {
-"backdrop": "https://image.tmdb.org/t/p/w780/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
-"cast": [
-"Youki Kudoh",
-"Masatoshi Nagase",
-"Screamin' Jay Hawkins",
-"Cinqué Lee",
-"Nicoletta Braschi",
-"Elizabeth Bracco"
-],
-"countries": [
-"JP",
-"US"
-],
-"directors": [
-"Jim Jarmusch"
-],
-"imdb_id": "tt0097940",
-"original_title": "Mystery Train",
-"overview": "In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide.",
-"poster": "https://image.tmdb.org/t/p/w342/f11xq7dBGhz9UDc3dabldAGeXVH.jpg",
-"runtime": 106,
-"title": "Mystery Train",
-"tmdb_id": 11305,
-"year": 1989
-},
 "11307": {
 "backdrop": "https://image.tmdb.org/t/p/w780/danXDS9yif7sG1giWcsgOEgTehX.jpg",
 "cast": [
@@ -17865,31 +24828,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11307,
 "year": 1982
 },
-"11316": {
-"backdrop": "https://image.tmdb.org/t/p/w780/isyOwiSRyLRFXdsMn0UiA7mQbXV.jpg",
+"11323": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gDgSTQfkDG4y3SyGE2XVRBX80gy.jpg",
 "cast": [
-"Jon Finch",
-"Francesca Annis",
-"Martin Shaw",
-"John Stride",
-"Nicholas Selby",
-"Terence Bayler"
+"Matt Damon",
+"Scott Bakula",
+"Joel McHale",
+"Melanie Lynskey",
+"Tom Papa",
+"Rick Overton"
 ],
 "countries": [
-"GB",
 "US"
 ],
 "directors": [
-"Roman Polanski"
+"Steven Soderbergh"
 ],
-"imdb_id": "tt0067372",
-"original_title": "Macbeth",
-"overview": "Scotland, 11th century. Driven by the twisted prophecy of three witches and the ruthless ambition of his wife, warlord Macbeth, bold and brave, but also weak and hesitant, betrays his good king and his brothers in arms and sinks into the bloody mud of a path with no return, sown with crime and suspicion.",
-"poster": "https://image.tmdb.org/t/p/w342/35wNrDYuZjVCLurOmTZ5j490iuR.jpg",
-"runtime": 141,
-"title": "Macbeth",
-"tmdb_id": 11316,
-"year": 1971
+"imdb_id": "tt1130080",
+"original_title": "The Informant!",
+"overview": "Mark Whitacre, en stigende stjerne hos landbruksgiganten Archer Daniels Midland (ADM), velger plutselig å varsle om ulovligheter. Samtidig som han avslører selskapets multinasjonale prissamarbeid for FBI, ser han for seg at han vil bli hyllet som en helt for den vanlige mann – og attpåtil få en forfremmelse.",
+"poster": "https://image.tmdb.org/t/p/w342/eV8u5crNe4QYWcu0zjKxFVq2Qem.jpg",
+"runtime": 108,
+"title": "The Informant!",
+"tmdb_id": 11323,
+"year": 2009
 },
 "11324": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
@@ -17936,6 +24898,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 113255,
 "year": 1983
 },
+"11331": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5S916KQ6Wmn0pDFoeknIvpMgL9v.jpg",
+"cast": [
+"Spencer Tracy",
+"Felipe Pazos",
+"Harry Bellaver",
+"Don Diamond",
+"Mary Hemingway",
+"Joey Ray"
+],
+"countries": [
+"US",
+"PE"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0052027",
+"original_title": "The Old Man and the Sea",
+"overview": "Santiago is an aging, down-on-his-luck, Cuban fisherman who, after catching nothing for nearly 3 months, hooks a huge Marlin and struggles to land it far out in the Gulf Stream.",
+"poster": "https://image.tmdb.org/t/p/w342/6Q34dJL6m1vdzAr0jDDKDmNL52e.jpg",
+"runtime": 86,
+"title": "The Old Man and the Sea",
+"tmdb_id": 11331,
+"year": 1958
+},
 "11335": {
 "backdrop": "https://image.tmdb.org/t/p/w780/Arb8ZOPXczej8DlMNSgELDFA2dP.jpg",
 "cast": [
@@ -17960,6 +24948,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Popeye",
 "tmdb_id": 11335,
 "year": 1980
+},
+"11336": {
+"backdrop": "https://image.tmdb.org/t/p/w780/icvgQHxrKEDx92VQ5WHiEmEAUKH.jpg",
+"cast": [
+"Christopher Walken",
+"Brooke Adams",
+"Tom Skerritt",
+"Herbert Lom",
+"Anthony Zerbe",
+"Colleen Dewhurst"
+],
+"countries": [
+"US",
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0085407",
+"original_title": "The Dead Zone",
+"overview": "Johnny Smith er en skolelærer med hele livet foran seg, men etter en bilulykke havner han i koma i fem år. Når han våkner, oppdager han at han har en evne til å se inn i fortiden, nåtiden og fremtiden til alle han kommer i fysisk kontakt med.",
+"poster": "https://image.tmdb.org/t/p/w342/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+"runtime": 103,
+"title": "The Dead Zone",
+"tmdb_id": 11336,
+"year": 1983
 },
 "11337": {
 "backdrop": "https://image.tmdb.org/t/p/w780/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
@@ -18010,31 +25024,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Into the Night",
 "tmdb_id": 11338,
 "year": 1985
-},
-"11352": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pIb1CLl08DxciZXJr7AK4qmkArA.jpg",
-"cast": [
-"Richard Dreyfuss",
-"Holly Hunter",
-"John Goodman",
-"Brad Johnson",
-"Audrey Hepburn",
-"Roberts Blossom"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Steven Spielberg"
-],
-"imdb_id": "tt0096794",
-"original_title": "Always",
-"overview": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend that he left behind.",
-"poster": "https://image.tmdb.org/t/p/w342/r7LTwkgqUPPABnHpxceVylMf8M0.jpg",
-"runtime": 122,
-"title": "Always",
-"tmdb_id": 11352,
-"year": 1989
 },
 "113629": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iat1mWUl1DeShJG6E3bvDoZlE6q.jpg",
@@ -18090,6 +25079,25 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 113653,
 "year": 1949
 },
+"113670": {
+"backdrop": null,
+"cast": [
+"Pierre Bené",
+"Monica Löf"
+],
+"countries": [],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0316003",
+"original_title": "Hämta en cykel",
+"overview": "Roy Andersson's short movies focus on working class and youth daily life, capturing and portraying a small slice of his characters' day.",
+"poster": "https://image.tmdb.org/t/p/w342/6edGXKo71ZJK4bYRbsw2SAwY9GW.jpg",
+"runtime": 17,
+"title": "To Fetch a Bike",
+"tmdb_id": 113670,
+"year": 1968
+},
 "1136987": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bAGU7O2eQ8hQoqXYwLf0ipNctqL.jpg",
 "cast": [
@@ -18114,6 +25122,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "It's Not Me",
 "tmdb_id": 1136987,
 "year": 2024
+},
+"1137350": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bajke0ThKJ2V2iHE9DDYOJGdS7a.jpg",
+"cast": [
+"Benicio del Toro",
+"Mia Threapleton",
+"Michael Cera",
+"Riz Ahmed",
+"Tom Hanks",
+"Bryan Cranston"
+],
+"countries": [
+"US",
+"DE"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt30840798",
+"original_title": "The Phoenician Scheme",
+"overview": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins.",
+"poster": "https://image.tmdb.org/t/p/w342/iXxIUVqpQAlyy98UjUlzjkMYuj6.jpg",
+"runtime": 102,
+"title": "The Phoenician Scheme",
+"tmdb_id": 1137350,
+"year": 2025
 },
 "113781": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2vPXqGOWSyqdvFr09lHnXKXUG6l.jpg",
@@ -18239,6 +25273,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Roof",
 "tmdb_id": 113936,
 "year": 1956
+},
+"1140535": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eT1L3IVcHUL58wLn48E5dxlea3Z.jpg",
+"cast": [
+"Callina Liang",
+"Lucy Liu",
+"Chris Sullivan",
+"Eddy Maday",
+"West Mulholland",
+"Julia Fox"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt28249919",
+"original_title": "Presence",
+"overview": "A couple and their children move into a seemingly normal suburban home. When strange events occur, they begin to believe there is something else in the house with them. The presence is about to disrupt their lives in unimaginable ways.",
+"poster": "https://image.tmdb.org/t/p/w342/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",
+"runtime": 84,
+"title": "Presence",
+"tmdb_id": 1140535,
+"year": 2025
 },
 "1142287": {
 "backdrop": null,
@@ -18389,6 +25448,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Suspicion",
 "tmdb_id": 11462,
 "year": 1941
+},
+"114685": {
+"backdrop": "https://image.tmdb.org/t/p/w780/z6QIi4WfiRNlV8K97UOPCAgQ9dU.jpg",
+"cast": [
+"Marge Champion",
+"Gower Champion",
+"Debbie Reynolds",
+"Dolly Sharp",
+"Bob Fosse",
+"Kurt Kasznar"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0045822",
+"original_title": "Give a Girl a Break",
+"overview": "When the temperamental star of a new Broadway musical revue in rehearsals walks out, director and choreographer Ted Sturgis suggests casting an unknown for the role. When it is announced in the newspapers, throngs of hopefuls show up. The revue's musical composer, Leo Belney, champions ballerina Joanna Moss, while gofer Bob Dowdy is enchanted by novice Suzy Doolittle. Then producer Felix Jordan persuades Ted's former dance partner, Madelyn Corlan, to come out of retirement to try out, much to Ted's great discomfort.",
+"poster": "https://image.tmdb.org/t/p/w342/4xMzYnvYRPP8zwG4H9qA4TGuW4e.jpg",
+"runtime": 82,
+"title": "Give a Girl a Break",
+"tmdb_id": 114685,
+"year": 1953
+},
+"11471": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mgTZFhBGOE0Qyckynhm81CQLrP2.jpg",
+"cast": [
+"Ti Lung",
+"Chow Yun-Fat",
+"Leslie Cheung",
+"Emily Chu Bo-Yee",
+"Waise Lee Chi-Hung",
+"Tien Feng"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0092263",
+"original_title": "英雄本色",
+"overview": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
+"poster": "https://image.tmdb.org/t/p/w342/uxZIWxOm2yonHyjLARzW37aEZjF.jpg",
+"runtime": 95,
+"title": "A Better Tomorrow",
+"tmdb_id": 11471,
+"year": 1986
 },
 "11475": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kevyDBlyEJvQOPGd0b3BbtPKqrK.jpg",
@@ -18547,30 +25656,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1149715,
 "year": 1998
 },
-"11502": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
-"cast": [
-"Leon Niemczyk",
-"Jolanta Umecka",
-"Zygmunt Malanowicz",
-"Roman Polanski",
-"Anna Ciepielewska"
-],
-"countries": [
-"PL"
-],
-"directors": [
-"Roman Polanski"
-],
-"imdb_id": "tt0056291",
-"original_title": "Nóż w wodzie",
-"overview": "On their way to an afternoon on the lake, husband and wife Andrzej and Krystyna nearly run over a young hitchhiker. Inviting the young man onto the boat with them, Andrzej begins to subtly torment him; the hitchhiker responds by making overtures toward Krystyna. When the hitchhiker is accidentally knocked overboard, the husband's panic results in unexpected consequences.",
-"poster": "https://image.tmdb.org/t/p/w342/tkdeCwZhy9hzzVjZFjw0RPGWUIg.jpg",
-"runtime": 94,
-"title": "Knife in the Water",
-"tmdb_id": 11502,
-"year": 1962
-},
 "11503": {
 "backdrop": "https://image.tmdb.org/t/p/w780/z0ALFPZjhaAQjXThyMO9b3dIrz4.jpg",
 "cast": [
@@ -18597,6 +25682,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Serpent and the Rainbow",
 "tmdb_id": 11503,
 "year": 1988
+},
+"11507": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h5QkdbRmG2VodOCSB0QMhSGcCkI.jpg",
+"cast": [
+"Craig Wasson",
+"Melanie Griffith",
+"Gregg Henry",
+"Deborah Shelton",
+"Guy Boyd",
+"Dennis Franz"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0086984",
+"original_title": "Body Double",
+"overview": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+"poster": "https://image.tmdb.org/t/p/w342/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+"runtime": 114,
+"title": "Body Double",
+"tmdb_id": 11507,
+"year": 1984
 },
 "11513": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uHwJaXKtIsjI4IrtaFLnJjLZMrs.jpg",
@@ -18649,6 +25759,65 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Goya's Ghosts",
 "tmdb_id": 11515,
 "year": 2006
+},
+"115186": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2L6Qb9f3n7TcDgkrLKmNh3GX4Ww.jpg",
+"cast": [
+"Bruce Springsteen",
+"Steven Van Zandt",
+"Clarence Clemons",
+"Roy Bittan",
+"Danny Federici",
+"Max Weinberg"
+],
+"countries": [],
+"directors": [
+"Arnold Levine",
+"Danny Goldberg",
+"Julian Schlossberg",
+"John Sayles",
+"Brian De Palma",
+"Jonathan Demme",
+"Ted Demme",
+"Adam Bernstein",
+"Meiert Avis",
+"Arthur Rosato",
+"Tim Robbins"
+],
+"imdb_id": "tt0363491",
+"original_title": "Bruce Springsteen: The Complete Video Anthology 1978-2000",
+"overview": "The video kicks off from a 1978 performance of 'Rosalita' with a 29 year old Bruce wailing away with chicks jumpin' on the stage grabbing him! Lucky guy! The other songs featured include all the popular tunes like 'Born To Run', 'Born In The USA', 'I'm On Fire' and 'Glory Days'. Even some lesser known songs such as 'Spare Parts' (from 'Tunnel Of Love' album) and 'Tougher than the rest' from 'Tunnel Of Love' also which are both live. I like Bruce Springsteen a lot. He has the edge as a showman and musical innovator without losing the plot onstage. Fans will love this video for it's authentic live performances, music videos and classic Springsteen songs. Great",
+"poster": "https://image.tmdb.org/t/p/w342/2s6U9t77ZF2mguCjpF99KfjtQFK.jpg",
+"runtime": 100,
+"title": "Bruce Springsteen: The Complete Video Anthology 1978-2000",
+"tmdb_id": 115186,
+"year": 2001
+},
+"11532": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8JH97RT7J2zMRDx3ia7wwywkIwV.jpg",
+"cast": [
+"Powers Boothe",
+"Charley Boorman",
+"Meg Foster",
+"Estee Chandler",
+"Dira Paes",
+"Eduardo Conde"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0089087",
+"original_title": "The Emerald Forest",
+"overview": "For ten years, engineer Bill Markham has searched tirelessly for his son Tommy who disappeared from the edge of the Brazilian rainforest. Miraculously, he finds the boy living among the reclusive Amazon tribe who adopted him. And that's when Bill's adventure truly begins. For his son is now a grown tribesman who moves skillfully through this beautiful-but-dangerous terrain, fearful only of those who would exploit it. And as Bill attempts to \"rescue\" him from the savagery of the untamed jungle, Tommy challenges Bill's idea of true civilization and his notions about who needs rescuing.",
+"poster": "https://image.tmdb.org/t/p/w342/fdRlqPnPFaPyQqS3KiBLJwWQPBe.jpg",
+"runtime": 114,
+"title": "The Emerald Forest",
+"tmdb_id": 11532,
+"year": 1985
 },
 "1153796": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aizkRBnX4vsQOM74xnl1cqPpbzS.jpg",
@@ -18891,6 +26060,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11575,
 "year": 1965
 },
+"11586": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
+"cast": [
+"Richard Burton",
+"Linda Blair",
+"Louise Fletcher",
+"Max von Sydow",
+"Kitty Winn",
+"Paul Henreid"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0076009",
+"original_title": "Exorcist II: The Heretic",
+"overview": "Selv fire år etter hun ble besatt og fikk demonen utdrevet er Regan MacNeil fortsatt plaget av bisarre mareritt. Har demonen kommet tilbake? Og hvis det er tilfellet, kan den kombinerte tro og kunnskap fra henholdsvis Vatikanets etterforsker og en hypnosespesialist befri henne fra demonens grep?",
+"poster": "https://image.tmdb.org/t/p/w342/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
+"runtime": 118,
+"title": "Exorcist II: The Heretic",
+"tmdb_id": 11586,
+"year": 1977
+},
 "11590": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kAMgr9znXqu07SQjdbT1vwUeqYD.jpg",
 "cast": [
@@ -19022,6 +26216,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Match Point",
 "tmdb_id": 116,
 "year": 2005
+},
+"11605": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oo4BWafFHgnFIY7Ymbs8TaTHw3k.jpg",
+"cast": [
+"George C. Scott",
+"Kirk Douglas",
+"Dana Wynter",
+"Clive Brook",
+"Gladys Cooper",
+"Herbert Marshall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0057254",
+"original_title": "The List of Adrian Messenger",
+"overview": "Adrian Messenger, a famous writer, asks his friend Anthony Gethryn, a former British agent, to help him investigate the whereabouts of the people who appear on a list, without asking him the reason why he should do so.",
+"poster": "https://image.tmdb.org/t/p/w342/kegT7mgLFZc69exeq4sE3qxIHew.jpg",
+"runtime": 99,
+"title": "The List of Adrian Messenger",
+"tmdb_id": 11605,
+"year": 1963
 },
 "11617": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bcZUdS133kwngC8CXJHD6sRAHDt.jpg",
@@ -19298,6 +26517,101 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11646,
 "year": 1981
 },
+"1168279": {
+"backdrop": null,
+"cast": [
+"Mickey Rooney",
+"James Dunn",
+"Roberta Sherwood",
+"Gloria DeHaven",
+"June Havoc",
+"Henry Lascoe"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0305844",
+"original_title": "Mr. Broadway",
+"overview": "A musical television special chronicling the early career of playwright George M. Cohan, focusing primarily on his vaudeville years as part of his family singing group \"The Four Cohans.\"",
+"poster": "https://image.tmdb.org/t/p/w342/gRv6SkI9o9XjwA6H51hZAKdCwpL.jpg",
+"runtime": 90,
+"title": "Mr. Broadway",
+"tmdb_id": 1168279,
+"year": 1957
+},
+"1168319": {
+"backdrop": null,
+"cast": [
+"Neville Brand",
+"Frank Conroy",
+"Robert Emhardt",
+"John Fiedler",
+"Anne Meacham",
+"William Prince"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0216534",
+"original_title": "All the King's Men",
+"overview": "The life of populist Southerner Willie Stark, a political creature loosely based on Governor Huey Long of Louisiana, based upon the Robert Penn Warren-novel.",
+"poster": "https://image.tmdb.org/t/p/w342/hguodVPPYNhZMfs1HNRCe5vrA8B.jpg",
+"runtime": 90,
+"title": "All the King's Men",
+"tmdb_id": 1168319,
+"year": 1958
+},
+"1168322": {
+"backdrop": null,
+"cast": [
+"Roberts Blossom",
+"James Broderick",
+"Thomas A. Carlin",
+"Ossie Davis",
+"Robert Duvall",
+"Earle Hyman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt1719036",
+"original_title": "John Brown's Raid",
+"overview": "White abolitionist John Brown and twenty of his men attempt to start an armed slave revolt in 1859 by seizing a U.S. arsenal at Harpers Ferry, Virginia. Based on true events.",
+"poster": "https://image.tmdb.org/t/p/w342/ApM38nt0kvLgyk973olVjrtv8hW.jpg",
+"runtime": 60,
+"title": "John Brown's Raid",
+"tmdb_id": 1168322,
+"year": 1960
+},
+"1168332": {
+"backdrop": null,
+"cast": [
+"Neil Shicoff"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0438351",
+"original_title": "Rachel, quand du seigneur",
+"overview": "A passionate performance of \"Rachel, quand du Seigneur\" (Rachel, when the Lord...), a celebrated aria from the Fromental Halévy's famous opera \"La Juive\" (The Jewess).",
+"poster": null,
+"runtime": 12,
+"title": "Rachel, When the Lord",
+"tmdb_id": 1168332,
+"year": 2004
+},
 "11686": {
 "backdrop": "https://image.tmdb.org/t/p/w780/anMnNQ6fTK6y0Y0HnC6UMMBo7HO.jpg",
 "cast": [
@@ -19347,6 +26661,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Four Men and a Prayer",
 "tmdb_id": 116973,
 "year": 1938
+},
+"117": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+"cast": [
+"Kevin Costner",
+"Sean Connery",
+"Robert De Niro",
+"Charles Martin Smith",
+"Andy Garcia",
+"Richard Bradford"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0094226",
+"original_title": "The Untouchables",
+"overview": "De Ubestikkelige er en briljant, voldsom og mektig skildring av mafiasjefen som regjerte i forbudstidens Chicago... og politimannen som sverget på å stoppe ham. I denne klassiske konfrontasjonen mellom det gode og det onde møter vi Kevin Costner som spesialetterforsker Eliot Ness, Robert De Niro som mafiakongen Al Capone og Sean Connery som Malone, politimannen som lærer Ness hvordan mafiaen skal tas: skyt fort og skyt først.",
+"poster": "https://image.tmdb.org/t/p/w342/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+"runtime": 119,
+"title": "The Untouchables",
+"tmdb_id": 117,
+"year": 1987
 },
 "117001": {
 "backdrop": "https://image.tmdb.org/t/p/w780/l6NImTP1iuuMItC11BDmnwZqBie.jpg",
@@ -19423,31 +26762,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1171132,
 "year": 1955
 },
-"11712": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7g5v2zXedkwiFqDlWqcoRUUQYD6.jpg",
-"cast": [
-"Toshirō Mifune",
-"Tatsuya Nakadai",
-"Keiju Kobayashi",
-"Yūzō Kayama",
-"Reiko Dan",
-"Takashi Shimura"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Akira Kurosawa"
-],
-"imdb_id": "tt0056443",
-"original_title": "椿三十郎",
-"overview": "In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
-"poster": "https://image.tmdb.org/t/p/w342/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
-"runtime": 96,
-"title": "Sanjuro",
-"tmdb_id": 11712,
-"year": 1962
-},
 "1171215": {
 "backdrop": null,
 "cast": [
@@ -19495,6 +26809,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Doodkry is Min",
 "tmdb_id": 1172075,
 "year": 1961
+},
+"1172674": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aQuzqump4Zjh2bCoymZ2POLlNYt.jpg",
+"cast": [
+"Richard Ayoade",
+"Ralph Fiennes",
+"Rupert Friend",
+"Eliel Ford",
+"Benoît Herlin",
+"Till Sennhenn"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt28912858",
+"original_title": "The Rat Catcher",
+"overview": "En profesjonell rotteutrydder har hovedrollen i denne filmatiseringen av en novelle av Roald Dahl, hentet fra Wes Andersons samling med fire kortfilmer.",
+"poster": "https://image.tmdb.org/t/p/w342/29WJ7dOHt48AtXK1J1rONEEvIMN.jpg",
+"runtime": 17,
+"title": "The Rat Catcher",
+"tmdb_id": 1172674,
+"year": 2023
+},
+"1172675": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oIUDSK3CCqkpe6lct8YPuUupFes.jpg",
+"cast": [
+"Rupert Friend",
+"Ralph Fiennes",
+"Asa Jennings",
+"Eliel Ford",
+"Truman Hanks",
+"Benoît Herlin"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt28912758",
+"original_title": "The Swan",
+"overview": "To store, dumme bøller er på nådeløs jakt etter en liten, smart gutt i denne filmatiseringen av Roald Dahls novelle, fra Wes Andersons samling med fire kortfilmer.",
+"poster": "https://image.tmdb.org/t/p/w342/fRbx6DPdQBJrhZWyshjJABtAIyu.jpg",
+"runtime": 17,
+"title": "The Swan",
+"tmdb_id": 1172675,
+"year": 2023
+},
+"1172676": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hrqPHNioMoCVyyh8FCcaINTv6Nu.jpg",
+"cast": [
+"Benedict Cumberbatch",
+"Dev Patel",
+"Ben Kingsley",
+"Ralph Fiennes",
+"Eliel Ford",
+"Benoît Herlin"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt28912885",
+"original_title": "Poison",
+"overview": "En mann oppdager en giftslange sovende i sengen i denne filmatiseringen av en novelle av Roald Dahl, hentet fra Wes Andersons samling med fire kortfilmer.",
+"poster": "https://image.tmdb.org/t/p/w342/IQG49DUJw5DsgcNbW0NfagiDOs.jpg",
+"runtime": 17,
+"title": "Poison",
+"tmdb_id": 1172676,
+"year": 2023
 },
 "117412": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nbUNRrlJ5e8Jx6gMTiGZ7cJnhRQ.jpg",
@@ -19593,34 +26982,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11775,
 "year": 2003
 },
-"11779": {
-"backdrop": "https://image.tmdb.org/t/p/w780/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+"117999": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fDhpncUbdCbGSZYHWASLxTtcN53.jpg",
 "cast": [
-"Compay Segundo",
-"Eliades Ochoa",
-"Ry Cooder",
-"Joachim Cooder",
-"Ibrahim Ferrer",
-"Omara Portuondo"
+"James Coburn",
+"Lynn Redgrave",
+"Robert Hooks",
+"Perry Hayes",
+"Reggie King"
 ],
 "countries": [
-"DE",
-"US",
-"GB",
-"FR",
-"CU"
+"US"
 ],
 "directors": [
-"Wim Wenders"
+"Sidney Lumet"
 ],
-"imdb_id": "tt0186508",
-"original_title": "Buena Vista Social Club",
-"overview": "In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group's gigs in Amsterdam and New York City's famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians' life stories.",
-"poster": "https://image.tmdb.org/t/p/w342/b8psTDXSelHiab1I7L8rFdYs0IC.jpg",
-"runtime": 105,
-"title": "Buena Vista Social Club",
-"tmdb_id": 11779,
-"year": 1999
+"imdb_id": "tt0064574",
+"original_title": "Last of the Mobile Hot Shots",
+"overview": "A new bride gets caught between her decadent husband and his black half-brother.",
+"poster": "https://image.tmdb.org/t/p/w342/xj5Rub6H5B9yMh6GL3oomOM1SLg.jpg",
+"runtime": 100,
+"title": "Last of the Mobile Hot Shots",
+"tmdb_id": 117999,
+"year": 1970
 },
 "118": {
 "backdrop": "https://image.tmdb.org/t/p/w780/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
@@ -19672,6 +27056,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Pickle Brothers",
 "tmdb_id": 1181155,
 "year": 1967
+},
+"118179": {
+"backdrop": "https://image.tmdb.org/t/p/w780/g6j2WYKeD1Yl7wGazDyfc2hlnLo.jpg",
+"cast": [
+"Yoon Je-moon",
+"Koh Soo-hee",
+"Lee Da-il"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt2115336",
+"original_title": "인플루엔자",
+"overview": "The film starts with a man named Cho Hyuk-rae who has perched dangerously on top of the Han River Bridge. It is a sad picture of a man who has been caught unwittingly on a security camera. The camera continues to reveal the downward spiral of Cho and those of us who surround him. The 'real' images shown through the camera keep on becoming more 'corrupted' as the time goes by.",
+"poster": "https://image.tmdb.org/t/p/w342/eJIUhG3FrsQGkOo4KWnwb0xLKQf.jpg",
+"runtime": 28,
+"title": "Influenza",
+"tmdb_id": 118179,
+"year": 2004
 },
 "118257": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7XTfI78Iy5KVmUG1IR3pc9QCdQ1.jpg",
@@ -19750,30 +27156,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11831,
 "year": 1997
 },
-"11834": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hMtePcTyWLQjBbujHd4kiquQcZ3.jpg",
+"1184849": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vhtrvMyM00flv5Nhr3uSw3QqLF5.jpg",
 "cast": [
-"Michael Palin",
-"Harry H. Corbett",
-"John Le Mesurier",
-"Warren Mitchell",
-"Max Wall",
-"Rodney Bewes"
+"Albert Brooks",
+"Rob Reiner",
+"Chris Rock",
+"Conan O'Brien",
+"Wanda Sykes",
+"Jon Stewart"
 ],
 "countries": [
-"GB"
+"US"
 ],
 "directors": [
-"Terry Gilliam"
+"Rob Reiner"
 ],
-"imdb_id": "tt0076221",
-"original_title": "Jabberwocky",
-"overview": "After the death of his father, young Dennis Cooper goes to town where he has to pass several adventures. The town and the whole kingdom is threatened by a terrible monster called 'Jabberwocky'. Will Dennis make his fortune? Is anyone brave enough to defeat the monster?",
-"poster": "https://image.tmdb.org/t/p/w342/kprcqmFxWPU45L1ZnMXO5yPPMVA.jpg",
-"runtime": 105,
-"title": "Jabberwocky",
-"tmdb_id": 11834,
-"year": 1977
+"imdb_id": "tt20274588",
+"original_title": "Albert Brooks: Defending My Life",
+"overview": "Rob Reiner profiles Albert Brooks, comedic legend, acclaimed filmmaker, talented character actor and a lifelong friend, who Reiner first met in their high school drama club.",
+"poster": "https://image.tmdb.org/t/p/w342/slZsCmKcSW0vsUzGnaYNbox5PT5.jpg",
+"runtime": 88,
+"title": "Albert Brooks: Defending My Life",
+"tmdb_id": 1184849,
+"year": 2023
 },
 "11863": {
 "backdrop": "https://image.tmdb.org/t/p/w780/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
@@ -20116,6 +27522,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11900,
 "year": 1971
 },
+"11909": {
+"backdrop": "https://image.tmdb.org/t/p/w780/llPr868m7jtx63Xr0ZItmvYZokv.jpg",
+"cast": [
+"Tony Leung Chiu-wai",
+"Jacky Cheung Hok-Yau",
+"Waise Lee Chi-Hung",
+"Simon Yam",
+"Fennie Yuen Kit-Ying",
+"Yolinda Yan Chor-Sin"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0099426",
+"original_title": "喋血街頭",
+"overview": "Three childhood friends from the slums of Hong Kong flee to war-time Saigon after accidentally murdering a gang leader, but their troubles only escalate.",
+"poster": "https://image.tmdb.org/t/p/w342/zsLcRua8Jt5RtD8l8NAq1voXDfg.jpg",
+"runtime": 136,
+"title": "Bullet in the Head",
+"tmdb_id": 11909,
+"year": 1990
+},
 "11934": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gXo423uIRgBOsfQrrqJfVVcySif.jpg",
 "cast": [
@@ -20285,6 +27716,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1196279,
 "year": 1957
 },
+"119675": {
+"backdrop": "https://image.tmdb.org/t/p/w780/47hvNE7yCYoc2NObbjl7bS9jnIA.jpg",
+"cast": [
+"Michael Douglas",
+"Matt Damon",
+"Dan Aykroyd",
+"Scott Bakula",
+"Rob Lowe",
+"Tom Papa"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt1291580",
+"original_title": "Behind the Candelabra",
+"overview": "Basert på den selvbiografiske romanen, som forteller det tydelige seksårige forholdet mellom Liberace og hans (mye yngre) elsker, Scott Thorson.",
+"poster": "https://image.tmdb.org/t/p/w342/iodt6hrewVXxR415PIjBeuZg3Qs.jpg",
+"runtime": 118,
+"title": "Behind the Candelabra",
+"tmdb_id": 119675,
+"year": 2013
+},
 "11975": {
 "backdrop": "https://image.tmdb.org/t/p/w780/v0IeACcCsKLKqT4eCJsZ60nySQL.jpg",
 "cast": [
@@ -20377,6 +27833,22 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1198548,
 "year": 2008
 },
+"1199006": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": null,
+"original_title": "고릴라",
+"overview": "A gorilla searching for freedom while fighting a caterpillar that emerged from its fecal matter.  (Note: This early student film was only screened privately for members of a film club and has not been publicly released or made available for viewing.)",
+"poster": "https://image.tmdb.org/t/p/w342/eBoHmG6ByBx52lbxjK4li1kOFem.jpg",
+"runtime": 23,
+"title": "Looking For Paradise",
+"tmdb_id": 1199006,
+"year": 1992
+},
 "1200903": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bfZg5ttV4wIlGLDILqgNWDwkLZK.jpg",
 "cast": [
@@ -20451,6 +27923,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 120226,
 "year": 1966
 },
+"120518": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6SeuiEnzCF6zspp8DdRrlXvj01G.jpg",
+"cast": [
+"Jeff Bridges",
+"Alice Krige",
+"Farrah Fawcett",
+"Drew Barrymore",
+"Lukas Haas",
+"David Dukes"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0098283",
+"original_title": "See You in the Morning",
+"overview": "Two divorcees who fall in love must help their children cope with the changes in their families as they try to learn how to make own relationship survive.",
+"poster": "https://image.tmdb.org/t/p/w342/nly0595sW2LMxWw8EMDFWFbbE9D.jpg",
+"runtime": 119,
+"title": "See You in the Morning",
+"tmdb_id": 120518,
+"year": 1989
+},
 "121": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
 "cast": [
@@ -20475,6 +27972,32 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 179,
 "title": "The Lord of the Rings: The Two Towers",
 "tmdb_id": 121,
+"year": 2002
+},
+"12100": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xr60oCXkfFIqMRJ4YxtMiD53zBy.jpg",
+"cast": [
+"Nicolas Cage",
+"Adam Beach",
+"Peter Stormare",
+"Noah Emmerich",
+"Mark Ruffalo",
+"Brian Van Holt"
+],
+"countries": [
+"US",
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0245562",
+"original_title": "Windtalkers",
+"overview": "I 1942, under de brutale kampene mellom Amerika og Japan, leter den amerikanske etterretningstjenesten desperat etter et nytt kodesystem som ikke kan knekkes av japanerne. Valget faller på språket til Navajo-stammen, som tilhører den amerikanske urbefolkningen, og flere hundre Navajo-amerikanere rekrutteres til marinen. Koden blir et av amerikanernes viktigste våpen og må beskyttes for enhver pris, og kodespesialistene må ikke havne i fiendens hender…",
+"poster": "https://image.tmdb.org/t/p/w342/547q4HXlvEcS06lujfb2yzsTP3H.jpg",
+"runtime": 134,
+"title": "Windtalkers",
+"tmdb_id": 12100,
 "year": 2002
 },
 "121052": {
@@ -20502,6 +28025,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 121052,
 "year": 1968
 },
+"12110": {
+"backdrop": "https://image.tmdb.org/t/p/w780/47HK3UNlIfLcS2C2pDIznSyUTsI.jpg",
+"cast": [
+"Leslie Nielsen",
+"Mel Brooks",
+"Amy Yasbeck",
+"Peter MacNicol",
+"Lysette Anthony",
+"Harvey Korman"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0112896",
+"original_title": "Dracula: Dead and Loving It",
+"overview": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms and joins him in his search for fresh blood. Enter Professor Van Helsing, who may be the only one able to vanquish the Count.",
+"poster": "https://image.tmdb.org/t/p/w342/5QmMhHdKpJ2eQp5i8NqopzGbw9r.jpg",
+"runtime": 88,
+"title": "Dracula: Dead and Loving It",
+"tmdb_id": 12110,
+"year": 1995
+},
 "12113": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6ghc2ySuEnTW8h3YgZZufk2SOTv.jpg",
 "cast": [
@@ -20526,6 +28075,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Body of Lies",
 "tmdb_id": 12113,
 "year": 2008
+},
+"12151": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pLuVm0Y37m2uuztLoaQbfimipqN.jpg",
+"cast": [
+"Danny DeVito",
+"Bette Midler",
+"Judge Reinhold",
+"Helen Slater",
+"Anita Morris",
+"Bill Pullman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams",
+"David Zucker",
+"Jerry Zucker"
+],
+"imdb_id": "tt0091877",
+"original_title": "Ruthless People",
+"overview": "To kidnappere får sitt livs sjokk når de kidnapper kona (Bette Midler) til en meget rik mann (Danny DeVito), og truer henne på livet. For tro ikke at mannen blir fra seg av sorg og betaler ut løssummen ved første anledning. Nei da, han gjør akkurat det motsatte. Med glede nekter han å betale, og man aner feststemning over muligheten for at kona snart kan dø! Og ikke lenge etter skjønner kidnapperne hvorfor; dama er en pest og en plage og de får så mye kjeft som de aldri har opplevd før. Men med tiden får de høre hennes side av saken også, og da skjønner kidnapperne at mannen ikke er noe bedre han heller. Faktisk virker det som om ekteparet endelig har funnet den perfekt løsning på sine problemer!",
+"poster": "https://image.tmdb.org/t/p/w342/fA3f8bsXoVbIALq4EdiAwptF1ws.jpg",
+"runtime": 94,
+"title": "Ruthless People",
+"tmdb_id": 12151,
+"year": 1986
 },
 "12155": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
@@ -20602,6 +28178,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Vampire in Brooklyn",
 "tmdb_id": 12158,
 "year": 1995
+},
+"1216571": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oXWTWJ1KHwE6BWFdiGcBcfvfypE.jpg",
+"cast": [
+"Matilda Price",
+"Luke Stanton Eddy",
+"Ryan Shoos",
+"Dean Testerman",
+"Sherry Mattson",
+"Honey Lauren"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt20218618",
+"original_title": "June and John",
+"overview": "John leads an ordinary life with a monotonous routine. One day John runs into a woman on the subway who is as beautiful as she is mysterious named June. His encounter with her finally leads him to have a goal in his bumptious life.",
+"poster": "https://image.tmdb.org/t/p/w342/xRa3VBDf9RRz26SYtCTgOu9lQK2.jpg",
+"runtime": 89,
+"title": "June and John",
+"tmdb_id": 1216571,
+"year": 2025
 },
 "12172": {
 "backdrop": "https://image.tmdb.org/t/p/w780/k5wG09wKslKid7EqxJ351oFytFx.jpg",
@@ -20726,6 +28327,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 12219,
 "year": 1997
 },
+"12220": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mh30m4DuwBtvI9zwfZF6KfkkRbP.jpg",
+"cast": [
+"Bruce Willis",
+"Michelle Pfeiffer",
+"Rob Reiner",
+"Colleen Rennison",
+"Jake Sandvig",
+"Julie Hagerty"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0160916",
+"original_title": "The Story of Us",
+"overview": "After 15 years of marriage, Katie and her husband, Ben, have grown apart. While they keep up the facade of having a contented marriage, mostly to not worry their children, they aren't happy together and argue frequently. While the kids are away at camp, Katie and Ben decide to separate and try to reassess their relationship to see if they should stay together or split up for good. ",
+"poster": "https://image.tmdb.org/t/p/w342/8rm0CZpHW1D7pIv8OguJNHF93LV.jpg",
+"runtime": 96,
+"title": "The Story of Us",
+"tmdb_id": 12220,
+"year": 1999
+},
+"122271": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5OktQG2bx3l4vlVcGj6Z571cvdR.jpg",
+"cast": [
+"Anne Raitt",
+"Sarah Stephenson",
+"Eric Allan",
+"Joolia Cappleman",
+"Mike Bradwell",
+"Malcolm Smith"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0066842",
+"original_title": "Bleak Moments",
+"overview": "Moments from the uncompromisingly bleak existence of a secretary, her intellectually disabled sister, aloof and uneasy teacher boyfriend, bizarre neighbor and irritating workmate.",
+"poster": "https://image.tmdb.org/t/p/w342/j6UZkLlGXxMpB4CsrZ4pyLEU5iZ.jpg",
+"runtime": 111,
+"title": "Bleak Moments",
+"tmdb_id": 122271,
+"year": 1972
+},
 "1222877": {
 "backdrop": null,
 "cast": [
@@ -20778,6 +28429,53 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 12230,
 "year": 1961
 },
+"122368": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2fqRKdOcL0NV9LcbXIj9UhmNWi.jpg",
+"cast": [
+"Holger Thaarup",
+"Rune Veber",
+"Michelle Bjørn-Andersen",
+"Christian Hjejle",
+"Martin Brygmann",
+"Agnes Obel"
+],
+"countries": [
+"DK"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0109673",
+"original_title": "Drengen der gik baglæns",
+"overview": "Nine-year old Andreas struggles to cope with the death of his beloved older brother, Mikkel, who is killed in a motorbike accident. Andreas' family moves shortly afterward to begin life anew, yet neither a new school nor the friends he makes can ease his enormous pain.",
+"poster": "https://image.tmdb.org/t/p/w342/36O1hWV5nZpEVAeiFQzEtXGCCXd.jpg",
+"runtime": 37,
+"title": "The Boy Who Walked Backwards",
+"tmdb_id": 122368,
+"year": 1995
+},
+"1223804": {
+"backdrop": null,
+"cast": [
+"Jackson Beck",
+"Jack Mercer",
+"Mae Questel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": null,
+"original_title": "Popeye's Service Station",
+"overview": "Popeye is now the manager of a service station, he provides a good service with free extras. Brutus comes along only wanting the free extras, including free access to another customer, Olive Oyl.",
+"poster": "https://image.tmdb.org/t/p/w342/3aurSl5nv7xT0nmmvpCdgLvbIIw.jpg",
+"runtime": 6,
+"title": "Popeye's Service Station",
+"tmdb_id": 1223804,
+"year": 1960
+},
 "122387": {
 "backdrop": "https://image.tmdb.org/t/p/w780/inXwdifFhu39LdRMWwvuL9ChbuZ.jpg",
 "cast": [
@@ -20801,6 +28499,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Countdown to Christmas",
 "tmdb_id": 122387,
 "year": 2002
+},
+"1225622": {
+"backdrop": "https://image.tmdb.org/t/p/w780/71FEnhdVe15PZLywpQYjhWRYHs9.jpg",
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt28591750",
+"original_title": "Arthur, l'Aventure 4D",
+"overview": "Fly a ladybug on a 4D adventure into the world of Arthur and the Minimoys. Nature will never seem the same again.",
+"poster": "https://image.tmdb.org/t/p/w342/sQgLvGdvvK06y6kEA4azrC0FZkb.jpg",
+"runtime": 5,
+"title": "Arthur, the 4D Adventure",
+"tmdb_id": 1225622,
+"year": 2009
 },
 "12262": {
 "backdrop": "https://image.tmdb.org/t/p/w780/e5ecjQw8AK0e924UIkMOUTxGhMj.jpg",
@@ -20852,6 +28568,35 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 12279,
 "year": 2003
 },
+"12289": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xDuEjbVlPkXBNiu8Dd7lQyZiNEX.jpg",
+"cast": [
+"Tony Leung Chiu-wai",
+"Takeshi Kaneshiro",
+"Zhang Fengyi",
+"Chang Chen",
+"Zhao Wei",
+"Hu Jun"
+],
+"countries": [
+"CN",
+"HK",
+"JP",
+"KR",
+"TW"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0425637",
+"original_title": "赤壁",
+"overview": "Noen slag går over i historien, andre forandrer den!  Kina, år 208. Han-dynastiets døende dager. Statssjefen Cao Caos gigantiske hær på 800.000 soldater og 2000 krigsskip er nådd frem til det avgjørende slaget ved \"De røde klipper.\" Men ingen vet hvilken fiende som venter…",
+"poster": "https://image.tmdb.org/t/p/w342/kKrvVZUxBPpyxnhdk5ZVdH91NyN.jpg",
+"runtime": 145,
+"title": "Red Cliff",
+"tmdb_id": 12289,
+"year": 2008
+},
 "122917": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
 "cast": [
@@ -20878,6 +28623,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 122917,
 "year": 2014
 },
+"122920": {
+"backdrop": null,
+"cast": [
+"Erik Bree",
+"P.A. Harteveld",
+"Marijke Jones",
+"Hermine Menalda",
+"Hans Schneider"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0053887",
+"original_title": "Een hagedis teveel",
+"overview": "A woman, married with an artist, starts a relationship with one of her students, who has already got a mistress of his own. The two rivals meet.",
+"poster": "https://image.tmdb.org/t/p/w342/hAgEl5SE55mjLO119UqbM9uHi5A.jpg",
+"runtime": 35,
+"title": "One Lizard Too Many",
+"tmdb_id": 122920,
+"year": 1960
+},
 "1229624": {
 "backdrop": "https://image.tmdb.org/t/p/w780/k2VHjmbjBRnB7z7Dr8qqzzBO6VF.jpg",
 "cast": [
@@ -20897,6 +28666,51 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "I Was a Teenage Magoo",
 "tmdb_id": 1229624,
 "year": 1960
+},
+"1233575": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+"cast": [
+"Cate Blanchett",
+"Michael Fassbender",
+"Tom Burke",
+"Marisa Abela",
+"Regé-Jean Page",
+"Naomie Harris"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt30988739",
+"original_title": "Black Bag",
+"overview": "Når etterretningsagenten Kathryn Woodhouse blir mistenkt for å ha forrådt nasjonen, må ektemannen, en tidligere agent, velge mellom lojalitet til kona eller landet.",
+"poster": "https://image.tmdb.org/t/p/w342/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+"runtime": 94,
+"title": "Black Bag",
+"tmdb_id": 1233575,
+"year": 2025
+},
+"123570": {
+"backdrop": null,
+"cast": [
+"Antoine Vitez"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209172",
+"original_title": "L'Ère industrielle : Métamorphoses du paysage",
+"overview": "A sophisticated and beautifully constructed account of landscape change in and around Paris in the early 1960s. The film raises complex issues about the meaning and experience of modern landscapes and the enigmatic characteristics of features such as canals, pylons and deserted factories. Rohmer also explores the role of landscape within different traditions of modern art and design and refers to specific architects, artists and engineers.",
+"poster": "https://image.tmdb.org/t/p/w342/nC8gKU7JdpQlvkGNtoMb9XGhD4Z.jpg",
+"runtime": 22,
+"title": "Changing Landscapes",
+"tmdb_id": 123570,
+"year": 1964
 },
 "1236648": {
 "backdrop": null,
@@ -20970,6 +28784,61 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1240194,
 "year": 1992
 },
+"12404": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yr5SDUn21j124pQDyr0B9Zsu4Ks.jpg",
+"cast": [
+"Zac Efron",
+"Christian McKay",
+"Claire Danes",
+"Ben Chaplin",
+"Zoe Kazan",
+"Eddie Marsan"
+],
+"countries": [
+"GB",
+"US",
+"IE"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt1175506",
+"original_title": "Me and Orson Welles",
+"overview": "New York, 1937. A teenager hired to star in Orson Welles' production of Julius Caesar becomes attracted to a career-driven production assistant.",
+"poster": "https://image.tmdb.org/t/p/w342/jU7KFn4O1HLgzj9WkkmBkzJNPlN.jpg",
+"runtime": 114,
+"title": "Me and Orson Welles",
+"tmdb_id": 12404,
+"year": 2008
+},
+"124109": {
+"backdrop": null,
+"cast": [
+"Jim Broadbent",
+"Michael Moore",
+"Steven Wright",
+"Rowan Atkinson",
+"Laurie Metcalf",
+"Roger B. Smith"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Dean Parisot",
+"Michael Moore",
+"Mike Leigh"
+],
+"imdb_id": "tt0105668",
+"original_title": "Two Mikes Don't Make a Wright",
+"overview": "Theatrical packaging of three comic shorts: Dean Parisot & Steven Wright's comedy \"The Appointments of Dennis Jennings\" (1988), Michael Moore's documentary \"Pets or Meat\" (1992), and Mike Leigh & Jim Broadbent's satirical mockumentary \"A Sense of History\" (1992).",
+"poster": "https://image.tmdb.org/t/p/w342/jAnBciSXdomDvI3RVBxwFfDokwl.jpg",
+"runtime": 79,
+"title": "Two Mikes Don't Make a Wright",
+"tmdb_id": 124109,
+"year": 1993
+},
 "124485": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zC80sBGfVg4WFUaXDsjY0chJEO.jpg",
 "cast": [
@@ -20992,6 +28861,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Portrait of a Young Girl at the End of the '60s in Brussels",
 "tmdb_id": 124485,
 "year": 1994
+},
+"12454": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1AIfw3ah53rLaeC6agq4Ehu8d1G.jpg",
+"cast": [
+"Timothy Spall",
+"Lesley Manville",
+"Alison Garland",
+"James Corden",
+"Ruth Sheen",
+"Helen Coker"
+],
+"countries": [
+"GB",
+"FR"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0286261",
+"original_title": "All or Nothing",
+"overview": "Penny works at a supermarket and Phil is a gentle taxi-driver. Penny’s love for Phil has run dry and they lead joyless lives with their two children, Rachel, a cleaner, and Rory, who is unemployed and aggressive.",
+"poster": "https://image.tmdb.org/t/p/w342/5VRYeJ8DI3GkVzO7MUlug8v2BZO.jpg",
+"runtime": 128,
+"title": "All or Nothing",
+"tmdb_id": 12454,
+"year": 2002
 },
 "12456": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cP31o6Ta11t4PFo7PYvtCOTJJhs.jpg",
@@ -21046,6 +28941,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Let's relax",
 "tmdb_id": 1245649,
 "year": 1974
+},
+"1246049": {
+"backdrop": "https://image.tmdb.org/t/p/w780/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+"cast": [
+"Caleb Landry Jones",
+"Zoë Bleu Sidel",
+"Christoph Waltz",
+"Matilda De Angelis",
+"Ewens Abid",
+"Guillaume de Tonquédec"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt31434030",
+"original_title": "Dracula",
+"overview": "Når en prins på 1400-tallet vender Gud ryggen etter det knusende tapet av sin kone, faller en evig forbannelse over ham: han blir Dracula. Fordømt til å vandre gjennom århundrene trosser han både skjebnen og døden selv, drevet av ett eneste håp – å gjenforenes med sin tapte kjærlighet.",
+"poster": "https://image.tmdb.org/t/p/w342/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+"runtime": 130,
+"title": "Dracula",
+"tmdb_id": 1246049,
+"year": 2025
 },
 "1246460": {
 "backdrop": null,
@@ -21164,6 +29084,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Railway Station",
 "tmdb_id": 125,
 "year": 1980
+},
+"125127": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rHFLg231MPSuR5YmAsXBnRyL5YE.jpg",
+"cast": [
+"Eddie Marsan",
+"Sam Kelly",
+"Samantha Spiro",
+"Lee Ingleby",
+"Nichole Bird",
+"Danielle Bird"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt2396333",
+"original_title": "A Running Jump",
+"overview": "Gary attempts to buy a second-hand car.  What should be a straightforward task is turned into something of a quest by various people, including dodgy East End car dealer Perry, Perry's taxi-driver dad, a garage owner called Derek, Perry's wife Debbie and couple of twins.",
+"poster": "https://image.tmdb.org/t/p/w342/mZFHhI3hmLfYHdko81jpHsm0SPS.jpg",
+"runtime": 34,
+"title": "A Running Jump",
+"tmdb_id": 125127,
+"year": 2012
 },
 "1251389": {
 "backdrop": null,
@@ -21295,6 +29240,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 12530,
 "year": 1972
 },
+"12535": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uZK6kGcO2RRteHoEgkpH4Mwa3lf.jpg",
+"cast": [
+"Mel Brooks",
+"Madeline Kahn",
+"Cloris Leachman",
+"Harvey Korman",
+"Ron Carey",
+"Howard Morris"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0076141",
+"original_title": "High Anxiety",
+"overview": "A psychiatrist with intense acrophobia (fear of heights) goes to work for a mental institution run by doctors who appear to be crazier than their patients, and have secrets that they are willing to commit murder to keep.",
+"poster": "https://image.tmdb.org/t/p/w342/qVuSJaGnomSPon8x3mIYywFGgD8.jpg",
+"runtime": 94,
+"title": "High Anxiety",
+"tmdb_id": 12535,
+"year": 1977
+},
 "1254892": {
 "backdrop": "https://image.tmdb.org/t/p/w780/t7MDJzN4MVHszS3rE7pvxkivIyA.jpg",
 "cast": [
@@ -21341,6 +29311,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 125657,
 "year": 1949
 },
+"125736": {
+"backdrop": "https://image.tmdb.org/t/p/w780/54C2l69LB15TmiRLdjwaNXIFm6F.jpg",
+"cast": [
+"James Cagney",
+"Joan Blondell",
+"Ann Dvorak",
+"Eric Linden",
+"Guy Kibbee",
+"Frank McHugh"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0022792",
+"original_title": "The Crowd Roars",
+"overview": "Famous auto racing champion Joe Greer returns to his hometown to compete in a local race, discovering that his younger brother has aspirations to become a racing champion.",
+"poster": "https://image.tmdb.org/t/p/w342/o8uxqjQuAIZ4PbBkdqtEmC7pGBf.jpg",
+"runtime": 85,
+"title": "The Crowd Roars",
+"tmdb_id": 125736,
+"year": 1932
+},
+"1259365": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9MVdbQVNZA92fh4klywkNPbBeKC.jpg",
+"cast": [
+"Benedict Cumberbatch",
+"Dev Patel",
+"Ben Kingsley",
+"Richard Ayoade",
+"Ralph Fiennes",
+"Rupert Friend"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt31800329",
+"original_title": "The Wonderful Story of Henry Sugar and Three More",
+"overview": "Wes Anderson har filmatisert fire noveller av Roald Dahl i denne antologien som omfatter den Oscar-belønte fortellingen om en gambler med en utrolig evne.",
+"poster": "https://image.tmdb.org/t/p/w342/8gBOtLTs0GNMEZnisAK132o5V67.jpg",
+"runtime": 89,
+"title": "The Wonderful Story of Henry Sugar and Three More",
+"tmdb_id": 1259365,
+"year": 2024
+},
 "126": {
 "backdrop": "https://image.tmdb.org/t/p/w780/59PVw1vVgLZVVJZfV6k1SfOvcYZ.jpg",
 "cast": [
@@ -21365,6 +29385,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Short Working Day",
 "tmdb_id": 126,
 "year": 1995
+},
+"12611": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bgTgA6ZckxKMy0oQyEFenxmxdGK.jpg",
+"cast": [
+"Kirk Douglas",
+"Amy Irving",
+"John Cassavetes",
+"Carrie Snodgress",
+"Charles Durning",
+"Andrew Stevens"
+],
+"countries": [
+"US",
+"IL"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0077588",
+"original_title": "The Fury",
+"overview": "Da CIA-agenten Peter Sandza og sønnen Robin blir skilt fra hverandre i et utspekulert komplott, klarer faren å gjennomskue trikset. Robin blir tatt på grunn av sine overnaturlige evner, og blir holdt fanget av Ben Childress, som studerer mennesker med overnaturlige krefter i håp om å utvikle talentene deres som våpen.",
+"poster": "https://image.tmdb.org/t/p/w342/uez7cenZAh9JORKyPq1AblMbe26.jpg",
+"runtime": 118,
+"title": "The Fury",
+"tmdb_id": 12611,
+"year": 1978
 },
 "12614": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
@@ -21838,6 +29884,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 126889,
 "year": 2017
 },
+"126909": {
+"backdrop": "https://image.tmdb.org/t/p/w780/e1Rqr86K5fKiCMsrCsdKOkNxCi5.jpg",
+"cast": [
+"Jason Schwartzman",
+"Jake Ryan",
+"Charlie Kilgore",
+"Gabriel Rush",
+"L.J. Foley",
+"Liam Foley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt2219564",
+"original_title": "Cousin Ben Troop Screening",
+"overview": "Cousin Ben hosts a screening of Wes Anderson's Moonrise Kingdom to the troops.",
+"poster": "https://image.tmdb.org/t/p/w342/u0SbegbpJGPXkKXDNeTfkhtYOIB.jpg",
+"runtime": 2,
+"title": "Cousin Ben Troop Screening",
+"tmdb_id": 126909,
+"year": 2012
+},
 "126958": {
 "backdrop": "https://image.tmdb.org/t/p/w780/piulusN6BtLq0ezI6u7PL6DK1SK.jpg",
 "cast": [
@@ -21862,31 +29933,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Tournament",
 "tmdb_id": 126958,
 "year": 1928
-},
-"127": {
-"backdrop": "https://image.tmdb.org/t/p/w780/eTSRN1Bwce60rpAORwkKbPRDT6V.jpg",
-"cast": [
-"Bogusław Linda",
-"Tadeusz Łomnicki",
-"Zbigniew Zapasiewicz",
-"Bogusława Pawelec",
-"Marzena Trybała",
-"Jacek Borkowski"
-],
-"countries": [
-"PL"
-],
-"directors": [
-"Krzysztof Kieślowski"
-],
-"imdb_id": "tt0084549",
-"original_title": "Przypadek",
-"overview": "Witek runs after a train. Three variations follow on how such a seemingly banal incident could influence the rest of Witek's life.",
-"poster": "https://image.tmdb.org/t/p/w342/rMnXNxBKF8TnYn9NSE2nPTFn5Fq.jpg",
-"runtime": 114,
-"title": "Blind Chance",
-"tmdb_id": 127,
-"year": 1987
 },
 "127080": {
 "backdrop": null,
@@ -21988,6 +30034,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 127306,
 "year": 1932
 },
+"127380": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+"cast": [
+"Ellen DeGeneres",
+"Albert Brooks",
+"Ed O'Neill",
+"Hayden Rolence",
+"Diane Keaton",
+"Eugene Levy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt2277860",
+"original_title": "Finding Dory",
+"overview": "Disney Pixars \"Oppdrag Dory\" gjenforener vår alles favoritt; den glemsomme blå kirurgfisken, Dory, med vennene hennes Nemo og Marlin på søken etter svar om fortiden hennes. Hva husker hun? Hvem er foreldrene hennes? Og hvor lærte hun å snakke \"hvalsk\"?",
+"poster": "https://image.tmdb.org/t/p/w342/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+"runtime": 97,
+"title": "Finding Dory",
+"tmdb_id": 127380,
+"year": 2016
+},
 "1275636": {
 "backdrop": null,
 "cast": [
@@ -22038,33 +30109,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1275779,
 "year": 2026
 },
-"12761": {
-"backdrop": "https://image.tmdb.org/t/p/w780/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
-"cast": [
-"Ingrid Bergman",
-"Liv Ullmann",
-"Lena Nyman",
-"Halvar Björk",
-"Marianne Aminoff",
-"Arne Bang-Hansen"
-],
-"countries": [
-"DE",
-"SE",
-"GB"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0077711",
-"original_title": "Höstsonaten",
-"overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
-"poster": "https://image.tmdb.org/t/p/w342/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
-"runtime": 93,
-"title": "Autumn Sonata",
-"tmdb_id": 12761,
-"year": 1978
-},
 "12762": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sSOb9iof1C3GLd81x9LigSOCRPQ.jpg",
 "cast": [
@@ -22089,6 +30133,65 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Broadway Danny Rose",
 "tmdb_id": 12762,
 "year": 1984
+},
+"12775": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rrVvVOw98E2RvtKZx1RIgYIl9um.jpg",
+"cast": [
+"Rutger Hauer",
+"Jennifer Jason Leigh",
+"Tom Burlinson",
+"Jack Thompson",
+"Susan Tyrrell",
+"Ronald Lacey"
+],
+"countries": [
+"NL",
+"ES"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0089153",
+"original_title": "Flesh + Blood",
+"overview": "A band of medieval mercenaries take revenge on a noble Lord who cheated them by kidnapping his son's fiancée. As the plague and warfare cut a swathe of destruction throughout the land, the mercenaries hole up in a castle and await their fate.",
+"poster": "https://image.tmdb.org/t/p/w342/bjUYC4uC82oASTMPkb6iGCYOO2e.jpg",
+"runtime": 126,
+"title": "Flesh + Blood",
+"tmdb_id": 12775,
+"year": 1985
+},
+"12777": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xd8bZMt5TThS2yqGUzAYjTCD5rG.jpg",
+"cast": [
+"Joaquin Phoenix",
+"Claire Danes",
+"Sean Penn",
+"Douglas Henshall",
+"Alun Armstrong",
+"Margo Martindale"
+],
+"countries": [
+"DK",
+"DE",
+"JP",
+"NL",
+"SE",
+"FR",
+"IT",
+"GB",
+"US"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0273689",
+"original_title": "It's All About Love",
+"overview": "The story of two lovers and their attempts to save their relationship in a near-future world on the brink of cosmic collapse. John, and world-famous ice skating star, Elena, are about to sign divorce papers when they realise that, in spite of everything happening around them, their love is worth fighting for. It's All About Love is a fresh take on modern love and future life as two lovers struggle in a conspiracy of epic proportions.",
+"poster": "https://image.tmdb.org/t/p/w342/3RDSIkHsVy6NAgD6PfQKDCNTcmR.jpg",
+"runtime": 104,
+"title": "It's All About Love",
+"tmdb_id": 12777,
+"year": 2003
 },
 "12779": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bzb6BDskaYbRvXMIENcqFdgwiY0.jpg",
@@ -22308,6 +30411,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1287695,
 "year": 2024
 },
+"1290159": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
+"cast": [
+"Idris Elba",
+"Rebecca Ferguson",
+"Gabriel Basso",
+"Jared Harris",
+"Tracy Letts",
+"Anthony Ramos"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt32376165",
+"original_title": "A House of Dynamite",
+"overview": "Ett enkelt missil med ukjent avsender blir avfyrt mot USA, og kampen mot klokka er i gang for å finne ut hvem som står bak og hvordan man skal reagere.",
+"poster": "https://image.tmdb.org/t/p/w342/eB3Tl6xo9VNiN6YIi9XV44v6dab.jpg",
+"runtime": 112,
+"title": "A House of Dynamite",
+"tmdb_id": 1290159,
+"year": 2025
+},
 "129068": {
 "backdrop": "https://image.tmdb.org/t/p/w780/etd1aqKWVzeD7od2XCLrYwuvCuH.jpg",
 "cast": [
@@ -22332,6 +30460,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "He Laughed Last",
 "tmdb_id": 129068,
 "year": 1956
+},
+"129670": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+"cast": [
+"Bruce Dern",
+"Will Forte",
+"June Squibb",
+"Bob Odenkirk",
+"Stacy Keach",
+"Mary Louise Wilson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt1821549",
+"original_title": "Nebraska",
+"overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+"poster": "https://image.tmdb.org/t/p/w342/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+"runtime": 115,
+"title": "Nebraska",
+"tmdb_id": 129670,
+"year": 2013
+},
+"1299655": {
+"backdrop": "https://image.tmdb.org/t/p/w780/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+"cast": [
+"Ethan Hawke",
+"Bobby Cannavale",
+"Andrew Scott",
+"Margaret Qualley",
+"Patrick Kennedy",
+"Jonah Lees"
+],
+"countries": [
+"IE",
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt32536315",
+"original_title": "Blue Moon",
+"overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
+"poster": "https://image.tmdb.org/t/p/w342/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+"runtime": 101,
+"title": "Blue Moon",
+"tmdb_id": 1299655,
+"year": 2025
 },
 "130028": {
 "backdrop": "https://image.tmdb.org/t/p/w780/k61XLiQnCJbE1PIn3ye50UvgRuw.jpg",
@@ -22407,6 +30586,53 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Practical Magic 2",
 "tmdb_id": 1302904,
 "year": 2026
+},
+"130296": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zjdNWMrRviyq0ih4ukXgAOzLRV0.jpg",
+"cast": [
+"John Hurt",
+"Pamela Franklin",
+"Nigel Davenport",
+"Ronald Fraser",
+"Robert Morley",
+"Fidelma Murphy"
+],
+"countries": [
+"GB",
+"IE"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0064988",
+"original_title": "Sinful Davey",
+"overview": "A young man, convinced of his paternity, aims to emulate his notorious father by committing daring crimes. However, his childhood friend is equally determined to track him down and save him from his rogue ways.",
+"poster": "https://image.tmdb.org/t/p/w342/aupacjFll3rt7TGIM15nL0flWNO.jpg",
+"runtime": 95,
+"title": "Sinful Davey",
+"tmdb_id": 130296,
+"year": 1969
+},
+"1305899": {
+"backdrop": null,
+"cast": [
+"Jack Mercer",
+"Jackson Beck"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": null,
+"original_title": "Tiger Burger",
+"overview": "Popeye and Wimpy are in India where the natives are terrified of a man-eating tiger.",
+"poster": "https://image.tmdb.org/t/p/w342/yROFBD4QDSAHTxlJMmFOVT07ieU.jpg",
+"runtime": 5,
+"title": "Tiger Burger",
+"tmdb_id": 1305899,
+"year": 1960
 },
 "130719": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kOmnG3XVaBCOQIni5lKXqQD7bGG.jpg",
@@ -22484,6 +30710,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Amazing Stories: The Movie IV",
 "tmdb_id": 1309305,
 "year": 1995
+},
+"131119": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ynkEQqpZmWS9ugHQ6inajX8pbOT.jpg",
+"cast": [
+"Pinto Colvig",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0033731",
+"original_title": "How to Ride a Horse",
+"overview": "Aided by his horse, Percy, Goofy takes horsemanship to a new level. Originally released as a part of The Reluctant Dragon (1941).",
+"poster": "https://image.tmdb.org/t/p/w342/rXlml5k1EpONVlmgTjU7LZxhzfj.jpg",
+"runtime": 8,
+"title": "How to Ride a Horse",
+"tmdb_id": 131119,
+"year": 1947
 },
 "13122": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lyGRyMxIYwvPObfOYWYDivMQUqh.jpg",
@@ -22611,6 +30858,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 132166,
 "year": 1974
 },
+"1321694": {
+"backdrop": null,
+"cast": [
+"Kevin Bacon",
+"Matt Bomer",
+"George Clooney",
+"Chris Colfer",
+"Jamie Lee Curtis",
+"Jesse Tyler Ferguson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt2290075",
+"original_title": "8",
+"overview": "Live chronicle of the landmark federal trial of California's Prop. 8 using the actual court transcripts and first-hand interviews.",
+"poster": "https://image.tmdb.org/t/p/w342/59FU0Yt9u4WuKa9bMTTzTgHGhRD.jpg",
+"runtime": 91,
+"title": "8",
+"tmdb_id": 1321694,
+"year": 2012
+},
 "132295": {
 "backdrop": null,
 "cast": [
@@ -22632,6 +30904,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Host",
 "tmdb_id": 132295,
 "year": 1960
+},
+"132772": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nq7TGsnt1nXQs7sY71l10vW8aQW.jpg",
+"cast": [
+"Jayne Brook",
+"Mike Erwin",
+"Brad Johnson",
+"Ryan Malgarini",
+"Gil McKinney",
+"Adrianne Palicki"
+],
+"countries": [],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0777269",
+"original_title": "The Robinsons: Lost in Space",
+"overview": "In the year 2082, the Earth was invaded by aliens after it was long determine that existence of extra terrestrials was long thought to be science fiction. Major cities crumbled from the destruction of the beings from beyond the stars. The invasion came to a halt when Earth's own armed forces led by Col. John Robinson fought off the invaders and thus Earth won the battle which came to be known as \"Robinson's Raid\".  15 years have passed by and John Robinson attends a ceremony for his retirement from his services in defending the Earth from alien threat.  This disfunctional family is one of the fewest families chosen to be part of the space program that is heading for a planet called Nova which will become occupied with a new farming colony.",
+"poster": "https://image.tmdb.org/t/p/w342/bbOo1r0zLvGaNxsaVAEZX2ALwfQ.jpg",
+"runtime": 45,
+"title": "The Robinsons: Lost in Space",
+"tmdb_id": 132772,
+"year": 2004
 },
 "1328864": {
 "backdrop": "https://image.tmdb.org/t/p/w780/U8X0orAvq7aiAPeE4PAVzpEBcq.jpg",
@@ -22709,6 +31004,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 132999,
 "year": 1964
 },
+"133132": {
+"backdrop": "https://image.tmdb.org/t/p/w780/phtsQNhlKryJ0jQdeQIwkV5ieVL.jpg",
+"cast": [
+"George O'Brien",
+"Olive Borden",
+"George Beranger",
+"Phyllis Haver",
+"Heinie Conklin",
+"Eulalie Jensen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0016854",
+"original_title": "Fig Leaves",
+"overview": "Adam, a plumber, is happily married to Eve, a wardrobe-obsessed housewife, until she accidentally meets a supercilious fashion designer. At the prompting of her neighbor, who has secret designs on Adam, Eve secretly becomes a fashion model by day, knowing that her husband would disapprove.",
+"poster": "https://image.tmdb.org/t/p/w342/49XF5NkpzHMWnHTZPgbsy7CF4XZ.jpg",
+"runtime": 70,
+"title": "Fig Leaves",
+"tmdb_id": 133132,
+"year": 1926
+},
+"13320": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9VJh0YPms8QM8GYDvt5wtmRsCU5.jpg",
+"cast": [
+"Audrey Hepburn",
+"Fred Astaire",
+"Kay Thompson",
+"Michel Auclair",
+"Robert Flemyng",
+"Dovima"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0050419",
+"original_title": "Funny Face",
+"overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+"poster": "https://image.tmdb.org/t/p/w342/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg",
+"runtime": 103,
+"title": "Funny Face",
+"tmdb_id": 13320,
+"year": 1957
+},
 "13321": {
 "backdrop": "https://image.tmdb.org/t/p/w780/X5kdpMCowusOsub7jSHSnALysp.jpg",
 "cast": [
@@ -22733,6 +31078,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Lifeboat",
 "tmdb_id": 13321,
 "year": 1944
+},
+"13341": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tpL6vrHgT3QVWdqUyWzoQCdZKAZ.jpg",
+"cast": [
+"Billy Bob Thornton",
+"Greg Kinnear",
+"Marcia Gay Harden",
+"Sammi Kane Kraft",
+"Ridge Canipe",
+"Brandon Craggs"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0408524",
+"original_title": "Bad News Bears",
+"overview": "I \"Bad News Bears\" blir den tidligere baseball-proffen Morris Buttermaker bestukket av den snerpete advokaten, Liz Whitewood til å være trener for the Bears, et bedrøvelig malplassert baseball-lag for ungdommer. Buttermaker må finne en måte å få denne gjengen med 12 \"misfits\" klare til et mesterskap mot deres forhatte rivaler: Yankees og deres anmassende trener, Roy Bullock. Regissøren som ga oss \"School of Rock\", sammen med manusforfatterne fra \"Bad Santa\" har denne gangen lagd en hysterisk morsom 2005 hyllest til en respektløs komedie fra 1976.",
+"poster": "https://image.tmdb.org/t/p/w342/ja1yrgfYAGmwnridioMY3MV0GDm.jpg",
+"runtime": 113,
+"title": "Bad News Bears",
+"tmdb_id": 13341,
+"year": 2005
 },
 "133694": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pq0YbRUY7JMbuElDWIK6nRoFSdk.jpg",
@@ -22759,6 +31129,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Promised Land",
 "tmdb_id": 133694,
 "year": 2012
+},
+"1339714": {
+"backdrop": null,
+"cast": [
+"Osceola Archer",
+"Harry Davis",
+"Michael Higgins",
+"Oskar Homolka",
+"Carol Lawrence",
+"Aida Lioy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0213191",
+"original_title": "Play of the Week: Rashomon",
+"overview": "Set in ancient Japan, Rashomon follows the aftermath of a bandit’s attack on a warrior and his wife, as the bandit, the wife, the husband, and a woodcutter each offer different versions of what happened. Directed for \"Play of the Week\" by Sidney Lumet, the production uses the story’s shifting testimonies to examine truth, self-image, violence, and moral uncertainty.",
+"poster": "https://image.tmdb.org/t/p/w342/zu0wekLXHwfzRydikmeNa7FD7vp.jpg",
+"runtime": 90,
+"title": "Play of the Week: Rashomon",
+"tmdb_id": 1339714,
+"year": 1960
 },
 "1341696": {
 "backdrop": null,
@@ -22804,6 +31199,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Captain Sabertooth and the Countess of Grel",
 "tmdb_id": 1342341,
 "year": 2025
+},
+"134374": {
+"backdrop": "https://image.tmdb.org/t/p/w780/73Ridh5DhGBmKAiwq8gy3IbtthT.jpg",
+"cast": [
+"Mark Wahlberg",
+"Dwayne Johnson",
+"Anthony Mackie",
+"Tony Shalhoub",
+"Ed Harris",
+"Rob Corddry"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt1980209",
+"original_title": "Pain & Gain",
+"overview": "Daniel Lugo, manager of the Sun Gym in 1990s Miami, decides that there is only one way to achieve his version of the American dream: extortion. To achieve his goal, he recruits musclemen Paul and Adrian as accomplices. After several failed attempts, they abduct rich businessman Victor Kershaw and convince him to sign over all his assets to them. But when Kershaw makes it out alive, authorities are reluctant to believe his story.",
+"poster": "https://image.tmdb.org/t/p/w342/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg",
+"runtime": 130,
+"title": "Pain & Gain",
+"tmdb_id": 134374,
+"year": 2013
 },
 "13465": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tKjS4qUrtJw5Hg4kFpZaVEPrQOT.jpg",
@@ -22857,6 +31277,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Doctor of Doom",
 "tmdb_id": 135141,
 "year": 1979
+},
+"13526": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7V4vwJrieINgLYwDAAHEZmlvCIB.jpg",
+"cast": [
+"Sean Penn",
+"Catherine McCormack",
+"Elizabeth Hurley",
+"Sarah Polley",
+"Josh Lucas",
+"Ciarán Hinds"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0210382",
+"original_title": "The Weight of Water",
+"overview": "A newspaper photographer researches an 1873 double homicide and finds her own life paralleling that of a witness who survived the tragic ordeal.",
+"poster": "https://image.tmdb.org/t/p/w342/zkFW3Vgz6rAds4cvHBke8fryeZ4.jpg",
+"runtime": 113,
+"title": "The Weight of Water",
+"tmdb_id": 13526,
+"year": 2001
 },
 "135335": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pIPO4vuXaTsoVt8KTeQmWLjeMRG.jpg",
@@ -23044,6 +31490,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Houdini: The Untold Story",
 "tmdb_id": 1366067,
 "year": 2016
+},
+"1368337": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+"cast": [
+"Matt Damon",
+"Tom Holland",
+"Anne Hathaway",
+"Robert Pattinson",
+"Himesh Patel",
+"Charlize Theron"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt33764258",
+"original_title": "The Odyssey",
+"overview": "Odysseus, den legendariske kongen av Ithaca, legger ut på en lang og farefull reise hjem etter den trojanske krig. Underveis blir han tvunget til å møte gudenes luner, mytologiske monstre og prøvelser som tøyer både hans list og hans menneskelighet til bristepunktet.",
+"poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+"runtime": 173,
+"title": "The Odyssey",
+"tmdb_id": 1368337,
+"year": 2026
 },
 "137010": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4EZZBVDNeZT8ig7LortnrnqQOSd.jpg",
@@ -23389,6 +31861,80 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 13850,
 "year": 1946
 },
+"138656": {
+"backdrop": "https://image.tmdb.org/t/p/w780/VkydEnwY6xGjLisnKG6YjDUMTQ.jpg",
+"cast": [
+"Michele Placido",
+"Maruschka Detmers",
+"Juan Diego",
+"Evelyne Pieiller",
+"Cheik Doukouré",
+"Jean-François Stévenin"
+],
+"countries": [
+"FR",
+"ES",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0095718",
+"original_title": "Ya bon les blancs",
+"overview": "The humanitarian aid expedition \"Angeles Azules\" (Blue Angels), comprising twelve Europeans and six trucks loaded with provisions to alleviate hunger in Sub-Saharan Africa, advances across the continent. As a result of the difficulties the team encounters, disorganization gradually takes over the convoy. Each of the members of the group, little by little, yield to their petty, selfish impulses: violence, power, nostalgia - The breakdown of one of the trucks forces Michele and Nadia to wait at an oasis for the arrival of spare parts. But a starving local tribe settles threateningly near them. The chief of the tribe makes a speech they don't understand, which is followed by a macabre purification ceremony.",
+"poster": "https://image.tmdb.org/t/p/w342/rZPwdYSv4oFaABbgH44sBZQn4JP.jpg",
+"runtime": 95,
+"title": "How Good the Whites Are",
+"tmdb_id": 138656,
+"year": 1988
+},
+"138797": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dpFO6BtzRBu8GoKwt3fUVg1N7AW.jpg",
+"cast": [
+"Lucas Belvaux",
+"Jean Benguigui",
+"Irene Papas",
+"Philippe Khorsand",
+"Renato Cortesi",
+"Roger Van Hool"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0344893",
+"original_title": "Il banchetto di Platone",
+"overview": "At house of Agathon get together many intellectuals and philosophers, including Socrates, to discuss the theme of love and sex: each of them intervenes to support its argument dialogical rules, within the context symposial.",
+"poster": "https://image.tmdb.org/t/p/w342/7Kxgcjj0nS7AKqjUkwOkfbkMxaK.jpg",
+"runtime": 78,
+"title": "Plato's Banquet",
+"tmdb_id": 138797,
+"year": 1989
+},
+"1388304": {
+"backdrop": null,
+"cast": [
+"Margo Martindale"
+],
+"countries": [
+"US",
+"FR"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": null,
+"original_title": "14e Arrondissement",
+"overview": "“14e Arrondissement” is the last of the eighteen short films by well-known filmmakers that make up the anthology film Paris Je’ Taime. Richard Brody in his New Yorker review argues that “this mixed bag [Paris Je T’Aime]. . . is mandatory viewing for its one absolute masterpiece, by Alexander Payne.” It has been shown separately online and theatrically.",
+"poster": "https://image.tmdb.org/t/p/w342/s33jbgMCZG0XqVRiGgu4GLA25ms.jpg",
+"runtime": 7,
+"title": "14e Arrondissement",
+"tmdb_id": 1388304,
+"year": 2006
+},
 "13889": {
 "backdrop": "https://image.tmdb.org/t/p/w780/osYVAYoyJbL0BySa61cMyMkgUvN.jpg",
 "cast": [
@@ -23413,6 +31959,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Madadayo",
 "tmdb_id": 13889,
 "year": 1993
+},
+"1389": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rOvXN8m3l4qNKCdNscLUjxK6I9I.jpg",
+"cast": [
+"George Clooney",
+"Jennifer Lopez",
+"Ving Rhames",
+"Don Cheadle",
+"Steve Zahn",
+"Dennis Farina"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0120780",
+"original_title": "Out of Sight",
+"overview": "Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves … and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.",
+"poster": "https://image.tmdb.org/t/p/w342/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+"runtime": 123,
+"title": "Out of Sight",
+"tmdb_id": 1389,
+"year": 1998
+},
+"13891": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1PW1QmsdOH7kO95wdoI2YQmTxcC.jpg",
+"cast": [
+"Laura Dern",
+"Swoosie Kurtz",
+"Kurtwood Smith",
+"Mary Kay Place",
+"Kelly Preston",
+"M.C. Gainey"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt0115906",
+"original_title": "Citizen Ruth",
+"overview": "\"Citizen Ruth\" is the story of Ruth Stoops, a woman who nobody even noticed -- until she got pregnant. Now, everyone wants a piece of her. The film is a comedy about one woman caught in the ultimate tug-of-war: a clash of wild, noisy, ridiculous people that rapidly dissolves into a media circus.",
+"poster": "https://image.tmdb.org/t/p/w342/ncDIFOY7Mcan2gunAivLjIx3Kj1.jpg",
+"runtime": 104,
+"title": "Citizen Ruth",
+"tmdb_id": 13891,
+"year": 1996
 },
 "139057": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vdpKKzVqvniuIHF2wguIPUJY4mQ.jpg",
@@ -23618,6 +32214,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 13934,
 "year": 2006
 },
+"13937": {
+"backdrop": "https://image.tmdb.org/t/p/w780/49RkUuDWrsv5ba6525fAXG5g0Tg.jpg",
+"cast": [
+"John Lithgow",
+"Lolita Davidovich",
+"Steven Bauer",
+"Frances Sternhagen",
+"Gregg Henry",
+"Tom Bower"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0105217",
+"original_title": "Raising Cain",
+"overview": "Child psychologist Carter Nix is a loving and caring family man, but under this appearance lies a dark and troubled past. Grappling with the consequences of this past on his own psyche and the influence of his returning father and violent brother Cain, Carter becomes involved in a series of murders and kidnappings. Meanwhile, his wife Jenny rekindles an old love affair, placing herself in the crosshairs of her increasingly unstable husband.",
+"poster": "https://image.tmdb.org/t/p/w342/5vRn138vnZeUNFe32qTuPGKkVLR.jpg",
+"runtime": 92,
+"title": "Raising Cain",
+"tmdb_id": 13937,
+"year": 1992
+},
 "139426": {
 "backdrop": "https://image.tmdb.org/t/p/w780/38xZRKQUkGidrDmJvV7hd0Czc4B.jpg",
 "cast": [
@@ -23643,30 +32264,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 139426,
 "year": 2003
 },
-"13963": {
-"backdrop": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+"13948": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2yVYx8v0UfAI7IeATLBNaoE1Vlr.jpg",
 "cast": [
-"Robbie Robertson",
-"Rick Danko",
-"Levon Helm",
-"Richard Manuel",
-"Garth Hudson",
-"Eric Clapton"
+"Kevin Farley",
+"Kelsey Grammer",
+"Leslie Nielsen",
+"Trace Adkins",
+"Robert Davi",
+"Geoffrey Arend"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Martin Scorsese"
+"David Zucker"
 ],
-"imdb_id": "tt0077838",
-"original_title": "The Last Waltz",
-"overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Bob Dylan, Joni Mitchell, Van Morrison, Eric Clapton, and other rock legends.",
-"poster": "https://image.tmdb.org/t/p/w342/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
-"runtime": 117,
-"title": "The Last Waltz",
-"tmdb_id": 13963,
-"year": 1978
+"imdb_id": "tt1190617",
+"original_title": "An American Carol",
+"overview": "A cynical anti-American Hollywood filmmaker sets out on a crusade to abolish the 4th of July holiday. He is visited by three spirits who take him on a hilarious journey in an attempt to show him the true meaning of America.",
+"poster": "https://image.tmdb.org/t/p/w342/uEDdzt1ZTB1BRo95gMkBytl0NqM.jpg",
+"runtime": 82,
+"title": "An American Carol",
+"tmdb_id": 13948,
+"year": 2008
 },
 "1399000": {
 "backdrop": null,
@@ -23734,6 +32355,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 140003,
 "year": 1984
 },
+"1400357": {
+"backdrop": "https://image.tmdb.org/t/p/w780/saEkWul1fGNixEug2w6RtOmTws2.jpg",
+"cast": [
+"Michaela Coel",
+"Ian McKellen",
+"Jessica Gunning",
+"James Corden",
+"Ferdy Roberts",
+"Tilly Botsford"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt34966562",
+"original_title": "The Christophers",
+"overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+"poster": "https://image.tmdb.org/t/p/w342/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+"runtime": 100,
+"title": "The Christophers",
+"tmdb_id": 1400357,
+"year": 2026
+},
+"14013": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uU4gKojSRMgr7kqpamSh2lFmSIZ.jpg",
+"cast": [
+"Trey Parker",
+"Matt Stone",
+"Dian Bachar",
+"Yasmine Bleeth",
+"Jenny McCarthy",
+"Ernest Borgnine"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0131857",
+"original_title": "BASEketball",
+"overview": "Two losers from Milwaukee, Coop and Remer, invent a new game combining basketball with the rules of baseball. When the game becomes a huge success, they, along with a billionaire's help, form the Professional Baseketball League where everyone gets the same pay and no team can change cities. When a rival owner wants to institute major rule changes, Coop and Remer's team is the only one standing in the way.",
+"poster": "https://image.tmdb.org/t/p/w342/oKZdAUV9XSLp091f0GmtQEu0UZy.jpg",
+"runtime": 103,
+"title": "BASEketball",
+"tmdb_id": 14013,
+"year": 1998
+},
 "1402065": {
 "backdrop": null,
 "cast": [
@@ -23758,6 +32430,106 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Letter to Jonas",
 "tmdb_id": 1402065,
 "year": 1992
+},
+"140271": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wgwNr2uCT8kDCK6bDSWWOChjH3n.jpg",
+"cast": [
+"George O'Brien",
+"Virginia Valli",
+"J. Farrell MacDonald",
+"William Powell",
+"Thomas Jefferson",
+"Hank Mann"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0018247",
+"original_title": "Paid to Love",
+"overview": "An American banker goes to a small Balkan country looking to invest his bank's money and shore up the country's weak economy in order to maximize the return on their investment. Towards that end he befriends the country's king and they come up with a scheme to get the Crown Prince married, a prospect not particularly appealing to the Crown Prince--until he sees the beautiful cabaret dancer the pair has picked for him to marry.",
+"poster": "https://image.tmdb.org/t/p/w342/4lrX7h9siiPVqCeKyKIJPQlHoDX.jpg",
+"runtime": 76,
+"title": "Paid to Love",
+"tmdb_id": 140271,
+"year": 1927
+},
+"140272": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m1z2YvKjadsSv9NJuQzTqNjrtiG.jpg",
+"cast": [
+"Charles Farrell",
+"Greta Nissen",
+"John Boles",
+"Mae Busch",
+"Tyler Brooke",
+"John T. Murray"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0018879",
+"original_title": "Fazil",
+"overview": "An Arab prince born and raised in the desert and a beautiful Frenchwoman from Paris fall in love and marry, but the tremendous differences in their backgrounds and the cultural differences between their two different societies put strains on their marriage that may well prove irreparable.",
+"poster": "https://image.tmdb.org/t/p/w342/ob9DEPjaCA532EUYLgTzx04sxkt.jpg",
+"runtime": 88,
+"title": "Fazil",
+"tmdb_id": 140272,
+"year": 1928
+},
+"140276": {
+"backdrop": "https://image.tmdb.org/t/p/w780/389kf36hGoXwAmT4UwXiAQgFtlU.jpg",
+"cast": [
+"Fredric March",
+"Warner Baxter",
+"Lionel Barrymore",
+"June Lang",
+"Gregory Ratoff",
+"Victor Kilian"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0028191",
+"original_title": "The Road to Glory",
+"overview": "The story of trench life during World War I through the lives of a French regiment. As men are killed and replaced jaunty Lt. Denet becomes more and more somber. His rival for the affection of nurse Monique is Capt. La Roche.",
+"poster": "https://image.tmdb.org/t/p/w342/nOmL60w66TyOaNZUnGHCLJ9sUqt.jpg",
+"runtime": 103,
+"title": "The Road to Glory",
+"tmdb_id": 140276,
+"year": 1936
+},
+"140894": {
+"backdrop": "https://image.tmdb.org/t/p/w780/woaHy2bzYY1qW5K9Aasatob3ys8.jpg",
+"cast": [
+"Peter Blok",
+"Gaite Jansen",
+"Robert de Hoog",
+"Sallie Harmsen",
+"Ricky Koole",
+"Carolien Spoor"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt2171875",
+"original_title": "Steekspel",
+"overview": "During his 50th birthday party thrown by his wife, Remco's life takes a turn for the worse. His business partners are scheming behind his back to sell him and his former mistress shows up pregnant.",
+"poster": "https://image.tmdb.org/t/p/w342/kkQ3x5yTQcVnuh6z7K6SNNBWaAW.jpg",
+"runtime": 55,
+"title": "Tricked",
+"tmdb_id": 140894,
+"year": 2012
 },
 "140967": {
 "backdrop": "https://image.tmdb.org/t/p/w780/azRYhZhGAExu3IraRALKQPQ122e.jpg",
@@ -23903,6 +32675,49 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 14199,
 "year": 2005
 },
+"1422037": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7DplP3egYXDSmWG7VGdsoJRa1La.jpg",
+"cast": [
+"Toby Segar",
+"Benj Cave",
+"Max Cave",
+"Drew Taylor",
+"Callum Powell",
+"Sacha Powell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt35522465",
+"original_title": "We Are Storror",
+"overview": "At the peak of their death-defying careers, the seven friends of parkour team Storror embark on what could be their final project: a globetrotting quest to conquer four extreme environments. Faced with harrowing accidents and personal conflicts, the team grapples to maintain the bonds that have united them since their beginnings as ragtag street kids.",
+"poster": "https://image.tmdb.org/t/p/w342/pFJcId7jIcMOnCxWpFk4agGrkyY.jpg",
+"runtime": 95,
+"title": "We Are Storror",
+"tmdb_id": 1422037,
+"year": 2025
+},
+"142258": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": null,
+"original_title": "5 x Roy Andersson",
+"overview": "PECIAL FEATURES: 2-DVD Set, Booklet, Box Set, Interactive Menu, Scene Access, SYNOPSIS: World of Glory (1991)  Something Happened (1987)\r A film that attempts to analyse the facts and fictions surrounding the discovery and eventual epidemic of the AIDS virus,  Saturday October 5th (1969)\r A black and white 1960s urban drama about the day a young Swedish man spends with his girlfriend, and anxiety's intrusion upon it.\r To Fetch a Bike (1968)\r A moving colour film that in somewhat sketchy scenes describes the morning activities of a tentative young pair of lovers.  Visiting One's Son (1967)\r The storyline is about a son's father (Lars Karlsteen) and mother (Maud Backeus) who come to visit him (Peter Egge) and his girlfriend (Kajsa Wilund) for the first time.  ..Roy Andersson Collection (5 Films) - 2-DVD Box Set",
+"poster": "https://image.tmdb.org/t/p/w342/mnxmLMl7wkOc05pO9YiPthRx1Nk.jpg",
+"runtime": 114,
+"title": "5 x Roy Andersson",
+"tmdb_id": 142258,
+"year": 2009
+},
 "1422723": {
 "backdrop": null,
 "cast": [
@@ -23927,6 +32742,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Three to Go: Michael",
 "tmdb_id": 1422723,
 "year": 1970
+},
+"142406": {
+"backdrop": null,
+"cast": [
+"Stefan Böhm",
+"Curt Ericson",
+"Eric Hansson",
+"Bernt Hedberg",
+"Lars Karlsteen",
+"Ingeborg Kähr"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0316196",
+"original_title": "Lördagen den 5.10",
+"overview": "One day, Saturday October 5th, in a man's life.",
+"poster": "https://image.tmdb.org/t/p/w342/5XYUaFd8PQCmKcdv1fFxj0zzLW7.jpg",
+"runtime": 47,
+"title": "Saturday October 5th",
+"tmdb_id": 142406,
+"year": 1969
 },
 "1425025": {
 "backdrop": null,
@@ -24077,6 +32917,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 143437,
 "year": 1971
 },
+"14347": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zYeYZuqXuB2nfIR4zfKhaDWHeF6.jpg",
+"cast": [
+"Michael Caine",
+"Michelle Johnson",
+"Joseph Bologna",
+"Demi Moore",
+"Valerie Harper",
+"José Lewgoy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0086973",
+"original_title": "Blame It on Rio",
+"overview": "Matthew Hollis is man on holiday in Rio with his best friend. Both men have teenage daughters with them. When Matthew falls for his best friend's amorous daughter named Jennifer, they embark on a secret, if slightly one-sided relationship. Jennifer's father is furious when he finds out about the 'older man' in his daughter's life, and sets out to hunt him down with the aid of Matthew!",
+"poster": "https://image.tmdb.org/t/p/w342/yzNtmqL6HUFC7FZl9DnGmhnCQUL.jpg",
+"runtime": 100,
+"title": "Blame It on Rio",
+"tmdb_id": 14347,
+"year": 1984
+},
 "143499": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9qEZulY7MHvX2xOIrr0izO4f8qa.jpg",
 "cast": [
@@ -24194,6 +33059,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 144079,
 "year": 2003
 },
+"144458": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8L53yhUtLalGRFG2o8jp2x7yLNg.jpg",
+"cast": [
+"Dinah Shore"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0039207",
+"original_title": "Bongo",
+"overview": "Bongo, the performing bear, escapes from the circus and tries to adapt to life in the wild.",
+"poster": "https://image.tmdb.org/t/p/w342/wTnH9pAp31IGtKoXPYXyM99Hysx.jpg",
+"runtime": 30,
+"title": "Bongo",
+"tmdb_id": 144458,
+"year": 1947
+},
 "1445156": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xfEJEARbBB4Zzw1Nd27b2b839uZ.jpg",
 "cast": [
@@ -24269,6 +33154,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 144599,
 "year": 1963
 },
+"144686": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bxhyU5AAfzRNXaryYS4SbE4DFaH.jpg",
+"cast": [
+"Michael Fuller"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0068856",
+"original_title": "The Lift",
+"overview": "A businessman lives out his daily routine until he meets unexpected stress in the form of his apartment building's elevator.",
+"poster": "https://image.tmdb.org/t/p/w342/61ILIs4icGAsk3AJUYytrsr9pQa.jpg",
+"runtime": 7,
+"title": "The Lift",
+"tmdb_id": 144686,
+"year": 1972
+},
 "144690": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yzzhjMDMufRGujnPAAWy9sEToC7.jpg",
 "cast": [
@@ -24290,6 +33195,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 144690,
 "year": 1961
 },
+"144692": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fhaVUrVWn1Ab0tID8CIJ7GJmtrv.jpg",
+"cast": [
+"Pierre Jolivet",
+"Jean Reno",
+"Fabrice Roche"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0082038",
+"original_title": "L'Avant Dernier",
+"overview": "A man wanders through a wrecked, dystopian city, finding violence everywhere he turns.",
+"poster": "https://image.tmdb.org/t/p/w342/oaAOxn7wMaNVid4GWanxTKRkjAN.jpg",
+"runtime": 12,
+"title": "The Penultimate",
+"tmdb_id": 144692,
+"year": 1981
+},
 "1447312": {
 "backdrop": null,
 "cast": [],
@@ -24307,6 +33234,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Towards a Dream in the USA",
 "tmdb_id": 1447312,
 "year": 2022
+},
+"14475": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6zMevCRj7ybKCAqxAsZkiFreCQ9.jpg",
+"cast": [
+"Kurt Russell",
+"Jack Warden",
+"Gerrit Graham",
+"Frank McRae",
+"Deborah Harmon",
+"Joe Flaherty"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0081698",
+"original_title": "Used Cars",
+"overview": "When the owner of a struggling used car lot is killed, it's up to the lot's hot-shot salesman to save the property from falling into the hands of the owner's ruthless brother and used-car rival.",
+"poster": "https://image.tmdb.org/t/p/w342/h9hqesyEBaag8ZkgrBSaUGgGNFF.jpg",
+"runtime": 113,
+"title": "Used Cars",
+"tmdb_id": 14475,
+"year": 1980
 },
 "1449146": {
 "backdrop": null,
@@ -24357,33 +33309,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Historic Centre",
 "tmdb_id": 145014,
 "year": 2012
-},
-"14506": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
-"cast": [
-"John Neville",
-"Eric Idle",
-"Sarah Polley",
-"Oliver Reed",
-"Charles McKeown",
-"Winston Dennis"
-],
-"countries": [
-"DE",
-"GB",
-"US"
-],
-"directors": [
-"Terry Gilliam"
-],
-"imdb_id": "tt0096764",
-"original_title": "The Adventures of Baron Munchausen",
-"overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
-"poster": "https://image.tmdb.org/t/p/w342/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
-"runtime": 126,
-"title": "The Adventures of Baron Munchausen",
-"tmdb_id": 14506,
-"year": 1988
 },
 "1451546": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xfwWQxNGwgi798lcWV9RJL9OW0W.jpg",
@@ -24457,6 +33382,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 145271,
 "year": 1999
 },
+"145410": {
+"backdrop": null,
+"cast": [
+"Gary Busey",
+"Sylvère Lotringer",
+"Marshall Blonsky"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0108087",
+"original_title": "The Set-Up",
+"overview": "The Set-Up is Kathryn Bigelow's student film at Columbia about the exploration of 'why violence in cinematic form is so seductive'. It featured two men beating each other to a pulp in a dark alley, while two professors analyzed the philosophy of it all on the soundtrack.",
+"poster": "https://image.tmdb.org/t/p/w342/a0mkqq0ziZmkYdzUwCFaBCF6JZx.jpg",
+"runtime": 17,
+"title": "The Set-Up",
+"tmdb_id": 145410,
+"year": 1978
+},
 "14553": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bJFapHYlJIhXpfqH8uaNLtUxHwD.jpg",
 "cast": [
@@ -24484,6 +33431,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Stealing Beauty",
 "tmdb_id": 14553,
 "year": 1996
+},
+"14554": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tQv32m6pufbJT2rKuKDzt0kVynQ.jpg",
+"cast": [
+"Spencer Tracy",
+"Robert Ryan",
+"Walter Brennan",
+"Lee Marvin",
+"Dean Jagger",
+"Anne Francis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0047849",
+"original_title": "Bad Day at Black Rock",
+"overview": "One-armed war veteran John J. Macreedy steps off a train at the sleepy little town of Black Rock.  Once there, he begins to unravel a web of lies, secrecy, and murder.",
+"poster": "https://image.tmdb.org/t/p/w342/8EnhHjU0DyCckmZRtn46s3WXeEf.jpg",
+"runtime": 81,
+"title": "Bad Day at Black Rock",
+"tmdb_id": 14554,
+"year": 1955
 },
 "146131": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xr01nimylU61k4avp0QukvWghHQ.jpg",
@@ -24653,6 +33625,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 146583,
 "year": 1988
 },
+"14677": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yoG5OAFINVrwmqVNRxcgNI4zRyu.jpg",
+"cast": [
+"Kirk Douglas",
+"Anthony Quinn",
+"Earl Holliman",
+"Carolyn Jones",
+"Brad Dexter",
+"Brian G. Hutton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0052993",
+"original_title": "Last Train from Gun Hill",
+"overview": "A marshal tries to bring the son of an old friend, an autocratic cattle baron, to justice for the rape and murder of his wife.",
+"poster": "https://image.tmdb.org/t/p/w342/hXbBkFAcJZBHH629Kj4Ujrq1r2l.jpg",
+"runtime": 98,
+"title": "Last Train from Gun Hill",
+"tmdb_id": 14677,
+"year": 1959
+},
 "14689": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1wf2appoWwC9CQS0cDnMoHbWiDB.jpg",
 "cast": [
@@ -24678,6 +33675,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 14689,
 "year": 1966
 },
+"146915": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2CjeF9KAkfrSAiBcjUl7WI6QRab.jpg",
+"cast": [
+"Lana Turner",
+"Efrem Zimbalist Jr.",
+"Jason Robards",
+"George Hamilton",
+"Susan Kohner",
+"Thomas Mitchell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0054710",
+"original_title": "By Love Possessed",
+"overview": "An unhappily married woman engages in an affair with her husband's law partner.",
+"poster": "https://image.tmdb.org/t/p/w342/tjWb7tWJ80Ov211ejP7TOS0xcvf.jpg",
+"runtime": 115,
+"title": "By Love Possessed",
+"tmdb_id": 146915,
+"year": 1961
+},
+"14703": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4v27m8CCm7t8P8E5KLfvXtSBYmK.jpg",
+"cast": [
+"Richard Burton",
+"Ava Gardner",
+"Deborah Kerr",
+"Sue Lyon",
+"Skip Ward",
+"Grayson Hall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0058404",
+"original_title": "The Night of the Iguana",
+"overview": "A defrocked Episcopal clergyman leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure haunting his life.",
+"poster": "https://image.tmdb.org/t/p/w342/3HY8MSeoj4s0uSWGW135Jlh7eSI.jpg",
+"runtime": 118,
+"title": "The Night of the Iguana",
+"tmdb_id": 14703,
+"year": 1964
+},
 "147210": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6e7EUJ3AbDS43ThRe9EfUCevUdw.jpg",
 "cast": [
@@ -24702,6 +33749,45 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Discipline of D.E.",
 "tmdb_id": 147210,
 "year": 1982
+},
+"147240": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8qjStV5IJQCNRDHqoWmiR6ol9ln.jpg",
+"cast": [
+"Jerry Colonna"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0038399",
+"original_title": "Casey at the Bat",
+"overview": "The over-confident Casey comes to the plate for Mudville in this animated version of the classic 1888 baseball poem by Ernest Thayer",
+"poster": "https://image.tmdb.org/t/p/w342/8YP22bikz9DgKIFSdUARYUmrOMh.jpg",
+"runtime": 9,
+"title": "Casey at the Bat",
+"tmdb_id": 147240,
+"year": 1946
+},
+"147242": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jtAZCSmMfIRhh6SLwUVtY3QKp4C.jpg",
+"cast": [
+"Ken Darby",
+"Rad Robinson",
+"Jon Dodson",
+"Bud Linn"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0038729",
+"original_title": "The Martins and the Coys",
+"overview": "The Martins and the Coys are two feuding clans. One day, Grandpa Coy gets caught in the Martin henhouse, and a massive battle erupts, leaving only a Martin girl and a Coy boy. Love conquers all for a while, anyhow. Originally released as a segment in Make Mine Music.",
+"poster": "https://image.tmdb.org/t/p/w342/1wDxHmPhJTJawgvzcpmf9pOPdTp.jpg",
+"runtime": 8,
+"title": "The Martins and the Coys",
+"tmdb_id": 147242,
+"year": 1946
 },
 "1473496": {
 "backdrop": null,
@@ -24756,6 +33842,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Exodus: Gods and Kings",
 "tmdb_id": 147441,
 "year": 2014
+},
+"1475047": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iWpopY4G6siTvFmgwi8vwxjaCBp.jpg",
+"cast": [
+"John Lennon",
+"Yoko Ono",
+"Dave Sholin",
+"Laurie Kaye",
+"Ron Hummel",
+"Bert Keane"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt41593483",
+"original_title": "John Lennon: The Last Interview",
+"overview": "On December 8, 1980, Lennon and Yoko Ono sat down with a small radio crew in their New York apartment to promote the release of their album Double Fantasy. What followed was an unfiltered, wide-ranging discussion about music, politics, fatherhood, and life. Just hours later, Lennon was killed. The complete interview is presented for the first time, framed by reflections from those who were present, revealing a man at the height of his creative and personal powers, openly looking toward the future he would never see.",
+"poster": "https://image.tmdb.org/t/p/w342/gyGYd85tjdMQhXrTls0vlNGZGJj.jpg",
+"runtime": 100,
+"title": "John Lennon: The Last Interview",
+"tmdb_id": 1475047,
+"year": 2026
+},
+"14755": {
+"backdrop": "https://image.tmdb.org/t/p/w780/y7FMwxLAouENpX05f2YSgZozrlR.jpg",
+"cast": [
+"James Mason",
+"Simone Signoret",
+"Maximilian Schell",
+"Harriet Andersson",
+"Harry Andrews",
+"Kenneth Haigh"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0061556",
+"original_title": "The Deadly Affair",
+"overview": "Charles Dobbs is a British secret agent investigating the apparent suicide of Foreign Office official Samuel Fennan. Dobbs suspects that Fennan's wife, Elsa, a survivor of a Nazi Germany extermination camp, might have some clues, but other officials want Dobbs to drop the case. So Dobbs hires a retiring inspector, Mendel, to quietly make inquiries. Dobbs isn't at all sure as there are a number of anomalies that simply can't be explained away. Dobbs is also having trouble at home with his errant wife, whom he very much loves, having frequent affairs. He's also pleased to see an old friend, Dieter Frey, who he recruited after the war. With the assistance of a colleague and a retired policeman, Dobbs tries to piece together just who is the spy and who in fact assassinated Fennan.",
+"poster": "https://image.tmdb.org/t/p/w342/Av6mrgiizvdSC1Tl9cEvazjS9S.jpg",
+"runtime": 115,
+"title": "The Deadly Affair",
+"tmdb_id": 14755,
+"year": 1967
 },
 "1476406": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mFj4fHscnOd5EIqbC8xEloixrtQ.jpg",
@@ -24824,6 +33960,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Story of \"Scénario\"",
 "tmdb_id": 1477561,
 "year": 2025
+},
+"14788": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zrc7VsyKahpj0CKmSOUqf2EvL5z.jpg",
+"cast": [
+"Debbie Doebereiner",
+"Omar Cowan",
+"Dustin James Ashley",
+"Phyllis Workman",
+"Laurie L. Wee",
+"Daniel R. Christian"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0454792",
+"original_title": "Bubble",
+"overview": "Set against the backdrop of a decaying Midwestern town, a murder becomes the focal point of three people who work in a doll factory.",
+"poster": "https://image.tmdb.org/t/p/w342/w56oo9nREcF54sNXVYuE9QxZFjT.jpg",
+"runtime": 73,
+"title": "Bubble",
+"tmdb_id": 14788,
+"year": 2006
 },
 "148404": {
 "backdrop": null,
@@ -25004,6 +34165,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 148607,
 "year": 2010
 },
+"14881": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xo8Mj2DI9hSivlX4DSNpNubP1Bt.jpg",
+"cast": [
+"Clint Eastwood",
+"Robert Duvall",
+"John Saxon",
+"Don Stroud",
+"Stella Garcia",
+"James Wainwright"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0068768",
+"original_title": "Joe Kidd",
+"overview": "A band of Mexicans find their U. S. land claims denied and all the records destroyed in a courthouse fire. Their leader, Louis Chama, encourages them to use force to regain their land. A wealthy landowner wanting the same decides to hire a gang of killers with Joe Kidd to track Chama.",
+"poster": "https://image.tmdb.org/t/p/w342/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg",
+"runtime": 88,
+"title": "Joe Kidd",
+"tmdb_id": 14881,
+"year": 1972
+},
 "148845": {
 "backdrop": "https://image.tmdb.org/t/p/w780/inRevyUzmgQCKbMeOwkCDpFwVGD.jpg",
 "cast": [
@@ -25028,6 +34214,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Bride of Glomdal",
 "tmdb_id": 148845,
 "year": 1926
+},
+"148950": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5mNa6TxBzxB2lN7p4NyUYFjmMFm.jpg",
+"cast": [
+"Ethan Kanfer",
+"Sue C. Nichols",
+"Jeff Pidgeon",
+"Andrew Stanton",
+"Broose Johnson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt0094047",
+"original_title": "A Story",
+"overview": "A young boy named Melvin and a purple television dinosaur named Ted have happy adventures that lead them into the clutches of Randy the Killer Clown and his Goon Squad.",
+"poster": "https://image.tmdb.org/t/p/w342/48L35oaTTXQrwVPdRs0St6bZ5Ql.jpg",
+"runtime": 5,
+"title": "A Story",
+"tmdb_id": 148950,
+"year": 1987
 },
 "1490258": {
 "backdrop": null,
@@ -25102,6 +34312,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "1492: Conquest of Paradise",
 "tmdb_id": 1492,
 "year": 1992
+},
+"149320": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bFpF93wvlm80J1o22TdGiY6LZ2O.jpg",
+"cast": [
+"Martin Luther King Jr.",
+"Coretta Scott King",
+"A.D. King",
+"Dexter King",
+"Yolanda King",
+"Martin Luther King III"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet",
+"Joseph L. Mankiewicz"
+],
+"imdb_id": "tt0065944",
+"original_title": "King: A Filmed Record... Montgomery to Memphis",
+"overview": "A presentation of key events in the life of civil rights activist Martin Luther King Jr. Beginning with the 1955 bus boycott in Montgomery, Alabama, MLK is followed through major steps in his struggle to promote racial equality. Including footage of King's stirring speeches, it is a fitting tribute to his legacy, and features clips narrated by a wide range of celebrities, including Harry Belafonte, Paul Newman Charlton Heston, Ruby Dee, Burt Lancaster, Anthony Quinn, Walter Matthau, Ben Gazzara, Clarence Williams III, Joanne Woodward, and James Earl Jones.",
+"poster": "https://image.tmdb.org/t/p/w342/yenKpaleqf2QBrMxpeYwVO8AJO1.jpg",
+"runtime": 185,
+"title": "King: A Filmed Record... Montgomery to Memphis",
+"tmdb_id": 149320,
+"year": 1970
 },
 "1493731": {
 "backdrop": "https://image.tmdb.org/t/p/w780/Q7bKv5KDz0Q0aYoa6FQFNxEvo8.jpg",
@@ -25319,6 +34555,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1503447,
 "year": 1955
 },
+"150605": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8ajAjcHRBG4jxDiIPkwVqnrCqBd.jpg",
+"cast": [
+"Ugo Tognazzi",
+"Shirley Anne Field",
+"Alexandra Stewart",
+"Gaia Germani",
+"Catherine Sinet",
+"Anna María Aveta"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0059428",
+"original_title": "Marcia nuziale",
+"overview": "Satirical film in four episodes about  family and marriage.",
+"poster": "https://image.tmdb.org/t/p/w342/zWiE2A5v344vn5EWkpLsVYxQVN4.jpg",
+"runtime": 83,
+"title": "The Wedding March",
+"tmdb_id": 150605,
+"year": 1966
+},
 "150630": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hIHWCTcSet1stTLvJDlTHqvzUlM.jpg",
 "cast": [
@@ -25362,6 +34624,45 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": null,
 "title": "The Pastoral Symphony",
 "tmdb_id": 1508727,
+"year": 1940
+},
+"1508730": {
+"backdrop": "https://image.tmdb.org/t/p/w780/okRhEJuzfAdvYmEPtxSfonbsxrZ.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"T. Hee",
+"Norman Ferguson"
+],
+"imdb_id": null,
+"original_title": "Dance of the Hours",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/2gD15Dkpi3sNCJhr793j65GFFd1.jpg",
+"runtime": 12,
+"title": "Dance of the Hours",
+"tmdb_id": 1508730,
+"year": 1940
+},
+"1508731": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ji4e5H0OBHzDMpZbYEhXhwP3MHx.jpg",
+"cast": [
+"Rachel Field"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wilfred Jackson"
+],
+"imdb_id": null,
+"original_title": "Night on Bald Mountain",
+"overview": "At Walpurgis Night (the Witches' Sabbath), Chernabog, God of evil, emerges from the peak of Bald Mountain (in reality Mount Triglav, in Slovenia) to summon all of his minions, including ghosts, vultures, demons, hags, and harpies, who dance furiously as he throws them into the mountain's fiery pit.",
+"poster": "https://image.tmdb.org/t/p/w342/q86gEyiasH8TnnnZbnGGY9Ie3Pk.jpg",
+"runtime": 8,
+"title": "Night on Bald Mountain",
+"tmdb_id": 1508731,
 "year": 1940
 },
 "1511567": {
@@ -25456,6 +34757,123 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Cameo Kirby",
 "tmdb_id": 151572,
 "year": 1923
+},
+"1515899": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fvz0Psn68l0lXyAmeXxY8D9RRhI.jpg",
+"cast": [
+"Billie Eilish",
+"FINNEAS",
+"Andrew Marshall",
+"Solomon Smith",
+"Abraham Nouri",
+"Tom Crouch"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron",
+"Billie Eilish"
+],
+"imdb_id": "tt39018643",
+"original_title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+"overview": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+"poster": "https://image.tmdb.org/t/p/w342/zfFvltKHntGBupFuubx3r61v48e.jpg",
+"runtime": 114,
+"title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+"tmdb_id": 1515899,
+"year": 2026
+},
+"1518260": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": null,
+"original_title": "Psychological Operations in Support of Unconventional Warfare",
+"overview": "A short film consisting of text adapted from a US Army field manual on guerrilla warfare.",
+"poster": null,
+"runtime": null,
+"title": "Psychological Operations in Support of Unconventional Warfare",
+"tmdb_id": 1518260,
+"year": 1975
+},
+"15186": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m2OFAqnsisznOp3gwwxofk3OQPN.jpg",
+"cast": [
+"David Duchovny",
+"Nicky Katt",
+"Catherine Keener",
+"Mary McCormack",
+"David Hyde Pierce",
+"Julia Roberts"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0290212",
+"original_title": "Full Frontal",
+"overview": "A day in the life of a group of men and women in Hollywood, in the hours leading up to a friend's birthday party.",
+"poster": "https://image.tmdb.org/t/p/w342/7FeoefSYELryi04Kz74xYTayPZk.jpg",
+"runtime": 112,
+"title": "Full Frontal",
+"tmdb_id": 15186,
+"year": 2002
+},
+"1518771": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xhyAodn8FytkjLzHSjeTa0bC6QD.jpg",
+"cast": [
+"Mick Jagger",
+"Keith Richards",
+"Ronnie Wood",
+"Bill Wyman",
+"Charlie Watts",
+"Ian Stewart"
+],
+"countries": [],
+"directors": [
+"Tom Trbovich",
+"Hal Ashby"
+],
+"imdb_id": "tt8161538",
+"original_title": "The Rolling Stones: Hampton Coliseum (Live 1981)",
+"overview": "It was recorded at the Hampton Coliseum in Hampton, Virginia on 18 December 1981, for what was the penultimate show of the band's U.S. tour that year. The show was the first-ever live pay-per-view broadcast of a music concert.",
+"poster": "https://image.tmdb.org/t/p/w342/pX1QruzuOvMvsc48RWA9Ixfo1g5.jpg",
+"runtime": 150,
+"title": "The Rolling Stones: Hampton Coliseum (Live 1981)",
+"tmdb_id": 1518771,
+"year": 1981
+},
+"152237": {
+"backdrop": null,
+"cast": [
+"James Stewart",
+"Jean Ames",
+"Leah Baird",
+"Don DeFore",
+"Charles Drake",
+"Bill Edwards"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston",
+"Owen Crump"
+],
+"imdb_id": "tt0035565",
+"original_title": "Winning Your Wings",
+"overview": "Winning Your Wings is a 1942 short  American World War II  recruitment film produced by Warner Bros. Studios for the US Army Air Forces, starring Jimmy Stewart. It was aimed at young men who were thinking about joining the Air Force.",
+"poster": "https://image.tmdb.org/t/p/w342/pUgWvZXOWOvdoo9iwUxa9g19keC.jpg",
+"runtime": 18,
+"title": "Winning Your Wings",
+"tmdb_id": 152237,
+"year": 1942
 },
 "152417": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g8sI8AcZMAZdwU49hASOCpQzCfC.jpg",
@@ -25588,30 +35006,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1537970,
 "year": 1978
 },
-"15390": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vBYjLO02lrK6P6ns4lpZJrginET.jpg",
+"15384": {
+"backdrop": "https://image.tmdb.org/t/p/w780/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
 "cast": [
-"Nicole Stéphane",
-"Édouard Dermithe",
-"Renée Cosima",
-"Jacques Bernard",
-"Jean Cocteau",
-"Melvyn Martin"
+"Tony Leung Chiu-wai",
+"Takeshi Kaneshiro",
+"Zhang Fengyi",
+"Chang Chen",
+"Zhao Wei",
+"Hu Jun"
 ],
 "countries": [
-"FR"
+"CN",
+"HK",
+"JP",
+"KR",
+"TW"
 ],
 "directors": [
-"Jean-Pierre Melville"
+"John Woo"
 ],
-"imdb_id": "tt0042436",
-"original_title": "Les Enfants terribles",
-"overview": "Elisabeth and her brother Paul live isolated from much of the world after Paul is injured in a snowball fight. As a coping mechanism, the two conjure up a hermetic dream of their own making. Their relationship, however, isn't exactly wholesome. Jealousy and a malevolent undercurrent intrude on their fantasy when Elisabeth invites the strange Agathe to stay with them -- and Paul is immediately attracted to her.",
-"poster": "https://image.tmdb.org/t/p/w342/yxcc8CfOn6M2HSGbjaDkAKb0QNQ.jpg",
-"runtime": 107,
-"title": "The Strange Ones",
-"tmdb_id": 15390,
-"year": 1950
+"imdb_id": "tt1326972",
+"original_title": "赤壁：決戰天下",
+"overview": "The battle of Red Cliff continues and the alliance between Xu and East Wu is fracturing.  With Cao Cao's massive forces on their doorstep, will the kingdoms of Xu and East Wu survive?",
+"poster": "https://image.tmdb.org/t/p/w342/4sZc0Fx5ECBDwDswKA0zsmh7o1n.jpg",
+"runtime": 141,
+"title": "Red Cliff II",
+"tmdb_id": 15384,
+"year": 2009
 },
 "154038": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2P1GhpeFgR23koCMdyGGqUtzgFu.jpg",
@@ -25752,6 +35174,25 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1545844,
 "year": 1970
 },
+"15466": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h31eRhdKxq7KqgfMU6vikBU7JAm.jpg",
+"cast": [],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0101376",
+"original_title": "Atlantis",
+"overview": "Atlantis is filmmaker Luc Besson's celebration of the beauty and wonder of the world beneath the sea, expanding upon themes touched on in his film The Big Blue. Combining stunning underwater cinematography and a hypnotic score by Eric Serra, Besson's singular vision defies dialogue or narrative structure to explore ocean life as you've never seen it before.  Following the colossal success of The Big Blue, Luc Besson crisscrossed the world's seas and oceans to film the beauty and diversity of marine life: from the giant octopuses of Vancouver to the manta rays of the Pacific (New Caledonia), and the grey sharks of Tahiti. A film with no actors or sets other than the underwater world. A breathtaking view of marine species: sharks, dolphins, manatees, octopuses. An exploration of the seabed in the Bahamas, the Galapagos, Vancouver, and Tahiti.",
+"poster": "https://image.tmdb.org/t/p/w342/Y9GVuu0tVPUWvcFufTkBLg2840.jpg",
+"runtime": 74,
+"title": "Atlantis",
+"tmdb_id": 15466,
+"year": 1991
+},
 "1548976": {
 "backdrop": null,
 "cast": [],
@@ -25814,6 +35255,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Wholly Family",
 "tmdb_id": 155570,
 "year": 2011
+},
+"1556052": {
+"backdrop": null,
+"cast": [
+"James Mason",
+"Trevor Howard",
+"Richard Basehart",
+"Robert Emhardt",
+"Helmut Dantine",
+"Kim Hunter"
+],
+"countries": [],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0675634",
+"original_title": "Playhouse 90: The Hiding Place",
+"overview": "In the last days of World War II, two English airmen are captured by an ordinary German citizen, who, instead of handing them over to the authorities, keeps them prisoner in his cellar, neglecting to tell them when the war ends.",
+"poster": "https://image.tmdb.org/t/p/w342/dyjHTB9W33FcHIXGmikkoMp8RE8.jpg",
+"runtime": 90,
+"title": "Playhouse 90: The Hiding Place",
+"tmdb_id": 1556052,
+"year": 1960
 },
 "1556336": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lQG4pRbpdYeRH6pSduNEIsVZyNF.jpg",
@@ -26105,6 +35569,83 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 157160,
 "year": 1982
 },
+"157336": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+"cast": [
+"Matthew McConaughey",
+"Anne Hathaway",
+"Michael Caine",
+"Jessica Chastain",
+"Casey Affleck",
+"Wes Bentley"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt0816692",
+"original_title": "Interstellar",
+"overview": "Interstellar handler om eventyrene til en gruppe oppdagelsesreisende som benytter seg av en nylig oppdaget ormehull å overgå begrensninger på menneskelig romfart og erobre store avstander er involvert i en interstellar reise.",
+"poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+"runtime": 169,
+"title": "Interstellar",
+"tmdb_id": 157336,
+"year": 2014
+},
+"15739": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uP8eElA1j4I2lE0V67bhQaUipkc.jpg",
+"cast": [
+"Aileen Quinn",
+"Albert Finney",
+"Carol Burnett",
+"Ann Reinking",
+"Tim Curry",
+"Bernadette Peters"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0083564",
+"original_title": "Annie",
+"overview": "An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver \"Daddy\" Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks' mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.",
+"poster": "https://image.tmdb.org/t/p/w342/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+"runtime": 127,
+"title": "Annie",
+"tmdb_id": 15739,
+"year": 1982
+},
+"15764": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
+"cast": [
+"Meryl Streep",
+"Kevin Kline",
+"Peter MacNicol",
+"Rita Karin",
+"Stephen D. Newman",
+"Greta Turken"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0084707",
+"original_title": "Sophie's Choice",
+"overview": "Stingo, a young writer, moves to Brooklyn in 1947 to begin work on his first novel. As he becomes friendly with Sophie and her lover Nathan, he learns that she is a Holocaust survivor. Flashbacks reveal her harrowing story, from pre-war prosperity to Auschwitz. In the present, Sophie and Nathan's relationship increasingly unravels as Stingo grows closer to Sophie and Nathan's fragile mental state becomes ever more apparent.",
+"poster": "https://image.tmdb.org/t/p/w342/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+"runtime": 151,
+"title": "Sophie's Choice",
+"tmdb_id": 15764,
+"year": 1982
+},
 "1577130": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hxlUvroefAJUEq3Sxb5WQohrwfL.jpg",
 "cast": [],
@@ -26297,6 +35838,99 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1579353,
 "year": 2006
 },
+"15807": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+"cast": [
+"John Ridgely",
+"Gig Young",
+"John Garfield",
+"Arthur Kennedy",
+"George Tobias",
+"Charles Drake"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0035616",
+"original_title": "Air Force",
+"overview": "The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack and is sent on to Manila to help with the defense of the Philippines.",
+"poster": "https://image.tmdb.org/t/p/w342/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+"runtime": 124,
+"title": "Air Force",
+"tmdb_id": 15807,
+"year": 1943
+},
+"1583484": {
+"backdrop": null,
+"cast": [
+"Steven Soderbergh"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": null,
+"original_title": "Rapid Eye Movement",
+"overview": "This early Soderbergh short comically satirizes his youthful attempts to establish a career as a film director.",
+"poster": null,
+"runtime": 12,
+"title": "Rapid Eye Movement",
+"tmdb_id": 1583484,
+"year": 1982
+},
+"1584": {
+"backdrop": "https://image.tmdb.org/t/p/w780/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
+"cast": [
+"Jack Black",
+"Joan Cusack",
+"Mike White",
+"Sarah Silverman",
+"Miranda Cosgrove",
+"Joey Gaydos Jr."
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0332379",
+"original_title": "The School of Rock",
+"overview": "Han får sparken fra bandet, og i desperate jakt på ny jobb utgir han seg for å være lærervikar – en som forvandler en 5. klasses snille skolelys til viltre rockere.",
+"poster": "https://image.tmdb.org/t/p/w342/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+"runtime": 110,
+"title": "The School of Rock",
+"tmdb_id": 1584,
+"year": 2003
+},
+"15844": {
+"backdrop": "https://image.tmdb.org/t/p/w780/15k3Y7Ad8CgoDBCKJ1cWWuQpRmC.jpg",
+"cast": [
+"Oliver Møller-Knauer",
+"Ronja Mannov Olesen",
+"Helene Reingaard Neumann",
+"Thomas Bo Larsen",
+"Karen-Lise Mynster",
+"Nicolaj Kopernikus"
+],
+"countries": [],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0951288",
+"original_title": "En mand kommer hjem",
+"overview": "A small provincial town is buzzing with excitement: the town´s most illustrious son, a world-famous opera singer, is coming home. Meanwhile, Sebastian, a kitchen boy who is as good as married, falls head over heels in love with the new maid, Maria. Their love affair, along with rumours that the opera singer and the kitchen boy are related, turns the town upside down, threatening to ruin everyone´s high expectations and the opera singer´s triumphant return.",
+"poster": "https://image.tmdb.org/t/p/w342/qGmqIsXsuWWECweqtgRW0Wltn3u.jpg",
+"runtime": 100,
+"title": "When a Man Comes Home",
+"tmdb_id": 15844,
+"year": 2007
+},
 "15867": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
 "cast": [
@@ -26321,6 +35955,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Interiors",
 "tmdb_id": 15867,
 "year": 1978
+},
+"1587174": {
+"backdrop": null,
+"cast": [
+"Lewis Abernathy",
+"Kathryn Bigelow",
+"Bobbie Brat",
+"Mike Cameron",
+"Vincent Chase",
+"Bud Cort"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt1612767",
+"original_title": "Martini Ranch: Reach",
+"overview": "Music video for Bill Paxton's band Martini Ranch where an outlaw biker arrives at a rough small western town to visit his gal in the local brothel. What he doesn't know is that an all-female posse of bounty hunters is coming for him.",
+"poster": "https://image.tmdb.org/t/p/w342/hHwFJ6vpcKLYTA9jYNXZLjSdOqQ.jpg",
+"runtime": 8,
+"title": "Martini Ranch: Reach",
+"tmdb_id": 1587174,
+"year": 1988
 },
 "15875": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fDdMm5ZW45GzOZM1DuA7fPa1ANF.jpg",
@@ -26434,6 +36093,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 159222,
 "year": 1948
 },
+"15927": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+"cast": [
+"Judy Davis",
+"Victor Banerjee",
+"Peggy Ashcroft",
+"James Fox",
+"Alec Guinness",
+"Nigel Havers"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0087892",
+"original_title": "A Passage to India",
+"overview": "Cultural mistrust and false accusations doom a friendship in British colonial India between an Indian doctor, an Englishwoman engaged to marry a city magistrate, and an English educator.",
+"poster": "https://image.tmdb.org/t/p/w342/rvBWlGRKte2U6qElHV13h6JvmSe.jpg",
+"runtime": 163,
+"title": "A Passage to India",
+"tmdb_id": 15927,
+"year": 1984
+},
 "15947": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kcWYiBWej3JdYbGEVaKYAQGfqYp.jpg",
 "cast": [
@@ -26540,6 +36225,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1598,
 "year": 1991
 },
+"1598720": {
+"backdrop": null,
+"cast": [
+"Allen Garfield",
+"Florence Stanley",
+"Yvonne Wilder",
+"Joshua Shelley",
+"Beverly Carter"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0465762",
+"original_title": "Sonny Boy",
+"overview": "The owner of a toy store chain still lives at home with his mother and crazy uncle.",
+"poster": "https://image.tmdb.org/t/p/w342/xwx3j36HeWH6hJ9ZMWvW4xsVVyt.jpg",
+"runtime": 30,
+"title": "Sonny Boy",
+"tmdb_id": 1598720,
+"year": 1974
+},
 "1599425": {
 "backdrop": null,
 "cast": [
@@ -26581,6 +36290,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Inside the Making of - Amélie",
 "tmdb_id": 1602539,
 "year": 2001
+},
+"160286": {
+"backdrop": "https://image.tmdb.org/t/p/w780/btE5ll8hHcyxh8nVeqN8WAsHZiO.jpg",
+"cast": [
+"Paul Frees"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0046835",
+"original_title": "Casey Bats Again",
+"overview": "Casey is upset about having struck out his last chance at bat but his wife suggests they have a son to follow in their dad's footsteps. Eventually, a child is born but, to Casey's dismay, it's a girl, not a boy. His wife suggests they try again several more times but each time, it's still another girl. Casey is depressed but his pals tell him that in spite of everything, they still make a powerful baseball team. Casey likes the idea and accepts. However, the day of the big game, he is nervous that one of them will strike out and attempts to make the last home run himself disguised as one of his own daughters.",
+"poster": "https://image.tmdb.org/t/p/w342/nbiJnTAk26grqs1H3ULYQNhvJi8.jpg",
+"runtime": 8,
+"title": "Casey Bats Again",
+"tmdb_id": 160286,
+"year": 1954
 },
 "160294": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jdGcHObTYQpaGZy3kfex1v1t5c7.jpg",
@@ -26719,30 +36448,48 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1609960,
 "year": 2025
 },
-"16153": {
-"backdrop": "https://image.tmdb.org/t/p/w780/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+"161": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
 "cast": [
-"Ellen Burstyn",
-"Alfred Lutter",
-"Kris Kristofferson",
-"Harvey Keitel",
-"Diane Ladd",
-"Lelia Goldoni"
+"George Clooney",
+"Brad Pitt",
+"Andy Garcia",
+"Matt Damon",
+"Julia Roberts",
+"Casey Affleck"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Martin Scorsese"
+"Steven Soderbergh"
 ],
-"imdb_id": "tt0071115",
-"original_title": "Alice Doesn't Live Here Anymore",
-"overview": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
-"poster": "https://image.tmdb.org/t/p/w342/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg",
-"runtime": 112,
-"title": "Alice Doesn't Live Here Anymore",
-"tmdb_id": 16153,
-"year": 1974
+"imdb_id": "tt0240772",
+"original_title": "Ocean's Eleven",
+"overview": "Danny Ocean er løslatt på prøve - og planlegger sitt neste kupp. Han sikter mot Las Vegas og tre såkalt innbruddssikre kasinoer eid av mannen som er sammen med Dannys eks-kone. Nå mangler bare ti spesialister for å gjøre det umulige mulig. Danny Ocean er en tyv av den gamle skolen. Ikke la noen bli skadet, ikke stjel fra noen som ikke fortjener det, og ikke ta sjanser uten å tenke på konsekvensene. Med disse reglene som rettesnor planlegger han tidenes tyveri i Las Vegas. Tre kasinoer skal ranes for 160 millioner dollar mens byen er opptatt av verdensmesterskapet i tungvektsboksing. For Danny er det en ekstra bonus at kasinoene er eid av Terry Benedict, en kynisk forretningsmann som har lagt sin elsk på Dannys eks-kone, Tess. Danny håper hun skjønner sitt eget beste når han klarer det umulige. Men den slags underverker fordrer fingernemme, uredde medsammensvorne. Foruten Danny består teamet av ti menn med hver sin spesialitet på siden av loven.",
+"poster": "https://image.tmdb.org/t/p/w342/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+"runtime": 116,
+"title": "Ocean's Eleven",
+"tmdb_id": 161,
+"year": 2001
+},
+"1610750": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9k2FW3nlOeRdUnfz1poJIcmLPXh.jpg",
+"cast": [
+"Steven Soderbergh"
+],
+"countries": [],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": null,
+"original_title": "Unstarted Symphony No. 1",
+"overview": "How do we discuss something that does not exist and--according to its author--will never exist?",
+"poster": "https://image.tmdb.org/t/p/w342/7sVypiSUiJgCSV67iEXMRyRtbvE.jpg",
+"runtime": 8,
+"title": "Unstarted Symphony No. 1",
+"tmdb_id": 1610750,
+"year": 2014
 },
 "1615344": {
 "backdrop": null,
@@ -27175,6 +36922,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 16299,
 "year": 1996
 },
+"163": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+"cast": [
+"George Clooney",
+"Julia Roberts",
+"Brad Pitt",
+"Matt Damon",
+"Catherine Zeta-Jones",
+"Andy Garcia"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0349903",
+"original_title": "Ocean's Twelve",
+"overview": "Danny Ocean gjenforenes med sin gamle flamme og resten av hans dyktige team for å utføre tre store brekk i Roma, Paris og Amsterdam - men en Europol-agent er tett i hælene på dem.",
+"poster": "https://image.tmdb.org/t/p/w342/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+"runtime": 125,
+"title": "Ocean's Twelve",
+"tmdb_id": 163,
+"year": 2004
+},
 "1630": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9oxTuL6on1LBalFyzP6cIp6eUwu.jpg",
 "cast": [
@@ -27302,6 +37074,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 163364,
 "year": 1954
 },
+"1635": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+"cast": [
+"Ewan McGregor",
+"Scarlett Johansson",
+"Djimon Hounsou",
+"Sean Bean",
+"Steve Buscemi",
+"Michael Clarke Duncan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt0399201",
+"original_title": "The Island",
+"overview": "Mange hundre personer lever på et isolert område etter en angivelig økologisk katastrofe som skal ha tatt livet av de fleste mennesker i verden. En av innbyggerne på det utopiske stedet oppdager at sannheten er en annen - og like farlig.",
+"poster": "https://image.tmdb.org/t/p/w342/9MaZYEyFmQwNeDTxZGQEN8E0e4p.jpg",
+"runtime": 136,
+"title": "The Island",
+"tmdb_id": 1635,
+"year": 2005
+},
 "164183": {
 "backdrop": "https://image.tmdb.org/t/p/w780/AuhSed5QJMOLapKp9hFpaUkP5Ad.jpg",
 "cast": [
@@ -27389,6 +37186,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 164251,
 "year": 2014
 },
+"16442": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+"cast": [
+"Gary Cooper",
+"Walter Brennan",
+"Joan Leslie",
+"George Tobias",
+"Stanley Ridges",
+"Margaret Wycherly"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0034167",
+"original_title": "Sergeant York",
+"overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+"poster": "https://image.tmdb.org/t/p/w342/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+"runtime": 134,
+"title": "Sergeant York",
+"tmdb_id": 16442,
+"year": 1941
+},
+"1644680": {
+"backdrop": null,
+"cast": [
+"Steve Carell",
+"Meredith Salenger",
+"James Patrick Stuart",
+"John McMartin"
+],
+"countries": [],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0233838",
+"original_title": "H.U.D.",
+"overview": "An Inspector Clouseau-like detective is based at the U.S. Dept. of Housing & Urban Development, which, it turns out, is actually a supersecret spy agency.",
+"poster": "https://image.tmdb.org/t/p/w342/6WI5u0iYFTvQVu02qKbT1aMRtRp.jpg",
+"runtime": 30,
+"title": "H.U.D.",
+"tmdb_id": 1644680,
+"year": 2000
+},
 "1649078": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4inA9YphufsNyR5knZN6S637T38.jpg",
 "cast": [
@@ -27427,6 +37270,53 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Storstrøm Bridge",
 "tmdb_id": 164998,
 "year": 1950
+},
+"165": {
+"backdrop": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+"cast": [
+"Michael J. Fox",
+"Christopher Lloyd",
+"Lea Thompson",
+"Thomas F. Wilson",
+"Elisabeth Shue",
+"James Tolkan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0096874",
+"original_title": "Back to the Future Part II",
+"overview": "Andre del av trilogien begynner når Doc, Marty og Jennifer tar tidsmaskinen til år 2015 for å ordne opp i McFly-familiens fremtid. Men Biff Tannen stjeler maskinen og gir sitt yngre jeg en bok som inneholder 50 år av sportsstatistikker - noe den unge Biff bruker til sin, men ingen andres, fordel. For å forandre på historien må Marty og Doc reise tilbake til 1955 og hente boka.",
+"poster": "https://image.tmdb.org/t/p/w342/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+"runtime": 108,
+"title": "Back to the Future Part II",
+"tmdb_id": 165,
+"year": 1989
+},
+"165024": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gpdW9Ajfix8ib1YMf0veWOpnIaI.jpg",
+"cast": [
+"George Johnson",
+"Fred Shields",
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0035838",
+"original_title": "El Gaucho Goofy",
+"overview": "American cowboy Goofy gets taken mysteriously to the Argentine pampas to learn the ways of the native gaucho.",
+"poster": "https://image.tmdb.org/t/p/w342/ak9KlCD4K4NmQarAKiqppDrstjq.jpg",
+"runtime": 8,
+"title": "El Gaucho Goofy",
+"tmdb_id": 165024,
+"year": 1942
 },
 "1651376": {
 "backdrop": null,
@@ -27487,6 +37377,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 165284,
 "year": 1982
 },
+"16563": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5i2rmZ2Vwuzq6CPOaTLW0jjhJmB.jpg",
+"cast": [
+"Jane Powell",
+"Howard Keel",
+"Jeff Richards",
+"Russ Tamblyn",
+"Tommy Rall",
+"Julie Newmar"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0047472",
+"original_title": "Seven Brides for Seven Brothers",
+"overview": "In 1850 Oregon, when a backwoodsman brings a wife home to his farm, his six brothers decide that they want to get married too.",
+"poster": "https://image.tmdb.org/t/p/w342/hysjTnPNuO6OHWGjEorYSwwusbk.jpg",
+"runtime": 103,
+"title": "Seven Brides for Seven Brothers",
+"tmdb_id": 16563,
+"year": 1954
+},
 "1660": {
 "backdrop": "https://image.tmdb.org/t/p/w780/goBPr2y6uMU063J08bXuJjCAlil.jpg",
 "cast": [
@@ -27546,6 +37461,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Seven Days a Week",
 "tmdb_id": 1663353,
 "year": 1990
+},
+"16635": {
+"backdrop": "https://image.tmdb.org/t/p/w780/28GYawVOhonTtiEFGC0nLaFkInj.jpg",
+"cast": [
+"Samuel L. Jackson",
+"Juliette Binoche",
+"Brendan Gleeson",
+"Langley Kirkwood",
+"Harriet Manamela",
+"Warona Seane"
+],
+"countries": [
+"IE",
+"ZA",
+"GB",
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0349260",
+"original_title": "In My Country",
+"overview": "An American reporter and an Afrikaans poet meet and fall in love while covering South Africa's Truth and Reconciliation Commission hearings.",
+"poster": "https://image.tmdb.org/t/p/w342/zjyO6TrpJSeDCjxdFZk8RYEg6F6.jpg",
+"runtime": 103,
+"title": "In My Country",
+"tmdb_id": 16635,
+"year": 2004
 },
 "1664954": {
 "backdrop": null,
@@ -27780,6 +37723,54 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 168217,
 "year": 1925
 },
+"1687093": {
+"backdrop": null,
+"cast": [
+"David Cronenberg",
+"Jesse Collins",
+"Gina Clayton"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt14148306",
+"original_title": "At the Suicide of the Last Jew in the World in the Last Cinema in the World",
+"overview": "In an unspecified future, a man prepares to kill himself in a cinema toilet. Two unseen radio commentators say he is the last Jew in the world, and that this is the last cinema, slated for destruction. They are not sorry to see it go.",
+"poster": "https://image.tmdb.org/t/p/w342/eyi4GSHqyULFU4SROU500S5BoZ6.jpg",
+"runtime": 3,
+"title": "At the Suicide of the Last Jew in the World in the Last Cinema in the World",
+"tmdb_id": 1687093,
+"year": 2007
+},
+"16885": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2jY2PNtMalZbyZjQpGVzL7wP1AR.jpg",
+"cast": [
+"Brendan Gleeson",
+"Adrian Dunbar",
+"Sean McGinley",
+"Maria Doyle Kennedy",
+"Angeline Ball",
+"Jon Voight"
+],
+"countries": [
+"IE",
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0120706",
+"original_title": "The General",
+"overview": "The real-life story of Dublin folk hero and criminal Martin Cahill, who pulled off two daring robberies in Ireland with his team, but attracted unwanted attention from the police, the I.R.A., the U.V.F., and members of his own team.",
+"poster": "https://image.tmdb.org/t/p/w342/3UUR2Evm2JtC2odd2UMYgs9Yi1x.jpg",
+"runtime": 124,
+"title": "The General",
+"tmdb_id": 16885,
+"year": 1998
+},
 "1689": {
 "backdrop": "https://image.tmdb.org/t/p/w780/roWqJp8dXekp1DShC1RNpG9Yr3y.jpg",
 "cast": [
@@ -27852,6 +37843,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Pedro",
 "tmdb_id": 169660,
 "year": 1943
+},
+"1700": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+"cast": [
+"Kathy Bates",
+"James Caan",
+"Richard Farnsworth",
+"Lauren Bacall",
+"Frances Sternhagen",
+"Graham Jarvis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0100157",
+"original_title": "Misery",
+"overview": "Etter en ulykke blir den anerkjente forfatteren Paul Sheldon reddet av en sykepleier som hevder å være hans største fan. Besettelsen hennes tar en mørk vending når hun holder ham fanget i sitt avsidesliggende hjem i Colorado og tvinger ham til å gjenopplive den populære litterære karakteren han drepte.",
+"poster": "https://image.tmdb.org/t/p/w342/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+"runtime": 107,
+"title": "Misery",
+"tmdb_id": 1700,
+"year": 1990
 },
 "170691": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zJz4UfyAR52av7oSC2BuArY2kBV.jpg",
@@ -27968,56 +37984,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 171536,
 "year": 2009
 },
-"1716": {
-"backdrop": "https://image.tmdb.org/t/p/w780/u97pGlftKRNbUn0jOoQgIobSBvb.jpg",
-"cast": [
-"Catherine Deneuve",
-"Gérard Depardieu",
-"Jean Poiret",
-"Andréa Ferréol",
-"Paulette Dubost",
-"Jean-Louis Richard"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0080610",
-"original_title": "Le Dernier Métro",
-"overview": "In occupied Paris, an actress wed to a Jewish theater owner must keep him hidden from the Nazis while doing both of their jobs.",
-"poster": "https://image.tmdb.org/t/p/w342/t8KMFg9PiD9GSIHXlzast2WhZex.jpg",
-"runtime": 131,
-"title": "The Last Metro",
-"tmdb_id": 1716,
-"year": 1980
-},
-"1719": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9yPgh3v4itb0ah4XWgGM4BdAtNa.jpg",
-"cast": [
-"Françoise Dorléac",
-"Jean Desailly",
-"Nelly Benedetti",
-"Daniel Ceccaldi",
-"Laurence Badie",
-"Philippe Dumat"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0058458",
-"original_title": "La Peau douce",
-"overview": "Pierre Lachenay is a well-known publisher and lecturer, married to Franca and father of Sabine. He starts a love affair with air hostess Nicole, which Pierre is hiding, but he cannot stay away from her.",
-"poster": "https://image.tmdb.org/t/p/w342/nYo083NgJCAQQByHzYrayxQ5xBV.jpg",
-"runtime": 119,
-"title": "The Soft Skin",
-"tmdb_id": 1719,
-"year": 1964
-},
 "1719961": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w9zkvfeqyQ1EIshV76JZ1x2Ntht.jpg",
 "cast": [
@@ -28063,6 +38029,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 172011,
 "year": 1968
 },
+"1721981": {
+"backdrop": null,
+"cast": [
+"Robert Emhardt",
+"Jimmy Durante",
+"Milton Berle",
+"Peggy Ann Garner",
+"Steven Hill",
+"David Wayne"
+],
+"countries": [],
+"directors": [
+"Sidney Lumet",
+"Delbert Mann"
+],
+"imdb_id": null,
+"original_title": "Sunday Showcase",
+"overview": "",
+"poster": null,
+"runtime": null,
+"title": "Sunday Showcase",
+"tmdb_id": 1721981,
+"year": 1959
+},
 "1723392": {
 "backdrop": null,
 "cast": [
@@ -28082,6 +38072,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "12 Scopitones",
 "tmdb_id": 1723392,
 "year": 2003
+},
+"172340": {
+"backdrop": "https://image.tmdb.org/t/p/w780/erPwXVwgO8QQm2NACRUet7gqjpx.jpg",
+"cast": [
+"Anthony Perkins",
+"Beau Bridges",
+"Blythe Danner",
+"Edward Binns",
+"Susan Sarandon",
+"Conard Fowkes"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0071780",
+"original_title": "Lovin' Molly",
+"overview": "Spanning nearly 40 years from 1925 to 1964, two Texas farm boys; straight-arrow Gid and laid-back Johnny fight over the affections of the beautiful and headstrong Molly Taylor, who consistently refuses to marry either of them.",
+"poster": "https://image.tmdb.org/t/p/w342/1ZJhPHK3tm59Q4i181vEBmi41du.jpg",
+"runtime": 98,
+"title": "Lovin' Molly",
+"tmdb_id": 172340,
+"year": 1974
 },
 "1730642": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bn4jL9KItLLihi7lyZTydS3D2zA.jpg",
@@ -28107,6 +38122,25 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Captain America: The Origin of Captain America",
 "tmdb_id": 1730642,
 "year": 1985
+},
+"1732815": {
+"backdrop": null,
+"cast": [
+"Uma Thurman",
+"Kevin Kazakoff"
+],
+"countries": [],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0972390",
+"original_title": "Mission Zero",
+"overview": "After leaving her house on a quiet morning Uma Thurman is being pursued by two strange figures who shoot at her.",
+"poster": "https://image.tmdb.org/t/p/w342/981j8jALzCgDv4ptwUt60citq1g.jpg",
+"runtime": 8,
+"title": "Mission Zero",
+"tmdb_id": 1732815,
+"year": 2007
 },
 "173385": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3vAasSdCtGKki5JHEVBc9mEe9QO.jpg",
@@ -28158,6 +38192,77 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Plough and the Stars",
 "tmdb_id": 173456,
 "year": 1936
+},
+"17360": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
+"cast": [
+"Sylvester Stallone",
+"Michael Caine",
+"Max von Sydow",
+"Pelé",
+"Daniel Massey",
+"Tim Pigott-Smith"
+],
+"countries": [
+"IT",
+"GB",
+"US",
+"HU"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0083284",
+"original_title": "Escape to Victory",
+"overview": "A group of POWs in a German prison camp during World War II play the German National Soccer Team in this powerful film depicting the role of prisoners during wartime.",
+"poster": "https://image.tmdb.org/t/p/w342/3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg",
+"runtime": 116,
+"title": "Escape to Victory",
+"tmdb_id": 17360,
+"year": 1981
+},
+"173654": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pqvjV9XgxWCMje0GqutjiqlsfIF.jpg",
+"cast": [
+"Laurence Harvey",
+"France Nuyen",
+"Martha Hyer",
+"Miyoshi Umeki",
+"Gary Merrill",
+"Michael Wilding"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0056021",
+"original_title": "A Girl Named Tamiko",
+"overview": "A photographer based in Tokyo, who's in love with local beauty Tamiko, begins to court an embassy official so she can help him gain entry into the United States.",
+"poster": "https://image.tmdb.org/t/p/w342/4RCToqNrRarDC2RXgsUEbwCgiKB.jpg",
+"runtime": 110,
+"title": "A Girl Named Tamiko",
+"tmdb_id": 173654,
+"year": 1962
+},
+"1739217": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": null,
+"original_title": "A History of Protection",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/5ewRSra10MWET3zCtrpLZKdSHVq.jpg",
+"runtime": null,
+"title": "A History of Protection",
+"tmdb_id": 1739217,
+"year": 2025
 },
 "1740234": {
 "backdrop": "https://image.tmdb.org/t/p/w780/72fUbb1duaLDFO8pE1i43RplNoF.jpg",
@@ -28272,6 +38377,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 174473,
 "year": 1993
 },
+"1747425": {
+"backdrop": "https://image.tmdb.org/t/p/w780/28OzL7ZDykJyKQzCTbbRcNcZ7eB.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Samuel Armstrong"
+],
+"imdb_id": null,
+"original_title": "Toccata and Fugue in D Minor",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/tRoFtsFB7io5BZEwebLUz83E7K8.jpg",
+"runtime": null,
+"title": "Toccata and Fugue in D Minor",
+"tmdb_id": 1747425,
+"year": 1940
+},
 "1747477": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aUebs1yOVNdgqIP3Rme4k2RSdzs.jpg",
 "cast": [
@@ -28356,6 +38479,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 17578,
 "year": 2011
 },
+"17590": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pk5GvHFVB1a5ifKPrtFTcyLBWsO.jpg",
+"cast": [
+"Michael Caine",
+"Christopher Reeve",
+"Dyan Cannon",
+"Irene Worth",
+"Henry Jones",
+"Joe Silver"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0083806",
+"original_title": "Deathtrap",
+"overview": "A Broadway playwright puts murder in his plan to take credit for a student's script.",
+"poster": "https://image.tmdb.org/t/p/w342/fwrqCTcu5rAkU2dL2YqG6jjrLPn.jpg",
+"runtime": 116,
+"title": "Deathtrap",
+"tmdb_id": 17590,
+"year": 1982
+},
 "1759352": {
 "backdrop": null,
 "cast": [],
@@ -28371,33 +38519,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Gradiva",
 "tmdb_id": 1759352,
 "year": 2014
-},
-"17609": {
-"backdrop": "https://image.tmdb.org/t/p/w780/utABPVjXBlM8NUOBecCyLLuzQSe.jpg",
-"cast": [
-"Willem Dafoe",
-"Charlotte Gainsbourg",
-"Storm Acheche Sahlstrøm"
-],
-"countries": [
-"DK",
-"FR",
-"DE",
-"IT",
-"PL",
-"SE"
-],
-"directors": [
-"Lars von Trier"
-],
-"imdb_id": "tt0870984",
-"original_title": "Antichrist",
-"overview": "Et par i dyp sorg tar til \"Eden\", deres hytte i skogen, for og komme videre i livet og redde deres forhold. Men de mister kontrollen, da naturen griper inn.",
-"poster": "https://image.tmdb.org/t/p/w342/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
-"runtime": 104,
-"title": "Antichrist",
-"tmdb_id": 17609,
-"year": 2009
 },
 "176117": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ufDT1QUPc88cUUoBbJNi96xOmC3.jpg",
@@ -28435,6 +38556,82 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1761354,
 "year": 1984
 },
+"176399": {
+"backdrop": "https://image.tmdb.org/t/p/w780/11Dx82X2iferERiAQ9gEbkKZPo5.jpg",
+"cast": [
+"June Allyson",
+"Arthur Kennedy",
+"Gary Merrill",
+"Mildred Dunnock",
+"Herbert Anderson",
+"Jesse White"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0044663",
+"original_title": "The Girl in White",
+"overview": "The first female doctor in New York City comes up against prejudice from male counterparts who feel threatened by her skills. Eventually, though, they come to respect her and romance blossoms between her and the head doctor.",
+"poster": "https://image.tmdb.org/t/p/w342/hFfym0LE2t25F0RV9KOSLKlWnQp.jpg",
+"runtime": 92,
+"title": "The Girl in White",
+"tmdb_id": 176399,
+"year": 1952
+},
+"17640": {
+"backdrop": "https://image.tmdb.org/t/p/w780/q7ejr4FvNXHPW5z0hGeguyJwmMF.jpg",
+"cast": [
+"Gene Kelly",
+"Dan Dailey",
+"Michael Kidd",
+"Cyd Charisse",
+"Dolores Gray",
+"David Burns"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen",
+"Gene Kelly"
+],
+"imdb_id": "tt0048216",
+"original_title": "It's Always Fair Weather",
+"overview": "Three World War II buddies promise to meet at a specified place and time 10 years after the war. They keep their word only to discover how far apart they've grown. But the reunion sparks memories of youthful dreams that haven't been fulfilled -- and slowly, the three men reevaluate their lives and try to find a way to renew their friendship.",
+"poster": "https://image.tmdb.org/t/p/w342/blcNXbPENULD0JdUcRtOdALFIHi.jpg",
+"runtime": 102,
+"title": "It's Always Fair Weather",
+"tmdb_id": 17640,
+"year": 1955
+},
+"17657": {
+"backdrop": "https://image.tmdb.org/t/p/w780/soKjkMeyySehYjaXuhkteiskSYE.jpg",
+"cast": [
+"Rock Hudson",
+"Ernest Borgnine",
+"Patrick McGoohan",
+"Jim Brown",
+"Tony Bill",
+"Alf Kjellin"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0063121",
+"original_title": "Ice Station Zebra",
+"overview": "A top-secret Soviet spy satellite -- using stolen Western technology -- malfunctions and then goes into a descent that lands it near an isolated Arctic research encampment called Ice Station Zebra, belonging to the British, which starts sending out distress signals before falling silent. The atomic submarine Tigerfish, commanded by Cmdr. James Ferraday, is dispatched to save them.",
+"poster": "https://image.tmdb.org/t/p/w342/euPqp2J79zAomdgCcdpCmqjRHMy.jpg",
+"runtime": 149,
+"title": "Ice Station Zebra",
+"tmdb_id": 17657,
+"year": 1968
+},
 "17664": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9ny2f4aVGSvuV3yUKlFAQ26677Y.jpg",
 "cast": [
@@ -28460,30 +38657,53 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 17664,
 "year": 1959
 },
-"177": {
-"backdrop": "https://image.tmdb.org/t/p/w780/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+"17680": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yG1DppzYVHoRifCPZ8Z6aDWoFgp.jpg",
 "cast": [
-"Robin Williams",
-"Jeff Bridges",
-"Amanda Plummer",
-"Mercedes Ruehl",
-"Michael Jeter",
-"William Jay Marshall"
+"Sasha Grey",
+"Chris Santos",
+"Philip Eytan",
+"Peter Zizzo",
+"Ron Stein",
+"Marshall Gilman"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Terry Gilliam"
+"Steven Soderbergh"
 ],
-"imdb_id": "tt0101889",
-"original_title": "The Fisher King",
-"overview": "Jack Lucas er egosentrisk radio DJ på en radiostasjon i USA. Men hans ego raser mot bunnen når han avviser en innringer til sitt program, og vedkommende går rakt av sted og skyter syv personer på en trendy klubb. Jack vil gjøre ende på alt ved å gjøre ende på seg selv. Men i siste øyeblikk reddes han av en gjeng med hjemløse under ledelse av den forskrudde Parry.\r Mens Jack kommer seg ut av selvmordstrangen finner han ut at Parry er besatt av to ting: den hellige gral, og en ung dame ved navn Lydia. Jack finner ut at Parrys eneste sjanse til å leve et normalt liv igjen, er hvis han finner kjærligheten med den langt mer normale Lydia.",
-"poster": "https://image.tmdb.org/t/p/w342/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
-"runtime": 138,
-"title": "The Fisher King",
-"tmdb_id": 177,
-"year": 1991
+"imdb_id": "tt1103982",
+"original_title": "The Girlfriend Experience",
+"overview": "Chelsea is an in-demand call girl whose $2,000 an hour price tag allows her to live in New York's lap of luxury. Besides her beauty and sexual skill, Chelsea offers her clients companionship and conversation, or, as she dubs it, \"the girlfriend experience.\" With her successful business and a devoted, live-in boyfriend, Chelsea thinks she has it made... until a new client rocks her world.",
+"poster": "https://image.tmdb.org/t/p/w342/tK70YwmfcIYUa8QW5Bqw4Dib5xc.jpg",
+"runtime": 77,
+"title": "The Girlfriend Experience",
+"tmdb_id": 17680,
+"year": 2009
+},
+"1769572": {
+"backdrop": null,
+"cast": [
+"Peter Bowles",
+"John Franklyn-Robbins",
+"Sheila Allen",
+"Alexandra Malcolm",
+"David de Keyser",
+"Ingrid Hafner"
+],
+"countries": [],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt1730017",
+"original_title": "The Quarry: Portrait of a Man as a Paralysed Artist",
+"overview": "The 75-minute hybrid fiction-documentary follows a sculptor named Arthur King experiencing a severe creative crisis while searching for a specific type of stone near Glastonbury, blending artistic struggle with Arthurian and Merlin mythos.",
+"poster": null,
+"runtime": 75,
+"title": "The Quarry: Portrait of a Man as a Paralysed Artist",
+"tmdb_id": 1769572,
+"year": 1966
 },
 "177041": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pHuqQjK8V03qIO5ZyeRtZXfbSEj.jpg",
@@ -28513,6 +38733,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 177041,
 "year": 1996
 },
+"1770959": {
+"backdrop": null,
+"cast": [
+"Isabelle Adjani"
+],
+"countries": [],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": null,
+"original_title": "Isabelle Adjani: Pull Marine",
+"overview": "The music video for the 1983 French pop hit, Pull Marine. Composed and written by Serge Gainsbourg.",
+"poster": "https://image.tmdb.org/t/p/w342/q07q28COoa9fHQtfwu8TYqyJull.jpg",
+"runtime": 4,
+"title": "Isabelle Adjani: Pull Marine",
+"tmdb_id": 1770959,
+"year": 1983
+},
 "1773957": {
 "backdrop": null,
 "cast": [
@@ -28538,6 +38776,47 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1773957,
 "year": 1955
 },
+"1774706": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0206661",
+"original_title": "The Count of Monte Cristo",
+"overview": "An adaptation of the novel by Alexandre Dumas",
+"poster": null,
+"runtime": 76,
+"title": "The Count of Monte Cristo",
+"tmdb_id": 1774706,
+"year": 1958
+},
+"177474": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hAhVtSpHccTsiZzOOaQzqpopDDH.jpg",
+"cast": [
+"Sophia Loren",
+"Tab Hunter",
+"Jack Warden",
+"Barbara Nichols",
+"Keenan Wynn",
+"George Sanders"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0053349",
+"original_title": "That Kind of Woman",
+"overview": "A young G.I. falls in love with a kept woman on a train to New York.",
+"poster": "https://image.tmdb.org/t/p/w342/tzN3qMZ98lFRNTtXcnsRwb1YCfa.jpg",
+"runtime": 92,
+"title": "That Kind of Woman",
+"tmdb_id": 177474,
+"year": 1959
+},
 "1775674": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iHn8fiaWMT848g7IXKDrh8AAgIN.jpg",
 "cast": [
@@ -28557,6 +38836,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bus och mysterier med Alfons Åberg",
 "tmdb_id": 1775674,
 "year": 2026
+},
+"1775691": {
+"backdrop": "https://image.tmdb.org/t/p/w780/j0qlIW79EoRM25ZcepPBzU9dkH6.jpg",
+"cast": [
+"Arnold Schwarzenegger",
+"Edward Furlong",
+"Linda Hamilton",
+"Robert Patrick",
+"Jim Cummings"
+],
+"countries": [],
+"directors": [
+"James Cameron"
+],
+"imdb_id": null,
+"original_title": "Terminator: Battle Across Time",
+"overview": "A short film that also acts as a bonus sequel to Terminator 2, three freedom fighters attack a large corporation to prevent a future apocalypse.",
+"poster": "https://image.tmdb.org/t/p/w342/cSLgArJZTcNyQ7Csh8GRstaQARO.jpg",
+"runtime": 21,
+"title": "Terminator: Battle Across Time",
+"tmdb_id": 1775691,
+"year": 1996
 },
 "1776249": {
 "backdrop": null,
@@ -28617,6 +38918,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 178103,
 "year": 1957
 },
+"17813": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7pHOjO5v4uQGZ9ggl5RrcRIUJYp.jpg",
+"cast": [
+"Luke Wilson",
+"Kate Hudson",
+"Sophie Marceau",
+"David Paymer",
+"Lobo Sebastian",
+"Chino XL"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0318283",
+"original_title": "Alex & Emma",
+"overview": "Writer Alex Sheldon must finish his novel within a month. If he doesn't, he won't get paid. And, if that happens, angry Mafia types to whom he owes money will come looking for him. In order to expedite things, Alex hires typist Emma Dinsmore and begins dictating his novel. The book is about a doomed love affair between a character similar to Alex and a character named Polina Delacroix. But, as Alex falls for Emma, his work takes a different turn.",
+"poster": "https://image.tmdb.org/t/p/w342/1CVw4MMqeBdkUs3DfCDWkaP6O3U.jpg",
+"runtime": 96,
+"title": "Alex & Emma",
+"tmdb_id": 17813,
+"year": 2003
+},
+"17829": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mRhWEMnQlxHQbc9J4pnO6x74EJJ.jpg",
+"cast": [
+"Danny Kaye",
+"Virginia Mayo",
+"Benny Goodman",
+"Tommy Dorsey",
+"Louis Armstrong",
+"Lionel Hampton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0040820",
+"original_title": "A Song Is Born",
+"overview": "The story of seven scholars in search of an expert to teach them about swing music. They seem to have found the perfect candidate in winsome nightclub singer Honey Swanson. But Honey's gangster boyfriend doesn't want to give her up.",
+"poster": "https://image.tmdb.org/t/p/w342/aSAR6nbRbAWOdcXz51LQsrMsTjS.jpg",
+"runtime": 113,
+"title": "A Song Is Born",
+"tmdb_id": 17829,
+"year": 1948
+},
 "1785624": {
 "backdrop": null,
 "cast": [],
@@ -28648,6 +38999,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Jar",
 "tmdb_id": 1785704,
 "year": 1986
+},
+"178607": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uKLB8mK0OdxIYQ7WNODKOaqZWgV.jpg",
+"cast": [
+"June Allyson",
+"Dick Powell",
+"Ricardo Montalban",
+"Lionel Barrymore",
+"Teresa Celli",
+"Barry Kelley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0042894",
+"original_title": "Right Cross",
+"overview": "Prizewinning boxer Johnny Monterez is mad at the world, feeling persecuted because of his Mexican heritage. Worse yet, his right hand is damaged from years of fighting. Then Johnny falls in love with Pat O'Malley, his manager's pretty daughter, even though his best friend, Rick Gavery, is already besotted with her. Everything is on the line when Johnny, against Rick's wishes, agrees to a match with a fearsome opponent.",
+"poster": "https://image.tmdb.org/t/p/w342/s8GHffbO7nV24tVl5PYca854YAj.jpg",
+"runtime": 90,
+"title": "Right Cross",
+"tmdb_id": 178607,
+"year": 1950
 },
 "178777": {
 "backdrop": null,
@@ -28684,27 +39060,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Invisible World",
 "tmdb_id": 178777,
 "year": 2013
-},
-"1788921": {
-"backdrop": null,
-"cast": [
-"Josh Brolin",
-"Grant Heslov",
-"Brooke Smith"
-],
-"countries": [],
-"directors": [
-"Ethan Coen",
-"Joel Coen"
-],
-"imdb_id": "tt5747464",
-"original_title": "World Cinema",
-"overview": "A short comedy by the Coen brothers which was part of the anthology film To Each His Own Cinema, but wasn't included in the DVD release of the film. A Texas cowboy goes to a movie-theater where he can't decide what non-American movie to watch and asks a ticket seller to suggest him a decent one.",
-"poster": null,
-"runtime": 3,
-"title": "World Cinema",
-"tmdb_id": 1788921,
-"year": 2007
 },
 "17918": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cNSt4oSf5a0jREjMYps4JvjTt5W.jpg",
@@ -28794,6 +39149,51 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1795925,
 "year": 1955
 },
+"1796107": {
+"backdrop": null,
+"cast": [
+"Jackson Beck",
+"Jack Mercer",
+"Mae Questel"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt1005604",
+"original_title": "Super Duper Market",
+"overview": "Olive, Popeye and Wimpy go food shopping for a party to a supermarket where Brutus is the manager.",
+"poster": "https://image.tmdb.org/t/p/w342/zXEW34SKTs3JKjzctWsQ6FAaEMB.jpg",
+"runtime": 6,
+"title": "Super Duper Market",
+"tmdb_id": 1796107,
+"year": 1960
+},
+"17979": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+"cast": [
+"Jim Carrey",
+"Gary Oldman",
+"Colin Firth",
+"Robin Wright",
+"Cary Elwes",
+"Bob Hoskins"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt1067106",
+"original_title": "A Christmas Carol",
+"overview": "Ebenezer Scrooge starter juleferien med sin vanlige forakt, kjefter på sin trofaste assistent og den lystige nevøen. Men når julespøkelsene fra fortid, nåtid og fremtid dukker opp og tar ham med på en reise som avslører sannheter han nødig vil se, må han åpne sitt hjerte og gjøre godt igjen mange års ugjerninger før det er for sent.",
+"poster": "https://image.tmdb.org/t/p/w342/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+"runtime": 96,
+"title": "A Christmas Carol",
+"tmdb_id": 17979,
+"year": 2009
+},
 "179847": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hFuSnZxfUHJTaxhwxQsyo7IXc2q.jpg",
 "cast": [],
@@ -28857,6 +39257,45 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 17988,
 "year": 1944
 },
+"1799933": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [],
+"imdb_id": "tt28259927",
+"original_title": "Asteroid City: Location Featurette",
+"overview": "",
+"poster": null,
+"runtime": null,
+"title": "Asteroid City: Location Featurette",
+"tmdb_id": 1799933,
+"year": null
+},
+"18": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+"cast": [
+"Bruce Willis",
+"Milla Jovovich",
+"Gary Oldman",
+"Ian Holm",
+"Chris Tucker",
+"Luke Perry"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0119116",
+"original_title": "Le Cinquième Élément",
+"overview": "Drosjesjåføren Korben Dallas lever i det 23. Århundrenes New York. En vanlig dag får han en vanlig passasjer, og blir dratt inn i jakten på det femte element. Det eneste som kan redde jorden fra undergang. Den kvinnelige hovedpersonen Leeloo viser seg å stå i sentrum for jakten, der den grusomme Zorg og hans undersåtter kjemper mot verdens herskere. Luc Besson (\"Nikita\", \"Leon\", \"Det Store Blå\") har skapt en fantastisk blanding av action, thriller, komedie og science fiction. Filmen er blitt en verdensomspennende suksess, godt hjulpet av Hollywoods enorme ressurser og moteskaperen Jean-Paul Gaultiers utrolige klesdesign.",
+"poster": "https://image.tmdb.org/t/p/w342/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+"runtime": 126,
+"title": "The Fifth Element",
+"tmdb_id": 18,
+"year": 1997
+},
 "180": {
 "backdrop": "https://image.tmdb.org/t/p/w780/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
 "cast": [
@@ -28881,6 +39320,20 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Minority Report",
 "tmdb_id": 180,
 "year": 2002
+},
+"1800083": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [],
+"imdb_id": "tt32264446",
+"original_title": "Montblanc: 100 Years of Meisterstück",
+"overview": "",
+"poster": null,
+"runtime": null,
+"title": "Montblanc: 100 Years of Meisterstück",
+"tmdb_id": 1800083,
+"year": null
 },
 "180091": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9jQgc2KBe9PYEPHTLLVTSiTZViW.jpg",
@@ -28931,6 +39384,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Enemy",
 "tmdb_id": 181886,
 "year": 2014
+},
+"18197": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xZGCJleQaeqi5jFsvcOoqfsMZvT.jpg",
+"cast": [
+"Christine Lahti",
+"River Phoenix",
+"Judd Hirsch",
+"Jonas Abry",
+"Martha Plimpton",
+"Ed Crowley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0096018",
+"original_title": "Running on Empty",
+"overview": "The Popes are a family who haven't been able to use their real identity for years. In the late sixties, the parents set a weapons lab afire in an effort to hinder the government's Vietnam war campaign. Ever since then, the Popes have been on the run with the authorities never far behind. Their survival is threatened when their eldest son falls in love with a girl, and announces his wish to live his life on his own terms.",
+"poster": "https://image.tmdb.org/t/p/w342/kzhyruFxY4Z5Ert8M9tuM2MV8dd.jpg",
+"runtime": 116,
+"title": "Running on Empty",
+"tmdb_id": 18197,
+"year": 1988
+},
+"182": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+"cast": [
+"George Clooney",
+"Cate Blanchett",
+"Tobey Maguire",
+"Beau Bridges",
+"Tony Curran",
+"Leland Orser"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0452624",
+"original_title": "The Good German",
+"overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+"poster": "https://image.tmdb.org/t/p/w342/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+"runtime": 108,
+"title": "The Good German",
+"tmdb_id": 182,
+"year": 2006
 },
 "182673": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w5Absli8QBv4KwRn0KxV45PaLly.jpg",
@@ -29027,6 +39530,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 18299,
 "year": 1957
 },
+"18305": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yckQAuGfxw3mGLTpVXoXOyfF5LP.jpg",
+"cast": [
+"Ti Lung",
+"Leslie Cheung",
+"Dean Shek Tin",
+"Chow Yun-Fat",
+"Guan Shan",
+"Emily Chu Bo-Yee"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0094357",
+"original_title": "英雄本色2",
+"overview": "A restauranteur teams up with a police officer and his ex-con brother to avenge the death of a friend's daughter.",
+"poster": "https://image.tmdb.org/t/p/w342/e8352Dw1SeM4rNAGYDZVkQ0aenz.jpg",
+"runtime": 104,
+"title": "A Better Tomorrow II",
+"tmdb_id": 18305,
+"year": 1987
+},
+"183182": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eLZGhUfQu9FHEE8BKND2vE3t3r.jpg",
+"cast": [
+"Robert Blake",
+"Barbara Harris",
+"Collin Boone",
+"Amber Rose Gold",
+"Jessica Stansbury",
+"Erica Stansbury"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0083041",
+"original_title": "Second-Hand Hearts",
+"overview": "A boozy drifter tries to get to know the widow he married while on a bender.",
+"poster": "https://image.tmdb.org/t/p/w342/pE3hYbdFwfYJl1bYZwvsFqbYKT2.jpg",
+"runtime": 102,
+"title": "Second-Hand Hearts",
+"tmdb_id": 183182,
+"year": 1981
+},
 "183268": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ytgWrK2Gt6ax5QxWHSWgccEdpbG.jpg",
 "cast": [
@@ -29097,6 +39650,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Autobiographical Scene Number 6882",
 "tmdb_id": 183786,
 "year": 2005
+},
+"183889": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aPxzlAJkQBFB4VNrMi1gDJhW7Cc.jpg",
+"cast": [
+"Raf Vallone",
+"Maureen Stapleton",
+"Carol Lawrence",
+"Jean Sorel",
+"Raymond Pellegrin",
+"Morris Carnovsky"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0056668",
+"original_title": "Vu du pont",
+"overview": "Eddie Carbone, a Brooklyn longshoreman is unhappily married to Beatrice and unconsciously in love with Catherine, the niece that they have raised from childhood. Into his house come two brothers, illegal immigrants, Marco and Rodolpho. Catherine falls in love with Rudolpho; and Eddie, tormented but unable to admit even to himself his quasi-incestuous love, reports the illegal immigrants to the authorities.",
+"poster": "https://image.tmdb.org/t/p/w342/4O2fZ7DVTSDaCmiowopH5RR8WU7.jpg",
+"runtime": 110,
+"title": "A View from the Bridge",
+"tmdb_id": 183889,
+"year": 1962
 },
 "184002": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jepZdUKGB5IvO1TOp7rvEgc77Qu.jpg",
@@ -29235,6 +39814,82 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 18477,
 "year": 1985
 },
+"184795": {
+"backdrop": "https://image.tmdb.org/t/p/w780/o0hUPHeXvtPsWulcTlNvhn9YzYU.jpg",
+"cast": [
+"James Mason",
+"Vanessa Redgrave",
+"Simone Signoret",
+"David Warner",
+"Harry Andrews",
+"Denholm Elliott"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0063569",
+"original_title": "The Sea Gull",
+"overview": "Film adaptation of Anton Chekhov's story of life in rural Russia during the latter part of the 19th century.",
+"poster": "https://image.tmdb.org/t/p/w342/1wrC6cJWAYwsn177gscZXBjagmx.jpg",
+"runtime": 144,
+"title": "The Sea Gull",
+"tmdb_id": 184795,
+"year": 1968
+},
+"184799": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aXLdcGZ1G4cgrma1nLY2tYMDx49.jpg",
+"cast": [
+"Ali MacGraw",
+"Alan King",
+"Myrna Loy",
+"Keenan Wynn",
+"Tony Roberts",
+"Peter Weller"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0080975",
+"original_title": "Just Tell Me What You Want",
+"overview": "A television producer woman tries to let down her overbearing boyfriend who is her boss. She wants to marry with a young writer.",
+"poster": "https://image.tmdb.org/t/p/w342/pecdbYnTijuZBsQ4USuEFtQOR5u.jpg",
+"runtime": 112,
+"title": "Just Tell Me What You Want",
+"tmdb_id": 184799,
+"year": 1980
+},
+"18512": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xIL91bRr6cvg6Y9W9vIhBzNNHXQ.jpg",
+"cast": [
+"Frank Sinatra",
+"Dean Martin",
+"Sammy Davis Jr.",
+"Peter Lawford",
+"Joey Bishop",
+"Henry Silva"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0056470",
+"original_title": "Sergeants 3",
+"overview": "Mike, Chip, and Larry are three lusty, brawling U. S. Cavalry sergeants stationed in Indian Territory in 1870.",
+"poster": "https://image.tmdb.org/t/p/w342/nA0AdRXFIwXp6vopoqqncdErext.jpg",
+"runtime": 112,
+"title": "Sergeants 3",
+"tmdb_id": 18512,
+"year": 1962
+},
 "185131": {
 "backdrop": null,
 "cast": [
@@ -29329,6 +39984,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 18539,
 "year": 1941
 },
+"1858": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+"cast": [
+"Shia LaBeouf",
+"Megan Fox",
+"Mark Ryan",
+"Peter Cullen",
+"Hugo Weaving",
+"Josh Duhamel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt0418279",
+"original_title": "Transformers",
+"overview": "Planeten Cybertron er bebodd av robotrasen Transformers som har evnen til å forandre seg til andre mekanismer og hver enkelt har en unik mekanisk forkledning. Robotene er delt inn i to leire: de gode og rettferdige Autobots, ledet av Optimus Prime, og de onde Decepticons, ledet av Megatron (som forandrer seg til et skytevåpen som passer situasjonen). Energiforsyningen på Cybertron, er i ferd med å gå tom, og begge robotstyrkene begir seg ut i rommet for å finne nye ressurser, noe som fører dem til Jorden. Forkledd som biler, fly, båter og lignende, som menneskene lett kjenner igjen, starter de en hemmelig krig for å overta Jordens naturressurser.",
+"poster": "https://image.tmdb.org/t/p/w342/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+"runtime": 144,
+"title": "Transformers",
+"tmdb_id": 1858,
+"year": 2007
+},
 "1863": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qdsZrnGu2YQSIJIaCHt88ASMHVh.jpg",
 "cast": [
@@ -29402,6 +40082,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 186365,
 "year": 1975
 },
+"18646": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iBVKjk68mfOZNW0TtymZj00g7Qv.jpg",
+"cast": [
+"Fred Astaire",
+"Jane Powell",
+"Peter Lawford",
+"Sarah Churchill",
+"Keenan Wynn",
+"Albert Sharpe"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0043983",
+"original_title": "Royal Wedding",
+"overview": "A brother and sister dance act encounter challenges and romance when booked in London during the Royal Wedding.",
+"poster": "https://image.tmdb.org/t/p/w342/5hOyBgsmSApFl10ZfaYxUTQu5Ze.jpg",
+"runtime": 93,
+"title": "Royal Wedding",
+"tmdb_id": 18646,
+"year": 1951
+},
 "186660": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nX7vNSddyrAmgDQdQpHvtbmAA5u.jpg",
 "cast": [
@@ -29442,6 +40147,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 186669,
 "year": 1986
 },
+"186959": {
+"backdrop": null,
+"cast": [
+"William Finley",
+"Robin Brooks",
+"Norma Green",
+"Grania Gurievitch",
+"Eleonora Harvey",
+"Francis Hoeber"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0257277",
+"original_title": "Woton's Wake",
+"overview": "Woton Wretchichevsky has a disfigured face, dresses in a cloak and mask, and stalks couples to burn them with a blowtorch. He is also a sculptor of steel and garbage installations. One day, one of his creations comes to life in the form of a young woman. She flees from him when he tries to express his love by pointing his blowtorch at her.",
+"poster": "https://image.tmdb.org/t/p/w342/Ba8UXZlBYsX4YZbJom5IlNpWK0.jpg",
+"runtime": 27,
+"title": "Woton's Wake",
+"tmdb_id": 186959,
+"year": 1963
+},
 "187168": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xQnA6BDChzmPyyUpcCFAJDT5X3t.jpg",
 "cast": [
@@ -29468,6 +40198,53 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 187168,
 "year": 1997
 },
+"1873": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dcGsNJtwBXnXmSqze0289IjScTR.jpg",
+"cast": [
+"Patricia Arquette",
+"U Aung Ko",
+"Frances McDormand",
+"Spalding Gray",
+"Tiara Jacquelina",
+"Ann Howard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0112495",
+"original_title": "Beyond Rangoon",
+"overview": "Dr. Laura Bowman is a young widow who's unwittingly drawn into political turmoil while vacationing in Burma in the late 1980s. Bowman initially left San Francisco with her sister in an attempt to escape painful memories of her husband and son's violent deaths. But her fight to escape to Thailand could prove just as harrowing.",
+"poster": "https://image.tmdb.org/t/p/w342/xTiy5kSP3Hetig7xB4E8INq5ron.jpg",
+"runtime": 100,
+"title": "Beyond Rangoon",
+"tmdb_id": 1873,
+"year": 1995
+},
+"187425": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rxjlEldY1wcpVDZPtnA3k9RDQXu.jpg",
+"cast": [
+"Byun Hee-bong",
+"Jung In-sun",
+"Yoon Je-moon"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt4222566",
+"original_title": "싱크 앤 라이즈",
+"overview": "Under the Sungsan Bridge, in a waterside stand by the Han River, a poor and tired-looking father and daughter, Jae-mun, and In-seon, are arguing the generation gap over whether to buy boiled eggs or instant crackers. The stand owner Hee-bong hears Jae-mun suddenly declare that boiled eggs float.",
+"poster": "https://image.tmdb.org/t/p/w342/AdWFNGop0s3XvZYHm89qbVz8RX8.jpg",
+"runtime": 6,
+"title": "Sink & Rise",
+"tmdb_id": 187425,
+"year": 2004
+},
 "187478": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9GiD0Q2XlH4ZKcFD4UCT2EzXFog.jpg",
 "cast": [],
@@ -29485,6 +40262,103 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Stalk of the Celery Monster",
 "tmdb_id": 187478,
 "year": 1979
+},
+"187565": {
+"backdrop": null,
+"cast": [
+"Phil Davis",
+"Brenda Blethyn",
+"Lesley Manville",
+"Sam Kelly",
+"Lindsay Duncan",
+"Janine Duvitski"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0080819",
+"original_title": "Grown-Ups",
+"overview": "Dick and Mandy, a young working class couple, move into a council house in Canterbury, and find Mr. Butcher, one of their former teachers, living next door. Mandy's unmarried sister, Gloria, is constantly dropping in, and will not take any hints that the couple would prefer to be left alone, until her presence finally goads them to action.",
+"poster": "https://image.tmdb.org/t/p/w342/uU8oXIXh6W94vTKJrzNFc7ibGNx.jpg",
+"runtime": 93,
+"title": "Grown-Ups",
+"tmdb_id": 187565,
+"year": 1980
+},
+"187569": {
+"backdrop": "https://image.tmdb.org/t/p/w780/prOVjFxrJ2CELmoelzsEqYHUYqe.jpg",
+"cast": [
+"Brid Brennan",
+"Des McAleer",
+"Paula Hamilton",
+"Charles Lawson",
+"B.J. Hogg",
+"Adrian Gordon"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0087286",
+"original_title": "Four Days in July",
+"overview": "Two couples, one Catholic, one Protestant, exist on two sides of the chasm that is everyday life in Northern Ireland.",
+"poster": "https://image.tmdb.org/t/p/w342/bB05tIC4NhxYASRwECbHayYls7Z.jpg",
+"runtime": 96,
+"title": "Four Days in July",
+"tmdb_id": 187569,
+"year": 1984
+},
+"187578": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yN1EeYxKvXC5yodsgqB9pWyN5qJ.jpg",
+"cast": [
+"Richard Kane",
+"Joolia Cappleman",
+"Phil Davis",
+"Simon Chandler",
+"Felicity Dean",
+"Adam Norton"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0078491",
+"original_title": "Who's Who",
+"overview": "Slice-of-life look at class divisions among employees of a brokerage house. Alan, with his portrait of the Queen and love of the peerage; his wife April, who raises cats; youthful and pretentious friends Nigel, Giles, and Anthony, who gather for a wine-soaked dinner party with the chatty and risque Samantha and the mousy Caroline; the plummy Lord and Lady Crouchurst, in a spot of bother needing the help of Francis, a senior partner, to assist with the family's cash flow. Alan comes home from work to find Mr. Shakespeare doing a photo shoot of one of April's cats and a wealthy stranger, Miss Hunt, waiting to purchase one. His instincts for sycophantic palaver kick in.",
+"poster": "https://image.tmdb.org/t/p/w342/qfjxyTjPF5xNyBuQUI8gWKzPCwQ.jpg",
+"runtime": 73,
+"title": "Who's Who",
+"tmdb_id": 187578,
+"year": 1979
+},
+"187580": {
+"backdrop": null,
+"cast": [
+"Bob Mason",
+"Veronica Roberts",
+"Rachel Davies"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0073531",
+"original_title": "The Permissive Society",
+"overview": "During an evening spent at his house with his sister, a girl realizes that she doesn't really have much in common with her boyfriend.",
+"poster": "https://image.tmdb.org/t/p/w342/tfg2LrmK3jKleJffCqbgZ650Fjb.jpg",
+"runtime": 29,
+"title": "The Permissive Society",
+"tmdb_id": 187580,
+"year": 1975
 },
 "187613": {
 "backdrop": null,
@@ -29505,6 +40379,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Flying Gauchito",
 "tmdb_id": 187613,
 "year": 1944
+},
+"187693": {
+"backdrop": null,
+"cast": [
+"William Seitz",
+"Rudolf Arnheim",
+"Irving H. Leopold",
+"David Hockney",
+"Jeffrey Steele",
+"Mon Levinson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0257035",
+"original_title": "The Responsive Eye",
+"overview": "A documentary short directed by Brian De Palma, The Responsive Eye documents the 1965 exhibition of optical art at the Museum of Modern Art in New York. Curated by William C. Seitz, the exhibition was the first major museum show dedicated to Op Art. The film captures both the artworks and the reactions of attendees, offering a snapshot of a pivotal moment in the relationship between contemporary art and public perception.",
+"poster": "https://image.tmdb.org/t/p/w342/fCjCYe09AUQ9XVdnTrfWfU1pDZ5.jpg",
+"runtime": 30,
+"title": "The Responsive Eye",
+"tmdb_id": 187693,
+"year": 1965
 },
 "18776": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yMcpF7EYuenZYUgUQZskENvAsrE.jpg",
@@ -29531,30 +40430,80 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 18776,
 "year": 1957
 },
-"1878": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qJaR9AZx2Qq2oJ3krnSO0Z5ne5I.jpg",
+"18790": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fGVAJR1dbW6RlTVYXdTrGdfwogF.jpg",
 "cast": [
-"Johnny Depp",
-"Benicio del Toro",
-"Tobey Maguire",
-"Michael Lee Gogin",
-"Larry Cedar",
-"Brian Le Baron"
+"Humphrey Bogart",
+"Mary Astor",
+"Sydney Greenstreet",
+"Charles Halton",
+"Victor Sen Yung",
+"Roland Got"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Terry Gilliam"
+"John Huston"
 ],
-"imdb_id": "tt0120669",
-"original_title": "Fear and Loathing in Las Vegas",
-"overview": "Sportsjournalist Raoul Duke og hans advokat Dr. Gonzo skal til Las Vegas for å gjøre en historie på et motorsykkeløp. Deres røde kabriolet er utstyrt med alle slags sentralstimulerende medikamenter og et arsenal av dopingurter. Dette vil tillate dem å ta en overveldende reise, fysisk og mentalt, gjennom det dekadente Amerika på 1970-tallet.",
-"poster": "https://image.tmdb.org/t/p/w342/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
-"runtime": 118,
-"title": "Fear and Loathing in Las Vegas",
-"tmdb_id": 1878,
-"year": 1998
+"imdb_id": "tt0034428",
+"original_title": "Across the Pacific",
+"overview": "Rick Leland makes no secret of the fact that he has no loyalty to his home country after he is court-martialed out of the army and boards a Japanese ship for the Orient in late 1941. But has Leland really been booted out, or is there some other motive for his getting close to fellow passenger Doctor Lorenz?",
+"poster": "https://image.tmdb.org/t/p/w342/Amfvgyd7BpnRVgpMXBrHGNJWvWR.jpg",
+"runtime": 97,
+"title": "Across the Pacific",
+"tmdb_id": 18790,
+"year": 1942
+},
+"188076": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cNdlNE3NOSbxRI6NJNMHh7OZTfl.jpg",
+"cast": [
+"David Threlfall",
+"Kay Adshead",
+"Angela Curran",
+"John Wheatley",
+"Clifford Kershaw",
+"Marlene Sidaway"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0076273",
+"original_title": "The Kiss of Death",
+"overview": "Trevor is an extremely shy undertaker's assistant. He always tags along with his good friend Ronnie, when he goes to the pub with his girlfriend Sandra. Sandra introduces Trevor to her more forward friend Linda. Linda has a difficult time getting Trevor to go out with her, but she finally gets him to go to a disco; he won't dance, so Linda dances with Ronnie.",
+"poster": "https://image.tmdb.org/t/p/w342/d7ivFMJCpfBPl1BKgarXkmtsUUQ.jpg",
+"runtime": 71,
+"title": "The Kiss of Death",
+"tmdb_id": 188076,
+"year": 1977
+},
+"188136": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mr49xnWu3yGws0GZH2xP0jyrWEe.jpg",
+"cast": [
+"Yul Brynner",
+"Kay Kendall",
+"Geoffrey Toone",
+"Maxwell Shaw",
+"Mervyn Johns",
+"Martin Benson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0054141",
+"original_title": "Once More, with Feeling!",
+"overview": "The wife of brilliant, but boisterous and ill-tempered conductor of the London Symphony puts up with his childishness, but the last straw is drawn when he begins an affair with a young pianist.",
+"poster": "https://image.tmdb.org/t/p/w342/A5Gl5qVOcWI3S81GCxgC7K9y7tX.jpg",
+"runtime": 92,
+"title": "Once More, with Feeling!",
+"tmdb_id": 188136,
+"year": 1960
 },
 "188321": {
 "backdrop": null,
@@ -29891,6 +40840,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 190872,
 "year": 1970
 },
+"19101": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+"cast": [
+"Liesel Matthews",
+"Eleanor Bron",
+"Liam Cunningham",
+"Rusty Schwimmer",
+"Vanessa Lee Chester",
+"Rachael Bella"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0113670",
+"original_title": "A Little Princess",
+"overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+"poster": "https://image.tmdb.org/t/p/w342/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+"runtime": 97,
+"title": "A Little Princess",
+"tmdb_id": 19101,
+"year": 1995
+},
 "19137": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sQRqZ4s7KHl2uHg5dm2CGm0BZgI.jpg",
 "cast": [
@@ -29916,6 +40890,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "After the Fox",
 "tmdb_id": 19137,
 "year": 1966
+},
+"19170": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5CeF4wVNCC9Yn9c5DH0VioYty2R.jpg",
+"cast": [
+"Ricardo Montalban",
+"Sally Forrest",
+"Bruce Bennett",
+"Elsa Lanchester",
+"Marshall Thompson",
+"Jan Sterling"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0042771",
+"original_title": "Mystery Street",
+"overview": "When a young woman's skeletal remains turn up on a Massachusetts beach, Barnstable cop Peter Moralas teams with Boston police and uses forensics, with the help of a Harvard professor, to determine the woman's identity, how she died, and who killed her.",
+"poster": "https://image.tmdb.org/t/p/w342/dxabjdOtyugFdT4E9s3AI4ISjqf.jpg",
+"runtime": 93,
+"title": "Mystery Street",
+"tmdb_id": 19170,
+"year": 1950
+},
+"19184": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cbr0KMMvUNtrGdBvYCi0GVdz2zH.jpg",
+"cast": [
+"Pierre Jolivet",
+"Jean Bouise",
+"Fritz Wepper",
+"Jean Reno",
+"Christiane Krüger",
+"Maurice Lamy"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0085426",
+"original_title": "Le Dernier Combat",
+"overview": "The plot explores the devastation of civilization and issues of brutality, hostility and isolation. Pierre Jolivet stars as the main character (identified only as \"The Man\" in the end credits) who is menaced by \"The Brute\" (played by Jean Reno) on his journey through a world filled by people rendered nearly mute by some unknown incident.",
+"poster": "https://image.tmdb.org/t/p/w342/rj2pSoWsryjkgQcAGXNe0vOXIhr.jpg",
+"runtime": 90,
+"title": "The Last Battle",
+"tmdb_id": 19184,
+"year": 1983
 },
 "19200": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mcSeT9VDT4OnSR3E2dxl6knE9YG.jpg",
@@ -29994,6 +41018,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 19265,
 "year": 2009
 },
+"193547": {
+"backdrop": "https://image.tmdb.org/t/p/w780/l9ZP7VBeqIhH4Y9frBEPPoqHDsI.jpg",
+"cast": [
+"Ethel Barrymore",
+"Maurice Evans",
+"Angela Lansbury",
+"Keenan Wynn",
+"Betsy Blair",
+"John Williams"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0043709",
+"original_title": "Kind Lady",
+"overview": "Mary Herries has a passion for art and fine furniture. Even though she is getting on in years, she enjoys being around these priceless articles. One day she meets a strange young painter named Elcott, who uses his painting skill to enter into her life. Little does she expect that his only interest in Mary is to covet everything she has.",
+"poster": "https://image.tmdb.org/t/p/w342/oIIMGWSApeKqYhYP2NMghciuAL8.jpg",
+"runtime": 78,
+"title": "Kind Lady",
+"tmdb_id": 193547,
+"year": 1951
+},
 "193806": {
 "backdrop": "https://image.tmdb.org/t/p/w780/njTCuOw9YptQzCNTmZqQrm04gtD.jpg",
 "cast": [
@@ -30035,6 +41084,142 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Ode to the Dawn of Man",
 "tmdb_id": 193904,
 "year": 2011
+},
+"194386": {
+"backdrop": null,
+"cast": [
+"Richard Ireson",
+"Celia Quicke"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1656303",
+"original_title": "The Birth of the Goalie of the 2001 F.A. Cup Final",
+"overview": "A slow-witted couple decide to start a family.",
+"poster": "https://image.tmdb.org/t/p/w342/f2kvCiqJUkurrGWnnRvvI8WjKKn.jpg",
+"runtime": 6,
+"title": "The Birth of the Goalie of the 2001 F.A. Cup Final",
+"tmdb_id": 194386,
+"year": 1982
+},
+"194390": {
+"backdrop": null,
+"cast": [
+"Tim Stern",
+"Robert Putt"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1656301",
+"original_title": "Old Chums",
+"overview": "A man on crutches bumps into an old acquaintance who relentlessly bombards him with small talk.",
+"poster": "https://image.tmdb.org/t/p/w342/ykoRE3LRToGB4WA8AzAYr5dKnqX.jpg",
+"runtime": 6,
+"title": "Old Chums",
+"tmdb_id": 194390,
+"year": 1982
+},
+"194397": {
+"backdrop": null,
+"cast": [
+"Margaret Heery",
+"Richard Griffiths",
+"Alan Gaunt",
+"David Casey"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1656299",
+"original_title": "A Light Snack",
+"overview": "A window cleaner fancies a sausage roll, but all is not well in the sausage roll factory.",
+"poster": null,
+"runtime": 6,
+"title": "A Light Snack",
+"tmdb_id": 194397,
+"year": 1982
+},
+"194410": {
+"backdrop": null,
+"cast": [
+"Herbert Norville",
+"Billy Colvill",
+"Antony Carrick",
+"Theresa Watson",
+"Lally Percy"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1656302",
+"original_title": "Probation",
+"overview": "A boy goes to see his probation officer.",
+"poster": "https://image.tmdb.org/t/p/w342/x4Ahy7sOYFqrGSpKzDyF5n6DrcI.jpg",
+"runtime": 6,
+"title": "Probation",
+"tmdb_id": 194410,
+"year": 1982
+},
+"194413": {
+"backdrop": null,
+"cast": [
+"Rachel Davies",
+"Pauline Moran",
+"Julie North"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1656300",
+"original_title": "Afternoon",
+"overview": "A couple of old friends drown their sorrows together while reveling in the naivety of a young newly-wed.",
+"poster": "https://image.tmdb.org/t/p/w342/cLtXFfIheOZxbpjFNHLbicvp7ni.jpg",
+"runtime": 6,
+"title": "Afternoon",
+"tmdb_id": 194413,
+"year": 1982
+},
+"194514": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2kOXGAd76njg2zC6ZOsSeyGxV2n.jpg",
+"cast": [
+"Augie Garrido",
+"Cathy Clark",
+"Roger Clemens",
+"Joe Jamail",
+"Bill Little",
+"Darrell Royal"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt1122767",
+"original_title": "Inning by Inning: A Portrait of a Coach",
+"overview": "A profile of University of Texas baseball coach Augie Garrido, the winningest coach in NCAA history.",
+"poster": "https://image.tmdb.org/t/p/w342/izlgnFQkltNwMX9EkgUk60NvEYo.jpg",
+"runtime": 106,
+"title": "Inning by Inning: A Portrait of a Coach",
+"tmdb_id": 194514,
+"year": 2008
 },
 "194532": {
 "backdrop": null,
@@ -30110,6 +41295,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1951,
 "year": 2005
 },
+"195468": {
+"backdrop": null,
+"cast": [
+"Lars Karlsteen",
+"Maud Backéus"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0315280",
+"original_title": "Besöka sin son",
+"overview": "A student is visited in his university lodgings by his critical parents.",
+"poster": "https://image.tmdb.org/t/p/w342/uqUMM27GTOL99vrN6fNtJ4fR2nQ.jpg",
+"runtime": 9,
+"title": "Visiting One's Son",
+"tmdb_id": 195468,
+"year": 1967
+},
 "195811": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dKywn3ucOhuGlq8mxznGVTu6dI5.jpg",
 "cast": [
@@ -30131,6 +41337,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Day Trip",
 "tmdb_id": 195811,
 "year": 2012
+},
+"196": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+"cast": [
+"Michael J. Fox",
+"Christopher Lloyd",
+"Mary Steenburgen",
+"Thomas F. Wilson",
+"Lea Thompson",
+"Elisabeth Shue"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0099088",
+"original_title": "Back to the Future Part III",
+"overview": "I siste del av trilogien sendes Marty McFly på en redningsaksjon til år 1885, hvor han i kjølvannet av konflikter med Tannen-klanen må redde Doc Brown fra døden. Men det er flere grunner til at det blir vrient å reise tilbake til fremtiden: lite bensin til tidsmaskinen, en bande pistolmenn og en lærerinne med varme følelser for Doc.",
+"poster": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+"runtime": 119,
+"title": "Back to the Future Part III",
+"tmdb_id": 196,
+"year": 1990
 },
 "196327": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rnC0W3aIfSlpFsJp401zfIMAeFN.jpg",
@@ -30184,6 +41415,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The World of Henry Orient",
 "tmdb_id": 19662,
 "year": 1964
+},
+"196979": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pbiqroH3dqQWhjTnP76JQxJb3aV.jpg",
+"cast": [
+"Jerry Calà",
+"Sabrina Ferilli",
+"Valentino Macchi",
+"Laetitia Laneri",
+"Massimo Bucchi",
+"Piero Nicosia"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0106716",
+"original_title": "Diario di un vizio",
+"overview": "In this stylish and offbeat black comedy, Benito ( Jerry Calà) keeps a diary of his sexual fantasies and cravings. As a result of his on-again, off-again relationship with the beautiful and insatiable Luigia (Sabrina Ferilli), his thoughts along these lines have grown increasingly bizarre. For his own part, he is driven to pick up and bed women at almost every opportunity. As the fantasies recorded in his diary consume more and more of his life, and grow darker and darker, his ordinary waking life becomes flatter and duller, until he disappears altogether.",
+"poster": "https://image.tmdb.org/t/p/w342/bDe1VJ8XEMIpa2tGhJGzJaJHeq1.jpg",
+"runtime": 94,
+"title": "Diary of a Maniac",
+"tmdb_id": 196979,
+"year": 1993
 },
 "197082": {
 "backdrop": "https://image.tmdb.org/t/p/w780/psJG4SMKuZ9ReaSEikxwOweH0kv.jpg",
@@ -30256,6 +41512,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Great Waldo Pepper",
 "tmdb_id": 19740,
 "year": 1975
+},
+"19761": {
+"backdrop": "https://image.tmdb.org/t/p/w780/QJkAxxvQEgXs6K4H5nW8DkNfal.jpg",
+"cast": [
+"Farrah Fawcett",
+"Kirk Douglas",
+"Harvey Keitel",
+"Ed Bishop",
+"Roy Dotrice",
+"Stephanie English"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0079285",
+"original_title": "Saturn 3",
+"overview": "In the future, Earth is overcrowded and the population relies on distant bases to be fed. In the Saturn 3 station, Major Adam and the scientist Alex, who is also his lover and has never been on Earth, have been researching hydroponics for three years in the base alone with their dog Sally.  Captain Benson arrives Saturn 3 with Hector, incapable to controlling his emotions he transfers his homicidal tendency and insanity to Hector.  Now Major Adam and Alex are trapped in the station with a dangerous psychopath robot.",
+"poster": "https://image.tmdb.org/t/p/w342/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
+"runtime": 87,
+"title": "Saturn 3",
+"tmdb_id": 19761,
+"year": 1980
 },
 "1978": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sUZfWQ8zlZx0OwOTmorDgttzIia.jpg",
@@ -30331,6 +41612,82 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Blue Chips",
 "tmdb_id": 19819,
 "year": 1994
+},
+"198217": {
+"backdrop": null,
+"cast": [
+"Raymond Griffith",
+"Donald Crisp",
+"Marceline Day",
+"Raymond Hatton",
+"Lawrence Gray",
+"Nicholas Soussanin"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0020513",
+"original_title": "Trent's Last Case",
+"overview": "Who killed the vicious millionaire Sigsbee Manderson? Not that pretty wife of his, surely? Philip Trent investigates.",
+"poster": "https://image.tmdb.org/t/p/w342/yYb6deA87c1WghWjpVRFJRrlaRu.jpg",
+"runtime": 66,
+"title": "Trent's Last Case",
+"tmdb_id": 198217,
+"year": 1929
+},
+"198262": {
+"backdrop": null,
+"cast": [
+"Jean Boissery",
+"Daniel Tarrare",
+"Gérard Falconetti",
+"Jean-Marc Bory",
+"Pascal Greggory",
+"Arielle Dombasle"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0258482",
+"original_title": "Catherine de Heilbronn",
+"overview": "In the Middle Ages, the earl Wetter von Stahl is accused of having bewitched Catherine, the daughter of the blacksmith of Heilbronn. The earl tries to be exonerated by proceeding himself to the interrogation of the young woman, who apparently shows an \"unnatural possession\".",
+"poster": "https://image.tmdb.org/t/p/w342/mv6JUH90d6CQQdj4kJvt8fnnxQr.jpg",
+"runtime": 138,
+"title": "Catherine de Heilbronn",
+"tmdb_id": 198262,
+"year": 1980
+},
+"198466": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9VvHvl05o6Qx169P7ZJwnU72LgM.jpg",
+"cast": [
+"Christopher Lambert",
+"Eddy Mitchell",
+"Flora Barillaro",
+"Agnès Soral",
+"Anémone",
+"Marc Berman"
+],
+"countries": [
+"IT",
+"FR"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0091244",
+"original_title": "I Love You",
+"overview": "Michel is a bored, lonely, cheap-thrills-seeker. Everything changes when he finds an unusual bobble head doll in the shape of a pretty woman that can say \"I love you\" and falls in love with it to the point of obsession.",
+"poster": "https://image.tmdb.org/t/p/w342/eIM80jNHOzp5JZxn5E9SSlq6C3.jpg",
+"runtime": 101,
+"title": "I Love You",
+"tmdb_id": 198466,
+"year": 1986
 },
 "2": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
@@ -30409,31 +41766,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 200156,
 "year": 2013
 },
-"20017": {
-"backdrop": "https://image.tmdb.org/t/p/w780/m2xjEECVuVeG304kA4R2y7UJCvY.jpg",
-"cast": [
-"Rüdiger Vogler",
-"Hans Christian Blech",
-"Hanna Schygulla",
-"Nastassja Kinski",
-"Peter Kern",
-"Ivan Desny"
-],
-"countries": [
-"DE"
-],
-"directors": [
-"Wim Wenders"
-],
-"imdb_id": "tt0071483",
-"original_title": "Falsche Bewegung",
-"overview": "Six days in the life of Wilhelm: a detached man without qualities. He wants to write, so his mother gives him a ticket to Bonn, telling him to live. On the train he meets an older man, an athlete in the 1936 Olympics, and his mute teen companion, Mignon. She's an acrobat in market squares for spare change.",
-"poster": "https://image.tmdb.org/t/p/w342/mXdpTmRMPZyZQKWcY7GA8M2gaae.jpg",
-"runtime": 105,
-"title": "Wrong Move",
-"tmdb_id": 20017,
-"year": 1975
-},
 "200381": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hUOq759wTgNEfoK0XOW9hX6KWYq.jpg",
 "cast": [
@@ -30508,6 +41840,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 200893,
 "year": 1976
 },
+"201048": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5BgWJov1bc6QiAuiBjei2WsveM1.jpg",
+"cast": [
+"David Jensen",
+"Sherrill Ducharme",
+"John Mese",
+"David Foil"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0293711",
+"original_title": "Winston",
+"overview": "Follows deception and alienation in an intimate relationship.",
+"poster": "https://image.tmdb.org/t/p/w342/huto6Ll72w5SQJJms7VKG17zX6.jpg",
+"runtime": 12,
+"title": "Winston",
+"tmdb_id": 201048,
+"year": 1987
+},
 "20128": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oYdNnmgFybqL4z76B0tnG2XNYsY.jpg",
 "cast": [
@@ -30534,6 +41889,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 20128,
 "year": 2004
 },
+"201304": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8C0FJrTvvQOh8NstHlYYsigbrZd.jpg",
+"cast": [
+"Daniel Johnston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater",
+"Lee Daniel"
+],
+"imdb_id": "tt0464848",
+"original_title": "Woodshock",
+"overview": "It's just a simple stretch of interviews and images capturing the people who camp out, dope up, drink up, sometimes get naked, and jump into a nearby waterfall, whilst listening to musicians like Daniel Johnston.",
+"poster": "https://image.tmdb.org/t/p/w342/uNKaGQ1VZAOucnJOh46QDXs3Yb4.jpg",
+"runtime": 7,
+"title": "Woodshock",
+"tmdb_id": 201304,
+"year": 1985
+},
 "201553": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w8Zmsg75KyueYV97XW3aDc3yvxw.jpg",
 "cast": [
@@ -30559,6 +41935,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 201553,
 "year": 1936
 },
+"2019": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4IRHnS9Ljvb4tGI2SGaSiQikcaE.jpg",
+"cast": [
+"Jean-Claude Van Damme",
+"Arnold Vosloo",
+"Lance Henriksen",
+"Yancy Butler",
+"Sven-Ole Thorsen",
+"Wilford Brimley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0107076",
+"original_title": "Hard Target",
+"overview": "I New Orleans vandrer den arbeidsløse sjømannen Chance Boudreaux rundt på jakt etter arbeid. Natasha Binder er også på søken, og det etter sin forsvunne far. Hennes undersøkelser viser at han er blitt offer for en forbryterliga som bruker mennesker som brikker i et spill på liv og død.",
+"poster": "https://image.tmdb.org/t/p/w342/mXCM7pmUFUGp7QzSmare3RITe6n.jpg",
+"runtime": 99,
+"title": "Hard Target",
+"tmdb_id": 2019,
+"year": 1993
+},
 "20213": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7AwNTqMuII17NVImYITXl0XXrx9.jpg",
 "cast": [
@@ -30583,6 +41984,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Manxman",
 "tmdb_id": 20213,
 "year": 1929
+},
+"203152": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uVU8G6dFWViisIdxeo2etTnUHJS.jpg",
+"cast": [
+"Teddy Robin",
+"Bin Bin",
+"Tsui Hark",
+"Violet Pan Ying-Zi",
+"David Wu",
+"Te-Yun Pei"
+],
+"countries": [
+"TW",
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0089482",
+"original_title": "兩隻老虎",
+"overview": "Homeless lads Teddy and Benny befriend a rich boy, heir to his grandfather's massive fortune. His uncle mistakes all of them for his nephews and, plotting to steal the inheritance for himself, abducts Benny. Teddy teams up with his friends and an assassin to pull off a rescue mission.",
+"poster": "https://image.tmdb.org/t/p/w342/5U3Yizmeb6YCJaiuWWjML3HYgqy.jpg",
+"runtime": 87,
+"title": "Run Tiger Run",
+"tmdb_id": 203152,
+"year": 1985
 },
 "20343": {
 "backdrop": "https://image.tmdb.org/t/p/w780/v3a6fM8QpNWZOQFgOYUeHu6RIad.jpg",
@@ -30660,6 +42087,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 204017,
 "year": 1948
 },
+"204066": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3T2lQQgCGwoAqtkqAKswvfWQwCH.jpg",
+"cast": [
+"André van den Heuvel",
+"Piet Römer",
+"Andrea Domburg",
+"Guus Oster",
+"Jan Retèl",
+"Hidde Maas"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0080105",
+"original_title": "Voorbij, voorbij…",
+"overview": "In WWII Netherlands, resistance-leader Arie is killed by Dutch SS-man Niels, leaving his comrades, who pledge to avenge him. 35 years later, one of them, Ab, confronted with Niels again, decides to round up his old friends to kill him but they're no longer as devoted. Only former communist Gerben has stuck by his pledge and joins the execution.",
+"poster": "https://image.tmdb.org/t/p/w342/lcbwDf7HJt2pbMOpFrEOkpJzMHx.jpg",
+"runtime": 58,
+"title": "All Things Pass",
+"tmdb_id": 204066,
+"year": 1981
+},
 "20531": {
 "backdrop": "https://image.tmdb.org/t/p/w780/l0WJpDWrRGqZabwVlNEl42VKMVz.jpg",
 "cast": [
@@ -30685,6 +42137,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 20531,
 "year": 1956
 },
+"20540": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nr1ACkxYiZwssHUM8E5fz7AWSc9.jpg",
+"cast": [
+"Rod Steiger",
+"Geraldine Fitzgerald",
+"Brock Peters",
+"Jaime Sánchez",
+"Thelma Oliver",
+"Marketa Kimbrell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0059575",
+"original_title": "The Pawnbroker",
+"overview": "A Jewish pawnbroker, a victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
+"poster": "https://image.tmdb.org/t/p/w342/6z9PSwCZEGyG9VpN733PLyZ34Gm.jpg",
+"runtime": 116,
+"title": "The Pawnbroker",
+"tmdb_id": 20540,
+"year": 1965
+},
 "20545": {
 "backdrop": "https://image.tmdb.org/t/p/w780/V3Aloyv0FcCjU19gEOSf44tluG.jpg",
 "cast": [
@@ -30709,6 +42186,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Deal of the Century",
 "tmdb_id": 20545,
 "year": 1983
+},
+"205708": {
+"backdrop": null,
+"cast": [
+"Louis Lo",
+"Lo Yuen",
+"Yik Ga",
+"Chan Wai-Ying",
+"Resand Lam Hau-Yi",
+"Karl Maka"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo",
+"Lau Tin-Chi",
+"Louis Sit"
+],
+"imdb_id": "tt0077667",
+"original_title": "Ha Luo Ye Gui Ren",
+"overview": "An omnibus of tales from the three directors, Sit, Maka and Woo. Each dealing with true love and romance. The third and the best one of the tales deals with a hen-pecked husband trying to kill his wife. An action packed tale written and directed by John Woo who lets the fireworks fly!",
+"poster": "https://image.tmdb.org/t/p/w342/c45h4A91yXUeNDbG67K9Ydaa2gL.jpg",
+"runtime": 97,
+"title": "Hello, Late Homecomers",
+"tmdb_id": 205708,
+"year": 1978
 },
 "205980": {
 "backdrop": "https://image.tmdb.org/t/p/w780/x9yYo4ZaYqdUsuCWGCO4yaAduvU.jpg",
@@ -30805,6 +42309,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 207441,
 "year": 2001
 },
+"2075": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
+"cast": [
+"Jack Nicholson",
+"Kathleen Turner",
+"Robert Loggia",
+"John Randolph",
+"William Hickey",
+"Lee Richardson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0089841",
+"original_title": "Prizzi's Honor",
+"overview": "Charley Partanna is a hitman who works for the Prizzis, one of the richest crime families in the US. When he sees Irene Walker, it's love at first sight. But he soon finds that she, too, is a killer for hire. Charley can overlook his suspicions, but he can't turn off his heart. And the couple must remember that even if they love each other, the Prizzis love only money.",
+"poster": "https://image.tmdb.org/t/p/w342/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg",
+"runtime": 124,
+"title": "Prizzi's Honor",
+"tmdb_id": 2075,
+"year": 1985
+},
 "2077": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5yhjnsIkiTrZGrlN2bXqMluprBP.jpg",
 "cast": [
@@ -30829,32 +42358,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Rink",
 "tmdb_id": 2077,
 "year": 1916
-},
-"20778": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6fX4DqAGPBVDcN0IhETXwfGDy9N.jpg",
-"cast": [
-"Jean-Paul Belmondo",
-"Serge Reggiani",
-"Jean Desailly",
-"René Lefèvre",
-"Marcel Cuvelier",
-"Philippe March"
-],
-"countries": [
-"FR",
-"IT"
-],
-"directors": [
-"Jean-Pierre Melville"
-],
-"imdb_id": "tt0054821",
-"original_title": "Le Doulos",
-"overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
-"poster": "https://image.tmdb.org/t/p/w342/f8Su2mIJ5PyL2NkkrYnswX5IydV.jpg",
-"runtime": 108,
-"title": "Le Doulos",
-"tmdb_id": 20778,
-"year": 1962
 },
 "2078": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jLR6F5jxSe1QnCpkP0OuHXiTo8N.jpg",
@@ -30931,6 +42434,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Little Romance",
 "tmdb_id": 20813,
 "year": 1979
+},
+"208434": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gVpKuRKfPEbUu7lrShDSt7hxMqH.jpg",
+"cast": [
+"Cornel Wilde",
+"Michael Wilding",
+"George Sanders",
+"Anne Francis",
+"Robert Douglas",
+"John McIntire"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0048588",
+"original_title": "The Scarlet Coat",
+"overview": "An American officer goes undercover to unmask a Revolutionary War traitor.",
+"poster": "https://image.tmdb.org/t/p/w342/7ILTODFQ8G7F1BbX2GDG4b7F7Ms.jpg",
+"runtime": 101,
+"title": "The Scarlet Coat",
+"tmdb_id": 208434,
+"year": 1955
+},
+"20858": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cTB1DtDLqEH4FrgICvEaNDeJiPU.jpg",
+"cast": [
+"Jeff Bridges",
+"Rosanna Arquette",
+"Randy Brooks",
+"Alexandra Paul",
+"Andy Garcia",
+"Tommy Lister Jr."
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0090568",
+"original_title": "8 Million Ways to Die",
+"overview": "Scudder is a detective with the Sheriff's Department who is forced to shoot a violent suspect during a narcotics raid. The ensuing psychological aftermath of this shooting worsens his drinking problem and this alcoholism causes him to lose his job, as well as his marriage.",
+"poster": "https://image.tmdb.org/t/p/w342/anxyPdDX3I0vtSwL68qQmpLqp05.jpg",
+"runtime": 115,
+"title": "8 Million Ways to Die",
+"tmdb_id": 20858,
+"year": 1986
 },
 "208619": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4xz5uvKt9YRvRVYUw0lG4u0mEyT.jpg",
@@ -31019,6 +42572,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 208670,
 "year": 1979
 },
+"208692": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4ZMtfGn2bv5nQ3PyZrBOx0KpOn1.jpg",
+"cast": [
+"Yul Brynner",
+"Mitzi Gaynor",
+"Noël Coward",
+"Eric Pohlmann",
+"George Coulouris",
+"Guy Deghy"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0054355",
+"original_title": "Surprise Package",
+"overview": "Comic crime caper, set on a Greek island, starring Yul Brynner and Mitzi Gaynor.",
+"poster": "https://image.tmdb.org/t/p/w342/jWSSDo5gRSMrDkfzX6GLLNUvjVg.jpg",
+"runtime": 100,
+"title": "Surprise Package",
+"tmdb_id": 208692,
+"year": 1960
+},
 "209209": {
 "backdrop": "https://image.tmdb.org/t/p/w780/r85ixjZEIRzdEfE8qFz8wlMWDvz.jpg",
 "cast": [],
@@ -31098,6 +42676,79 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 209679,
 "year": 1988
 },
+"209681": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nH3PszZ0ZavXrlx5hjwrzK7vE4B.jpg",
+"cast": [
+"Rich Moore",
+"Andrew Stanton",
+"Jeff Pidgeon",
+"Broose Johnson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt1666794",
+"original_title": "Somewhere in the Arctic...",
+"overview": "A polar bear is hunted by Eskimos. But suddenly the hunt gets interrupted.  Preserved by the Academy Film Archive.",
+"poster": "https://image.tmdb.org/t/p/w342/8VfnxgIiGu6CwUXP3mAILyDYbHK.jpg",
+"runtime": 4,
+"title": "Somewhere in the Arctic...",
+"tmdb_id": 209681,
+"year": 1986
+},
+"2103": {
+"backdrop": "https://image.tmdb.org/t/p/w780/avjG5EPgWXyLvsUId6hEn0iqT4A.jpg",
+"cast": [
+"George Clooney",
+"Natascha McElhone",
+"Viola Davis",
+"Jeremy Davies",
+"Ulrich Tukur",
+"Michael Ensign"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0307479",
+"original_title": "Solaris",
+"overview": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+"poster": "https://image.tmdb.org/t/p/w342/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
+"runtime": 99,
+"title": "Solaris",
+"tmdb_id": 2103,
+"year": 2002
+},
+"21035": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2YtfWnpSGfy1vIskzpl24ZOzIBS.jpg",
+"cast": [
+"Monique van de Ven",
+"Rutger Hauer",
+"Tonny Huurdeman",
+"Wim van den Brink",
+"Hans Boskamp",
+"Dolf de Vries"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0070842",
+"original_title": "Turks Fruit",
+"overview": "Gifted but hot-headed sculptor Eric has a stormy, erotic, and star-crossed romance with a beautiful young woman named Olga.",
+"poster": "https://image.tmdb.org/t/p/w342/eqnlXShKgQbF3prxU6XYrC53z6F.jpg",
+"runtime": 108,
+"title": "Turkish Delight",
+"tmdb_id": 21035,
+"year": 1973
+},
 "210365": {
 "backdrop": null,
 "cast": [
@@ -31148,6 +42799,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 21042,
 "year": 1985
 },
+"210577": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+"cast": [
+"Ben Affleck",
+"Rosamund Pike",
+"Neil Patrick Harris",
+"Tyler Perry",
+"Carrie Coon",
+"Kim Dickens"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt2267998",
+"original_title": "Gone Girl",
+"overview": "Etter at konas forsvinning har blitt fokus for et intenst mediesirkus, ser en mann bli rettet mot ham når det mistenkes at han kanskje ikke er uskyldig.",
+"poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+"runtime": 149,
+"title": "Gone Girl",
+"tmdb_id": 210577,
+"year": 2014
+},
 "211284": {
 "backdrop": null,
 "cast": [
@@ -31172,6 +42848,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Dimension",
 "tmdb_id": 211284,
 "year": 2010
+},
+"211451": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rLx72P3QgWbErpkGZaFwpejmi0i.jpg",
+"cast": [
+"Louise Fazenda",
+"J. Farrell MacDonald",
+"Ethel Wales",
+"Franklin Pangborn",
+"Dorothy Phillips",
+"William B. Davidson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0017778",
+"original_title": "Cradle Snatchers",
+"overview": "To cure their flirtatious husbands of consorting with flappers, three wives-- Susan Martin, Ethel Drake, and Kitty Ladd-- arrange with three college boys-- Henry Winton, Oscar, and Joe Valley-- to flirt with them at a house party. Joe Valley, who poses as a hot-blooded Spaniard, is vamped by Ginsberg in female attire, and Oscar, a bashful Swede, uses caveman methods when aroused. During a rehearsal of the party, the three husbands arrive, followed by their flapper friends, leading to comic complications.",
+"poster": "https://image.tmdb.org/t/p/w342/pOfXxDdmfC4iKCxwD6ycPagwjku.jpg",
+"runtime": 59,
+"title": "Cradle Snatchers",
+"tmdb_id": 211451,
+"year": 1927
 },
 "212961": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mXVH7zblI7zCK4aNVxiEnOBjaeB.jpg",
@@ -31217,6 +42918,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "From One Second to the Next",
 "tmdb_id": 212994,
 "year": 2013
+},
+"213503": {
+"backdrop": "https://image.tmdb.org/t/p/w780/318ogqsFsA59GDQVuF5FI1gguLi.jpg",
+"cast": [
+"Brad Pitt",
+"William Sadler",
+"David Morse",
+"Kirk Douglas",
+"Dan Aykroyd",
+"Eric Douglas"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Tom Holland",
+"Robert Zemeckis",
+"Richard Donner"
+],
+"imdb_id": "tt0166002",
+"original_title": "Two-Fisted Tales",
+"overview": "The foul-mouthed, wheelchair-bound Mr. Rush introduces three adventure tales inspired by the EC Comics of the 1950s: \"Showdown,\" \"King of the Road,\" and \"Yellow.\"  This star-studded telefilm was an attempt to launch a second anthology series in the mold of \"Tales from the Crypt.\"  When the film failed to generate sufficient interest, the three tales were re-edited and shown as \"Crypt\" episodes.",
+"poster": "https://image.tmdb.org/t/p/w342/vS9B22a2yegHyhW0m3hJK2MxcE5.jpg",
+"runtime": 91,
+"title": "Two-Fisted Tales",
+"tmdb_id": 213503,
+"year": 1992
 },
 "21449": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tKZMG0k7lr9UUCLbI5EEnzMf8Dy.jpg",
@@ -31295,6 +43023,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 21490,
 "year": 1955
 },
+"21531": {
+"backdrop": "https://image.tmdb.org/t/p/w780/I6rNAQ0wzFOtLgGuD7BLCyAih6.jpg",
+"cast": [
+"Lee Sung-jae",
+"Bae Doona",
+"Kim Ho-jung",
+"Byun Hee-bong",
+"Koh Soo-hee",
+"Kim Roi-ha"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt0269743",
+"original_title": "플란다스의 개",
+"overview": "An idle part-time college lecturer is annoyed by the yapping sound of a nearby dog. He decides to take drastic action.",
+"poster": "https://image.tmdb.org/t/p/w342/msLr6T2RhqZNZtdCZScAA8nOWbU.jpg",
+"runtime": 110,
+"title": "Barking Dogs Never Bite",
+"tmdb_id": 21531,
+"year": 2000
+},
 "215464": {
 "backdrop": "https://image.tmdb.org/t/p/w780/eRcwQVQQAKsWlggpqQU7qR9gH3B.jpg",
 "cast": [
@@ -31338,30 +43091,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 215500,
 "year": 1967
 },
-"217": {
-"backdrop": "https://image.tmdb.org/t/p/w780/p96949hcwUG2BwE6MgKmw0uYNCx.jpg",
+"215587": {
+"backdrop": null,
 "cast": [
-"Harrison Ford",
-"Cate Blanchett",
-"Karen Allen",
-"Shia LaBeouf",
-"Ray Winstone",
-"John Hurt"
+"Marie Rivière",
+"Charlotte Véry"
 ],
 "countries": [
-"US"
+"FR"
 ],
 "directors": [
-"Steven Spielberg"
+"Éric Rohmer",
+"Marie Rivière"
 ],
-"imdb_id": "tt0367882",
-"original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
-"overview": "Indiana Jones (Harrison Ford) forsøker å vinne kappløpet med den smarte og vakre agenten (Cate Blanchett) i jakten på den mystiske og magiske krystallhodeskallen fra Akator. Sammen med en ung og opprørsk motorsyklist (Shia LaBeouf) og gamlekjæresten Marion (Karen Allen) legger Indy ut på et actionfylt eventyr i den velkjente, fengslende stilen til de klassiske Indiana Jones-filmene!",
-"poster": "https://image.tmdb.org/t/p/w342/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
-"runtime": 122,
-"title": "Indiana Jones and the Kingdom of the Crystal Skull",
-"tmdb_id": 217,
-"year": 2008
+"imdb_id": "tt0477274",
+"original_title": "Le Canapé rouge",
+"overview": "How to stay at your lover's side (who's married to another woman) all day long without anyone noticing...",
+"poster": "https://image.tmdb.org/t/p/w342/suZCMH7DPgE2saBPJr31yLVdCAL.jpg",
+"runtime": 20,
+"title": "Le Canapé rouge",
+"tmdb_id": 215587,
+"year": 2005
 },
 "217546": {
 "backdrop": null,
@@ -31713,6 +43463,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22140,
 "year": 1998
 },
+"22201": {
+"backdrop": "https://image.tmdb.org/t/p/w780/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
+"cast": [
+"Burt Lancaster",
+"Kirk Douglas",
+"Jo Van Fleet",
+"Rhonda Fleming",
+"John Ireland",
+"Lyle Bettger"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0050468",
+"original_title": "Gunfight at the O.K. Corral",
+"overview": "Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary Gunfight at the O.K. Corral.",
+"poster": "https://image.tmdb.org/t/p/w342/71AQUFbw49ALCNtKZ69flFmbRhF.jpg",
+"runtime": 123,
+"title": "Gunfight at the O.K. Corral",
+"tmdb_id": 22201,
+"year": 1957
+},
 "222057": {
 "backdrop": "https://image.tmdb.org/t/p/w780/q2cifCqLWd4YDYmgZDr66G1PuHp.jpg",
 "cast": [
@@ -31891,6 +43666,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22479,
 "year": 1996
 },
+"2252": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg",
+"cast": [
+"Viggo Mortensen",
+"Naomi Watts",
+"Vincent Cassel",
+"Armin Mueller-Stahl",
+"Sinéad Cusack",
+"Donald Sumpter"
+],
+"countries": [
+"CA",
+"GB",
+"US"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0765443",
+"original_title": "Eastern Promises",
+"overview": "Den russiske gangsteren Nikolai Luzhin får et følsomt forhold til forretninger i denne intense thrilleren fra Londons uhyggelige underverden.",
+"poster": "https://image.tmdb.org/t/p/w342/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+"runtime": 100,
+"title": "Eastern Promises",
+"tmdb_id": 2252,
+"year": 2007
+},
 "22536": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9IMZqBKbALO7d2bwr6ECKP4igoe.jpg",
 "cast": [
@@ -31938,6 +43740,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Funny People",
 "tmdb_id": 225582,
 "year": 1976
+},
+"22559": {
+"backdrop": "https://image.tmdb.org/t/p/w780/EKgE2XEu6Gr6IdFX2oJ1Bm7Zqy.jpg",
+"cast": [
+"Anatoly M. Sagalevitch",
+"Pamela Conrad",
+"James Cameron",
+"Charles Pellegrino",
+"Genya Chernaiev",
+"Victor Nischeta"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron",
+"Steven Quale"
+],
+"imdb_id": "tt0417415",
+"original_title": "Aliens of the Deep",
+"overview": "James Cameron teams up with NASA scientists to explore the Mid-Ocean Ridge, a submerged chain of mountains that band the Earth and are home to some of the planet's most unique life forms.",
+"poster": "https://image.tmdb.org/t/p/w342/fr93LZw0vilOK42vbWCgtekyMpQ.jpg",
+"runtime": 95,
+"title": "Aliens of the Deep",
+"tmdb_id": 22559,
+"year": 2005
 },
 "225943": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cjZGSHreZ1Vllt0uRbGt4IKkFgh.jpg",
@@ -32108,6 +43936,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "To Alter the Image",
 "tmdb_id": 227898,
 "year": 1982
+},
+"22874": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pNqropWft9qTTF0BM9edTO52mmH.jpg",
+"cast": [
+"Cary Grant",
+"Ingrid Bergman",
+"Cecil Parker",
+"Phyllis Calvert",
+"David Kossoff",
+"Megs Jenkins"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0051773",
+"original_title": "Indiscreet",
+"overview": "Anna Kalman is an accomplished actress who has given up hope of finding the man of her dreams. While talking about this subject with her sister, in walks Philip Adams and she realizes that this is the charming, smart, and handsome man she has been waiting for.",
+"poster": "https://image.tmdb.org/t/p/w342/sv4ao2ceHx2Ii1I2SsAmCqr7k6K.jpg",
+"runtime": 100,
+"title": "Indiscreet",
+"tmdb_id": 22874,
+"year": 1958
 },
 "22879": {
 "backdrop": "https://image.tmdb.org/t/p/w780/E5jpNEt3EAnsPa1xxI3xRP8ygi.jpg",
@@ -32284,6 +44137,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22941,
 "year": 1914
 },
+"2297": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sMIxDDigJfUhNsaiEBv96JILrU5.jpg",
+"cast": [
+"Jeremy Irons",
+"Theresa Russell",
+"Joel Grey",
+"Ian Holm",
+"Jeroen Krabbé",
+"Armin Mueller-Stahl"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0102181",
+"original_title": "Kafka",
+"overview": "After a colleague is murdered, insurance worker Kafka gets embroiled in an underground group who are attempting to thwart a secret organization that controls the major events in society.",
+"poster": "https://image.tmdb.org/t/p/w342/ozjedSZGp3d7Pgh8HZ5yz1VpUBT.jpg",
+"runtime": 98,
+"title": "Kafka",
+"tmdb_id": 2297,
+"year": 1991
+},
 "230048": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i6THTq8VgAzReacsJN6cypoZgmR.jpg",
 "cast": [
@@ -32336,6 +44215,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 23024,
 "year": 1934
 },
+"23030": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tCfdA5LRFiKIiz6Og6I3DvEFJla.jpg",
+"cast": [
+"Gregory Peck",
+"Sophia Loren",
+"Alan Badel",
+"Kieron Moore",
+"Carl Duering",
+"John Merivale"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0060121",
+"original_title": "Arabesque",
+"overview": "When a plot against a prominent Middle Eastern politician is uncovered, David Pollock, a professor of ancient hieroglyphics at Oxford University, is recruited to help expose the scheme. Pollock must find information believed to be in hieroglyphic code and must also contend with a mysterious man called Beshraavi. Meanwhile, Beshraavi's lover, Yasmin Azir, seems willing to aid Pollock -- but is she really on his side?",
+"poster": "https://image.tmdb.org/t/p/w342/ufQBXrETmVizoVaoYKAmjArRTyr.jpg",
+"runtime": 105,
+"title": "Arabesque",
+"tmdb_id": 23030,
+"year": 1966
+},
 "230731": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vHFlqW7qdjVPSO9u0L8zt1I8wxs.jpg",
 "cast": [
@@ -32384,6 +44288,82 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Scénario de 'Sauve qui peut la vie'",
 "tmdb_id": 230893,
 "year": 1979
+},
+"2310": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg",
+"cast": [
+"Ray Winstone",
+"Angelina Jolie",
+"Anthony Hopkins",
+"John Malkovich",
+"Robin Wright",
+"Brendan Gleeson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0442933",
+"original_title": "Beowulf",
+"overview": "I en legendarisk tidsalder preget av helter går den mektige krigeren Beowulf til kamp mot demonen Grendel. Han pådrar seg dermed den mørke vreden til uhyrets nådeløst forførende mor. Den storslagne kampen skaper den tidløse legenden om Beowulf.",
+"poster": "https://image.tmdb.org/t/p/w342/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+"runtime": 115,
+"title": "Beowulf",
+"tmdb_id": 2310,
+"year": 2007
+},
+"231390": {
+"backdrop": null,
+"cast": [
+"Fabrizio Eva",
+"Naomi Klein",
+"James Lovelock",
+"Saskia Sassen",
+"Tzvetan Todorov",
+"Slavoj Žižek"
+],
+"countries": [
+"MX",
+"US"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0974618",
+"original_title": "The Possibility of Hope",
+"overview": "A look at different matters of the world such as immigration, global warming and capitalism through the eyes of scientists and philosophers.",
+"poster": "https://image.tmdb.org/t/p/w342/aJ5FwOlzLVo0salHGhsYp51iQ3B.jpg",
+"runtime": 27,
+"title": "The Possibility of Hope",
+"tmdb_id": 231390,
+"year": 2007
+},
+"23194": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vtSWA6SKzJRiht7FBNXebinsNtE.jpg",
+"cast": [
+"Burt Lancaster",
+"Lee Remick",
+"Jim Hutton",
+"Donald Pleasence",
+"Brian Keith",
+"Martin Landau"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0059250",
+"original_title": "The Hallelujah Trail",
+"overview": "A wagon train heads for Denver with a cargo of whisky for the miners. Chaos ensues as the Temperance League, the US cavalry, the miners and the local Indians all try to take control of the valuable cargo.",
+"poster": "https://image.tmdb.org/t/p/w342/umgRSG9XnV3tIitq37gdTR4gxnT.jpg",
+"runtime": 165,
+"title": "The Hallelujah Trail",
+"tmdb_id": 23194,
+"year": 1965
 },
 "23282": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fgKoKVw0f2X2ajilfoyra3LFrwo.jpg",
@@ -32447,6 +44427,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 233352,
 "year": 1951
 },
+"23388": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1MXNc4Q5jq7FMuIzGNrlVp4mjnj.jpg",
+"cast": [
+"John Huston",
+"Walter Huston",
+"Milton Ashkin",
+"Lyle A. Bean"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0036301",
+"original_title": "Report from the Aleutians",
+"overview": "A documentary propaganda film produced by the U.S. Army Signal Corps about the Aleutian Islands Campaign during World War II. The film opens with a map showing the strategic importance of the island, and the thrust of the 1942 Japanese offensive into Midway and Dutch Harbor. Nominated for the Academy Award for Best Documentary Feature.",
+"poster": "https://image.tmdb.org/t/p/w342/AiUsJmATl5XyAaNTV2myd55HWmN.jpg",
+"runtime": 47,
+"title": "Report from the Aleutians",
+"tmdb_id": 23388,
+"year": 1943
+},
 "235055": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fOaGD5wUxPvpzkcT7aHZj5Z5ft5.jpg",
 "cast": [
@@ -32469,6 +44472,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 235055,
 "year": 2006
 },
+"23567": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7DAmOH52a1rm4bsdSBV2PJeLDLy.jpg",
+"cast": [
+"Cary Grant",
+"Ann Sheridan",
+"Marion Marshall",
+"Randy Stuart",
+"Bill Neff",
+"Russ Conway"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0041498",
+"original_title": "I Was a Male War Bride",
+"overview": "After marrying an American lieutenant with whom he was assigned to work in post-war Germany, a French captain attempts to find a way to accompany her back to the States under the terms of the War Bride Act.",
+"poster": "https://image.tmdb.org/t/p/w342/gwliIJs9TWlZAcp6k0cx0I81W5e.jpg",
+"runtime": 105,
+"title": "I Was a Male War Bride",
+"tmdb_id": 23567,
+"year": 1949
+},
 "235969": {
 "backdrop": null,
 "cast": [
@@ -32488,6 +44516,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "How to Catch a Cold",
 "tmdb_id": 235969,
 "year": 1951
+},
+"236028": {
+"backdrop": "https://image.tmdb.org/t/p/w780/A2vCQn6x3jmq1BTGndU9FqmNdWk.jpg",
+"cast": [
+"Jason Schwartzman",
+"Giada Colagrande",
+"Giorgio Zancolla",
+"Paolo Coluccio",
+"Silvano Broglia",
+"Francesco Bonaccorso"
+],
+"countries": [
+"IT",
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt3331512",
+"original_title": "Castello Cavalcanti",
+"overview": "In 1955 in Italy, race car driver Jed Cavalcanti suffers a mishap during the Molte Miglia rally and finds himself in a small town with a few familial surprises.",
+"poster": "https://image.tmdb.org/t/p/w342/iGZHMSIxbsvjG1M5PfUYq1doMDK.jpg",
+"runtime": 8,
+"title": "Castello Cavalcanti",
+"tmdb_id": 236028,
+"year": 2013
 },
 "23631": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wbjoD8BN5W9VusuLJYdd7tWUxqh.jpg",
@@ -32600,6 +44654,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 237005,
 "year": 1946
 },
+"237730": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2N7JcTx7QvlEYsxGMgxMuAglmgY.jpg",
+"cast": [
+"Rafe Macpherson",
+"Mort Ritts"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0061114",
+"original_title": "Transfer",
+"overview": "A psychiatrist and his patient discuss their relationship in a snow-covered field.",
+"poster": "https://image.tmdb.org/t/p/w342/ghbcTtbrW97uvn7irHMZJ09Srjr.jpg",
+"runtime": 7,
+"title": "Transfer",
+"tmdb_id": 237730,
+"year": 1966
+},
 "238008": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w6pdnrXu3wxiyQX7JYrbxWmXA74.jpg",
 "cast": [
@@ -32707,6 +44782,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 239330,
 "year": 1988
 },
+"23949": {
+"backdrop": "https://image.tmdb.org/t/p/w780/o6PsWbkPva254PkEaVAnB87wpFH.jpg",
+"cast": [
+"Ethan Hawke",
+"Robert Sean Leonard",
+"Uma Thurman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0275719",
+"original_title": "Tape",
+"overview": "Jon, a first-time filmmaker, finds himself in Lansing, Michigan to present his film at a local film festival. Vince, his high school friend who is now a volunteer fireman and small-time drug dealer, also visits the town to support Jon on his big day, or so it seems. After a raucous hello and much backslapping, it appears that there is an undercurrent of tension in the air.",
+"poster": "https://image.tmdb.org/t/p/w342/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+"runtime": 87,
+"title": "Tape",
+"tmdb_id": 23949,
+"year": 2001
+},
 "23965": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3KzghZrRLcAdMHzBE9DCFSjdvxn.jpg",
 "cast": [
@@ -32735,6 +44832,84 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 23965,
 "year": 2004
 },
+"23999": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oyzUPDJ19aUPDwsmehKIdl65DQ3.jpg",
+"cast": [
+"Alison Steadman",
+"Tim Stern",
+"Janine Duvitski",
+"John Salthouse",
+"Harriet Reynolds"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0075622",
+"original_title": "Abigail's Party",
+"overview": "Beverly and Laurence are entertaining their new neighbours, Angela and Tony as well as Sue, whose teenage daughter, Abigail, is having a party. Over drinks and small talk, class differences and relationship difficulties emerge.",
+"poster": "https://image.tmdb.org/t/p/w342/10fzzZxeuTvHiYLssRP8AjWdOao.jpg",
+"runtime": 107,
+"title": "Abigail's Party",
+"tmdb_id": 23999,
+"year": 1977
+},
+"24006": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oMGRbIKScyQkxXa2PcmgRuJUamX.jpg",
+"cast": [
+"Charles Laughton",
+"Marilyn Monroe",
+"David Wayne",
+"Dale Robertson",
+"Richard Widmark",
+"Anne Baxter"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Henry King",
+"Howard Hawks",
+"Henry Koster",
+"Jean Negulesco",
+"Henry Hathaway"
+],
+"imdb_id": "tt0044981",
+"original_title": "O. Henry's Full House",
+"overview": "Five O. Henry stories, each separate. The primary one from the critics' acclaim was \"The Cop and the Anthem\". Soapy tells fellow bum Horace that he is going to get arrested so he can spend the winter in a nice jail cell. He fails. He can't even accost a woman; she turns out to be a streetwalker. The other stories are \"The Clarion Call\", \"The Last Leaf\", \"The Ransom of Red Chief\", and \"The Gift of the Magi\".",
+"poster": "https://image.tmdb.org/t/p/w342/vznk8LPE5nRRbNjeTG20P42yy2l.jpg",
+"runtime": 117,
+"title": "O. Henry's Full House",
+"tmdb_id": 24006,
+"year": 1952
+},
+"24008": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1sS6ilJQOv6QUbQ6cgZ0E7mh5qB.jpg",
+"cast": [
+"Cary Grant",
+"Ginger Rogers",
+"Charles Coburn",
+"Marilyn Monroe",
+"Hugh Marlowe",
+"Henri Letondal"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0044916",
+"original_title": "Monkey Business",
+"overview": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+"poster": "https://image.tmdb.org/t/p/w342/cVYh7b1fLy9zzpZLX2aVNF5U12C.jpg",
+"runtime": 97,
+"title": "Monkey Business",
+"tmdb_id": 24008,
+"year": 1952
+},
 "24016": {
 "backdrop": "https://image.tmdb.org/t/p/w780/27nvfP0Y7cBP2Bd7ewqv90HZltq.jpg",
 "cast": [
@@ -32760,6 +44935,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Sheltering Sky",
 "tmdb_id": 24016,
 "year": 1990
+},
+"240832": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+"cast": [
+"Scarlett Johansson",
+"Morgan Freeman",
+"Choi Min-sik",
+"Amr Waked",
+"Julian Rhind-Tutt",
+"Pilou Asbæk"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt2872732",
+"original_title": "Lucy",
+"overview": "25 år gamle Lucy fra USA, som lever og studerer i Taiwan, tvinges til å utføre en jobb for en narkotikaliga. Oppdraget går galt, og hun tas til fange mens de farlige stoffene hun smugler i magen lekker ut i kroppen. Men i stedet for å dø av en overdose, forvandles Lucy til en drapsmaskin - en nådeløs kriger som er i stand til å utnytte 100 prosent av sin hjernekapasitet og utvikle seg langt utover menneskelig forstand.",
+"poster": "https://image.tmdb.org/t/p/w342/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+"runtime": 89,
+"title": "Lucy",
+"tmdb_id": 240832,
+"year": 2014
 },
 "24167": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3TcUsPiVU0fSLX0Mk7lc3DDuzkY.jpg",
@@ -32787,6 +44987,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 24167,
 "year": 1960
 },
+"241754": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uNlvJvY5VoiUMNfzg5dZHGKYYhe.jpg",
+"cast": [
+"Randolph Scott",
+"Ella Raines",
+"William Bishop",
+"Edgar Buchanan",
+"Arthur Kennedy",
+"John Ireland"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0042033",
+"original_title": "The Walking Hills",
+"overview": "A study in greed in which treasure hunters seek a shipment of gold buried in Death Valley.",
+"poster": "https://image.tmdb.org/t/p/w342/yYWOAhLk4TyAyImgXbXQMbkDVaI.jpg",
+"runtime": 78,
+"title": "The Walking Hills",
+"tmdb_id": 241754,
+"year": 1949
+},
+"241804": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lnG4lzSMIXVwCt7DpQ4uYTLe8pF.jpg",
+"cast": [
+"Carleton Carpenter",
+"Janet Leigh",
+"Keenan Wynn",
+"Ellen Corby",
+"Richard Anderson",
+"Barbara Ruick"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0044608",
+"original_title": "Fearless Fagan",
+"overview": "A young man brings his pet lion with him when he's drafted into the U.S. Army.",
+"poster": "https://image.tmdb.org/t/p/w342/ifuX3PY1ssQ7heTHsIFC39b9Tx.jpg",
+"runtime": 79,
+"title": "Fearless Fagan",
+"tmdb_id": 241804,
+"year": 1952
+},
 "24197": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6xwE9IF4z0GAzAKYafaEyHIL0lJ.jpg",
 "cast": [
@@ -32811,6 +45061,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mr. & Mrs. Smith",
 "tmdb_id": 24197,
 "year": 1941
+},
+"24226": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
+"cast": [
+"Paul Newman",
+"Charlotte Rampling",
+"Jack Warden",
+"James Mason",
+"Milo O'Shea",
+"Lindsay Crouse"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0084855",
+"original_title": "The Verdict",
+"overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter—all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court—to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+"poster": "https://image.tmdb.org/t/p/w342/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+"runtime": 129,
+"title": "The Verdict",
+"tmdb_id": 24226,
+"year": 1982
 },
 "243029": {
 "backdrop": null,
@@ -32936,6 +45211,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "One Day Pina Asked...",
 "tmdb_id": 243379,
 "year": 1989
+},
+"24349": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fnHcASfxa8afgkwpnzYBVkjPNDg.jpg",
+"cast": [
+"Gena Rowlands",
+"Seymour Cassel",
+"Val Avery",
+"Timothy Carey",
+"Katherine Cassavetes",
+"Elizabeth Deering"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Cassavetes"
+],
+"imdb_id": "tt0067433",
+"original_title": "Minnie and Moskowitz",
+"overview": "Depressed and jaded after being dumped by her married boyfriend, aging beauty Minnie Moore wonders if she'll ever find love.  After shaggy-haired parking lot attendant Seymour Moskowitz comes to her defense from an angry and rebuffed blind date, he falls hopelessly in love with her despite their myriad differences.  Minnie reluctantly agrees to a date with Moskowitz, and, slowly but surely, an unlikely romance blossoms between the two.",
+"poster": "https://image.tmdb.org/t/p/w342/pufOqUEeEzbUma3WfnLS0AHiMl5.jpg",
+"runtime": 115,
+"title": "Minnie and Moskowitz",
+"tmdb_id": 24349,
+"year": 1971
+},
+"24395": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mOi2oONVYBPNa7Y55PGrqbaKczp.jpg",
+"cast": [
+"Sean Connery",
+"Harry Andrews",
+"Ian Bannen",
+"Alfred Lynch",
+"Ossie Davis",
+"Roy Kinnear"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0059274",
+"original_title": "The Hill",
+"overview": "North Africa, World War II. British soldiers on the brink of collapse push beyond endurance to struggle up a brutal incline. It's not a military objective. It's The Hill, a manmade instrument of torture, a tower of sand seared by a white-hot sun. And the troops' tormentors are not the enemy, but their own comrades-at-arms.",
+"poster": "https://image.tmdb.org/t/p/w342/cmBpImAjHJnuHXMVByzqnxtDcae.jpg",
+"runtime": 123,
+"title": "The Hill",
+"tmdb_id": 24395,
+"year": 1965
 },
 "2440": {
 "backdrop": "https://image.tmdb.org/t/p/w780/z7w6ACQJTeGYASr1plSwfRe6Ytk.jpg",
@@ -33070,6 +45396,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 24559,
 "year": 1972
 },
+"245700": {
+"backdrop": "https://image.tmdb.org/t/p/w780/74IaLYwgko2nTLj8Gz9ukQ4RIvC.jpg",
+"cast": [
+"Timothy Spall",
+"Dorothy Atkinson",
+"Marion Bailey",
+"Paul Jesson",
+"Lesley Manville",
+"Martin Savage"
+],
+"countries": [
+"FR",
+"DE",
+"GB",
+"US"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt2473794",
+"original_title": "Mr. Turner",
+"overview": "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.",
+"poster": "https://image.tmdb.org/t/p/w342/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg",
+"runtime": 150,
+"title": "Mr. Turner",
+"tmdb_id": 245700,
+"year": 2014
+},
 "246127": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3QF0JAVaDBT9dJXYD9R8fT9Z0Sq.jpg",
 "cast": [
@@ -33146,6 +45500,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 24678,
 "year": 2001
 },
+"247614": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oCxNNh3WzTnIZaVXUFQNtXIcFli.jpg",
+"cast": [
+"Benny Goodman"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0243111",
+"original_title": "All the Cats Join In",
+"overview": "A hep teen hears a tune on the jukebox at the malt shop and calls his girl; She rounds up a crowd and soon the whole place is jumping.",
+"poster": "https://image.tmdb.org/t/p/w342/is51X97ETH3GXgYsHxMuLJBFuaG.jpg",
+"runtime": 4,
+"title": "All the Cats Join In",
+"tmdb_id": 247614,
+"year": 1946
+},
 "24774": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i1I90iYpzA49bZUMV89z22gXu4K.jpg",
 "cast": [
@@ -33196,6 +45568,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 248319,
 "year": 1978
 },
+"248592": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jmVBV9wBpgEJPgULv3T9HTCrx8V.jpg",
+"cast": [
+"Marcello Mastroianni",
+"Catherine Spaak",
+"Ugo Tognazzi",
+"William Berger",
+"Sarah Ross",
+"Antonio Altoviti"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0059851",
+"original_title": "L'uomo dei cinque palloni",
+"overview": "Mario is a Milan industrialist who is constantly testing balloons to see how much air one can take before busting.",
+"poster": "https://image.tmdb.org/t/p/w342/zdouNDhHp2acw4qbodFOXHq5xW2.jpg",
+"runtime": 85,
+"title": "The Man with the Balloons",
+"tmdb_id": 248592,
+"year": 1967
+},
+"24918": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mSvu3wHtw6XB6EPe8AVErITAamr.jpg",
+"cast": [
+"Ron Moody",
+"Frank Langella",
+"Dom DeLuise",
+"Andréas Voutsinas",
+"Diana Coupland",
+"Mel Brooks"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0066495",
+"original_title": "The Twelve Chairs",
+"overview": "In 1920s Soviet Russia, a fallen aristocrat, a priest and a con artist search for a treasure of jewels hidden inside one of twelve dining chairs, lost during the revolution.",
+"poster": "https://image.tmdb.org/t/p/w342/qw0yZKqdWyakNRasQ3NvEiRyZpN.jpg",
+"runtime": 94,
+"title": "The Twelve Chairs",
+"tmdb_id": 24918,
+"year": 1970
+},
 "249397": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
 "cast": [
@@ -33225,6 +45648,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 249397,
 "year": 2013
 },
+"24982": {
+"backdrop": "https://image.tmdb.org/t/p/w780/us2aG5buhsLUYz4Npcx8i8HvSDs.jpg",
+"cast": [
+"Bill Paxton",
+"John Broadwater",
+"James Cameron",
+"Charles Pellegrino",
+"Lewis Abernathy",
+"Mike Cameron"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt0297144",
+"original_title": "Ghosts of the Abyss",
+"overview": "With a team of the world's foremost historic and marine experts as well as friend Bill Paxton, James Cameron embarks on an unscripted adventure back to the wreck of the Titanic where nearly 1,500 souls lost their lives almost a century ago.",
+"poster": "https://image.tmdb.org/t/p/w342/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+"runtime": 91,
+"title": "Ghosts of the Abyss",
+"tmdb_id": 24982,
+"year": 2003
+},
 "25009": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4B5y8UxovpOWwdF9xSXfxljjgxj.jpg",
 "cast": [
@@ -33250,30 +45698,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 25009,
 "year": 1953
 },
-"25047": {
-"backdrop": "https://image.tmdb.org/t/p/w780/1qKTp9G1hrCxindF0xpsZGKbSsL.jpg",
+"250734": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7mbypv8Orbw7lJVmbJiAGN8eSdJ.jpg",
 "cast": [
-"Lino Ventura",
-"Paul Meurisse",
-"Raymond Pellegrin",
-"Christine Fabréga",
-"Marcel Bozzuffi",
-"Paul Frankeur"
+"Carey Mulligan",
+"Matthias Schoenaerts",
+"Michael Sheen",
+"Tom Sturridge",
+"Juno Temple",
+"Jessica Barden"
 ],
 "countries": [
-"FR"
+"GB",
+"US"
 ],
 "directors": [
-"Jean-Pierre Melville"
+"Thomas Vinterberg"
 ],
-"imdb_id": "tt0060305",
-"original_title": "Le Deuxième Souffle",
-"overview": "A gangster escapes jail and quickly makes plans to continue his criminal ways elsewhere, but a determined inspector is closing in.",
-"poster": "https://image.tmdb.org/t/p/w342/yuTl6T6BnRdCqyGMJvSmLkAgSaS.jpg",
-"runtime": 144,
-"title": "Le Deuxième Souffle",
-"tmdb_id": 25047,
-"year": 1966
+"imdb_id": "tt2935476",
+"original_title": "Far from the Madding Crowd",
+"overview": "In Victorian England, the independent and headstrong Bathsheba Everdene attracts three very different suitors: Gabriel Oak, a hardworking young sheep farmer; Frank Troy, a handsome and reckless Sergeant; and William Boldwood, a prosperous and mature bachelor.",
+"poster": "https://image.tmdb.org/t/p/w342/cr4cctBPv9qHDtjDps4wi0kqI7h.jpg",
+"runtime": 119,
+"title": "Far from the Madding Crowd",
+"tmdb_id": 250734,
+"year": 2015
+},
+"251": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+"cast": [
+"Patrick Swayze",
+"Demi Moore",
+"Whoopi Goldberg",
+"Tony Goldwyn",
+"Vincent Schiavelli",
+"Rick Aviles"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jerry Zucker"
+],
+"imdb_id": "tt0099653",
+"original_title": "Ghost",
+"overview": "Molly og Sam er et lykkelig par som akkurat har satt sin nye leilighet i stand da Sam blir skutt ned og drept av en ransmann. Sams sjel blir imidlertid igjen her på jorden som spøkelse. Sams ånd oppererer som den rene detektiv og finner ut at Mollys liv også er i fare. Sams problem er imidlertid hvordan han skal greie å kommunisere med henne. Oda Mae Brown har hele sitt liv vært en humbugmaker i form av et medium som har spådd folks framtid og satt seg i forbindelse med deres avdøde slektninger. Gjennom Sam oppdager hun at hun virkelig har den evnen hun alltid har ønsket - nå ønsker hun den seg ikke lenger. Sam tvinger henne til å kontakte Molly for å redde dennes liv - men å overbevise Molly om at Sam fremdeles 'eksisterer' er slett ikke lett.",
+"poster": "https://image.tmdb.org/t/p/w342/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+"runtime": 127,
+"title": "Ghost",
+"tmdb_id": 251,
+"year": 1990
 },
 "251004": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
@@ -33360,6 +45834,79 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 252286,
 "year": 1986
 },
+"2525": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+"cast": [
+"Michael Parks",
+"Ulla Bergryd",
+"Richard Harris",
+"John Huston",
+"Stephen Boyd",
+"George C. Scott"
+],
+"countries": [
+"IT",
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0060164",
+"original_title": "The Bible: In the Beginning...",
+"overview": "Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.",
+"poster": "https://image.tmdb.org/t/p/w342/2BtesvzFQJYFS2sPVVbUdet0TTC.jpg",
+"runtime": 175,
+"title": "The Bible: In the Beginning...",
+"tmdb_id": 2525,
+"year": 1966
+},
+"25314": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gvW5ekALVRuuRsgJIChFRRHbYwg.jpg",
+"cast": [
+"Lance Henriksen",
+"James Cameron",
+"Walter Weintz",
+"William Wisher"
+],
+"countries": [],
+"directors": [
+"Gary Johnstone",
+"James Cameron"
+],
+"imdb_id": "tt0330267",
+"original_title": "Expedition: Bismarck",
+"overview": "James Cameron take several survivors from the German ship and crew, and together use state of the art technology to discover the ship wreck as it is today. Diving in submersibles and using ROV's we get to see the inside of the giant ship from WWII which sits on the bottom of the sea.",
+"poster": "https://image.tmdb.org/t/p/w342/u1rMGNH8MYNluxZhxrCpWQVtehK.jpg",
+"runtime": 92,
+"title": "Expedition: Bismarck",
+"tmdb_id": 25314,
+"year": 2002
+},
+"253235": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eL3OXDtu0L09lNvuPqVjFVw19Z9.jpg",
+"cast": [
+"Michael Douglas",
+"Diane Keaton",
+"Sterling Jerins",
+"Paloma Guzmán",
+"Frances Sternhagen",
+"Frankie Valli"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt2465146",
+"original_title": "And So It Goes",
+"overview": "Nobody likes self-centered realtor Oren Little, and he prefers it that way. He's deliberately mean to anyone who crosses his path and wants nothing more than to sell one final house and retire. His life turns upside-down when his estranged son drops off a granddaughter he never knew existed. Suddenly left in charge of her and with no idea how to take care of a child, he pawns the girl off on his neighbor, Leah -- but he eventually learns how to open his heart.",
+"poster": "https://image.tmdb.org/t/p/w342/bJoWtA8OAIqavlb5mbx3EzvxFUA.jpg",
+"runtime": 94,
+"title": "And So It Goes",
+"tmdb_id": 253235,
+"year": 2014
+},
 "254": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
 "cast": [
@@ -33441,6 +45988,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Lobster",
 "tmdb_id": 254320,
 "year": 2015
+},
+"254741": {
+"backdrop": null,
+"cast": [
+"Thomas Bo Larsen",
+"Ann Eleonora Jørgensen",
+"Martin Brygmann",
+"Paprika Steen",
+"Claus Flygare",
+"Christian Hjejle"
+],
+"countries": [
+"DK"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0228861",
+"original_title": "Sidste omgang",
+"overview": "The final days of a terminally ill young man.",
+"poster": "https://image.tmdb.org/t/p/w342/cOjMD912FB9B4Whk0tkTxlQvCHH.jpg",
+"runtime": 34,
+"title": "Last Round",
+"tmdb_id": 254741,
+"year": 1993
 },
 "255160": {
 "backdrop": "https://image.tmdb.org/t/p/w780/29O4XcNhzKvhLb4DiGQ934XXM5f.jpg",
@@ -33552,6 +46124,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 255824,
 "year": 2014
 },
+"255929": {
+"backdrop": "https://image.tmdb.org/t/p/w780/A4wOLu3jwy5VVQjxsinuUPkCPiI.jpg",
+"cast": [
+"Jean Renoir",
+"Henri Langlois",
+"Éric Rohmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209111",
+"original_title": "Louis Lumière",
+"overview": "Eric Rohmer leads a conversation with Jean Renoir and Henri Langlois on the art of filmmaker Louis Lumière.",
+"poster": "https://image.tmdb.org/t/p/w342/evtvyPYuwBCDaytiXLndjwuRoNU.jpg",
+"runtime": 66,
+"title": "Louis Lumière",
+"tmdb_id": 255929,
+"year": 1968
+},
 "256": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ymtwNtiuZwbYa1Vetp68VOGgrw3.jpg",
 "cast": [
@@ -33576,6 +46170,52 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Antoine and Colette",
 "tmdb_id": 256,
 "year": 1962
+},
+"256105": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gN5UhjmvWxeZGqyaoANttDJphts.jpg",
+"cast": [
+"Jean-Claude Brialy",
+"Éric Rohmer",
+"Françoise Martinelli",
+"Jean-Luc Godard",
+"André Bazin",
+"Charles L. Bitsch"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209335",
+"original_title": "La sonate à Kreutzer",
+"overview": "Some time after marrying a sensual girl, Pozdnychev realizes the only link to his spouse is that of physical love. When a violinist with whom his wife plays regularly the “Sonata to Kreutzer” appears, the young woman blooms in a new passion. From then on, her husband is eaten away by jealousy.",
+"poster": "https://image.tmdb.org/t/p/w342/2zAixEsFiWarNKXRMv93xiAc40Z.jpg",
+"runtime": 44,
+"title": "The Kreutzer Sonata",
+"tmdb_id": 256105,
+"year": 1956
+},
+"256107": {
+"backdrop": null,
+"cast": [
+"Teresa Gratia",
+"Éric Rohmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208836",
+"original_title": "Bérénice",
+"overview": "Shot in 16mm, Berenice is Rohmer’s first finished film. The film is based on a story by Edgar Allen Poe about a man who becomes obsessed with his fiancé’s teeth. The film was shot at Andre Bazin’s house by Jacques Rivette. Rivette also edited the film.",
+"poster": "https://image.tmdb.org/t/p/w342/pJ3wYzPYdieLIIvzG0oEAv4x7rP.jpg",
+"runtime": 22,
+"title": "Bérénice",
+"tmdb_id": 256107,
+"year": 1954
 },
 "256259": {
 "backdrop": null,
@@ -33607,6 +46247,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 256259,
 "year": 1984
 },
+"25639": {
+"backdrop": "https://image.tmdb.org/t/p/w780/t832q8SrWZCEuY1RzBECv0oFBip.jpg",
+"cast": [
+"William Wisher",
+"Margaret Undiel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Randall Frakes",
+"James Cameron"
+],
+"imdb_id": "tt0251488",
+"original_title": "Xenogenesis",
+"overview": "A woman and an engineered man are sent in a gigantic sentient starship to search space for a place to start a new life cycle. Raj decides to take a look around the ship. He comes across a gigantic robotic cleaner. Combat ensues.",
+"poster": "https://image.tmdb.org/t/p/w342/qvHVoRhnZRCCYPKLW0KjCpcQRVp.jpg",
+"runtime": 12,
+"title": "Xenogenesis",
+"tmdb_id": 25639,
+"year": 1978
+},
 "2567": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2RICPuzwGAVNktqiyptouqjgeXM.jpg",
 "cast": [
@@ -33634,30 +46296,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 2567,
 "year": 2004
 },
-"25670": {
-"backdrop": "https://image.tmdb.org/t/p/w780/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+"256797": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7PUaOa5iTXmlLSMluF5T517WvNI.jpg",
 "cast": [
-"Joel McCrea",
-"Laraine Day",
-"Herbert Marshall",
-"George Sanders",
-"Albert Bassermann",
-"Robert Benchley"
+"Michael Duane",
+"Gloria Henry",
+"Harry Davenport",
+"Jane Darwell",
+"Jo Ann Marlowe",
+"J. Farrell MacDonald"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Alfred Hitchcock"
+"John Sturges"
 ],
-"imdb_id": "tt0032484",
-"original_title": "Foreign Correspondent",
-"overview": "American crime reporter John Jones is reassigned to Europe as a foreign correspondent to cover the imminent war. When he walks into the middle of an assassination and stumbles on a spy ring, he seeks help from a beautiful politician’s daughter and an urbane English journalist to uncover the truth.",
-"poster": "https://image.tmdb.org/t/p/w342/n0WX6eIdIliKB66MI2MWZ3wHsoJ.jpg",
-"runtime": 120,
-"title": "Foreign Correspondent",
-"tmdb_id": 25670,
-"year": 1940
+"imdb_id": "tt0039526",
+"original_title": "Keeper of the Bees",
+"overview": "Michael Worthington, an elderly owner of an apiary, befriends an embittered artist, Jamie McFarlaine, who is seeking a divorce from his wife. Jamie falls in love with Alice, but the romance is almost doomed by the gossip-spreading of a meddlesome neighbor.",
+"poster": "https://image.tmdb.org/t/p/w342/gov81XICWcFCXwhp9yCZDX7hG7J.jpg",
+"runtime": 68,
+"title": "Keeper of the Bees",
+"tmdb_id": 256797,
+"year": 1947
 },
 "257": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2tfwa81Fg8iD4o8iEtIQRI8UY0F.jpg",
@@ -33712,6 +46374,84 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 257081,
 "year": 1938
 },
+"257084": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6oNedloeUrSu1tdLqB6uZhL5fem.jpg",
+"cast": [
+"Leo Genn",
+"Burgess Meredith",
+"Bernard Miles",
+"Jacques Duchesne",
+"George S. Patton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frank Capra",
+"Hugh Stewart",
+"John Huston",
+"John Boulting",
+"Roy Boulting"
+],
+"imdb_id": "tt0037404",
+"original_title": "Tunisian Victory",
+"overview": "Documentary made by the U.S. Army Signal Corps after the North African campaign.",
+"poster": "https://image.tmdb.org/t/p/w342/aTct5XUAITQHYmoADEl4bH2BcXu.jpg",
+"runtime": 75,
+"title": "Tunisian Victory",
+"tmdb_id": 257084,
+"year": 1944
+},
+"257085": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sVLnhgFnS0Wkp5LAaTgRF05OzTi.jpg",
+"cast": [
+"Leslie Brooks",
+"George Macready",
+"Forrest Tucker",
+"Charles D. Brown",
+"Warren Mills",
+"Richard Hale"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0038722",
+"original_title": "The Man Who Dared",
+"overview": "A crusading reporter plans his own arrest and conviction for first degree murder, trying to show that the death sentence should be outlawed when based on circumstantial evidence alone, but his plan goes awry.",
+"poster": "https://image.tmdb.org/t/p/w342/lFPfTdXTAx4jX0WujkzSCndbPJP.jpg",
+"runtime": 66,
+"title": "The Man Who Dared",
+"tmdb_id": 257085,
+"year": 1946
+},
+"257123": {
+"backdrop": null,
+"cast": [
+"Michael Duane",
+"Trudy Marshall",
+"Lloyd Corrigan",
+"Rosalind Ivan",
+"Al Bridge",
+"Gigi Perreau"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0038295",
+"original_title": "Alias Mr. Twilight",
+"overview": "Geoffrey Holden (Lloyd Corrigan) is an elderly con-man who is a lovable old man when providing his beloved granddaughter (Gigi Perreau) with the simple luxuries of life, yet has no qualms when working a racket devised to relieve his victims of their property. Trudy Marshall is the governess of the granddaughter, and is in love with a detective (Michael Duane) who is about to expose the old man's unsuspected activities.",
+"poster": "https://image.tmdb.org/t/p/w342/gH10NW6Pl0p3hiWlMLwjgMVSbaJ.jpg",
+"runtime": 69,
+"title": "Alias Mr. Twilight",
+"tmdb_id": 257123,
+"year": 1946
+},
 "257146": {
 "backdrop": null,
 "cast": [],
@@ -33729,6 +46469,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Magic Bond",
 "tmdb_id": 257146,
 "year": 1956
+},
+"2575": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zKctuZIWdni1QxTEt4SsNyysdxW.jpg",
+"cast": [
+"Pierce Brosnan",
+"Geoffrey Rush",
+"Jamie Lee Curtis",
+"Leonor Varela",
+"Brendan Gleeson",
+"Harold Pinter"
+],
+"countries": [
+"IE",
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0236784",
+"original_title": "The Tailor of Panama",
+"overview": "A British spy is banished to Panama after having an affair with an ambassador's mistress. Once there he makes connection with a local tailor with a nefarious past and connections to all of the top political and gangster figures in Panama. The tailor also has a wife, who works for the Panamanian president and a huge debt. The mission is to learn what the President intends to do with the Canal.",
+"poster": "https://image.tmdb.org/t/p/w342/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg",
+"runtime": 109,
+"title": "The Tailor of Panama",
+"tmdb_id": 2575,
+"year": 2001
 },
 "257524": {
 "backdrop": "https://image.tmdb.org/t/p/w780/At9iEsJqvWt4219IAZGiWSDLndh.jpg",
@@ -33752,6 +46518,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 257524,
 "year": 1986
 },
+"25767": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gTjkmraoxRI2vKOzB14kLTPmmDA.jpg",
+"cast": [
+"Cary Grant",
+"Deborah Kerr",
+"Robert Mitchum",
+"Jean Simmons",
+"Moray Watson",
+"Joan Benham"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0053877",
+"original_title": "The Grass Is Greener",
+"overview": "Victor and Hillary are down on their luck to the point that they allow tourists to take guided tours of their castle. But Charles Delacro, a millionaire oil tycoon, visits, and takes a liking to more than the house. Soon, Hattie Durant gets involved and they have a good old fashioned love triangle.",
+"poster": "https://image.tmdb.org/t/p/w342/3peOV81MRImLDX8bnGUHOJSB0lN.jpg",
+"runtime": 104,
+"title": "The Grass Is Greener",
+"tmdb_id": 25767,
+"year": 1960
+},
 "25770": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uziKjxX2TOHJC2f1IqVTuRy6BVn.jpg",
 "cast": [
@@ -33774,32 +46565,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Paleface",
 "tmdb_id": 25770,
 "year": 1922
-},
-"258": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9JJqO2yNfoE4uAbu5FDhIhwbqpq.jpg",
-"cast": [
-"Jean-Pierre Léaud",
-"Claude Jade",
-"Daniel Ceccaldi",
-"Claire Duhamel",
-"Hiroko Matsumoto",
-"Daniel Boulanger"
-],
-"countries": [
-"FR",
-"IT"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0065651",
-"original_title": "Domicile conjugal",
-"overview": "Parisian everyman Antoine Doinel has married his sweetheart Christine Darbon, and the newlyweds have set up a cozy domestic life of selling flowers and giving violin lessons while Antoine fitfully works on his long-gestating novel. As Christine becomes pregnant with the couple's first child, Antoine finds himself enraptured with a young Japanese beauty. The complications change the course of their relationship forever.",
-"poster": "https://image.tmdb.org/t/p/w342/s9R5wKbrB9SfOG1FzbICbOsssX8.jpg",
-"runtime": 97,
-"title": "Bed and Board",
-"tmdb_id": 258,
-"year": 1970
 },
 "258077": {
 "backdrop": null,
@@ -33855,56 +46620,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Aria",
 "tmdb_id": 25832,
 "year": 1987
-},
-"25858": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4Tis1cA6ULVHx2RqZnccroQFBa9.jpg",
-"cast": [
-"Takashi Shimura",
-"Toshirō Mifune",
-"Reizaburo Yamamoto",
-"Michiyo Kogure",
-"Chieko Nakakita",
-"Noriko Sengoku"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Akira Kurosawa"
-],
-"imdb_id": "tt0040979",
-"original_title": "醉いどれ天使",
-"overview": "In postwar Tokyo, a blunt, alcohol-soaked doctor diagnoses a swaggering young yakuza with tuberculosis, forging an uneasy bond that’s tested when the gangster’s ruthless former boss returns and drags him back toward the swampy underworld he can’t escape.",
-"poster": "https://image.tmdb.org/t/p/w342/AtOmansAPc5mDb8SpcuV0QT9Tdu.jpg",
-"runtime": 98,
-"title": "Drunken Angel",
-"tmdb_id": 25858,
-"year": 1948
-},
-"259": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7LmhNfSkSkE296AvQbLZK4jgbnp.jpg",
-"cast": [
-"Jean-Pierre Léaud",
-"Marie-France Pisier",
-"Claude Jade",
-"Dani",
-"Dorothée",
-"Daniel Mesguich"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0078771",
-"original_title": "L'Amour en fuite",
-"overview": "Now in his thirties, Antoine Doinel is a divorced proofreader in love with a record seller. Colette Tazzi, now a lawyer, buys his first published autobiography, leading them to a chance meeting.",
-"poster": "https://image.tmdb.org/t/p/w342/nfRNUq4TG4isD236QJ8pSPXeGnC.jpg",
-"runtime": 93,
-"title": "Love on the Run",
-"tmdb_id": 259,
-"year": 1979
 },
 "259023": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uBOtHJ1ofizqE8yWjPa2whbpc0w.jpg",
@@ -33975,31 +46690,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Laundromat",
 "tmdb_id": 259284,
 "year": 1985
-},
-"26030": {
-"backdrop": "https://image.tmdb.org/t/p/w780/sD3fYFWaoLzMPFDcKrGFPrXFJG3.jpg",
-"cast": [
-"Roger Duchesne",
-"Isabelle Corey",
-"Daniel Cauchy",
-"Gérard Buhr",
-"Guy Decomble",
-"Claude Cerval"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Jean-Pierre Melville"
-],
-"imdb_id": "tt0047892",
-"original_title": "Bob le flambeur",
-"overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
-"poster": "https://image.tmdb.org/t/p/w342/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-"runtime": 103,
-"title": "Bob le Flambeur",
-"tmdb_id": 26030,
-"year": 1956
 },
 "260331": {
 "backdrop": "https://image.tmdb.org/t/p/w780/plP1gKOEN1QuV3IhCT6LnWGRldQ.jpg",
@@ -34088,6 +46778,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Music of the Heart",
 "tmdb_id": 26149,
 "year": 1999
+},
+"26185": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qH9fNrMwv7V8vFOGZhbtnfTjRa9.jpg",
+"cast": [
+"John Wayne",
+"Eddie Albert",
+"Diana Muldaur",
+"Colleen Dewhurst",
+"Clu Gulager",
+"David Huddleston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0071824",
+"original_title": "McQ",
+"overview": "Police Lieutenant Lon McQ investigates the killing of his best friend and uncovers corrupt elements of the police department dealing in confiscated drugs.",
+"poster": "https://image.tmdb.org/t/p/w342/l2s6ti9dFmqqxd9HvWmegAsC92p.jpg",
+"runtime": 111,
+"title": "McQ",
+"tmdb_id": 26185,
+"year": 1974
 },
 "262097": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xWTnk8SgJjCrTksZn9tznkRPCm1.jpg",
@@ -34235,6 +46950,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 263912,
 "year": 1989
 },
+"263997": {
+"backdrop": null,
+"cast": [
+"Pete Belcher",
+"Roger Pancake",
+"Roger Vaughn",
+"Pat O'Hara",
+"Miltos Cottis",
+"Jan Musun"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0070059",
+"original_title": "A Field of Honor",
+"overview": "An ex-soldier encounters many dangers in the small town he lives in.",
+"poster": "https://image.tmdb.org/t/p/w342/wpM8hXencUcWkv4kRvlDQMYIOIk.jpg",
+"runtime": 15,
+"title": "A Field of Honor",
+"tmdb_id": 263997,
+"year": 1973
+},
 "264205": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cyp9JlCQlw3dbgoaJhZ96LMSF4.jpg",
 "cast": [
@@ -34257,6 +46997,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Nattbad",
 "tmdb_id": 264205,
 "year": 2006
+},
+"264264": {
+"backdrop": "https://image.tmdb.org/t/p/w780/k5sAmoN5De5aBEP8CimC3DiE6zE.jpg",
+"cast": [
+"Huang Xiaoming",
+"Song Hye-kyo",
+"Takeshi Kaneshiro",
+"Tong Dawei",
+"Zhang Ziyi",
+"Masami Nagasawa"
+],
+"countries": [
+"CN",
+"HK",
+"TW"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt2150371",
+"original_title": "太平轮（上）",
+"overview": "At the end of the World War II and the middle of the Chinese Revolution, three couples from different backgrounds with different nationalities flee from China to the island of Taiwan.",
+"poster": "https://image.tmdb.org/t/p/w342/sHFb19i92z462KPNtR6CCcMJ7Tb.jpg",
+"runtime": 129,
+"title": "The Crossing I",
+"tmdb_id": 264264,
+"year": 2014
 },
 "264290": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4JmsnHsd92bjecfYiTLbljVOKjl.jpg",
@@ -34297,6 +47064,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Film-Tract n° 1968",
 "tmdb_id": 264765,
 "year": 1968
+},
+"26505": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fgur8M7AcLoMhB71FkAaOd0xaJt.jpg",
+"cast": [
+"Freddie Highmore",
+"Mia Farrow",
+"Logan Miller",
+"Robert Stanton",
+"Penny Balfour",
+"Ron Crawford"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0940657",
+"original_title": "Arthur et la vengeance de Maltazard",
+"overview": "Arthur er veldig spent, for i kveld er månedens tredje syklus over og han kan endelig returnere til Minimoyenes land for å gjenforenes med sin kjære Selenia. I landsbyen har Minimoyene forberedt en stor fest til hans ære, og den lille prinsessen har pyntet seg med en kjole av roseblader. Men Arthurs far velger denne lenge etterlengtede dagen til å melde fra at ferien hos bestemor blir forkortet og at de må reise hjem samme dag",
+"poster": "https://image.tmdb.org/t/p/w342/rHCL0HwlQvU01TLRRHZFlvsVEqt.jpg",
+"runtime": 93,
+"title": "Arthur and the Revenge of Maltazard",
+"tmdb_id": 26505,
+"year": 2009
 },
 "265189": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oZp8CLwvRXgBAYGhn8P0pKOD4Ho.jpg",
@@ -34378,6 +47170,158 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Salt of the Earth",
 "tmdb_id": 265297,
 "year": 2014
+},
+"2655": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dN0Y9PpPjW8pX4ZcdxarzswI2K6.jpg",
+"cast": [
+"Michelle Pfeiffer",
+"Harrison Ford",
+"Diana Scarwid",
+"Joe Morton",
+"James Remar",
+"Miranda Otto"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0161081",
+"original_title": "What Lies Beneath",
+"overview": "Det har gått ett år siden Dr. Norman Spencer var utro mot sin vakre kone, Claire. Ettersom Claire fortsatt er totalt uvitende om sannheten og forholdet forlengst er avsluttet, er både Normans liv og ekteskap perfekt. Kanskje det hele er for perfekt? Da Claire forteller sin mann at hun hører mystiske stemmer og at hun ser det forvridde ansiktet til en ung kvinne i huset deres, avskriver Norman Claires angst som rene fantasier. Etter hvert viser det seg imidlertid at Claire er nærmere sannheten enn hun aner, og det blir klart at synene hennes ikke forsvinner uten videre. Minnet om en ung og truende kvinne, har kommet tilbake til Dr. Norman Spencer og hans kone for godt...",
+"poster": "https://image.tmdb.org/t/p/w342/1KqWWhMa4At7hY8uSd0aPbuI7jr.jpg",
+"runtime": 130,
+"title": "What Lies Beneath",
+"tmdb_id": 2655,
+"year": 2000
+},
+"265640": {
+"backdrop": "https://image.tmdb.org/t/p/w780/82Mx9nscMiwGNxpLq6jmMlX50x7.jpg",
+"cast": [
+"Alison Steadman",
+"Roger Sloman",
+"Anthony O'Donnell",
+"Sheila Kelley",
+"Stephen Bill",
+"Richenda Carey"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0074988",
+"original_title": "Nuts in May",
+"overview": "A middle-class couple go camping in Dorset, but peace and quiet elude them.",
+"poster": "https://image.tmdb.org/t/p/w342/2ulu4Upu1rpgVS85EuDguFzGC4H.jpg",
+"runtime": 84,
+"title": "Nuts in May",
+"tmdb_id": 265640,
+"year": 1976
+},
+"265859": {
+"backdrop": null,
+"cast": [
+"Ben Gazzara",
+"Lee Grant",
+"Thomas Chalmers",
+"Gene Saks",
+"Alonso Bosan",
+"Zina Bethune"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0622660",
+"original_title": "Three Plays by Tennessee Williams",
+"overview": "A presentation of Tennessee Williams' three one-act plays: \"Moony's Kid Don't Cry,\" \"The Last of My Solid Gold Watches,\" and \"This Property Is Condemned.\"",
+"poster": "https://image.tmdb.org/t/p/w342/bfPCpa3Fznn8y73BPy7nESGNY1D.jpg",
+"runtime": 60,
+"title": "Three Plays by Tennessee Williams",
+"tmdb_id": 265859,
+"year": 1958
+},
+"26593": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yxAw8UE3MiYbc6yCN3XhVXdG9yx.jpg",
+"cast": [
+"John Wayne",
+"Jorge Rivero",
+"Jennifer O'Neill",
+"Jack Elam",
+"Christopher Mitchum",
+"Victor French"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0066301",
+"original_title": "Rio Lobo",
+"overview": "After the Civil War, a former Union colonel searches for the two traitors whose perfidy led to the loss of a close friend.",
+"poster": "https://image.tmdb.org/t/p/w342/2vlpjEE5GxJr7CiURQ4e2DWybkw.jpg",
+"runtime": 116,
+"title": "Rio Lobo",
+"tmdb_id": 26593,
+"year": 1970
+},
+"266084": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yGlO1l2hfWOGLiQk2oriI18WkYJ.jpg",
+"cast": [
+"Callum Turner",
+"Caleb Landry Jones",
+"Pat Shortt",
+"David Thewlis",
+"Richard E. Grant",
+"Tamsin Egerton"
+],
+"countries": [
+"RO",
+"IE",
+"FR"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt2392810",
+"original_title": "Queen & Country",
+"overview": "In this sequel to Hope and Glory (1987), Bill Rohan has grown up and is drafted into the army, where he and his eccentric best mate, Percy, battle their snooty superiors on the base and look for love in town.",
+"poster": "https://image.tmdb.org/t/p/w342/hgFgNutcHskZFwE3Cfu8McXWjGl.jpg",
+"runtime": 114,
+"title": "Queen & Country",
+"tmdb_id": 266084,
+"year": 2015
+},
+"266463": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bwxCv3WqG2ikA06xd6KqUL7oOPF.jpg",
+"cast": [
+"Dean Shek Tin",
+"Karl Maka",
+"Wu Ma",
+"Wong Wei",
+"Lee Chung-Keung",
+"Lau Nga-Lai"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0082535",
+"original_title": "滑稽時代",
+"overview": "A homeless wanderer just happens across various articles of clothing that make him resemble Charlie Chaplin much to the amusement of passersby.",
+"poster": "https://image.tmdb.org/t/p/w342/5aFSIiXNI2kgWvMrTcOZ7ZF9CH7.jpg",
+"runtime": 98,
+"title": "Laughing Times",
+"tmdb_id": 266463,
+"year": 1980
 },
 "2668": {
 "backdrop": "https://image.tmdb.org/t/p/w780/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg",
@@ -34461,6 +47405,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Michael Jackson: Dangerous - The Short Films",
 "tmdb_id": 267246,
 "year": 1993
+},
+"267615": {
+"backdrop": null,
+"cast": [
+"César Baldaccini",
+"Georges Candilis",
+"Pierre Klossowski",
+"Claude Parent",
+"Roger Planchon",
+"Nicolas Schoeffer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208853",
+"original_title": "Le Celluloïd et le Marbre",
+"overview": "Celluloid and Marble is based on Rohmer's own articles published in \"Cahiers du cinéma\", discussing film in relation to the other arts, maintaining that, in an age of cultural self-consciousness, cinema was “the last refuge of poetry” - the only contemporary art form from which metaphor could still spring naturally and spontaneously.",
+"poster": "https://image.tmdb.org/t/p/w342/mbQa7CqeW5oA7j7ebdgHFxeQKh8.jpg",
+"runtime": 85,
+"title": "Celluloid and Marble",
+"tmdb_id": 267615,
+"year": 2011
 },
 "26765": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xRPrWB3v3c2HUyc7f0NYV6lNtia.jpg",
@@ -34756,6 +47725,55 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 2690,
 "year": 1963
 },
+"269438": {
+"backdrop": null,
+"cast": [
+"Jon Bluming",
+"Bernhard Droog",
+"Peter Faber",
+"Marielle Fiolet",
+"Wim Zomer"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0066582",
+"original_title": "De worstelaar",
+"overview": "A worried father tries to end the relationship that his son Andries has with the wife of a wrestler.",
+"poster": "https://image.tmdb.org/t/p/w342/5ye9wNPsydSoOGSEkqu9fX04nTn.jpg",
+"runtime": 20,
+"title": "The Wrestler",
+"tmdb_id": 269438,
+"year": 1971
+},
+"269516": {
+"backdrop": "https://image.tmdb.org/t/p/w780/otAMZJz7HRZA5pZE1b2BnjEvqG8.jpg",
+"cast": [
+"Steven Weber",
+"Laura Linney",
+"Kirsten Storms",
+"Tim Redwine",
+"Stephen Joffe",
+"Isabella Fink"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0171492",
+"original_title": "Love Letters",
+"overview": "An ambitious U.S. Senator reflects back on his life after the death of a woman whom he loved and kept in contact with only through correspondence.",
+"poster": "https://image.tmdb.org/t/p/w342/b5dbfzgpSvgbhQ0JZMG6YAGmEV2.jpg",
+"runtime": 100,
+"title": "Love Letters",
+"tmdb_id": 269516,
+"year": 1999
+},
 "269710": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sN8Akb8BGf6juqo1Kxt5aSekAOC.jpg",
 "cast": [
@@ -34910,6 +47928,58 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 271945,
 "year": 2014
 },
+"272": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+"cast": [
+"Christian Bale",
+"Michael Caine",
+"Liam Neeson",
+"Katie Holmes",
+"Gary Oldman",
+"Cillian Murphy"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt0372784",
+"original_title": "Batman Begins",
+"overview": "Som barn er Bruce Wayne vitne til at foreldrene blir drept, og der og da bestemmer han seg for å bekjempe byens onde krefter. Dette blir begynnelsen på hans hemmelige alter ego, Batman. Batman tar på seg oppgaven å rydde opp i Gotham og beskytte innbyggerne mot de onde kreftene som herjer.",
+"poster": "https://image.tmdb.org/t/p/w342/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+"runtime": 140,
+"title": "Batman Begins",
+"tmdb_id": 272,
+"year": 2005
+},
+"27205": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+"cast": [
+"Leonardo DiCaprio",
+"Joseph Gordon-Levitt",
+"Ken Watanabe",
+"Tom Hardy",
+"Elliot Page",
+"Dileep Rao"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt1375666",
+"original_title": "Inception",
+"overview": "Dom Cobb er den absolutt beste tyven innen den farlige kunsten å stjele verdifulle hemmeligheter fra dypet av underbevisstheten, i drømmetilstand, når hjernen er på sitt mest sårbare. Cobbs evner har gjort ham ettertraktet i denne makeløse verdenen av industrispionasje, men den har også gjort ham til en internasjonal rømling og kostet ham alt han har kjært. Nå får Cobb sjansen til å utføre en siste jobb som kan gi ham livet tilbake, men bare hvis han makter det nesten umulige: å foreta en \"inception\". I stedet for å stjele en idé, skal Cobb og hans lag av eksperter gjøre det motsatte - de skal plante en. Lykkes de, kan de ha begått det perfekte lovbruddet. Men verken ekspertise eller grundig planlegging kan forberede teamet på møtet med personen som synes å kjenne alle sinnrike detaljer i den mesterlige planen. En person som bare Cobb kunne forutsett.",
+"poster": "https://image.tmdb.org/t/p/w342/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+"runtime": 148,
+"title": "Inception",
+"tmdb_id": 27205,
+"year": 2010
+},
 "27221": {
 "backdrop": "https://image.tmdb.org/t/p/w780/x8YgNond1tLZq3YbhpczonVKig2.jpg",
 "cast": [
@@ -35009,6 +48079,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 273248,
 "year": 2015
 },
+"273303": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1ACTpjVmJqYYc91iOtOQnxKGiuc.jpg",
+"cast": [
+"Mylène Farmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Laurent Boutonnat",
+"Luc Besson",
+"Abel Ferrara",
+"Marcus Nispel"
+],
+"imdb_id": null,
+"original_title": "Mylene Farmer: Music Videos II & III",
+"overview": "Includes videos of Mylène Farmer made ​​by Laurent Boutonnat, Luc Besson, Abel Ferrara and Marcus Nispel.",
+"poster": "https://image.tmdb.org/t/p/w342/wAqgZ27WZvKi525lszd1RGTDyCu.jpg",
+"runtime": 130,
+"title": "Mylene Farmer: Music Videos II & III",
+"tmdb_id": 273303,
+"year": 2001
+},
 "273481": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
 "cast": [
@@ -35034,30 +48127,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 273481,
 "year": 2015
 },
-"27372": {
-"backdrop": "https://image.tmdb.org/t/p/w780/ubi0BuKxVFEHkrTVmAkeTVxXdih.jpg",
+"27371": {
+"backdrop": "https://image.tmdb.org/t/p/w780/BqKararfhJ7FLqF6AStOe7Qbwd.jpg",
 "cast": [
-"Chishū Ryū",
-"Shūji Sano",
-"Haruhiko Tsuda",
-"Shin Saburi",
-"Takeshi Sakamoto",
-"Mitsuko Mito"
+"Ronald Mlodzik",
+"Jon Lidolt",
+"Tania Zolty",
+"Paul Mulholland",
+"Jack Messinger",
+"Iain Ewing"
 ],
 "countries": [
-"JP"
+"CA"
 ],
 "directors": [
-"Yasujirō Ozu"
+"David Cronenberg"
 ],
-"imdb_id": "tt0034591",
-"original_title": "父ありき",
-"overview": "Shuhei Horikawa, a poor schoolteacher, struggles to raise his son Ryohei by himself, despite neither money nor prospects.",
-"poster": "https://image.tmdb.org/t/p/w342/oJ2jVlhj60ofzFfXjfLkOD01rxZ.jpg",
-"runtime": 93,
-"title": "There Was a Father",
-"tmdb_id": 27372,
-"year": 1942
+"imdb_id": "tt0065591",
+"original_title": "Crimes of the Future",
+"overview": "In a dystopic world where a plague is killing off pubescent human females, an esoteric researcher seeks his missing mentor while trying to retain morality in the sex-obsessed society he lives in.",
+"poster": "https://image.tmdb.org/t/p/w342/w28rLVOO5hrmA7fe4cbZgS2993Y.jpg",
+"runtime": 63,
+"title": "Crimes of the Future",
+"tmdb_id": 27371,
+"year": 1984
 },
 "27378": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nnUPsBal4N7Pn9LavIRDDJzq62w.jpg",
@@ -35083,6 +48176,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Heart of Glass",
 "tmdb_id": 27378,
 "year": 1976
+},
+"27429": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kOdGX8i7UIBkfEBnyshQjb17t7Q.jpg",
+"cast": [
+"Paul Hampton",
+"Joe Silver",
+"Lynn Lowry",
+"Allan Kolman",
+"Susan Petrie",
+"Barbara Steele"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0073705",
+"original_title": "Shivers",
+"overview": "The residents of a suburban high-rise apartment building are infected by parasites that turn them into mindless nymphomaniac fiends.",
+"poster": "https://image.tmdb.org/t/p/w342/5RUS0Amu2i1AljRz1P74XsTJlmy.jpg",
+"runtime": 88,
+"title": "Shivers",
+"tmdb_id": 27429,
+"year": 1975
 },
 "27441": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5HvP81VzAVksY4hSNT2bKTukPnA.jpg",
@@ -35229,30 +48347,75 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 275337,
 "year": 1986
 },
-"2760": {
-"backdrop": "https://image.tmdb.org/t/p/w780/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+"2755": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gz4ZIoruJ5e5n3SByTJeDS7qAcs.jpg",
 "cast": [
-"Ivor Novello",
-"Marie Ault",
-"Arthur Chesney",
-"June Tripp",
-"Malcolm Keen",
-"Reginald Gardiner"
+"Jack Nicholson",
+"Kathy Bates",
+"Hope Davis",
+"Dermot Mulroney",
+"June Squibb",
+"Howard Hesseman"
 ],
 "countries": [
-"GB"
+"US"
 ],
 "directors": [
-"Alfred Hitchcock"
+"Alexander Payne"
 ],
-"imdb_id": "tt0017075",
-"original_title": "The Lodger: A Story of the London Fog",
-"overview": "London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.",
-"poster": "https://image.tmdb.org/t/p/w342/tD84zwFeFRf3zG98x558N3PBMV.jpg",
-"runtime": 91,
-"title": "The Lodger: A Story of the London Fog",
-"tmdb_id": 2760,
-"year": 1927
+"imdb_id": "tt0257360",
+"original_title": "About Schmidt",
+"overview": "A recently retired man embarks on a journey to his estranged daughter's wedding, only to discover more about himself and life than he ever expected.",
+"poster": "https://image.tmdb.org/t/p/w342/tstvsrJHY57hc951lb190alXRQm.jpg",
+"runtime": 125,
+"title": "About Schmidt",
+"tmdb_id": 2755,
+"year": 2002
+},
+"2756": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+"cast": [
+"Ed Harris",
+"Mary Elizabeth Mastrantonio",
+"Michael Biehn",
+"Leo Burmester",
+"Todd Graff",
+"John Bedford Lloyd"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt0096754",
+"original_title": "The Abyss",
+"overview": "En amerikansk atomubåt forulykker etter å ha mistet kontrollen fordi det elektriske anlegget svikter. En gruppe oljerigg-arbeidere blir engasjert for å plukke opp overlevende fra vraket. Rigg-sjefens kone, som har konstruert den undersjøiske oljeriggen som brukes i letearbeidet, ankommer også katastrofeområdet. I dypet finner letemannskapet døde mennesker, og observerer også en merkelig selvlysende gjenstand. En gjenstand ingen av dem har sett tidligere...",
+"poster": "https://image.tmdb.org/t/p/w342/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+"runtime": 140,
+"title": "The Abyss",
+"tmdb_id": 2756,
+"year": 1989
+},
+"275983": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dW2VmLuO50AlWGbRAnrMlE19IbC.jpg",
+"cast": [
+"Timothy \"Speed\" Levitch"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0343986",
+"original_title": "Live from Shiva's Dance Floor",
+"overview": "Poet and performance artist Timothy \"Speed\" Levitch, who starred in a documentary about his life philosophy in 1998, is back in this meditation on life in post-September 11 New York City. Touring \"ground zero\" with director Richard Linklater, Levitch discusses his ideas on the creation of a memorial, what it's like to live with fear (or not to live with it) and more.",
+"poster": "https://image.tmdb.org/t/p/w342/maT4EssXXRuRfnfm4HLRPBdpUZ1.jpg",
+"runtime": 21,
+"title": "Live from Shiva's Dance Floor",
+"tmdb_id": 275983,
+"year": 2003
 },
 "2761": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nfsTvfanGeIicFPKsYSAO7rpNqV.jpg",
@@ -35303,6 +48466,54 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Young and Innocent",
 "tmdb_id": 2762,
 "year": 1937
+},
+"276651": {
+"backdrop": null,
+"cast": [
+"Neil Young",
+"Newell Alexander",
+"Inez Drummond",
+"Craig Hayes",
+"Rosemarie Lovell",
+"Connie Simmons"
+],
+"countries": [],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0447454",
+"original_title": "Neil Young: Solo Trans",
+"overview": "Solo Trans is a concert film by Neil Young, released in 1984. It was recorded at the Hara Arena in Dayton, Ohio on September 18, 1983 during Young's Solo Trans tour.",
+"poster": "https://image.tmdb.org/t/p/w342/1XeiffkUh53cWGMdTrxcZE1QxXW.jpg",
+"runtime": 60,
+"title": "Neil Young: Solo Trans",
+"tmdb_id": 276651,
+"year": 1984
+},
+"27709": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bYyfLgEeLpFlioUH9k7WTUB3OW0.jpg",
+"cast": [
+"George Maharis",
+"Richard Basehart",
+"Anne Francis",
+"Dana Andrews",
+"John Larkin",
+"Richard Bull"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0059678",
+"original_title": "The Satan Bug",
+"overview": "A US government germ warfare lab has had an accident. The first theory is that one of the germs has been released and killed several scientists. The big fear is that a more virulent strain, named The Satan Bug because all life can be killed off by it should it escape, may have been stolen.",
+"poster": "https://image.tmdb.org/t/p/w342/jMqA1ooDaqQqaifI5hnU7tw9hf2.jpg",
+"runtime": 114,
+"title": "The Satan Bug",
+"tmdb_id": 27709,
+"year": 1965
 },
 "277367": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cAuPF8Iko61aSfV8VETyh3EfQnY.jpg",
@@ -35426,6 +48637,62 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 278727,
 "year": 1958
 },
+"278770": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ovqx3lYQg6GadGJfXo4hY9ZU0yu.jpg",
+"cast": [
+"Matts Carlgren",
+"Olof Palme",
+"Herman Kling",
+"Rune Johansson",
+"Henri Swaving",
+"Adrian Bay"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson",
+"Kalle Boman",
+"Lena Ewert",
+"Staffan Hedqvist",
+"Lennart Malmer",
+"Jörgen Persson",
+"Ingela Romare",
+"Inge Roos",
+"Axel Rudorf-Lohmann",
+"Rudi Spee",
+"Bo Widerberg"
+],
+"imdb_id": "tt0126117",
+"original_title": "Den vita sporten",
+"overview": "Documentary film about the protests against the 1968 Davis Cup tennis match between Sweden and Rhodesia, in Båstad, Sweden. In a series of interviews, demonstrators and members of the Swedish government give their views on sport, politics and civil disobedience.",
+"poster": "https://image.tmdb.org/t/p/w342/dB9biQm3fD6cyL3jO3f6yPUzGBs.jpg",
+"runtime": 102,
+"title": "The White Game",
+"tmdb_id": 278770,
+"year": 1968
+},
+"278995": {
+"backdrop": "https://image.tmdb.org/t/p/w780/its1MQOatIfsiCRC0mMrVQF56Rz.jpg",
+"cast": [
+"Evelyne Brochu",
+"David Cronenberg"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt3831484",
+"original_title": "The Nest",
+"overview": "A doctor must remove a parasite infestation from within a patient's breast.",
+"poster": "https://image.tmdb.org/t/p/w342/9h5d0trdZVwZZXIrpC6ck2GCPNu.jpg",
+"runtime": 10,
+"title": "The Nest",
+"tmdb_id": 278995,
+"year": 2013
+},
 "27958": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6Dm3hMRAFJqMS9wGkCY14XbZFrm.jpg",
 "cast": [
@@ -35451,6 +48718,50 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Cruising",
 "tmdb_id": 27958,
 "year": 1980
+},
+"279647": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5INgyYNQUB0XehvkD7JFCJ9UFA0.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt2364502",
+"original_title": "Building No. 7",
+"overview": "A short by Steven Soderbergh described as “intense sci-fi homage to Godard.”",
+"poster": "https://image.tmdb.org/t/p/w342/62on4bIijyjiBoo1TJ0ZeweZKJf.jpg",
+"runtime": 4,
+"title": "Building No. 7",
+"tmdb_id": 279647,
+"year": 2006
+},
+"2800": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vL1HcSiY83UCnqXo7zeeVA2WYIb.jpg",
+"cast": [
+"Jennifer Aniston",
+"Kevin Costner",
+"Shirley MacLaine",
+"Mark Ruffalo",
+"Richard Jenkins",
+"Christopher McDonald"
+],
+"countries": [
+"DE",
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0398375",
+"original_title": "Rumor Has It...",
+"overview": "Sarah Huttinger kan trygt kalles ubesluttsom og søkende. Hun har omsider sagt ja til å gifte seg med kjæresten Jeff, men klarer ikke å bli begeistret. Kanskje er ikke ekteskapet det hun ønsker. Karrieren hennes kunne også sett bedre ut. Riktignok er hun skribent i selveste The New York Times, men ikke i den livligste avdelingen; hun skriver nekrologer. Bare for å gjøre sinnsstemningen enda mørkere, er Sarah på vei hjem til familien i Los Angeles og lillesøster Annies bryllup. Sarah misliker ikke familien, men hun føler seg ikke hjemme i dens verden av hyppige tenniskamper og boblende humør under evig sol. Dette besøket skal imidlertid forandre alt. Via bestemoren Catherine, en levedame med bitende bemerkninger over drinken, får Sarah vite at hun kan være resultatet av et sidesprang moren hadde like før hun giftet seg. Til overmål skal historien være inspirasjonen for boken og filmen \"Manndomsprøven\"!",
+"poster": "https://image.tmdb.org/t/p/w342/ypirKAqugrpevnEqMJxkBoIlgco.jpg",
+"runtime": 97,
+"title": "Rumor Has It...",
+"tmdb_id": 2800,
+"year": 2005
 },
 "280138": {
 "backdrop": null,
@@ -35481,6 +48792,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Pictura",
 "tmdb_id": 280138,
 "year": 1951
+},
+"28059": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m3lFal27s4wY96nrP3t2k0rbRzY.jpg",
+"cast": [
+"Giovanni Ribisi",
+"Steve Zahn",
+"Amie Carey",
+"Nicky Katt",
+"Parker Posey",
+"Ajay Naidu"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0120238",
+"original_title": "SubUrbia",
+"overview": "A group of suburban teenagers try to support each other through the difficult task of becoming adults.",
+"poster": "https://image.tmdb.org/t/p/w342/7PdRbG09K9JHYyOwwCSn3OdJb0N.jpg",
+"runtime": 121,
+"title": "SubUrbia",
+"tmdb_id": 28059,
+"year": 1997
+},
+"281": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
+"cast": [
+"Ralph Fiennes",
+"Angela Bassett",
+"Juliette Lewis",
+"Tom Sizemore",
+"Michael Wincott",
+"Vincent D'Onofrio"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0114558",
+"original_title": "Strange Days",
+"overview": "Rett før overgangen til det nye millenniet har menneskets kontinuerlige jakt på ultimate sanseopplevelser gitt næring til designerdop-industrien. Lenny Nero er en tidligere politimann som nå livnærer seg ved å selge digitaliserte versjoner av andre menneskers opplevelser. Men en dag viser en av dem et drap.",
+"poster": "https://image.tmdb.org/t/p/w342/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+"runtime": 145,
+"title": "Strange Days",
+"tmdb_id": 281,
+"year": 1995
 },
 "281678": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3vkyjugih3krGkGxuWYBgYBaUnE.jpg",
@@ -35532,33 +48893,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 28176,
 "year": 1988
 },
-"28212": {
-"backdrop": "https://image.tmdb.org/t/p/w780/F9yotopY4t5P9DBvY28iTIO6hl.jpg",
+"28213": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oK5jsCVz1yIsAPw3lxrQuGKHoM.jpg",
 "cast": [
-"Matti Pellonpää",
-"Evelyne Didi",
-"André Wilms",
-"Kari Väänänen",
-"Christine Murillo",
-"Jean-Pierre Léaud"
+"Anne Teyssèdre",
+"Hugues Quester",
+"Florence Darel",
+"Eloïse Bennett",
+"Sophie Robin",
+"Marc Lelou"
 ],
 "countries": [
-"FR",
-"FI",
-"DE",
-"SE"
+"FR"
 ],
 "directors": [
-"Aki Kaurismäki"
+"Éric Rohmer"
 ],
-"imdb_id": "tt0105750",
-"original_title": "La Vie de Bohème",
-"overview": "Three penniless artists become friends in modern-day Paris: Rodolfo, an Albanian painter with no visa, Marcel, a playwright and magazine editor with no publisher, and Schaunard, a post-modernist composer of execrable noise.",
-"poster": "https://image.tmdb.org/t/p/w342/wBd8ZCQY3uW1dDLIzXwAmHsvB5B.jpg",
-"runtime": 103,
-"title": "La Vie de Bohème",
-"tmdb_id": 28212,
-"year": 1992
+"imdb_id": "tt0097106",
+"original_title": "Conte de printemps",
+"overview": "The story of an introverted young girl  just reaching adulthood who takes a liking to an older woman she meets at a party and determines to match her off with her father, despite the latter's already having a lover of his own.",
+"poster": "https://image.tmdb.org/t/p/w342/2MDvnal22vJiGJuq2JQwmAFugKk.jpg",
+"runtime": 107,
+"title": "A Tale of Springtime",
+"tmdb_id": 28213,
+"year": 1990
 },
 "282387": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2pDhl2f2bfGfTs3Ggi5vul2ekw6.jpg",
@@ -35609,6 +48967,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 28272,
 "year": 1958
 },
+"282897": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lfS5uK75SxZLeXWXDlc83dwspcO.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0167809",
+"original_title": "Bumble Boogie",
+"overview": "A bumblebee (to a boogie-woogie version of Flight of the Bumblebee) is being attacked by flowers made of piano keys, flowers made of trumpets, snakes made of piano keys, the piano hammers hitting the \"strings\" of the sheet music, and so forth.",
+"poster": "https://image.tmdb.org/t/p/w342/hyQtsaaX5kGhm1Fyww6uLO1x3Rt.jpg",
+"runtime": 3,
+"title": "Bumble Boogie",
+"tmdb_id": 282897,
+"year": 1948
+},
 "282984": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pqdOXcE2zSSM2qnSBTt0O81Oq6r.jpg",
 "cast": [
@@ -35633,6 +49009,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Irrational Man",
 "tmdb_id": 282984,
 "year": 2015
+},
+"2830": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oL1xwtDOGL55Zyu7AuNKpt4y8N7.jpg",
+"cast": [
+"Ashton Kutcher",
+"Tara Reid",
+"Terence Stamp",
+"Jeffrey Tambor",
+"Molly Shannon",
+"Andy Richter"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0270980",
+"original_title": "My Boss's Daughter",
+"overview": "When a young man agrees to housesit for his boss, he thinks it'll be the perfect opportunity to get close to the woman he desperately has a crush on – his boss's daughter. But he doesn't plan on the long line of other houseguests that try to keep him from his mission. And he also has to deal with the daughter's older brother, who's on the run from local drug dealers.",
+"poster": "https://image.tmdb.org/t/p/w342/6z6ehjP1GyMLFeja9pHGGZb9B2.jpg",
+"runtime": 83,
+"title": "My Boss's Daughter",
+"tmdb_id": 2830,
+"year": 2003
 },
 "28307": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fGntQlOFZxPptDmmZsc9bENf5ZT.jpg",
@@ -35724,6 +49125,107 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Ydessa, the Bears and etc.",
 "tmdb_id": 283514,
 "year": 2004
+},
+"283571": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zJCpZrQ5xNyjeEPwiGygVneYRDm.jpg",
+"cast": [
+"Roy Chiao",
+"Rowena Cortes",
+"John Woo",
+"Lee Hoi-Sang",
+"Fung Hak-On",
+"David Wu"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0075906",
+"original_title": "大煞星與小妹頭",
+"overview": "On that side of the track is Ah Sing (Roy Chiao), uncouth, unkempt, a garage repairman, a bravado with plenty of tricks up his overall sleeve. And on the other side of the track is rich, young recording artist Gayle (Rowena Cortes), idol of the young with her songs and dances, but an orphan. Harry is her manager.  They should not meet, least to say forming some kind of partnership, but they do. Gayle goes to Ah Sing's garage for repairs. When Harry and she drive off, the car's undercarriage Ah Sing and drags him along. Fate steps in the form of five toughles who stop the car and kidnap Gayle to a farmhouse. It so happens that Gayle's father and the five were robbers but the father took off with all the money while the five were caught. They want the money back now they have served the time...",
+"poster": "https://image.tmdb.org/t/p/w342/ur8AslF0zSatWYcUXZ31TRlpH5u.jpg",
+"runtime": 96,
+"title": "Follow the Star",
+"tmdb_id": 283571,
+"year": 1978
+},
+"283573": {
+"backdrop": "https://image.tmdb.org/t/p/w780/p120AKUsh9CQwT2dJRkKZ0ccq92.jpg",
+"cast": [
+"Ricky Hui Koon-Ying",
+"Johnny Koo Kwok-Wah",
+"JoJo Chan Kei-Kei",
+"Tong Ching",
+"Yik Ga",
+"Yip Ha-Lei"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0076580",
+"original_title": "錢作怪",
+"overview": "Ricky and Fatso are friends in need. They are in dire need of money since they are only paid slave wages at the bottling factory. However, they become millionaires overnight after buying a winning lottery ticket. During one of their swingin' nights on the town, Ricky is suddenly attacked by an upset stomach; and in no time, a quack doctor diagnoses the seizure as terminal cancer. Ricky seriously considers suicide. But he is appalled by the drawbacks inherent in the available methods of doing himself in--primarily the pain! It is on a rooftop from which he is supposed to make a plunge that he saves a poor man from suicide by giving the latter all the money he has. In gratitude, the newly rich man promises to hire a killer to finish off his suffering benefactor...",
+"poster": "https://image.tmdb.org/t/p/w342/gguzPqTBsco1XFgfGGV7StGF0I4.jpg",
+"runtime": 101,
+"title": "From Riches to Rags",
+"tmdb_id": 283573,
+"year": 1980
+},
+"283574": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eMPLkjimRJZntFOfjEeZ5YohD50.jpg",
+"cast": [
+"Josephine Siao",
+"Ricky Hui Koon-Ying",
+"Woo Fung",
+"Lau Hak-Suen",
+"David Wu",
+"Kan Yee-Ching"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0083605",
+"original_title": "八彩林亞珍",
+"overview": "Jane, with plain looks but a heart of gold, is always in between jobs. Once she gets a job, her knack for creating awkward situations immediately loses it for her. Ricky is her suitor, but he gets nowhere as the girl has no time for love. So Ricky goes along with her in job hunting. Somehow, Jane lands on a job as governess. Not to a child, but to an uncouth very old, very rich man who still wants to lead the life of his poor, uncivilized youth. His son is now running the old man's millions. He wants to bring up the father the civilized way. And he wants to take over the whole city through take-over deals. He is ruthless and has thrown thousands into the streets.",
+"poster": "https://image.tmdb.org/t/p/w342/twURwPCNoZHHKbfqEMqVthWRcKn.jpg",
+"runtime": 86,
+"title": "Plain Jane to the Rescue",
+"tmdb_id": 283574,
+"year": 1982
+},
+"283578": {
+"backdrop": null,
+"cast": [
+"Sun Yueh",
+"David Tao",
+"Linda Jui-Chi Liu",
+"Hsiao Hou Tao",
+"Kuan Kuan",
+"Chiang Hsia"
+],
+"countries": [
+"HK",
+"TW"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0088421",
+"original_title": "笑匠",
+"overview": "John Woo's melodramatic tragicomedy The Time You Need a Friend (1985) stands at the crucial crossroads in the director's career. Woo had been churning out innocuous comedies for more than a few years, and after establishing the \"heroic bloodshed\" genre, he'd never look back. But this tale of two comedians - estranged former pals who bury the hatchet for one last show together - blends the pathos and male-bonding of Woo's later dramas with the silliness and pratfalls that marked his early works. At their peak, Ku Ren and Shem Bien were an unstoppable screen comedy team, the undisputed stars of the silent era. But a major falling out has kept the duo offstage for decades. Despite the urgings of family and friends, Ku and Shem refuse to reconcile. As both men approach their twilight years, one last chance for a reunion presents itself in the form of a televised charity benefit. Ku Ren and Shem Bien struggle to come to terms with years of bitterness, and bring the house down once again.",
+"poster": "https://image.tmdb.org/t/p/w342/lnDcYwRwvCr7G8TNVxbRy2CHQIJ.jpg",
+"runtime": 91,
+"title": "The Time You Need a Friend",
+"tmdb_id": 283578,
+"year": 1984
 },
 "28368": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iOhj9IPNRppo5oiJbYSniYtAffZ.jpg",
@@ -35857,6 +49359,38 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 284475,
 "year": 1972
 },
+"284582": {
+"backdrop": "https://image.tmdb.org/t/p/w780/f2Clh7KOcO4PKQV5cZSCP29N3SN.jpg",
+"cast": [
+"Madonna",
+"Erika Belle",
+"Christopher Ciccone",
+"John Leguizamo",
+"Louie Louie",
+"Deke Anderson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michele Ferrone",
+"Bruce Gowers",
+"Arthur Pierson",
+"Jean-Baptiste Mondino",
+"James Foley",
+"Mary Lambert",
+"David Fincher",
+"Herb Ritts"
+],
+"imdb_id": "tt0500162",
+"original_title": "Madonna: The Immaculate Collection",
+"overview": "The Immaculate Collection is the first commercially released greatest videos compilation by singer Madonna. Released on November 13, 1990 to accompany the audio CD, it contained hits spanning 1983-1990. The collection won \"Best Long Form Video\" category at the 1991 MTV Video Music Awards. Includes the following videos: 1. Lucky Star 2. Borderline 3. Like a Virgin 4. Material Girl 5. Papa Don't Preach 6. Open Your Heart 7. La Isla Bonita 8. Like a Prayer 9. Express Yourself 10. Cherish 11. Oh Father 12. Vogue 13. Vogue (1990 MTV Awards Show Performance)",
+"poster": "https://image.tmdb.org/t/p/w342/amb5JRLn3hfAK4kRTFe1vK87LXI.jpg",
+"runtime": 60,
+"title": "Madonna: The Immaculate Collection",
+"tmdb_id": 284582,
+"year": 1990
+},
 "28503": {
 "backdrop": "https://image.tmdb.org/t/p/w780/z2ZiFPibdguCYJBN9rZeHCMHxcO.jpg",
 "cast": [
@@ -35956,6 +49490,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 285369,
 "year": 1957
 },
+"285783": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vAYMNOcGgFa7HtjvOdxQYPGntgz.jpg",
+"cast": [
+"Joseph Gordon-Levitt",
+"Ben Kingsley",
+"Charlotte Le Bon",
+"James Badge Dale",
+"Clément Sibony",
+"César Domboy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt3488710",
+"original_title": "The Walk",
+"overview": "Dette er den sanne historien om Philippe Petit, som trosset døden i et ulovlig stunt med stålwire høyt oppe mellom Tvillingtårnene i 1974.",
+"poster": "https://image.tmdb.org/t/p/w342/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+"runtime": 123,
+"title": "The Walk",
+"tmdb_id": 285783,
+"year": 2015
+},
 "28580": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg",
 "cast": [
@@ -36033,6 +49592,42 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Martian",
 "tmdb_id": 286217,
 "year": 2015
+},
+"286396": {
+"backdrop": "https://image.tmdb.org/t/p/w780/s902To7yxdYazC8aKVFY6sMXmHj.jpg",
+"cast": [
+"Madonna",
+"Tomas Arana",
+"Rob Campbell",
+"Matt Dillon",
+"Jamie King",
+"Mark Margolis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jean-Baptiste Mondino",
+"David Fincher",
+"Jonas Åkerlund",
+"Matthew Rolston",
+"Michael Haussman",
+"Chris Cunningham",
+"Mark Romanek",
+"Johan Renck",
+"Walter A. Stern",
+"Melodie McDaniel",
+"Brett Ratner",
+"Stéphane Sednaoui"
+],
+"imdb_id": "tt0245247",
+"original_title": "Madonna: The Video Collection 93:99",
+"overview": "A collection of Madonna's favorite videos from 1993-1999. Contains the 14 videos: Bad Girl, Fever, Rain, Secret, Take A Bow, Bedtime Story, Human Nature, Love Don't Live Here Anymore, Frozen, Ray Of Light, Drowned World, The Power of Goodbye, Nothing Really Matters, and Beautiful Stranger.",
+"poster": "https://image.tmdb.org/t/p/w342/18cCNCH2Qs0tTUpsXMu2xn6vxLr.jpg",
+"runtime": 67,
+"title": "Madonna: The Video Collection 93:99",
+"tmdb_id": 286396,
+"year": 1999
 },
 "287095": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zjO1MfRvNyZUWYW11IUPxlWfqK.jpg",
@@ -36119,6 +49714,42 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Childhood of Art",
 "tmdb_id": 287225,
 "year": 1990
+},
+"287868": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ihayJbSCQYbNgnj9pK0MMlvaJC0.jpg",
+"cast": [
+"Mariella Zanetti",
+"Antonietta Caiazzo",
+"Mario Colli",
+"José Greci",
+"Roberto Miali",
+"Silvio Lillo"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Carlo Musso",
+"Giulio Questi",
+"Nelo Risi",
+"Gian Vittorio Baldi",
+"Piero Nelli",
+"Francesco Maselli",
+"Florestano Vancini",
+"Marco Ferreri",
+"Lorenza Mazzetti",
+"Gianfranco Mingozzi",
+"Giulio Macchi"
+],
+"imdb_id": "tt0055028",
+"original_title": "Le italiane e l'amore",
+"overview": "An episodic film based on letters to agony columns, showing the effect of sex on the lives of women.",
+"poster": "https://image.tmdb.org/t/p/w342/6FHWaP61SC9gG716wBVIRPeVDg9.jpg",
+"runtime": 110,
+"title": "Latin Lovers",
+"tmdb_id": 287868,
+"year": 1961
 },
 "287929": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8WrGWteMq8JrRu5gcDJv7XwxlR4.jpg",
@@ -36330,6 +49961,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 290848,
 "year": 1917
 },
+"291175": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"Virginie Thévenet",
+"Pascal Greggory",
+"Christophe Bernard",
+"Béatrice Romand",
+"André Dupon"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt0387553",
+"original_title": "Rosette vend des roses",
+"overview": "A short film directed by and starring Rosette, best known for her acting work with Éric Rohmer, featuring a star-studded cast and crew of regular players from Rohmer films.  With the help of her friends, Rosette takes advantage of a gullible stranger passing by in order to sell him all her roses.",
+"poster": null,
+"runtime": 12,
+"title": "Rosette vend des roses",
+"tmdb_id": 291175,
+"year": 1985
+},
 "291351": {
 "backdrop": "https://image.tmdb.org/t/p/w780/f4lMXJZgCAlxazlERC3TBqc68vs.jpg",
 "cast": [
@@ -36354,6 +50011,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Sea of Trees",
 "tmdb_id": 291351,
 "year": 2016
+},
+"29140": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pDbusBxuQdGw8nmtTYBuxe8yGND.jpg",
+"cast": [
+"Jeroen Krabbé",
+"Renée Soutendijk",
+"Thom Hoffman",
+"Dolf de Vries",
+"Geert de Jong",
+"Hans Veerman"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0086543",
+"original_title": "De vierde man",
+"overview": "A writer whose lover is a woman widowed three times begins to suspect she may be responsible for her husbands' deaths.",
+"poster": "https://image.tmdb.org/t/p/w342/iO7pYvGHcxekOqmQKsY4qeSygAi.jpg",
+"runtime": 98,
+"title": "The 4th Man",
+"tmdb_id": 29140,
+"year": 1983
 },
 "292187": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gM4qjIGmTfh7eooGfinKVPGX945.jpg",
@@ -36445,6 +50127,51 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "3 Godfathers",
 "tmdb_id": 29244,
 "year": 1948
+},
+"292451": {
+"backdrop": null,
+"cast": [
+"Robert Bolt",
+"Eddie Fowlie",
+"David Lean"
+],
+"countries": [],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0296729",
+"original_title": "Lost and Found: The Story of Cook's Anchor",
+"overview": "Director David Lean became involved in the search for an anchor lost by Captain Cook in 1773.  This documentary follows the search for this historic item.",
+"poster": "https://image.tmdb.org/t/p/w342/hIBLL9gDFxGtIlWJcKWOaSSK0Eq.jpg",
+"runtime": 40,
+"title": "Lost and Found: The Story of Cook's Anchor",
+"tmdb_id": 292451,
+"year": 1979
+},
+"293204": {
+"backdrop": null,
+"cast": [
+"Wim Schermerhorn",
+"Evert Roskam",
+"Florrie Rost van Tonningen-Heubel",
+"Johannes Zaaijer",
+"Anton Mussert",
+"Adolf Hitler"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0063448",
+"original_title": "Portret van Anton Adriaan Mussert",
+"overview": "Documentary about the leader of the fascist party in The Netherlands, from 1931 till 1945. This architect called Anton Mussert was shot in 1946 after having been convicted for high treason and aiding the enemy.",
+"poster": "https://image.tmdb.org/t/p/w342/r8rW2BXqugpGurdD9bIABNdtnN7.jpg",
+"runtime": 50,
+"title": "Portrait of Anton Adriaan Mussert",
+"tmdb_id": 293204,
+"year": 1970
 },
 "293242": {
 "backdrop": null,
@@ -36539,31 +50266,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 293426,
 "year": 1989
 },
-"29369": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7Mg5eGXNXiPUy9cmfi6ebr2Ulgn.jpg",
-"cast": [
-"Anna Karina",
-"Szabó László",
-"Jean-Pierre Léaud",
-"Marianne Faithfull",
-"Yves Afonso",
-"Claude Bakka"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Jean-Luc Godard"
-],
-"imdb_id": "tt0060647",
-"original_title": "Made in U.S.A",
-"overview": "Paula Nelson goes to Atlantic City to meet her lover, Richard Politzer, but finds him  dead and decides to investigate his death. In her hotel room, she meets Typhus, whom she ends up knocking out. His corpse is later found in the apartment of David Goodis, a writer. Paula is arrested and interrogated. From then on, she encounters many gangsters.",
-"poster": "https://image.tmdb.org/t/p/w342/c4SDhdZlKA03flhd4ssO3Opm8Xa.jpg",
-"runtime": 85,
-"title": "Made in U.S.A",
-"tmdb_id": 29369,
-"year": 1967
-},
 "293973": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8wituCVUO3UmOiDTPCWJtpAIucr.jpg",
 "cast": [
@@ -36655,6 +50357,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 293990,
 "year": 2006
 },
+"29437": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7ICl9c70ntA61ayFhlfmwtLzSqt.jpg",
+"cast": [
+"Marilyn Chambers",
+"Terri Hanauer",
+"Frank Moore",
+"Joe Silver",
+"Howard Ryshpan",
+"Patricia Gage"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0076590",
+"original_title": "Rabid",
+"overview": "A young woman develops a taste for human blood after experimental plastic surgery, and her victims turn into bloodthirsty zombies, leading into a city-wide epidemic.",
+"poster": "https://image.tmdb.org/t/p/w342/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg",
+"runtime": 91,
+"title": "Rabid",
+"tmdb_id": 29437,
+"year": 1977
+},
 "29445": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dLiEN68i1HgTf2voTzPAtsI1P1m.jpg",
 "cast": [
@@ -36706,31 +50433,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 29449,
 "year": 1972
 },
-"29453": {
-"backdrop": "https://image.tmdb.org/t/p/w780/eEPY5W9ZSMHk48kaowcRNbzCilf.jpg",
-"cast": [
-"Max von Sydow",
-"Ingrid Thulin",
-"Gunnar Björnstrand",
-"Naima Wifstrand",
-"Bengt Ekerot",
-"Bibi Andersson"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0051365",
-"original_title": "Ansiktet",
-"overview": "A traveling magician and his troupe arrive in a Swedish town in the 1840s, where their act is scrutinized by local authorities and a skeptical medical official. Their stay leads to a series of confrontations that test the boundaries between performance, belief, and deception.",
-"poster": "https://image.tmdb.org/t/p/w342/46DEYkr96MxzUmdwgmj2U7gWokZ.jpg",
-"runtime": 102,
-"title": "The Magician",
-"tmdb_id": 29453,
-"year": 1958
-},
 "29454": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1Z08RUb16Yz091IpzIUTM2s0P7U.jpg",
 "cast": [
@@ -36756,6 +50458,144 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Face to Face",
 "tmdb_id": 29454,
 "year": 1976
+},
+"295273": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hWvaWEpCAbaOc9VpLkrJFsMTfL7.jpg",
+"cast": [
+"Zhang Ziyi",
+"Takeshi Kaneshiro",
+"Song Hye-kyo",
+"Huang Xiaoming",
+"Tong Dawei",
+"Masami Nagasawa"
+],
+"countries": [
+"CN",
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt4027270",
+"original_title": "太平轮（下）：彼岸",
+"overview": "A story of three couples and their intertwining love stories set in 1940s Taiwan and Shanghai, centered around the 1949 sinking of Taiping.",
+"poster": "https://image.tmdb.org/t/p/w342/zZr58P3WKR8IpvhioLCD4CG6waa.jpg",
+"runtime": 131,
+"title": "The Crossing II",
+"tmdb_id": 295273,
+"year": 2015
+},
+"295599": {
+"backdrop": null,
+"cast": [
+"Yvonne Blei-Weissmann",
+"Diek de Brauw",
+"Pieter Jelle Bouman",
+"Wim Noordhoek",
+"Marian Bruning",
+"Marchie Lamping"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0057056",
+"original_title": "Feest!",
+"overview": "Short film about the blossoming affection of an upper-class schoolboy for a girl from a different class. The film, shot by Verhoeven at the same school he attended in The Hague, is loosely based on the description of the unrequited love of Anton Wachter in Simon Vestdijk's novel Back to Ina Damman, one of the parts in the Anton Wachter cycle.",
+"poster": "https://image.tmdb.org/t/p/w342/m7eBzlwJnjxHmdcM06KfeySD75T.jpg",
+"runtime": 28,
+"title": "Let's Have a Party",
+"tmdb_id": 295599,
+"year": 1963
+},
+"295601": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0059366",
+"original_title": "Het Korps Mariniers",
+"overview": "Het korps Mariniers is a documentary about the Royal Dutch Marine Corps, which Paul Verhoeven made while being assigned to the Marine Film Service as a documentary filmmaker.",
+"poster": "https://image.tmdb.org/t/p/w342/zvfHTUScPdB1eL89R5URG3NWXzP.jpg",
+"runtime": 23,
+"title": "The Royal Dutch Marine Corps",
+"tmdb_id": 295601,
+"year": 1965
+},
+"295605": {
+"backdrop": null,
+"cast": [
+"Jan van Mastrigt",
+"Jaap van Donselaar",
+"Maarten Schutte",
+"Geerda Walma van der Molen"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0056182",
+"original_title": "De lifters",
+"overview": "A road movie about three guys (two hitchhikers, one driver) and one woman.",
+"poster": "https://image.tmdb.org/t/p/w342/eMFIJIld4cqn4cgQWvfoa6CVvGc.jpg",
+"runtime": 16,
+"title": "The Hitchhikers",
+"tmdb_id": 295605,
+"year": 1962
+},
+"295607": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iQRiPwzJ0jgRVzGXzxQpvi0r0ch.jpg",
+"cast": [
+"Marina Schaper",
+"Jan van Mastrigt"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0055228",
+"original_title": "Niets bijzonders",
+"overview": "A man is thinking about his relationship with his girlfriend, while checking out a gorgeous woman in a bar.",
+"poster": "https://image.tmdb.org/t/p/w342/vJrI1o3GsZAhrmwon7Y6VuUg8Gt.jpg",
+"runtime": 9,
+"title": "Nothing Special",
+"tmdb_id": 295607,
+"year": 1961
+},
+"295699": {
+"backdrop": "https://image.tmdb.org/t/p/w780/31M4Rty4wAeRqVuykwJqTKIh0Ed.jpg",
+"cast": [
+"Blake Jenner",
+"Ryan Guzman",
+"Zoey Deutch",
+"Glen Powell",
+"Wyatt Russell",
+"Tyler Hoechlin"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt2937696",
+"original_title": "Everybody Wants Some!!",
+"overview": "A comedy that follows a group of friends as they navigate their way through the freedoms and responsibilities of unsupervised adulthood.",
+"poster": "https://image.tmdb.org/t/p/w342/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+"runtime": 117,
+"title": "Everybody Wants Some!!",
+"tmdb_id": 295699,
+"year": 2016
 },
 "295965": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fuJd955lVX9W6eJAUN1Uoa7wxIQ.jpg",
@@ -36865,6 +50705,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 297725,
 "year": 2018
 },
+"298": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+"cast": [
+"George Clooney",
+"Brad Pitt",
+"Al Pacino",
+"Matt Damon",
+"Don Cheadle",
+"Bernie Mac"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0496806",
+"original_title": "Ocean's Thirteen",
+"overview": "Danny Oceans svindler-gjeng er tilbake og planlegger en mer personlig sak enn noen gang tidligere. Når den hensynsløse casino-eieren Willy Bank lurer Reuben Tishkoff, og forårsaker at han får et hjerteinfarkt. Lover Danny Ocean at han og hans team vil gjøre alt de kan for å robbe Willy Bank for alt han eier. Selv om det inkluderer å få hjelp fra en av sine egne fiender, Terry Benedict.",
+"poster": "https://image.tmdb.org/t/p/w342/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+"runtime": 122,
+"title": "Ocean's Thirteen",
+"tmdb_id": 298,
+"year": 2007
+},
 "2984": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xGaloya0EgeP0BGbxm2lTEX82Zo.jpg",
 "cast": [
@@ -36889,6 +50754,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Countess from Hong Kong",
 "tmdb_id": 2984,
 "year": 1967
+},
+"29884": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
+"cast": [
+"Gary Cooper",
+"Barbara Stanwyck",
+"Oskar Homolka",
+"Henry Travers",
+"S.Z. Sakall",
+"Tully Marshall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0033373",
+"original_title": "Ball of Fire",
+"overview": "A group of academics have spent years shut up in a house working on the definitive encyclopedia. When one of them discovers that his entry on slang is hopelessly outdated, he ventures into the wide world to learn about the evolving language. Here he meets Sugarpuss O’Shea, a nightclub singer, who’s on top of all the slang—and, it just so happens, needs a place to stay.",
+"poster": "https://image.tmdb.org/t/p/w342/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+"runtime": 111,
+"title": "Ball of Fire",
+"tmdb_id": 29884,
+"year": 1941
 },
 "299143": {
 "backdrop": "https://image.tmdb.org/t/p/w780/b5fSMWxjUFfyGlgaaEOBM3Z1vog.jpg",
@@ -36965,6 +50855,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 300599,
 "year": 2014
 },
+"300671": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+"cast": [
+"John Krasinski",
+"James Badge Dale",
+"Dominic Fumusa",
+"Max Martini",
+"Pablo Schreiber",
+"Matt Letscher"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt4172430",
+"original_title": "13 Hours: The Secret Soldiers of Benghazi",
+"overview": "I 2012 måtte et sikkerhetsteam på seks personer slåss for å forsvare USAs konsulat i Benghazi under et terroristangrep. Dette er den nervepirrende filmen om de virkelige hendelsene, regissert av Michael Bay. Om kvelden 11. september 2012 stormet en gruppe islamistiske terrorister det amerikanske konsulatet i Benghazi i Libya. En amerikansk ambassadør var blant de fire drepte etter angrepet. Seks spesialtrente soldater ble sendt inn for å beskytte de gjenlevende amerikanerne. Filmen er regissert av Michael Bay, og basert på boken \"13 Hours\".",
+"poster": "https://image.tmdb.org/t/p/w342/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+"runtime": 144,
+"title": "13 Hours: The Secret Soldiers of Benghazi",
+"tmdb_id": 300671,
+"year": 2016
+},
 "300976": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fpcOHkKKYWe871p07djnjXp5ym8.jpg",
 "cast": [
@@ -36989,6 +50904,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bring Your Smile Along",
 "tmdb_id": 300976,
 "year": 1955
+},
+"301337": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg",
+"cast": [
+"Matt Damon",
+"Christoph Waltz",
+"Hong Chau",
+"Kristen Wiig",
+"Rolf Lassgård",
+"Ingjerd Egeberg"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt1389072",
+"original_title": "Downsizing",
+"overview": "Dramakomedie om en mann som finner ut at livet hans vil bli mye bedre hvis han bare krymper seg selv.",
+"poster": "https://image.tmdb.org/t/p/w342/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+"runtime": 135,
+"title": "Downsizing",
+"tmdb_id": 301337,
+"year": 2017
 },
 "30159": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5DGlfuO31upq3ieF5rHBVALz5kn.jpg",
@@ -37144,31 +51084,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Leningrad Cowboys Meet Moses",
 "tmdb_id": 30366,
 "year": 1994
-},
-"30368": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pKeatSUHRrlcTmkAOQ9tvESbCCe.jpg",
-"cast": [
-"Toshirō Mifune",
-"Takashi Shimura",
-"Keiko Awaji",
-"Eiko Miyoshi",
-"Noriko Sengoku",
-"Noriko Honma"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Akira Kurosawa"
-],
-"imdb_id": "tt0041699",
-"original_title": "野良犬",
-"overview": "A bad day gets worse for young detective Murakami when a pickpocket steals his gun on a hot, crowded bus. Desperate to right the wrong, he goes undercover, scavenging Tokyo’s sweltering streets for the stray dog whose desperation has led him to a life of crime. With each step, cop and criminal’s lives become more intertwined and the investigation becomes an examination of Murakami’s own dark side.",
-"poster": "https://image.tmdb.org/t/p/w342/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg",
-"runtime": 122,
-"title": "Stray Dog",
-"tmdb_id": 30368,
-"year": 1949
 },
 "304081": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qjRnLjy6klF0dmkHzTzUjGbMiMQ.jpg",
@@ -37483,6 +51398,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 30734,
 "year": 1946
 },
+"307677": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wtHfRXdpgV4f9kNdSaiUp0uReVz.jpg",
+"cast": [
+"Eric Richard",
+"Lorraine Brunning",
+"Kay Stonham",
+"Timothy Spall",
+"Su Elliot",
+"Tim Barker"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0084082",
+"original_title": "Home Sweet Home",
+"overview": "Three postal workers and their dysfunctional families interact over cups of tea and Sunday dinner.",
+"poster": "https://image.tmdb.org/t/p/w342/8O8tosA0oEdy07vhrsBszMezbv8.jpg",
+"runtime": 88,
+"title": "Home Sweet Home",
+"tmdb_id": 307677,
+"year": 1982
+},
 "308": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xTO4x2OyF7TdZ32mVnjzhjslDOd.jpg",
 "cast": [
@@ -37509,6 +51449,51 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 308,
 "year": 2005
 },
+"308329": {
+"backdrop": "https://image.tmdb.org/t/p/w780/70PebhT4eBdx9ybHsM45GHMdvqp.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt4532536",
+"original_title": "Last Days",
+"overview": "A short animated documentary film about the decline of African elephant populations due to the illegal ivory trade.",
+"poster": "https://image.tmdb.org/t/p/w342/fxqU93Q0kWl8wRwXMvycC80Z7Rn.jpg",
+"runtime": 4,
+"title": "Last Days",
+"tmdb_id": 308329,
+"year": 2014
+},
+"308409": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qP3Iv3SfK63rJUeahjqBLtTGRGt.jpg",
+"cast": [
+"Ulrich Thomsen",
+"Trine Dyrholm",
+"Helene Reingaard Neumann",
+"Lars Ranthe",
+"Julie Agnete Vang",
+"Fares Fares"
+],
+"countries": [
+"DK",
+"NL",
+"SE"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt3082854",
+"original_title": "Kollektivet",
+"overview": "A funny and moving story of family and free love set in a freewheeling 1970s commune. When Anna and Erik inherit a huge house, they gather a motley crew of cohabitants to reinvigorate their lives, forcing them to reconcile their new values with old habits.",
+"poster": "https://image.tmdb.org/t/p/w342/evGoMMVXiIOQ1KwSMVnbzHBfX6I.jpg",
+"runtime": 111,
+"title": "The Commune",
+"tmdb_id": 308409,
+"year": 2016
+},
 "308707": {
 "backdrop": null,
 "cast": [],
@@ -37524,6 +51509,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Tati Shorts",
 "tmdb_id": 308707,
 "year": 1967
+},
+"308782": {
+"backdrop": null,
+"cast": [
+"Jean-Marie Robain",
+"Éric Rohmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209127",
+"original_title": "Stéphane Mallarmé",
+"overview": "Stéphane Mallarmé is one of the many educational documentaries that Éric Rohmer did for the television during the 1960’s. At the beginning of the film, Rohmer states that he has placed in Mallarmé’s mouth words taken from an interview with the writer by Jules Heuret published in 1891.",
+"poster": "https://image.tmdb.org/t/p/w342/99h0rthzHlaGYBfOVvrN8tT2eYn.jpg",
+"runtime": 28,
+"title": "Stéphane Mallarmé",
+"tmdb_id": 308782,
+"year": 1968
 },
 "30890": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
@@ -37575,6 +51581,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Walk Worthwhile",
 "tmdb_id": 309240,
 "year": 2009
+},
+"30941": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9mM8uRktDd5WH2sSMVOLBfK0EUL.jpg",
+"cast": [
+"Sean Connery",
+"Dyan Cannon",
+"Martin Balsam",
+"Ralph Meeker",
+"Alan King",
+"Christopher Walken"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0066767",
+"original_title": "The Anderson Tapes",
+"overview": "Thief Duke Anderson—just released from ten years in jail—takes up with his old girlfriend in her posh apartment block, and makes plans to rob the entire building. What he doesn't know is that his every move is being recorded on audio and video, although he is not the subject of any surveillance.",
+"poster": "https://image.tmdb.org/t/p/w342/6pjMMwqnL4qkl5pFnlfAqp0cNn9.jpg",
+"runtime": 99,
+"title": "The Anderson Tapes",
+"tmdb_id": 30941,
+"year": 1971
 },
 "30982": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vkTpwLglCOHucnqUrl40DyA8Rll.jpg",
@@ -37702,6 +51733,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 311791,
 "year": 1986
 },
+"312355": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2eGXdwJBAN20BEzZo7qcj5BkEYI.jpg",
+"cast": [
+"Jack Russell",
+"Mark Kendall",
+"Michael Lardie",
+"Lorne Black",
+"Audie Desbrow"
+],
+"countries": [],
+"directors": [
+"Wayne Isham",
+"Nigel Dick",
+"Michael Bay"
+],
+"imdb_id": "tt0343746",
+"original_title": "Great White: My...My...My...",
+"overview": "Relive the 1980s with hair metal band Great White through this hard-rocking music video collection, which includes such monster hits as \"Once Bitten, Twice Shy,\" \"Rock Me,\" \"Mista Bone,\" \"House of Broken Love,\" \"Babe, I'm Gonna Leave You\" and more. This thoroughly entertaining set of videos, which features some of the hottest babes and coolest cars of the era, is a must-see for true Great White fans.",
+"poster": "https://image.tmdb.org/t/p/w342/f07tfvIdyMBqvziKRGL8WVrN7zu.jpg",
+"runtime": 54,
+"title": "Great White: My...My...My...",
+"tmdb_id": 312355,
+"year": 2002
+},
 "31293": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cLEYNI2wRPnAYV2tKIYCyHzeg23.jpg",
 "cast": [
@@ -37732,6 +51787,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 31293,
 "year": 1953
 },
+"31304": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+"cast": [
+"Rolf Sohlman",
+"Ann-Sofie Kylin",
+"Bertil Norström",
+"Lennart Tellfelt",
+"Anita Lindblom",
+"Margreth Weivers"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0065955",
+"original_title": "En kärlekshistoria",
+"overview": "The puppy love of two teenagers is set against a backdrop of adults struggling with their own lives. As a couple in love, they don't care about anything but themselves and seem totally unaware about everything that surrounds them.",
+"poster": "https://image.tmdb.org/t/p/w342/bSIkQ7Yu8LEcZ8g85GkzSpHJRZ.jpg",
+"runtime": 119,
+"title": "A Swedish Love Story",
+"tmdb_id": 31304,
+"year": 1970
+},
 "3131": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
 "cast": [
@@ -37757,6 +51837,71 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Gangs of New York",
 "tmdb_id": 3131,
 "year": 2002
+},
+"314082": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7Gj4QU1Ic2oUOEYJrhir4IoJ4qS.jpg",
+"cast": [
+"Damon Albarn",
+"Graham Coxon",
+"Alex James",
+"Dave Rowntree",
+"Keith Allen",
+"Jean-Marc Barr"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Dave Balfe",
+"Dwight Clarke",
+"Grant Gee",
+"Jonathan Glazer",
+"Kevin Godley",
+"Damien Hirst",
+"Garth Jennings",
+"Matthew Longfellow",
+"David Mould",
+"Sophie Muller",
+"Pedro Romhanyi",
+"Willy Smax",
+"Julien Temple",
+"Jamie Thraves",
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0334944",
+"original_title": "blur | The Best Of",
+"overview": "Blur: The Best Of is a greatest hits compilation album by English Britpop band Blur, first released in late 2000 and is the final Blur album by Food Records. It was released on CD, cassette tape, MiniDisc, double 12\" vinyl record, DVD and VHS. The CD album includes 17 of Blur's 23 singles from 1990 to 2000, plus non-single, \"This Is a Low\". A special edition of the CD version included a live CD. The DVD/VHS version contains the videos of Blur's first 22 singles. The album, which has had enduring sales, hit number 3 in the band's native UK in the autumn of 2000, while denting the US charts at number 186. The cover is by artist Julian Opie. The painting of this Blur album can be found at the National Portrait Gallery in London, England. The album's cover bears some similarity to that of Queen's 1982 Hot Space.",
+"poster": "https://image.tmdb.org/t/p/w342/v0TpFf1Cs2eOOLMzuDGMsvdnKeg.jpg",
+"runtime": 89,
+"title": "blur | The Best Of",
+"tmdb_id": 314082,
+"year": 2000
+},
+"31516": {
+"backdrop": "https://image.tmdb.org/t/p/w780/otY1rdFZ9XNsacvZHis9EkaxdnJ.jpg",
+"cast": [
+"Gene Kelly",
+"Frank Sinatra",
+"Betty Garrett",
+"Ann Miller",
+"Jules Munshin",
+"Vera-Ellen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Gene Kelly",
+"Stanley Donen"
+],
+"imdb_id": "tt0041716",
+"original_title": "On the Town",
+"overview": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
+"poster": "https://image.tmdb.org/t/p/w342/lEU8QQmIayAtPZrCDf2czQgTjQ1.jpg",
+"runtime": 98,
+"title": "On the Town",
+"tmdb_id": 31516,
+"year": 1949
 },
 "31518": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aybVgmultQYMKukekpSMbuRAHEi.jpg",
@@ -37803,30 +51948,107 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 315295,
 "year": 1958
 },
-"31589": {
-"backdrop": "https://image.tmdb.org/t/p/w780/m9NzvzYugcjkkZ5A3WdQhI3Mbe7.jpg",
+"31586": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ddtoVAha6yUyuMdHUWMzn5o5njX.jpg",
 "cast": [
-"Toshirō Mifune",
-"Masayuki Mori",
-"Kamatari Fujiwara",
-"Takeshi Katō",
-"Kyōko Kagawa",
-"Tatsuya Mihashi"
+"Elijah Wood",
+"Bruce Willis",
+"Jason Alexander",
+"Julia Louis-Dreyfus",
+"Jon Lovitz",
+"Alan Arkin"
 ],
 "countries": [
-"JP"
+"US"
 ],
 "directors": [
-"Akira Kurosawa"
+"Rob Reiner"
 ],
-"imdb_id": "tt0054460",
-"original_title": "悪い奴ほどよく眠る",
-"overview": "In this loose adaptation of \"Hamlet,\" illegitimate son Kôichi Nishi climbs to a high position within a Japanese corporation and marries the crippled daughter of company vice president Iwabuchi. At the reception, the wedding cake is a replica of their corporate headquarters, but an aspect of the design reminds the party of the hushed-up death of Nishi's father. It is then that Nishi unleashes his plan to avenge his father's death.",
-"poster": "https://image.tmdb.org/t/p/w342/z0LhZ121uaqa31RUeu1mOnaFb5w.jpg",
-"runtime": 150,
-"title": "The Bad Sleep Well",
-"tmdb_id": 31589,
-"year": 1960
+"imdb_id": "tt0110687",
+"original_title": "North",
+"overview": "Eleven-year-old North has had it with his parents. They are always busy with their careers and don't give North the attention he needs, so he files a lawsuit against them. The judge rules that North should either find new parents or return to his own parents within two months. Thus North starts off on a journey around the world to find parents that really care about him.",
+"poster": "https://image.tmdb.org/t/p/w342/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg",
+"runtime": 87,
+"title": "North",
+"tmdb_id": 31586,
+"year": 1994
+},
+"31598": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qQWlRTI59a9wtj43pE9WToKdBoT.jpg",
+"cast": [
+"Nick Nolte",
+"Timothy Hutton",
+"Armand Assante",
+"Patrick O'Neal",
+"Lee Richardson",
+"Luis Guzmán"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0100442",
+"original_title": "Q & A",
+"overview": "A young district attorney seeking to prove a case against a corrupt police detective encounters a former lover and her new protector, a crime boss who refuses to help him.",
+"poster": "https://image.tmdb.org/t/p/w342/q45dAIysDhTNiLrqAyhEhWwxxCj.jpg",
+"runtime": 132,
+"title": "Q & A",
+"tmdb_id": 31598,
+"year": 1990
+},
+"31645": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bGE9Cj1362hvKZsnk72lvviiVES.jpg",
+"cast": [
+"Albert Finney",
+"Matthew Modine",
+"Kevin Anderson",
+"John Kellogg",
+"Anthony Heald",
+"Novella Nelson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0093683",
+"original_title": "Orphans",
+"overview": "Brothers Treat and Philip have only had each other since they were kids, when a small-time criminal abruptly upends their routine lives.",
+"poster": "https://image.tmdb.org/t/p/w342/g32UjgL8JsaaNjhAFc4B3NKLNku.jpg",
+"runtime": 115,
+"title": "Orphans",
+"tmdb_id": 31645,
+"year": 1987
+},
+"31646": {
+"backdrop": "https://image.tmdb.org/t/p/w780/27IZSY74Wmr4JrrhG8oDzO23mRE.jpg",
+"cast": [
+"Tricia O'Neil",
+"Steve Marachuk",
+"Lance Henriksen",
+"Ricky Paull Goldin",
+"Ted Richert",
+"Leslie Graves"
+],
+"countries": [
+"IT",
+"NL",
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt0082910",
+"original_title": "Piranha II: The Spawning",
+"overview": "A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.",
+"poster": "https://image.tmdb.org/t/p/w342/gOPhCh4Ko5crlsyQewPsq1sYLiA.jpg",
+"runtime": 94,
+"title": "Piranha II: The Spawning",
+"tmdb_id": 31646,
+"year": 1982
 },
 "31650": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4lCritA97pEdHCTEerfrkv3BMDH.jpg",
@@ -37878,6 +52100,81 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 31656,
 "year": 1974
 },
+"31657": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qhv8bDsB2U1C6R4DAntuAfelOiE.jpg",
+"cast": [
+"Jane Fonda",
+"Jon Voight",
+"Bruce Dern",
+"Penelope Milford",
+"Robert Carradine",
+"Robert Ginty"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0077362",
+"original_title": "Coming Home",
+"overview": "In 1968 California, a Marine officer's wife falls in love with a former high school classmate who suffered a paralyzing combat injury in the war.",
+"poster": "https://image.tmdb.org/t/p/w342/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+"runtime": 127,
+"title": "Coming Home",
+"tmdb_id": 31657,
+"year": 1978
+},
+"31658": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fS8FSSdv0MIwhVi5Haw9qT3FkFI.jpg",
+"cast": [
+"James Garner",
+"Jason Robards",
+"Robert Ryan",
+"Albert Salmi",
+"Charles Aidman",
+"Steve Ihnat"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0061787",
+"original_title": "Hour of the Gun",
+"overview": "Marshal Wyatt Earp kills a couple of men of the Clanton-gang in a fight. In revenge Clanton's thugs kill the marshal's brother. Thus, Wyatt Earp starts to chase the killers together with his friend Doc Holliday.",
+"poster": "https://image.tmdb.org/t/p/w342/4sFnOXm9wvJIfWzfwIvTN1dZ8KE.jpg",
+"runtime": 100,
+"title": "Hour of the Gun",
+"tmdb_id": 31658,
+"year": 1967
+},
+"31659": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mBOl4RHVpIxIXaPapG6RIr3qH1Q.jpg",
+"cast": [
+"Danny DeVito",
+"Joe Piscopo",
+"Harvey Keitel",
+"Ray Sharkey",
+"Dan Hedaya",
+"Louis Albano"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0092226",
+"original_title": "Wise Guys",
+"overview": "Harry Valentini and Moe Dickstein are both errand boys for the Mob. When they lose $250,000, they are set up to kill each other. But they run off to Atlantic City and comedy follows.",
+"poster": "https://image.tmdb.org/t/p/w342/oN4xnH6SqigBlyTlOnOkZ2tdWAB.jpg",
+"runtime": 92,
+"title": "Wise Guys",
+"tmdb_id": 31659,
+"year": 1986
+},
 "31667": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dlzDLqSR9bZZrmmw8CyMuml4VV4.jpg",
 "cast": [
@@ -37902,6 +52199,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Paradine Case",
 "tmdb_id": 31667,
 "year": 1947
+},
+"31681": {
+"backdrop": "https://image.tmdb.org/t/p/w780/s5E7LhJeqIwQcpq2Rda5Yqv5LAM.jpg",
+"cast": [
+"Lee Marvin",
+"Toshirō Mifune"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0063056",
+"original_title": "Hell in the Pacific",
+"overview": "During World War II, a shot-down American pilot and a marooned Japanese navy captain find themselves stranded on the same small uninhabited island in the Pacific Ocean.",
+"poster": "https://image.tmdb.org/t/p/w342/kEiJRrDP6m0o96v7n2UMtad4sAF.jpg",
+"runtime": 103,
+"title": "Hell in the Pacific",
+"tmdb_id": 31681,
+"year": 1968
 },
 "316978": {
 "backdrop": null,
@@ -37952,6 +52270,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Transformation of the World Into Music",
 "tmdb_id": 317305,
 "year": 1996
+},
+"317466": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yHKovvRoAsUCKqpXCpkzxk46uA5.jpg",
+"cast": [
+"Louise Dresser",
+"David Rollins",
+"Sue Carol",
+"Arthur Lake",
+"Heinie Conklin",
+"Charles Delaney"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks",
+"Lewis Seiler"
+],
+"imdb_id": "tt0018633",
+"original_title": "The Air Circus",
+"overview": "Lost film. Two eager young pilots at flight school compete over their flight instructor's aviatrix sister.",
+"poster": "https://image.tmdb.org/t/p/w342/gBi1HIWuWCCffq6NhZc7Q6bZbAQ.jpg",
+"runtime": 118,
+"title": "The Air Circus",
+"tmdb_id": 317466,
+"year": 1928
 },
 "318": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2gUFXKuuJwCYMFAJ1xxy34kI3SM.jpg",
@@ -38037,6 +52381,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Adventurer",
 "tmdb_id": 31819,
 "year": 1917
+},
+"31835": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qG1Q0BTLtwo1Onbyy5wgUN2i9qo.jpg",
+"cast": [
+"John Barrymore",
+"Carole Lombard",
+"Walter Connolly",
+"Roscoe Karns",
+"Ralph Forbes",
+"Charles Lane"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0025919",
+"original_title": "Twentieth Century",
+"overview": "A temperamental Broadway producer trains an untutored actress, but when she becomes a star, she proves a match for him.",
+"poster": "https://image.tmdb.org/t/p/w342/lHZcuD5pEoyoNHqeTEUEyDEDVKi.jpg",
+"runtime": 91,
+"title": "Twentieth Century",
+"tmdb_id": 31835,
+"year": 1934
+},
+"31908": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wpcClVxsbVGTmCvDOU0tvuPTvOg.jpg",
+"cast": [
+"Alec Baldwin",
+"Whoopi Goldberg",
+"James Woods",
+"Craig T. Nelson",
+"Susanna Thompson",
+"Lucas Black"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0116410",
+"original_title": "Ghosts of Mississippi",
+"overview": "A Mississippi district attorney and the widow of Medgar Evers struggle to bring a white supremacist to justice for the 1963 murder of the civil rights leader.",
+"poster": "https://image.tmdb.org/t/p/w342/gu81MbuLTPbw95xWuDuM7ddcCir.jpg",
+"runtime": 130,
+"title": "Ghosts of Mississippi",
+"tmdb_id": 31908,
+"year": 1996
+},
+"31924": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zC9SVUUQ2RNWplLoeeXByyJDY1U.jpg",
+"cast": [
+"Jane Fonda",
+"Jeff Bridges",
+"Raúl Juliá",
+"Diane Salinger",
+"Richard Foronjy",
+"Geoffrey Scott"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0091554",
+"original_title": "The Morning After",
+"overview": "Failed actress Alex Sternbergen wakes up hungover one morning in an apartment she does not recognize, unable to remember the previous evening -- and with a dead body in bed next to her. As she tries to piece together the events of the night, Alex cannot totally rely on friends or her estranged husband, Joaquin, for assistance. Only a single ally, loner ex-policeman Turner Kendall, can help her escape her predicament and find the true killer.",
+"poster": "https://image.tmdb.org/t/p/w342/kxuR1RpAUWRHKzCwbjg2bw6RTGI.jpg",
+"runtime": 102,
+"title": "The Morning After",
+"tmdb_id": 31924,
+"year": 1986
 },
 "31930": {
 "backdrop": "https://image.tmdb.org/t/p/w780/PYhykxjFQU3TnlvqoqMrsLTJ8U.jpg",
@@ -38160,6 +52579,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 31997,
 "year": 1942
 },
+"320": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
+"cast": [
+"Al Pacino",
+"Robin Williams",
+"Hilary Swank",
+"Maura Tierney",
+"Martin Donovan",
+"Nicky Katt"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt0278504",
+"original_title": "Insomnia",
+"overview": "LA-etterforskeren Will Dormer og hans kompanjong blir anmodet om å etterforske et mord på en ung jente i Alaska. Med hjelp fra en lokal betjent, den meget ambisiøse Ellie Burr er den rutinerte politimannen snart på sporet av morderen.",
+"poster": "https://image.tmdb.org/t/p/w342/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+"runtime": 118,
+"title": "Insomnia",
+"tmdb_id": 320,
+"year": 2002
+},
 "32043": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pTDfAJRWLa8iMNd6GS9UNqGFzIL.jpg",
 "cast": [
@@ -38209,6 +52653,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "California Split",
 "tmdb_id": 32044,
 "year": 1974
+},
+"32047": {
+"backdrop": "https://image.tmdb.org/t/p/w780/teEcBDHiT14m4uHOUhUfXrXnT7u.jpg",
+"cast": [
+"Treat Williams",
+"Jerry Orbach",
+"Richard Foronjy",
+"Don Billett",
+"Kenny Marino",
+"Carmine Caridi"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0082945",
+"original_title": "Prince of the City",
+"overview": "New York City detective Daniel Ciello agrees to help the United States Department of Justice eliminate corruption in the police department, as long as he will not have to turn in any close friends. In doing so, Ciello uncovers a conspiracy within the force to smuggle drugs to street informants.",
+"poster": "https://image.tmdb.org/t/p/w342/511ulkuQ46NYiwAc39rXMBIB34r.jpg",
+"runtime": 167,
+"title": "Prince of the City",
+"tmdb_id": 32047,
+"year": 1981
+},
+"32054": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7PktT8qvNEvGi7iTa5FEjG5DzJA.jpg",
+"cast": [
+"Sarah Miles",
+"David Hayman",
+"Derrick O'Connor",
+"Susan Wooldridge",
+"Ian Bannen",
+"Sammi Davis"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0093209",
+"original_title": "Hope and Glory",
+"overview": "A middle-aged man recalls his childhood growing up in and around London during World War II.",
+"poster": "https://image.tmdb.org/t/p/w342/4xE9oW222uiaJwMWqAdGQw4puOX.jpg",
+"runtime": 113,
+"title": "Hope and Glory",
+"tmdb_id": 32054,
+"year": 1987
 },
 "32072": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yFWKnskoFTbO9eCrq418tHVENRw.jpg",
@@ -38376,6 +52871,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "In the Darkness of Time",
 "tmdb_id": 323563,
 "year": 2002
+},
+"323974": {
+"backdrop": null,
+"cast": [
+"Monique Sendron"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208957",
+"original_title": "Fermière à Montfaucon",
+"overview": "In just a few simple lines, a picture of the French countryside in the 1960s: the last moments of a disappearing, changing world. The simplest documentary images are there to make us aware of the raison d’être of agriculture, harvesting the fruits of a cyclical and repetitive nature.",
+"poster": "https://image.tmdb.org/t/p/w342/io3f3kktgnmdFxnwVF1peZeJ6nb.jpg",
+"runtime": 13,
+"title": "A Farmer in Montfaucon",
+"tmdb_id": 323974,
+"year": 1968
 },
 "324072": {
 "backdrop": "https://image.tmdb.org/t/p/w780/r5SoY1xdsTSdCabCqptdS9RfZIc.jpg",
@@ -38551,6 +53066,59 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Endless Poetry",
 "tmdb_id": 325385,
 "year": 2016
+},
+"32615": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iAjKtR4ezWbRzMje9XiSvcoFqjB.jpg",
+"cast": [
+"Sean Connery",
+"Trevor Howard",
+"Vivien Merchant",
+"Ian Bannen",
+"Peter Bowles",
+"Derek Newark"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0070468",
+"original_title": "The Offence",
+"overview": "A burned-out British police detective finally snaps while interrogating a suspected child molester.",
+"poster": "https://image.tmdb.org/t/p/w342/yAd3QxpZNO8eU40a4i3FbHxXOe.jpg",
+"runtime": 113,
+"title": "The Offence",
+"tmdb_id": 32615,
+"year": 1973
+},
+"32627": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iiJ6iUwfTlto1ywliP7JSguuT7W.jpg",
+"cast": [
+"Paul Newman",
+"Dominique Sanda",
+"James Mason",
+"Harry Andrews",
+"Ian Bannen",
+"Michael Hordern"
+],
+"countries": [
+"GB",
+"US",
+"IE"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0070351",
+"original_title": "The MacKintosh Man",
+"overview": "A member of British Intelligence assumes a fictitious criminal identity and allows himself to be caught, imprisoned, and freed in order to infiltrate a spy organization and expose a traitor; only, someone finds him out and exposes him to the gang...",
+"poster": "https://image.tmdb.org/t/p/w342/qrdrQkgQoPYhE22ntyY8P3gzwLv.jpg",
+"runtime": 99,
+"title": "The MacKintosh Man",
+"tmdb_id": 32627,
+"year": 1973
 },
 "32628": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3bS2SefEeu43bhbQ24EDiMBNtZs.jpg",
@@ -39044,6 +53612,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 335210,
 "year": 1969
 },
+"335988": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+"cast": [
+"Mark Wahlberg",
+"Laura Haddock",
+"Peter Cullen",
+"Anthony Hopkins",
+"Erik Aadahl",
+"Josh Duhamel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt3371366",
+"original_title": "Transformers: The Last Knight",
+"overview": "Vår verdens største helt blir vår argeste fiende når Optimus Prime legger ut på oppdrag for å redde Cybertron ved å ødelegge jorden. Nå må Bumblebee og Cade Yeager lede autobotene mot deres tidligere allierte i den ultimate kampen for å hindre at menneskeheten blir utslettet.",
+"poster": "https://image.tmdb.org/t/p/w342/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
+"runtime": 154,
+"title": "Transformers: The Last Knight",
+"tmdb_id": 335988,
+"year": 2017
+},
 "336": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2ZbYjD4j3RzUZ7PvPb8toKQeF4.jpg",
 "cast": [
@@ -39068,6 +53661,52 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Duck, You Sucker",
 "tmdb_id": 336,
 "year": 1971
+},
+"33600": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dXqeXEh5pkwKrTBNHB8ihWzPF2m.jpg",
+"cast": [
+"Clarence Nash",
+"Billy Bletcher"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0035794",
+"original_title": "Der Fuehrer's Face",
+"overview": "A marching band of Germans, Italians, and Japanese march through the streets of swastika-motif Nutziland, serenading \"Der Fuehrer's Face.\" Donald Duck, not living in the region by choice, struggles to make do with disgusting Nazi food rations and then with his day of toil at a Nazi artillery factory. After a nervous breakdown, Donald awakens to find that his experience was in fact a nightmare.",
+"poster": "https://image.tmdb.org/t/p/w342/v6skZApYBhhLRfYlX4YfMJog4oa.jpg",
+"runtime": 8,
+"title": "Der Fuehrer's Face",
+"tmdb_id": 33600,
+"year": 1943
+},
+"33638": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yAGHYGkFzSE6nfLcgBIpiyG9gfr.jpg",
+"cast": [
+"Paul Newman",
+"Victoria Principal",
+"Ned Beatty",
+"Matt Clark",
+"Roddy McDowall",
+"Jacqueline Bisset"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0068853",
+"original_title": "The Life and Times of Judge Roy Bean",
+"overview": "Outlaw and self-appointed lawmaker Judge Roy Bean rules over an empty stretch of the West that gradually grows, under his iron fist, into a thriving town, while dispensing his his own quirky brand of frontier justice upon strangers passing by.",
+"poster": "https://image.tmdb.org/t/p/w342/7iqGYu7bpnRMTJmyomQkl9VTDwP.jpg",
+"runtime": 120,
+"title": "The Life and Times of Judge Roy Bean",
+"tmdb_id": 33638,
+"year": 1972
 },
 "336878": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4EYRhu0UPTfKMVqFagWlJdY2Zsd.jpg",
@@ -39124,6 +53763,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Farewell to Enrico Berlinguer",
 "tmdb_id": 336878,
 "year": 1984
+},
+"33691": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7pTuDsXVjbYjo4oAS2Q76agg6Mo.jpg",
+"cast": [
+"Ronald Mlodzik",
+"Jack Messinger",
+"Iain Ewing",
+"Clara Mayer",
+"Paul Mulholland",
+"Arlene Mlodzik"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0065036",
+"original_title": "Stereo (Tile 3B of a CAEE Educational Mosaic)",
+"overview": "A group of Canadian university students agree to partake in a grisly psychological experiment, which renders them incapable of speech but able to communicate telepathically.",
+"poster": "https://image.tmdb.org/t/p/w342/b0iWpWPBqZLHNCfhSEjvJH6UT3h.jpg",
+"runtime": 65,
+"title": "Stereo (Tile 3B of a CAEE Educational Mosaic)",
+"tmdb_id": 33691,
+"year": 1969
 },
 "33908": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lJ5lUT0yccP3ejklErN0HqlGMwv.jpg",
@@ -39221,6 +53885,36 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 339397,
 "year": 2016
 },
+"339964": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5rYnygKCkmqWuMv1O5yAnzGF8gV.jpg",
+"cast": [
+"Dane DeHaan",
+"Cara Delevingne",
+"Clive Owen",
+"Rihanna",
+"Ethan Hawke",
+"Herbie Hancock"
+],
+"countries": [
+"FR",
+"DE",
+"AE",
+"US",
+"BE",
+"CN"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt2239822",
+"original_title": "Valerian and the City of a Thousand Planets",
+"overview": "I det 28. århundre, er to agenter i et kappløp med tiden om å redde den mangfoldige og intergalaktiske byen Alpha fra en mørk trussel, som også truer universets framtid.",
+"poster": "https://image.tmdb.org/t/p/w342/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+"runtime": 137,
+"title": "Valerian and the City of a Thousand Planets",
+"tmdb_id": 339964,
+"year": 2017
+},
 "340488": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g2whpuYHWLh4cWfu9km24pm9Ofp.jpg",
 "cast": [
@@ -39316,6 +54010,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 342276,
 "year": 1947
 },
+"343391": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oRGIkZdeIx7bhoa0LiZb8FVzmzO.jpg",
+"cast": [
+"Edgar Buchanan",
+"Anna Lee",
+"Robert Shayne",
+"Gary Gray",
+"Hobart Cavanaugh",
+"Stanley Andrews"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0040157",
+"original_title": "Best Man Wins",
+"overview": "Jim Smiley has a frog that can jump further than anyone else's frog, and Jim becomes obsessed with entering the frog in all of the local jumping-frog contests, not realizing that his obsession is about to cost him his marriage.",
+"poster": "https://image.tmdb.org/t/p/w342/kbYGom3ElVbyDQEOkPIgal35YMP.jpg",
+"runtime": 78,
+"title": "Best Man Wins",
+"tmdb_id": 343391,
+"year": 1948
+},
 "34377": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lpVmsGEWVAvQdzZObTxdidMX8le.jpg",
 "cast": [
@@ -39407,6 +54126,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Lost Spider Pit Sequence",
 "tmdb_id": 344505,
 "year": 2005
+},
+"344682": {
+"backdrop": "https://image.tmdb.org/t/p/w780/d5gpkhHeZhkDU7eZOxLDjD1dA8h.jpg",
+"cast": [
+"Leopold Stokowski"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Samuel Armstrong"
+],
+"imdb_id": "tt4950234",
+"original_title": "Clair de Lune",
+"overview": "\"Clair de Lune\" was fully animated and scored when it was deleted from Fantasia in early 1940, a casualty of Fantasia's excessive length.  In February 1942, inking, painting and technicolor photography were completed for \"Clair de Lune\" as a short subject, but it was not released. In 1946 it was edited , reshaped and re-scored as the popular music sequence \"Blue Bayou\" in \"Make Mine Music\".  Previous attempts to recreate \"Clair de Lune\" were frustrated by missing animation and Stokowski footage. A nitrate workprint of the original version located in 1992 has allowed \"Clair de Lune\" to be completely reconstructed as Walt Disney intended it to be seen.",
+"poster": "https://image.tmdb.org/t/p/w342/3U6CNIrhAUa44mSsFc9fevfpqeP.jpg",
+"runtime": 8,
+"title": "Clair de Lune",
+"tmdb_id": 344682,
+"year": 1942
 },
 "345186": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2QBUf8scdNZpn7jrY079nCNebWA.jpg",
@@ -39500,6 +54239,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 346415,
 "year": 2011
 },
+"346644": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qVL3PBFscCrQhtsn7dtfMv0JZ31.jpg",
+"cast": [
+"Howard Keel",
+"Polly Bergen",
+"Marjorie Main",
+"Nina Foch",
+"Robert Burton",
+"Carol Nugent"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0045754",
+"original_title": "Fast Company",
+"overview": "When Carol Maldon inherits her family's stable and a horse with strong racing potential, she begins working with suave trainer Rick Grayton. Intent on owning the horse himself, Rick hinders its true abilities so that he can buy the steed on the cheap. Rick's plan is complicated, however, when he realizes that he's falling for Carol. Making matters worse, the jealous Mercedes Bellway uncovers Rick's deception and uses the information to cause trouble.",
+"poster": "https://image.tmdb.org/t/p/w342/izqQhun39dZ2iAMFPPtpB4tB1y1.jpg",
+"runtime": 67,
+"title": "Fast Company",
+"tmdb_id": 346644,
+"year": 1953
+},
 "347095": {
 "backdrop": null,
 "cast": [
@@ -39566,6 +54330,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "College",
 "tmdb_id": 34847,
 "year": 1927
+},
+"348672": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sP3TdFwhwLbodffXDfZvybyUdCc.jpg",
+"cast": [
+"Jan-Eje Ferling",
+"Kristina Ekmark",
+"Martin Serner",
+"Bengt Bergius",
+"Anja Broms",
+"Magnus Wallgren"
+],
+"countries": [
+"FR",
+"SE",
+"DE",
+"NO"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt6817944",
+"original_title": "Om det oändliga",
+"overview": "A reflection on human life in all its beauty and cruelty, its splendor and banality, guided by a Scheherazade-esque narrator. Inconsequential moments have the same significance as historical events. Simultaneously an ode and a lament, presents a kaleidoscope of all that is eternally human, an infinite story of the vulnerability of existence.",
+"poster": "https://image.tmdb.org/t/p/w342/fRIBlFJiMNm7DkphQgcHgDS2Pvx.jpg",
+"runtime": 76,
+"title": "About Endlessness",
+"tmdb_id": 348672,
+"year": 2019
 },
 "348687": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8D7lkTbh7RsMKwVO7xH69dhcGKO.jpg",
@@ -39696,6 +54488,138 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 35075,
 "year": 1920
 },
+"3509": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8e6wpVNmlP2rIwJ1iGCYjicQz7T.jpg",
+"cast": [
+"Keanu Reeves",
+"Robert Downey Jr.",
+"Woody Harrelson",
+"Winona Ryder",
+"Rory Cochrane",
+"Mitch Baker"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0405296",
+"original_title": "A Scanner Darkly",
+"overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+"poster": "https://image.tmdb.org/t/p/w342/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+"runtime": 100,
+"title": "A Scanner Darkly",
+"tmdb_id": 3509,
+"year": 2006
+},
+"351044": {
+"backdrop": "https://image.tmdb.org/t/p/w780/q9hnJ9SzwcF30seRtXEzLd5l1gw.jpg",
+"cast": [
+"Steve Carell",
+"Leslie Mann",
+"Merritt Wever",
+"Janelle Monáe",
+"Diane Kruger",
+"Falk Hentschel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt3289724",
+"original_title": "Welcome to Marwen",
+"overview": "Kunstneren Mark Hogancamp utsettes for et brutalt overfall som gjør at han mister hukommelsen. I forsøket på å finne tilbake til seg selv, lager han en miniatyrverden kalt Marwencol, hvor dukkene lever sine egne, heroiske liv.",
+"poster": "https://image.tmdb.org/t/p/w342/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+"runtime": 116,
+"title": "Welcome to Marwen",
+"tmdb_id": 351044,
+"year": 2018
+},
+"351403": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0256826",
+"original_title": "Icarus",
+"overview": "A story about the god Pan arriving in New York that pokes fun at the very programmed dimension of modern life.  Note: As of now, the film is considered lost and no known copies are publicly available.",
+"poster": null,
+"runtime": 15,
+"title": "Icarus",
+"tmdb_id": 351403,
+"year": 1960
+},
+"351404": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0256580",
+"original_title": "660124: The Story of an IBM Card",
+"overview": "Known as a 5081, what was its role in the industry? Note: As of now, the film is considered lost and no known copies are publicly available.",
+"poster": "https://image.tmdb.org/t/p/w342/zdF0RqUiqhZgZVIvs14qSA1GprA.jpg",
+"runtime": null,
+"title": "660124: The Story of an IBM Card",
+"tmdb_id": 351404,
+"year": 1961
+},
+"351405": {
+"backdrop": null,
+"cast": [
+"Jennifer Salt"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0256843",
+"original_title": "Jennifer",
+"overview": "A short film about the actress Jennifer Salt, directed by Brian De Palma and written by Bruce Joel Rubin.  Note: As of now, the film is considered lost and no known copies are publicly available.",
+"poster": "https://image.tmdb.org/t/p/w342/phodhU5A5odQVKHmn7GJgg7MWyo.jpg",
+"runtime": 25,
+"title": "Jennifer",
+"tmdb_id": 351405,
+"year": 1964
+},
+"351407": {
+"backdrop": null,
+"cast": [
+"Jack Greenberg",
+"A. P. Tureaud",
+"R. Jess Brown",
+"Marian Wright",
+"Demetrius Newton",
+"Henry Marsh"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma",
+"Ken Burrows"
+],
+"imdb_id": "tt0256660",
+"original_title": "To Bridge This Gap",
+"overview": "This documentary highlights the state-sponsored discrimination faced by African Americans in the 1960s and the relentless work by Legal Defence Fund's staff and cooperating attorneys to establish legal and social precedent while bridging the gap between hard-earned legal victories and implementation of the law by public authorities.",
+"poster": "https://image.tmdb.org/t/p/w342/vRBNBqotdgyK8FPVHkveu8q48XF.jpg",
+"runtime": 26,
+"title": "To Bridge This Gap",
+"tmdb_id": 351407,
+"year": 1969
+},
 "351414": {
 "backdrop": "https://image.tmdb.org/t/p/w780/o93RMnVhFVlse8UDZVqnBpBi9CC.jpg",
 "cast": [
@@ -39747,6 +54671,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 35165,
 "year": 1994
 },
+"352114": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ArBSyfVp4oEaDPJjkDPebEZu0KD.jpg",
+"cast": [
+"Stephen Quay",
+"Timothy Quay"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt4907572",
+"original_title": "Quay",
+"overview": "In 2015, Christopher Nolan curated a selection of short films by the surrealist animators the Quay Brothers to be distributed as a touring 35mm presentation. The three films—\"In Absentia\" (2000), \"The Comb\" (1991) and \"Street of Crocodiles\" (1986)—were accompanied by this brief portrait of the brothers at work in their London studio.",
+"poster": "https://image.tmdb.org/t/p/w342/uluMeKfYFVvfZlmHgFBXqbnHXE2.jpg",
+"runtime": 8,
+"title": "Quay",
+"tmdb_id": 352114,
+"year": 2015
+},
 "3527": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iDYWe9pBdJkR9Q2aoHfsluQqtKk.jpg",
 "cast": [
@@ -39775,6 +54720,96 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 3527,
 "year": 2005
 },
+"353575": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nJcWJK4ZuW265ED63440Y3QRlhD.jpg",
+"cast": [
+"Woody Harrelson",
+"Michael Stahl-David",
+"Richard Jenkins",
+"Jennifer Jason Leigh",
+"Jeffrey Donovan",
+"Bill Pullman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt4778988",
+"original_title": "LBJ",
+"overview": "The story of U.S. President Lyndon Baines Johnson from his young days in West Texas to the White House.",
+"poster": "https://image.tmdb.org/t/p/w342/780oVVWLDHMx2DCn0xUHeOEw0na.jpg",
+"runtime": 98,
+"title": "LBJ",
+"tmdb_id": 353575,
+"year": 2017
+},
+"353912": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yrpBJNEgyiKGhlylcPVgflmNTnq.jpg",
+"cast": [
+"Parley Baer",
+"William Bumiller",
+"Craig Calman",
+"Marie Chambers",
+"Joe Dallesandro",
+"Trevor Goddard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne",
+"Jeffrey Reiner",
+"Tony Randel",
+"Lizzie Borden",
+"Richard Shepard",
+"Adam Friedman",
+"Linda Hassani"
+],
+"imdb_id": "tt0104512",
+"original_title": "Inside Out",
+"overview": "Softcore anthology film containing stories: \"Brush Strokes\"; \"Shrink Rap\"; \"Doubletalk\"; \"The Leda\"; \"My Secret Moments\"; \"Life Is For The Taking\"; \"The Diaries\"; \"Love The One You're With\"; and \"My Better Half\".",
+"poster": "https://image.tmdb.org/t/p/w342/7Bw1phwWSfxk2KP7vfmNOqW98sS.jpg",
+"runtime": 89,
+"title": "Inside Out",
+"tmdb_id": 353912,
+"year": 1991
+},
+"353921": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bbpP1JfJ8W3jJ9aVJ9w8KQV1V35.jpg",
+"cast": [
+"Deke Anderson",
+"Linden Ashby",
+"Collin Bernsen",
+"Allison Brooks",
+"Elizabeth Burr",
+"Marianna Elliott"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Yuri Sivo",
+"Paul Rachman",
+"Alexander Payne",
+"Nigel Dick",
+"Bernard Rose",
+"John Wentworth",
+"Martin Donovan",
+"David Bernath",
+"Stuart Cave",
+"Charles McDougall"
+],
+"imdb_id": "tt0238304",
+"original_title": "Inside Out 3",
+"overview": "Softcore anthology film containing stories: \"Dogs Playing Poker\"; \"The Branding\"; \"The Portal\"; \"The Perfect Woman\"; \"Within Ten Minutes\"; \"Tango\"; \"The Houseguest\"; \"Cafe L'Amour\"; and \"The Wet Dream\".",
+"poster": "https://image.tmdb.org/t/p/w342/zvGaDQKfMFmSIZ1syappHpacfmO.jpg",
+"runtime": 93,
+"title": "Inside Out 3",
+"tmdb_id": 353921,
+"year": 1992
+},
 "354138": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gn26GxFMG7TmKyFE9x4uOWdMrQ5.jpg",
 "cast": [
@@ -39792,6 +54827,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Hymn to Merde",
 "tmdb_id": 354138,
 "year": 2009
+},
+"3547": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dV4lDjkZ11OFlqIh1bLBE4o5ErP.jpg",
+"cast": [
+"Elizabeth Taylor",
+"Marlon Brando",
+"Brian Keith",
+"Julie Harris",
+"Zorro David",
+"Gordon Mitchell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0062185",
+"original_title": "Reflections in a Golden Eye",
+"overview": "Bizarre tale of sex, betrayal, and perversion at a military post.",
+"poster": "https://image.tmdb.org/t/p/w342/aB2q0EqCedMUlGdsulIqE1REf4a.jpg",
+"runtime": 108,
+"title": "Reflections in a Golden Eye",
+"tmdb_id": 3547,
+"year": 1967
 },
 "354806": {
 "backdrop": null,
@@ -39813,6 +54873,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Polizeifilm",
 "tmdb_id": 354806,
 "year": 1969
+},
+"35552": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oktRqHfL2ORYAwpIZh7ZfXw72TE.jpg",
+"cast": [
+"Louise Bourgoin",
+"Mathieu Amalric",
+"Gilles Lellouche",
+"Jean-Paul Rouve",
+"Jacky Nercessian",
+"Philippe Nahon"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt1179025",
+"original_title": "Les Aventures extraordinaires d'Adèle Blanc-Sec",
+"overview": "En av vår tids største filmskapere, franskmannen Luc Besson, inviterer til et storslått eventyr i Paris, tidlig på 1900-tallet... til en magisk verden spekket med mumier, vanskapninger og sprell levende dinosaurer. Den unge reporteren Adèle Blanc-Sec vil gjøre hva som helst for en god historie, og hun kaster seg hodestups ut i et eventyr av det mest halsbrekkende slaget!",
+"poster": "https://image.tmdb.org/t/p/w342/1nYv7H0XJFgrJ5LewGlyNDvjqdq.jpg",
+"runtime": 107,
+"title": "The Extraordinary Adventures of Adèle Blanc-Sec",
+"tmdb_id": 35552,
+"year": 2010
 },
 "355600": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2s8TbA7w9t4oi87lHI74SNeOc8j.jpg",
@@ -39917,6 +55002,51 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 35717,
 "year": 1999
 },
+"357180": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ox0SSxn1m1fMd8wHGIpoG71ZDW4.jpg",
+"cast": [
+"Diane Webber"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt2517456",
+"original_title": "This Is My Body",
+"overview": "A woman takes a leisurely swim in the nude in the great outdoors and reflects upon how the sensations affect her body.",
+"poster": "https://image.tmdb.org/t/p/w342/c3vn1p1JkRAuv1jYETYPwJ5dSgh.jpg",
+"runtime": 10,
+"title": "This Is My Body",
+"tmdb_id": 357180,
+"year": 1960
+},
+"35806": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9OAFaisshciBLDVQpIJkNAlHfCf.jpg",
+"cast": [
+"Montgomery Clift",
+"Susannah York",
+"Larry Parks",
+"Susan Kohner",
+"Eileen Herlie",
+"Fernand Ledoux"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0055998",
+"original_title": "Freud: The Secret Passion",
+"overview": "An examination of Austrian psychologist Sigmund Freud's career when he began to treat patients diagnosed with hysteria, using the radical technique of hypnosis.",
+"poster": "https://image.tmdb.org/t/p/w342/pApfDPqjVcBEcz2MHzklRVxKt74.jpg",
+"runtime": 140,
+"title": "Freud: The Secret Passion",
+"tmdb_id": 35806,
+"year": 1962
+},
 "35807": {
 "backdrop": "https://image.tmdb.org/t/p/w780/Aenp56n7u4ZC7i33z9hlBmzyyXZ.jpg",
 "cast": [
@@ -40013,30 +55143,53 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 35847,
 "year": 1958
 },
-"3586": {
-"backdrop": "https://image.tmdb.org/t/p/w780/1hCwhL4zmMDJI8YAe9XYrN2kDAJ.jpg",
+"358895": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ti8GDEpvSvXakpIE96nmdqNY18R.jpg",
 "cast": [
-"Marcello Mastroianni",
-"Sophia Loren",
-"Jean-Pierre Cassel",
-"Kim Basinger",
-"Chiara Mastroianni",
-"Stephen Rea"
+"Nick Robinson",
+"Morgan Saylor",
+"Devon Bostick",
+"Susan Misner",
+"Ricardo Chavira",
+"Common"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Robert Altman"
+"Rob Reiner"
 ],
-"imdb_id": "tt0110907",
-"original_title": "Prêt-à-Porter",
-"overview": "During Paris Fashion Week, models, designers and industry hot shots gather to work, mingle, argue and try to seduce one another.",
-"poster": "https://image.tmdb.org/t/p/w342/bb8pq3ap09S4KHsOvflXqoNJdWZ.jpg",
-"runtime": 133,
-"title": "Prêt-à-Porter",
-"tmdb_id": 3586,
-"year": 1994
+"imdb_id": "tt4630444",
+"original_title": "Being Charlie",
+"overview": "Charlie is a troublesome 18-year-old who breaks out of a youth drug treatment clinic, but when he returns home to Los Angeles, he's given an intervention by his parents and forced to go to an adult rehab. There, he meets a beautiful but troubled girl, Eva, and is forced to battle with drugs, elusive love and divided parents.",
+"poster": "https://image.tmdb.org/t/p/w342/iYr2MGPOCNiTF5IzrO6ZmoMKbSH.jpg",
+"runtime": 97,
+"title": "Being Charlie",
+"tmdb_id": 358895,
+"year": 2016
+},
+"359116": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jjRkSgQ1araa76CTf2qLIlWl9Kn.jpg",
+"cast": [
+"Charley Hayward",
+"Lisa Zane",
+"Lauren Tuerk",
+"Holgie Forrester"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt0244706",
+"original_title": "The Passion of Martin",
+"overview": "A lonely photographer gradually develops a rather unhealthy obsession with a young woman he once met by sheer chance.",
+"poster": "https://image.tmdb.org/t/p/w342/bMcei3OWI5h7o99NutHRpbxFjrf.jpg",
+"runtime": 49,
+"title": "The Passion of Martin",
+"tmdb_id": 359116,
+"year": 1991
 },
 "360029": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mRPvXooggmSav6wTiUXpnZE3OWG.jpg",
@@ -40430,6 +55583,53 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 36140,
 "year": 1967
 },
+"36141": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hCg0cpmiIMGwGMYwPeY8YO9WpMy.jpg",
+"cast": [
+"Peter Gallagher",
+"Alison Elliott",
+"William Fichtner",
+"Adam Trese",
+"Joe Don Baker",
+"Paul Dooley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0114788",
+"original_title": "The Underneath",
+"overview": "A recovering gambling addict attempts to reconcile with his family and friends but finds trouble and temptation when caught between feelings for his ex-wife and her dangerous hoodlum boyfriend.",
+"poster": "https://image.tmdb.org/t/p/w342/a8jn5ML3vRT4nnMMBmFGXRaRhqO.jpg",
+"runtime": 99,
+"title": "The Underneath",
+"tmdb_id": 36141,
+"year": 1995
+},
+"362000": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ebPE8Q6JV28AzkOQu1ulChnjNjG.jpg",
+"cast": [
+"Christopher Lloyd",
+"Salli Saffioti"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis",
+"Glenn Sanders"
+],
+"imdb_id": "tt5162276",
+"original_title": "Doc Brown Saves the World",
+"overview": "In order to save the world from a nuclear holocaust in 2045, Doc Brown must push the technological age back at least 50 years preventing Mattel Hoverboards and Mr. Fusion from being created.",
+"poster": "https://image.tmdb.org/t/p/w342/863sDCCKgXaLkXZL0yzmC9lokel.jpg",
+"runtime": 9,
+"title": "Doc Brown Saves the World",
+"tmdb_id": 362000,
+"year": 2015
+},
 "36208": {
 "backdrop": "https://image.tmdb.org/t/p/w780/j6izee2sNjefaFb2haOfbcKjaGc.jpg",
 "cast": [
@@ -40815,6 +56015,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 366294,
 "year": 2001
 },
+"36634": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5TjuibTuQ7T5QbAtsRhyvxhS7id.jpg",
+"cast": [
+"Spencer Tracy",
+"Pat O'Brien",
+"Diana Lynn",
+"John Hodiak",
+"Eduardo Ciannelli",
+"James Arness"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0043914",
+"original_title": "The People Against O'Hara",
+"overview": "A defense attorney jeopardizes his career to save his client.",
+"poster": "https://image.tmdb.org/t/p/w342/ljjHON28dyyV3BTQP7FMdwfumW7.jpg",
+"runtime": 102,
+"title": "The People Against O'Hara",
+"tmdb_id": 36634,
+"year": 1951
+},
 "366392": {
 "backdrop": null,
 "cast": [],
@@ -40974,6 +56199,75 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 367988,
 "year": 1983
 },
+"36826": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dpfIsCtDkXw6zX5Dlf3En8Tygho.jpg",
+"cast": [
+"Willem Dafoe",
+"Robert Gordon",
+"Marin Kanter",
+"J. Don Ferguson",
+"Tina L'Hotsky",
+"Lawrence Matarese"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow",
+"Monty Montgomery"
+],
+"imdb_id": "tt0085872",
+"original_title": "The Loveless",
+"overview": "Trouble ensues when a motorcycle gang stops in a small southern town while heading to the races at Daytona.",
+"poster": "https://image.tmdb.org/t/p/w342/3aZcW9NBsLX7ZldQkDtbKkHMfUq.jpg",
+"runtime": 83,
+"title": "The Loveless",
+"tmdb_id": 36826,
+"year": 1984
+},
+"368352": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"MX"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0448176",
+"original_title": "Who's He Anyway",
+"overview": "",
+"poster": null,
+"runtime": 18,
+"title": "Who's He Anyway",
+"tmdb_id": 368352,
+"year": 1983
+},
+"368491": {
+"backdrop": null,
+"cast": [
+"Eli Wallach",
+"Pat Hingle",
+"Ken Howard",
+"William Atherton",
+"E.G. Marshall",
+"James Tolkan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0074679",
+"original_title": "Independence",
+"overview": "John Huston directs this film giving relevance and life to the hallowed buildings and ground making up Independence National Historical Park. Through vignettes, the people and events are re-created for the present-day visitor. Featuring Eli Wallach as Benjamin Franklin.",
+"poster": "https://image.tmdb.org/t/p/w342/wraQcb9OpyNEGlM8GylCQtVBhz1.jpg",
+"runtime": 30,
+"title": "Independence",
+"tmdb_id": 368491,
+"year": 1976
+},
 "36880": {
 "backdrop": "https://image.tmdb.org/t/p/w780/em9vgqO43xNBUQyoCLXDixFbbd.jpg",
 "cast": [
@@ -41067,6 +56361,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Men Who Tread on the Tiger's Tail",
 "tmdb_id": 36916,
 "year": 1952
+},
+"36955": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+"cast": [
+"Arnold Schwarzenegger",
+"Jamie Lee Curtis",
+"Tom Arnold",
+"Bill Paxton",
+"Tia Carrere",
+"Art Malik"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt0111503",
+"original_title": "True Lies",
+"overview": "Superspionen Harry Taskerlever et dobbletliv. Han er ekspert på etterretningsvirksomhet, snakker seks språk flytende og jobber som agent for en topphemmelig regjeringsutnevnt virksomhet. Hans kone Helen har i femten år trodd hun har vært gift med en mann som elger datamaskiner. Harry har alt som skal til av mot og oppfinnsomhet for å redde sitt land... men kan han redde sitt eget ekteskap?",
+"poster": "https://image.tmdb.org/t/p/w342/pqdvCBDThAOjlA0XBzbNm7GvwpU.jpg",
+"runtime": 141,
+"title": "True Lies",
+"tmdb_id": 36955,
+"year": 1994
+},
+"369885": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg",
+"cast": [
+"Brad Pitt",
+"Marion Cotillard",
+"Jared Harris",
+"Simon McBurney",
+"Lizzy Caplan",
+"Daniel Betts"
+],
+"countries": [
+"CN",
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt3640424",
+"original_title": "Allied",
+"overview": "Når etteretningsoffiseren Max Vatan finner ut at kona hans kanskje arbeider for fienden, har han bare 72 timer på seg for å bevise at hun er uskyldig.",
+"poster": "https://image.tmdb.org/t/p/w342/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+"runtime": 124,
+"title": "Allied",
+"tmdb_id": 369885,
+"year": 2016
 },
 "370005": {
 "backdrop": null,
@@ -41172,6 +56517,77 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 370755,
 "year": 2016
 },
+"37103": {
+"backdrop": "https://image.tmdb.org/t/p/w780/k7gQYCxAV3EyJqryBcw7sotdigp.jpg",
+"cast": [
+"Deborah Kerr",
+"Robert Mitchum"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0050490",
+"original_title": "Heaven Knows, Mr. Allison",
+"overview": "A Roman Catholic nun and a hard-bitten US Marine are stranded together on a Japanese-occupied island in the South Pacific during World War II. Under constant threat of discovery by a ruthless enemy, they hide in a cave and forage for food together. Their forced companionship and the struggle for survival forge a powerful emotional bond between them.",
+"poster": "https://image.tmdb.org/t/p/w342/lsJgNnroZuANP7q8jZpB32m5A7w.jpg",
+"runtime": 108,
+"title": "Heaven Knows, Mr. Allison",
+"tmdb_id": 37103,
+"year": 1957
+},
+"37136": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+"cast": [
+"Leslie Nielsen",
+"Priscilla Presley",
+"Ricardo Montalban",
+"George Kennedy",
+"O. J. Simpson",
+"Susan Beaubian"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0095705",
+"original_title": "The Naked Gun: From the Files of Police Squad!",
+"overview": "Frank Drebin, snubler over en plan om å ta livet av Dronning Elisabeth. En utstoppet bever, to baseballag og et utvalg andre raringer er med i dette sinnsyke levenet, og blåser latterbarometeret i filler…",
+"poster": "https://image.tmdb.org/t/p/w342/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+"runtime": 86,
+"title": "The Naked Gun: From the Files of Police Squad!",
+"tmdb_id": 37136,
+"year": 1988
+},
+"37137": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+"cast": [
+"Leslie Nielsen",
+"Priscilla Presley",
+"George Kennedy",
+"O. J. Simpson",
+"Robert Goulet",
+"Richard Griffiths"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0102510",
+"original_title": "The Naked Gun 2½: The Smell of Fear",
+"overview": "Superpolitimann Frank Debrin er på farten igjen. Han er i hvert fall super når det gjelder å dumme seg ut. Det får han anledning til i fullt monn siden han nå opererer i Washington DC, blant presidenter og annet fintfolk. Han blir denne gangen innvolvert i en sak der skumle mennesker bytter ut presidentens miljøpolitiske rådgiver. Hvem vil vel ha en miljøvernforkjemper i en slik stilling? Mye bedre da og erstatte ham med en dobbeltgjenger som vil at folk skal kjøre mere bil, bygge nye kjernekraftverk og fyre med mere kull. Uheldigvis for de slu forbryterne er Jane Spencer - Debrins tapte kjæreste - PR-sjef for den kidnappede miljømann. Og dermed blir til alt hell og all ulykke Frank satt på saken.",
+"poster": "https://image.tmdb.org/t/p/w342/v9niLQWVzVPB1cP1ThNdEaLZG1Q.jpg",
+"runtime": 85,
+"title": "The Naked Gun 2½: The Smell of Fear",
+"tmdb_id": 37137,
+"year": 1991
+},
 "37165": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
 "cast": [
@@ -41248,6 +56664,59 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Witness for the Prosecution",
 "tmdb_id": 37257,
 "year": 1957
+},
+"37258": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2Oyu9SU0V4qBxHAlzKjFqjt9OxV.jpg",
+"cast": [
+"Richard Burton",
+"Peter Firth",
+"Joan Plowright",
+"Harry Andrews",
+"Colin Blakely",
+"Eileen Atkins"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0075995",
+"original_title": "Equus",
+"overview": "A psychiatrist, Martin Dysart, investigates the savage blinding of six horses with a metal spike in a stable in Hampshire, England. The atrocity was committed by an unassuming seventeen-year-old stable boy named Alan Strang, the only son of an opinionated but inwardly-timid father and a genteel, religious mother. As Dysart exposes the truths behind the boy's demons, he finds himself face-to-face with his own.",
+"poster": "https://image.tmdb.org/t/p/w342/tGjbZqTaq73jcOrcYD3j0trMRKG.jpg",
+"runtime": 137,
+"title": "Equus",
+"tmdb_id": 37258,
+"year": 1977
+},
+"372782": {
+"backdrop": "https://image.tmdb.org/t/p/w780/75D2p6Sy7X1uFu3SWB8u7DUanEE.jpg",
+"cast": [
+"Zhang Hanyu",
+"Masaharu Fukuyama",
+"Qi Wei",
+"Ha Ji-won",
+"Angeles Woo",
+"Hitomi Miyauchi"
+],
+"countries": [
+"CN",
+"HK",
+"JP"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt4537986",
+"original_title": "追捕",
+"overview": "Accused of a murder he didn't commit, a prosecutor sets out on a mission to clear his name.",
+"poster": "https://image.tmdb.org/t/p/w342/8wq8KOGL3LAvODvnnn8dh8LTyMy.jpg",
+"runtime": 106,
+"title": "Manhunt",
+"tmdb_id": 372782,
+"year": 2017
 },
 "373216": {
 "backdrop": null,
@@ -41347,6 +56816,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Louis & Luca: The Big Cheese Race",
 "tmdb_id": 374331,
 "year": 2015
+},
+"374447": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kNLtDKRolHirbqaQqQUBKwFm4G2.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Samuel Armstrong"
+],
+"imdb_id": "tt0243792",
+"original_title": "Blue Bayou",
+"overview": "A meditative nighttime tour through a swamp to the title song. A stork walks slowly through the water, takes a brief flight, and lands again; we examine the ripples his movement makes. A second stork joins in on a second slow, sweeping flight.",
+"poster": "https://image.tmdb.org/t/p/w342/7jSdnYiFmbZGRkiYFteryeEdu34.jpg",
+"runtime": 4,
+"title": "Blue Bayou",
+"tmdb_id": 374447,
+"year": 1946
 },
 "374478": {
 "backdrop": null,
@@ -41468,6 +56955,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 375327,
 "year": 2018
 },
+"37563": {
+"backdrop": "https://image.tmdb.org/t/p/w780/db6A9w2yth0TunDvz5jgOrGPVw4.jpg",
+"cast": [
+"Melvil Poupaud",
+"Amanda Langlet",
+"Gwenaëlle Simon",
+"Aurelia Nolin",
+"Aimé Lefèvre",
+"Alain Guellaff"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0115940",
+"original_title": "Conte d'été",
+"overview": "Awaiting his girlfriend Léna’s arrival at the Breton seaside resort of Dinard, Gaspard befriends — and flirts heavily with — two other women, the companionable ethnology student Margot and the sensual townie Solène, making for a rather complicated situation when Léna finally arrives.",
+"poster": "https://image.tmdb.org/t/p/w342/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
+"runtime": 114,
+"title": "A Summer's Tale",
+"tmdb_id": 37563,
+"year": 1996
+},
 "37606": {
 "backdrop": "https://image.tmdb.org/t/p/w780/upZUY8Tj9RHHLKPpGKU40qQ0Y1R.jpg",
 "cast": [
@@ -41493,6 +57005,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Valmont",
 "tmdb_id": 37606,
 "year": 1989
+},
+"37627": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hhxoxYmmx92dKfyibeeBMU2GbC2.jpg",
+"cast": [
+"Steven Warner",
+"Richard Kiley",
+"Bob Fosse",
+"Gene Wilder",
+"Donna McKechnie",
+"Joss Ackland"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0071762",
+"original_title": "The Little Prince",
+"overview": "After a pilot is forced to make an emergency landing in the Sahara Desert, he befriends a young prince from outer space; the friendship conjures up stories of journeys through the solar system for the stranded aviator.",
+"poster": "https://image.tmdb.org/t/p/w342/xAUiufPCoU8P4F1w4MqpjcxIVCO.jpg",
+"runtime": 88,
+"title": "The Little Prince",
+"tmdb_id": 37627,
+"year": 1974
 },
 "376780": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tiWLJjZQ1tlSjstlVrdmc3okRjH.jpg",
@@ -41562,6 +57100,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 377454,
 "year": 1969
 },
+"37753": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sCBEywMPvO8sS3dvubMNYt7onCD.jpg",
+"cast": [
+"Kevin Kline",
+"Mary Elizabeth Mastrantonio",
+"Kevin Spacey",
+"Rebecca Miller",
+"Forest Whitaker",
+"E.G. Marshall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0104006",
+"original_title": "Consenting Adults",
+"overview": "Richard and Priscilla Parker are an ordinary suburban couple whose lives are invaded and rocked by their hedonistic, secretive new neighbors, Eddy and Kay Otis.",
+"poster": "https://image.tmdb.org/t/p/w342/16H9mMevZFFZfnCgsE2fVe2HH51.jpg",
+"runtime": 99,
+"title": "Consenting Adults",
+"tmdb_id": 37753,
+"year": 1992
+},
 "377697": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4j4yznPYLDpV3aljmRxBYJn3sWR.jpg",
 "cast": [
@@ -41611,6 +57174,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Judgement",
 "tmdb_id": 37836,
 "year": 1999
+},
+"37852": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rHb6Ve86rdqJFGsUPcQ8o4VVZQR.jpg",
+"cast": [
+"Lung Kim-Sang",
+"Mooi Suet-Si",
+"Liang Tsi-Pak",
+"Leung Sing Poh",
+"Kong Suet-Liu",
+"Jue Kim-Daan"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0072872",
+"original_title": "帝女花",
+"overview": "A beautiful Cantonese opera about the forbidden love between a princess and a scholar. The backdrop is Ming dynasty China and the two would rather die than be apart.",
+"poster": "https://image.tmdb.org/t/p/w342/46FYUUyT68EGhrSicZg2G6SliOu.jpg",
+"runtime": 102,
+"title": "Princess Chang-Ping",
+"tmdb_id": 37852,
+"year": 1976
 },
 "37853": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tWzWYnlvrUFwcEeRNKbsXPpjiRS.jpg",
@@ -41734,6 +57322,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 380288,
 "year": 1920
 },
+"380291": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kmxehJky5rhG2A4c7aNZlexphTg.jpg",
+"cast": [
+"Graham Chapman",
+"Peter Cook",
+"Chris Young",
+"Rik Mayall",
+"Gabrielle Anwar",
+"Nancy Lenehan"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0204420",
+"original_title": "Jake's Journey",
+"overview": "A normal teenager is transported to a Monty Pythonesque medieval fantasy land where an odd, adamant knight takes him on a quest.",
+"poster": "https://image.tmdb.org/t/p/w342/8C9jZ6BEiWj20IgRFC8zA4YF2sh.jpg",
+"runtime": 25,
+"title": "Jake's Journey",
+"tmdb_id": 380291,
+"year": 1988
+},
 "38031": {
 "backdrop": "https://image.tmdb.org/t/p/w780/etTUz6C0jTC6uRwTJCYM7NOGidw.jpg",
 "cast": [
@@ -41761,30 +57374,174 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 38031,
 "year": 2010
 },
-"381": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jGyDvz8WjVZzHX573WDs8BTIUU9.jpg",
+"38036": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5DYhUS8gFsvPqQwIB2HRl6m0uOC.jpg",
 "cast": [
-"Cary Grant",
-"Grace Kelly",
-"Jessie Royce Landis",
-"John Williams",
-"Charles Vanel",
-"Brigitte Auber"
+"John Woo",
+"Tso Chung Lan",
+"Chan Kai Yat"
 ],
 "countries": [
-"US"
+"HK"
 ],
 "directors": [
-"Alfred Hitchcock"
+"Sek Kei",
+"John Woo"
 ],
-"imdb_id": "tt0048728",
-"original_title": "To Catch a Thief",
-"overview": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
-"poster": "https://image.tmdb.org/t/p/w342/cPy05z52PbFsAvfO5zbp0ebGhIj.jpg",
-"runtime": 106,
-"title": "To Catch a Thief",
-"tmdb_id": 381,
-"year": 1955
+"imdb_id": "tt0313606",
+"original_title": "死結",
+"overview": "Explores youthful angst and restlessness through the complex, intertwined relationships of two men and a woman.",
+"poster": "https://image.tmdb.org/t/p/w342/adPKDZg8QoiTJKWU3qvuILSurtP.jpg",
+"runtime": 19,
+"title": "Dead Knot",
+"tmdb_id": 38036,
+"year": 1969
+},
+"38037": {
+"backdrop": null,
+"cast": [
+"John Woo"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0313442",
+"original_title": "偶然",
+"overview": "John Woo's experimental short film, made during his time in college. The line between genuine love and violent obsession is blurred when a man falls for a girl and proceeds to tie her up with rope to him, making her follow him around and bend to his whims until tragedy ultimately befalls them both.",
+"poster": "https://image.tmdb.org/t/p/w342/z0nFYlFEv7Gq7KvOrVwo3reZFkH.jpg",
+"runtime": 8,
+"title": "Accidentally",
+"tmdb_id": 38037,
+"year": 1968
+},
+"38040": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nSi2p3oZKS57CQ27annVVkOMKld.jpg",
+"cast": [
+"Henry Yu Yang",
+"Tanny Tien Ni",
+"Dean Shek Tin",
+"Chiang Nan",
+"Fung Hak-On",
+"Ng Ming-Choi"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0070801",
+"original_title": "鐵漢柔情",
+"overview": "Powerful mobster Leung, protected by the dangerous Huan Fai, sells 200 Japanese weapons and ammo to a Chinese gang. He uses smuggler Luy Fu to bring the weapons but small-time thief Kim and his gang heist the shipment and dump the cargo into the sea. Meanwhile, Kim befriends Fan Ming, an undercover police office from Shanghai investigating Leung's crimes.",
+"poster": "https://image.tmdb.org/t/p/w342/3QKr2yWGBXhxgqp91FmFiCx1tLz.jpg",
+"runtime": 95,
+"title": "The Young Dragons",
+"tmdb_id": 38040,
+"year": 1974
+},
+"38082": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qUEkUvotsvFjNbX7c4SVq42trKQ.jpg",
+"cast": [
+"Charles Bronson",
+"Jill Ireland",
+"Rod Steiger",
+"Henry Silva",
+"Strother Martin",
+"Bradford Dillman"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stuart Rosenberg",
+"John Huston"
+],
+"imdb_id": "tt0079488",
+"original_title": "Love and Bullets",
+"overview": "Jackie Pruit is the girlfriend of notorious gangster Joe Bomposa. When it looks as if Bomposa's goons are threatening Jackie's life, the FBI moves in to protect her, hoping that she'll have incriminating evidence. Veteran agent Charlie Congers is assigned to watch over Jackie, and while it soon becomes apparent that she knows almost nothing about Bomposa that would be of any use to the FBI, he falls in love with her. Bomposa decides it would be more convenient to have Jackie out of the way, ordering her to be executed. Bomposa's henchmen slip through FBI security and murder her, but now they have to answer the angry and vengeful Congers.",
+"poster": "https://image.tmdb.org/t/p/w342/zdKxBSl1BEjHTRa8ERLXnZLr8oU.jpg",
+"runtime": 103,
+"title": "Love and Bullets",
+"tmdb_id": 38082,
+"year": 1979
+},
+"38097": {
+"backdrop": "https://image.tmdb.org/t/p/w780/g62EVyMwJ6mPPWraZQ52Tk9OIPE.jpg",
+"cast": [
+"James Tien Chun",
+"Carter Huang Chia-Ta",
+"Kim Chang-sook",
+"Ji Han-jae",
+"Yeung Wai",
+"Ryōko Ema"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0071930",
+"original_title": "女子跆拳群英會",
+"overview": "Carter Wong plays a young chinese martial arts student who travels to Korea to learn Taekwondo. Soon he comes up against a vicious gang who want all the local martial arts schools to join their evil association. But before he can defeat the bad guys, he has to learn to master his own strong desire to fight.",
+"poster": "https://image.tmdb.org/t/p/w342/yBBTBjbPdWxFKdKScZdEK4RBztw.jpg",
+"runtime": 107,
+"title": "The Dragon Tamers",
+"tmdb_id": 38097,
+"year": 1975
+},
+"38099": {
+"backdrop": "https://image.tmdb.org/t/p/w780/napIGh92wPx02zsZTQgAJvFsKVE.jpg",
+"cast": [
+"Dorian Tan Tao-Liang",
+"James Tien Chun",
+"Jackie Chan",
+"Kim Yeong-suk",
+"Sammo Hung",
+"Yeung Wai"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0073694",
+"original_title": "少林門",
+"overview": "A young monk must face the Extended Iron Claw technique of a powerful warlord seeking to destroy Shaolin.",
+"poster": "https://image.tmdb.org/t/p/w342/sbfkPstyOmJrxuL1CNBEWaHUbCN.jpg",
+"runtime": 97,
+"title": "Hand of Death",
+"tmdb_id": 38099,
+"year": 1976
+},
+"38100": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nC2q3NZxpqnkJqZHHy2b79c59Qx.jpg",
+"cast": [
+"Richard Ng Yiu-Hon",
+"Ricky Hui Koon-Ying",
+"Angie Chiu Nga-Chi",
+"Lee Hoi-Sang",
+"Cheung Ying",
+"Cheng Suk-Ying"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0076012",
+"original_title": "發錢寒",
+"overview": "Ducky is hired by Rich Chen to transport the \"diamonds\" he stole from Uncle Pai Mary. Uncles Tough Guy and Mary would like to get the diamond from Ducky, so they volunteer to relieve Ducky of his responsibility.",
+"poster": "https://image.tmdb.org/t/p/w342/sqShn0s2PNQYFPdc4ZTV1Rybc9S.jpg",
+"runtime": 92,
+"title": "Money Crazy",
+"tmdb_id": 38100,
+"year": 1977
 },
 "381474": {
 "backdrop": null,
@@ -41811,6 +57568,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "La Donna del Lago",
 "tmdb_id": 381474,
 "year": 1992
+},
+"38185": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mLJTDy203FqebnFvE7hOStIAdk8.jpg",
+"cast": [
+"Clive Owen",
+"Maury Chaykin",
+"Kathryn Morris",
+"Darius McCrary",
+"Gerry Becker",
+"James MacDonald"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0338111",
+"original_title": "Hostage",
+"overview": "The Driver is hired by the FBI to help defuse a hostage situation. A disgruntled employee has kidnapped a CEO and has hidden her, demanding $5,088,042. The Driver delivers the money, writing the sum on his hand as instructed by the hostage taker. After he is told that he holds the life of a person in his hand, he is ordered to burn the money. As he complies, the federal agents break in and attempt to subdue the man, who shoots himself in the head before he reveals where the woman is hidden. The Driver then tries to find the hostage before she drowns in the trunk of a sinking car. As a twist, the kidnapped woman is revealed to be the hostage taker's lover. She coldly taunts the dying man in the hospital.",
+"poster": "https://image.tmdb.org/t/p/w342/d5CoQrPoN0h6h2BaZHAJNgWalJx.jpg",
+"runtime": 10,
+"title": "Hostage",
+"tmdb_id": 38185,
+"year": 2002
 },
 "382921": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1J60IMS3zAzxJtlhpiN1EgnNb8k.jpg",
@@ -41859,31 +57642,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Rabies",
 "tmdb_id": 382965,
 "year": 1958
-},
-"383": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4hShA64zX3yz3CdPUG63Nb1d7KF.jpg",
-"cast": [
-"Doug Cooeyate",
-"Tim Streeter",
-"Sam Downey",
-"Nyla McCarthy",
-"Ray Monge",
-"Robert Lee Pitchlynn"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Gus Van Sant"
-],
-"imdb_id": "tt0089537",
-"original_title": "Mala Noche",
-"overview": "Walt is a lonely convenience store clerk who has fallen in love with a Mexican migrant worker named Johnny. Though Walt has little in common with the object of his affections — including a shared language — his desire to possess Johnny prompts a sexual awakening that results in a tangled love triangle.",
-"poster": "https://image.tmdb.org/t/p/w342/gAtkeNjk054tEl3jCHtF1wOFCx1.jpg",
-"runtime": 75,
-"title": "Mala Noche",
-"tmdb_id": 383,
-"year": 1987
 },
 "38311": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wVGDzQBuSMKdzX7BVffnA49izHg.jpg",
@@ -41935,6 +57693,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 383427,
 "year": 1982
 },
+"38356": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+"cast": [
+"Shia LaBeouf",
+"Rosie Huntington-Whiteley",
+"Peter Cullen",
+"Leonard Nimoy",
+"John Turturro",
+"Frances McDormand"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt1399103",
+"original_title": "Transformers: Dark of the Moon",
+"overview": "Optimus Prime får høre om et nedskutt Transformers-skip på månen, og leder et team som har i oppdrag å redde den strandede piloten: mentoren hans, Sentinel Prime.",
+"poster": "https://image.tmdb.org/t/p/w342/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+"runtime": 154,
+"title": "Transformers: Dark of the Moon",
+"tmdb_id": 38356,
+"year": 2011
+},
 "383914": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2Gjqymmx1GWz756fTYbOWpVBVUH.jpg",
 "cast": [
@@ -41975,6 +57758,82 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Sauve la vie (qui peut)",
 "tmdb_id": 384468,
 "year": 1981
+},
+"38493": {
+"backdrop": "https://image.tmdb.org/t/p/w780/18Mo8zLWsL4uUFMjkZyDQrzhfdj.jpg",
+"cast": [
+"William Smith",
+"Claudia Jennings",
+"John Saxon",
+"Nicholas Campbell",
+"Don Francks",
+"Cedric Smith"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0079138",
+"original_title": "Fast Company",
+"overview": "After his sponsor replaces him with his archrival, a race-car driver decides to steal the car and race it himself.",
+"poster": "https://image.tmdb.org/t/p/w342/rNpBNzzLUPl1df3nCUhEvfNzOEE.jpg",
+"runtime": 93,
+"title": "Fast Company",
+"tmdb_id": 38493,
+"year": 1979
+},
+"384953": {
+"backdrop": "https://image.tmdb.org/t/p/w780/v010sdxKL2RzVjjOOCWbIFErb8V.jpg",
+"cast": [
+"Rick Springfield",
+"Tim Pierce",
+"Mike Seifrit",
+"Mike Baird",
+"Neil Larsen",
+"Brett Tuggle"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt0137376",
+"original_title": "Rick Springfield: The Beat of the Live Drum",
+"overview": "He soared to the heights of stardom in the '80s as a teen idol, a soap star on \"General Hospital,\" and a platinum-selling, Grammy-Award winning music artist. This concert event showcases the energy and vitality that propelled Springfield to the top of the pop charts, filled with spectacular live footage, giant projection screens, integrated music videos, and thousands of adoring fans. It's an unforgettable evening with one of the hottest performers of the '80s! Songs: Don't Walk Away, Alyson, Living in Oz, Affair of the Heart, Celebrate Youth, Human Touch, My Father's Chair, Jessie's Girl, State of the Heart, Bop 'Til You Drop, Don't Talk to Strangers, Love Somebody, Souls, Dance This World Away, Stand Up.",
+"poster": "https://image.tmdb.org/t/p/w342/rd2sK1J1UpNhlOMQyXcrmyjGykW.jpg",
+"runtime": 71,
+"title": "Rick Springfield: The Beat of the Live Drum",
+"tmdb_id": 384953,
+"year": 1985
+},
+"385153": {
+"backdrop": "https://image.tmdb.org/t/p/w780/30AfmJ9fVpehHrMvcZYM7aTAchw.jpg",
+"cast": [
+"Walt Disney",
+"Jack Bailey",
+"Pinto Colvig",
+"Hans Conried",
+"June Foray",
+"Dick Wesson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney",
+"Wolfgang Reitherman"
+],
+"imdb_id": "tt0561286",
+"original_title": "The Goofy Success Story",
+"overview": "A look at Goofy's rise to stardom, leading into several of his cartoons-Moving Day, Moose Hunters, How to Ride a Horse, and Motor Mania.",
+"poster": "https://image.tmdb.org/t/p/w342/zWDJQVM5PcZ1X9WYmRA1LvDqEGj.jpg",
+"runtime": 60,
+"title": "The Goofy Success Story",
+"tmdb_id": 385153,
+"year": 1955
 },
 "385164": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3ckHvFvBNR0jCCbJ4IS2S6HjH4B.jpg",
@@ -42043,6 +57902,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Sunset",
 "tmdb_id": 38560,
 "year": 1988
+},
+"385921": {
+"backdrop": null,
+"cast": [
+"Carl Theodor Dreyer",
+"Anna Karina",
+"Preben Lerdorff Rye",
+"Henrik Malberg",
+"Lisbeth Movin",
+"Jørgen Roos"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208846",
+"original_title": "Cinéastes de notre temps : Carl Th. Dreyer",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/A1x3kiTkCj6El1hA2nLsYm4v3l0.jpg",
+"runtime": 60,
+"title": "Cinéastes de notre temps : Carl Th. Dreyer",
+"tmdb_id": 385921,
+"year": 1965
 },
 "386001": {
 "backdrop": null,
@@ -42474,6 +58358,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 38879,
 "year": 2008
 },
+"38953": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
+"cast": [
+"Robert Mitchum",
+"Trevor Howard",
+"Christopher Jones",
+"John Mills",
+"Leo McKern",
+"Sarah Miles"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0066319",
+"original_title": "Ryan's Daughter",
+"overview": "In the wake of the 1916 Easter Rising, a married schoolteacher in a small Irish village has an affair with a troubled British officer.",
+"poster": "https://image.tmdb.org/t/p/w342/g5NAbtEK5bEAkBdXq6YM7a7tkZO.jpg",
+"runtime": 206,
+"title": "Ryan's Daughter",
+"tmdb_id": 38953,
+"year": 1970
+},
 "389554": {
 "backdrop": null,
 "cast": [
@@ -42496,6 +58405,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "No Rest for Billy Brakko",
 "tmdb_id": 389554,
 "year": 1983
+},
+"389636": {
+"backdrop": null,
+"cast": [
+"John Hurt",
+"Charley Boorman",
+"Angeline Ball",
+"Jocelyne West",
+"Juliette Caton",
+"Britta Bates"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0114755",
+"original_title": "Picture Windows: Two Nudes Bathing",
+"overview": "Part of the anthology series \"Picture Windows\" and screened at Cannes, \"Two Nudes Bathing\" playfully imagines the scandalous origins of a mysterious painting in the Louvre, as two young women’s tender pose sparks uproar in a prudish household.",
+"poster": "https://image.tmdb.org/t/p/w342/izRqZ4MV2581AZLniSRvJKZ49WP.jpg",
+"runtime": 35,
+"title": "Picture Windows: Two Nudes Bathing",
+"tmdb_id": 389636,
+"year": 1995
 },
 "390": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hEPUs4yRZE0gFckKPf83OH8sQMp.jpg",
@@ -42574,6 +58508,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "El Materdor",
 "tmdb_id": 39030,
 "year": 2008
+},
+"39083": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hLr3ybylDMnC33mnK9IRPQXFntl.jpg",
+"cast": [
+"Dolph Lundgren",
+"Kate Vernon",
+"Phillip MacKenzie",
+"Kam Heskin",
+"Fred Williamson",
+"Andrew Jackson"
+],
+"countries": [
+"CA",
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0126816",
+"original_title": "Blackjack",
+"overview": "After saving Casey, a daughter of his friend, from hired assassins, Jack Devlin is hit with a strange phobia - fear of white color. But when his other friend, who works as a bodyguard for a supermodel, is wounded, Jack decides to step in for him. Now he must confront his fear and the assassin, who seems to be well aware of Jack's problem.",
+"poster": "https://image.tmdb.org/t/p/w342/xinJIob2IVjXaupIkSj2TGiJYJf.jpg",
+"runtime": 112,
+"title": "Blackjack",
+"tmdb_id": 39083,
+"year": 1998
+},
+"39084": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tMIfgn1CeolINBBPeWSdmFrb2i3.jpg",
+"cast": [
+"Sandrine Holt",
+"Ivan Sergei",
+"Nicholas Lea",
+"Robert Ito",
+"Michael Wong",
+"Jennifer Dale"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0116712",
+"original_title": "Once a Thief",
+"overview": "Set in Hong Kong and Vancouver, the story follows Mac Ramsey and Li Ann Tsei, lovers and professional thieves who are separated while fleeing the powerful Hong Kong underworld crime lord who raised and trained them. After being imprisoned in Hong Kong, Mac is forcefully recruited into a clandestine international crime-fighting unit by a hard-nosed, menacing Director. He is teamed in Vancouver with Li Ann, who thought Mac was dead, and her new fiancé Victor Mansfield, an ex-cop who is attracted to the unorthodox methods of the agency. Conflict flares between Mac and Victor as the trio take on their assignment. They soon learn that their principal target is their foster brother Michael Tang, who had been given Li Ann as his future wife and who has vowed to hunt down the pair for their disloyalty to the \"family\".",
+"poster": "https://image.tmdb.org/t/p/w342/uyGoCcfK69r7Cedz36GmRx9LGO4.jpg",
+"runtime": 96,
+"title": "Once a Thief",
+"tmdb_id": 39084,
+"year": 1996
 },
 "391069": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ik66StCvdrPcptl1SioAIh2kOEc.jpg",
@@ -42744,6 +58729,58 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 3933,
 "year": 2005
 },
+"3935": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2kF5LpkWFyrrNetRia4I6CBtI6E.jpg",
+"cast": [
+"Gérard Depardieu",
+"Ornella Muti",
+"Michel Piccoli",
+"Renato Salvatori",
+"Zouzou",
+"Giuliana Calandra"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0075364",
+"original_title": "La Dernière Femme",
+"overview": "Psychological drama of the compelling relationship between a young French engineer and the girl he takes into his home after his wife has left him with their baby son.",
+"poster": "https://image.tmdb.org/t/p/w342/8zbLvPNwA2raK09aqFTYHab3vV9.jpg",
+"runtime": 108,
+"title": "The Last Woman",
+"tmdb_id": 3935,
+"year": 1976
+},
+"39538": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg",
+"cast": [
+"Marion Cotillard",
+"Matt Damon",
+"Laurence Fishburne",
+"Jude Law",
+"Kate Winslet",
+"Jennifer Ehle"
+],
+"countries": [
+"US",
+"AE"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt1598778",
+"original_title": "Contagion",
+"overview": "Contagion forteller historien om et livsfarlig virus, spredd via luften og med dødelig utfall i løpet av bare få dager. Samtidig som den raskt voksende epidemien utvikler seg, arbeider legemiddelindustrien verden over med å finne en løsning. Håpet er å stoppe det livsfarlige viruset - men også den altomfattende panikken som angriper menneskene i en enda raskere fart enn sykdommen selv.",
+"poster": "https://image.tmdb.org/t/p/w342/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+"runtime": 106,
+"title": "Contagion",
+"tmdb_id": 39538,
+"year": 2011
+},
 "395942": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lLYGTc6SQ9QlxXGrp3wA6b9JIjb.jpg",
 "cast": [
@@ -42763,6 +58800,74 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Good Night, Dear",
 "tmdb_id": 395942,
 "year": 1968
+},
+"39683": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zuIqIGM7EN5AE73L290qCBSUtp8.jpg",
+"cast": [
+"Steven Tyler",
+"Brad Whitford",
+"Joe Perry",
+"Tom Hamilton",
+"Joey Kramer",
+"Alicia Silverstone"
+],
+"countries": [],
+"directors": [
+"Marty Callner",
+"David Fincher"
+],
+"imdb_id": "tt0109047",
+"original_title": "Aerosmith: Big Ones You Can Look At",
+"overview": "This is a VHS and Laserdisc release featuring music videos by the American hard rock band Aerosmith. It was released on November 4, 1994. In addition, there are outtakes and band interviews. The suggestive title comes from - and is a companion to - the 1994 then-current Greatest Hits compilation album Big Ones.",
+"poster": "https://image.tmdb.org/t/p/w342/pOOE4VrULp58r4Yr6e2TU4nQ5Az.jpg",
+"runtime": 100,
+"title": "Aerosmith: Big Ones You Can Look At",
+"tmdb_id": 39683,
+"year": 1994
+},
+"398149": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ecU75TpKmgRavy3IIWhEBQzkisX.jpg",
+"cast": [
+"Ko Asung",
+"Ana Torrent",
+"Kaori Momoi",
+"Zhao Tao",
+"Jonas Mekas"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Kaori Momoi",
+"So Yong Kim",
+"Takushi Nishinaka",
+"Leslie Kee",
+"Steven Sebring",
+"Isaki Lacuesta",
+"Zhao Ye",
+"Ariel Rotter",
+"Víctor Erice",
+"Jia Zhangke",
+"Wisut Ponnimit",
+"Catherine Cadou",
+"Toyoko Yamasaki",
+"Pedro González-Rubio",
+"Jonas Mekas",
+"Kazuhiro Soda",
+"Naomi Kawase",
+"Bong Joon Ho",
+"Apichatpong Weerasethakul",
+"Mohd Naguib Razak",
+"Shunji Dodo"
+],
+"imdb_id": "tt1939641",
+"original_title": "3.11 A Sense of Home Films",
+"overview": "In memory of the Japanese earthquake on 3.11, each director presents a 3 minute and 11 second short film in tribute to those who were lost that day.",
+"poster": "https://image.tmdb.org/t/p/w342/4XhJRrJ4b4IuRiKF1G5DF2WpU6D.jpg",
+"runtime": 75,
+"title": "3.11 A Sense of Home Films",
+"tmdb_id": 398149,
+"year": 2011
 },
 "39850": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7ehwRyqw5k65erbI6m25P1tgLtt.jpg",
@@ -42874,6 +58979,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 399121,
 "year": 2019
 },
+"399170": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eszmHIWJHAKdnJcE3KcvVzOb6Jd.jpg",
+"cast": [
+"Channing Tatum",
+"Adam Driver",
+"Daniel Craig",
+"Riley Keough",
+"Katie Holmes",
+"Katherine Waterston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt5439796",
+"original_title": "Logan Lucky",
+"overview": "Brødrene Jimmy og Clyde Logan prøver å reversere en forbannelse som har ligget over familien deres i all tid. Nå skal de endelig bli rike ved å utføre et forseggjort kupp under det legendariske NASCAR-løpet \"Coca-Cola 600\" på Charlotte Motor Speedway.",
+"poster": "https://image.tmdb.org/t/p/w342/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+"runtime": 119,
+"title": "Logan Lucky",
+"tmdb_id": 399170,
+"year": 2017
+},
+"399440": {
+"backdrop": "https://image.tmdb.org/t/p/w780/itGpYr3CcJP9QJz8vbbLAdgS47r.jpg",
+"cast": [
+"Rory Kinnear",
+"Maxine Peake",
+"Pearce Quigley",
+"David Moorst",
+"Rachel Finnegan",
+"Tom Meredith"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt4614612",
+"original_title": "Peterloo",
+"overview": "An epic portrayal of the events surrounding the infamous 1819 Peterloo Massacre, where a peaceful pro-democracy rally at St Peter’s Field in Manchester turned into one of the bloodiest and most notorious episodes in British history. The massacre saw British government forces charge into a crowd of over 60,000 that had gathered to demand political reforms and protest against rising levels of poverty.",
+"poster": "https://image.tmdb.org/t/p/w342/lUQD6QBwNgSiiOAcNcTOd4qGRId.jpg",
+"runtime": 155,
+"title": "Peterloo",
+"tmdb_id": 399440,
+"year": 2018
+},
 "399511": {
 "backdrop": null,
 "cast": [
@@ -42955,6 +59110,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 400177,
 "year": 1984
 },
+"40072": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aIG4JBfaXOqUYGKn3NsXvBDz2Pa.jpg",
+"cast": [
+"Hans van Tongeren",
+"Renée Soutendijk",
+"Toon Agterberg",
+"Maarten Spanjer",
+"Marianne Boyer",
+"Rutger Hauer"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0081547",
+"original_title": "Spetters",
+"overview": "Amateur dirt-bikers Rien and Hans–and their mechanic Eef–each fall in love with Fientje, a young woman who, with her brother Jaap, works a concession stand at the races. Everyone seeks a better life: Fientje wants out of the business and away from Jaap; and Rien and Hans aim to make their marks as pro racers, like their hero, Gerrit Witkamp.",
+"poster": "https://image.tmdb.org/t/p/w342/1wwfUnwGtyfWOytbBtZguYkfXJ4.jpg",
+"runtime": 120,
+"title": "Spetters",
+"tmdb_id": 40072,
+"year": 1980
+},
 "4011": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
 "cast": [
@@ -42979,6 +59159,107 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Beetlejuice",
 "tmdb_id": 4011,
 "year": 1988
+},
+"401200": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
+"cast": [
+"Matthias Schoenaerts",
+"Léa Seydoux",
+"Peter Simonischek",
+"Max von Sydow",
+"August Diehl",
+"Colin Firth"
+],
+"countries": [
+"BE",
+"FR",
+"LU"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt4951982",
+"original_title": "Kursk",
+"overview": "Barents Sea, August 12th, 2000. During a Russian naval exercise, and after suffering a serious accident, the K-141 Kursk submarine sinks with 118 crew members on board. While the few sailors who are still alive barely manage to survive, their families push for accurate information and a British officer struggles to obtain from the Russian government a permit to attempt a rescue before it is late. But general incompetence are against all their efforts.",
+"poster": "https://image.tmdb.org/t/p/w342/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg",
+"runtime": 118,
+"title": "Kursk",
+"tmdb_id": 401200,
+"year": 2018
+},
+"40140": {
+"backdrop": "https://image.tmdb.org/t/p/w780/d5agxNrduE1LdnXmgN8QNRiSlL9.jpg",
+"cast": [
+"Gregory Peck",
+"Richard Crenna",
+"David Janssen",
+"James Franciscus",
+"Gene Hackman",
+"Lee Grant"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0064639",
+"original_title": "Marooned",
+"overview": "After spending several months in an orbiting lab, three astronauts prepare to return to Earth only to find their de-orbit thrusters won't activate. After initially thinking they might have to abandon them in orbit, NASA decides to launch a daring rescue. Their plans are complicated by a hurricane headed towards the launch site—and a shrinking air supply in the astronauts' capsule.",
+"poster": "https://image.tmdb.org/t/p/w342/lFnHHKGzTXg4TND5YiS2KYs8AMJ.jpg",
+"runtime": 134,
+"title": "Marooned",
+"tmdb_id": 40140,
+"year": 1969
+},
+"401459": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zVo8HaHzvVkF3VMoRwEVTnuhRYN.jpg",
+"cast": [
+"Harry Shearer",
+"Michael McKean",
+"Christopher Guest",
+"Rob Reiner",
+"Rebecca De Mornay",
+"Bruno Kirby"
+],
+"countries": [],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0439825",
+"original_title": "Spinal Tap: The Final Tour",
+"overview": "Spinal Tap, one of England's loudest bands, makes another final reunion. After all, it's rock'n'roll. This is actually a demo reel that Rob Reiner created to get financing for his 1984 film \"This Is Spinal Tap.\"",
+"poster": "https://image.tmdb.org/t/p/w342/dAbPxCixKafoi21XKwKro1E3gug.jpg",
+"runtime": 21,
+"title": "Spinal Tap: The Final Tour",
+"tmdb_id": 401459,
+"year": 1981
+},
+"402": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
+"cast": [
+"Michael Douglas",
+"Sharon Stone",
+"George Dzundza",
+"Jeanne Tripplehorn",
+"Denis Arndt",
+"Leilani Sarelle"
+],
+"countries": [
+"US",
+"FR"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0103772",
+"original_title": "Basic Instinct",
+"overview": "Politidetektiven Nick Curran etterforsker mordet på en tidligere rockestjerne som blir funnet drept med en ishakke, fastbundet til sengen med ett hvitt silkeskjerf. Samtidig som Nick graver i denne saken, blir han involvert i en dødelig affære med tre ulike kvinner, hver av dem med et uventet motiv for mordet. Cathrine Tramell er en forfatter hvis fiksjonsmord har en tendens til å bli virkelige. Roxy er Cathrines motsetning, og Dr. Beth Garner er en politipsykolog som har Nick som klient. Nick er hektet på saken, men føler seg på svært gyngende grunn, og bevisene leder i alle andre retninger enn mot sannheten. Forført av Cathrine føler Nick seg dratt inn i et nett av tankeleker, kjærlighet og mord. Det eneste han kan stole på er sine instinkter. Filmen ble nominert til to Oscar.",
+"poster": "https://image.tmdb.org/t/p/w342/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+"runtime": 128,
+"title": "Basic Instinct",
+"tmdb_id": 402,
+"year": 1992
 },
 "403300": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
@@ -43055,6 +59336,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 405107,
 "year": 1974
 },
+"405177": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kCzGGhFJ4kNxZCS7lETAXp7MzJ.jpg",
+"cast": [
+"Cate Blanchett",
+"Billy Crudup",
+"Kristen Wiig",
+"Judy Greer",
+"Laurence Fishburne",
+"Emma Nelson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt2365580",
+"original_title": "Where'd You Go, Bernadette",
+"overview": "When architect-turned-recluse Bernadette Fox goes missing prior to a family trip to Antarctica, her 15-year-old daughter, Bee, goes on a quest with Bernadette's husband to find her.",
+"poster": "https://image.tmdb.org/t/p/w342/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+"runtime": 109,
+"title": "Where'd You Go, Bernadette",
+"tmdb_id": 405177,
+"year": 2019
+},
 "405774": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
 "cast": [
@@ -43130,30 +59436,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 40630,
 "year": 1964
 },
-"40650": {
-"backdrop": "https://image.tmdb.org/t/p/w780/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
+"407448": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3pl3WgBFp7YLIow01fro1gj2UfA.jpg",
 "cast": [
-"Howard Vernon",
-"Nicole Stéphane",
-"Jean-Marie Robain",
-"Amy Aaröe",
-"Georges Patrix",
-"Denis Sadier"
+"John Boyega",
+"Will Poulter",
+"Anthony Mackie",
+"Algee Smith",
+"Hannah Murray",
+"Jason Mitchell"
 ],
 "countries": [
-"FR"
+"US"
 ],
 "directors": [
-"Jean-Pierre Melville"
+"Kathryn Bigelow"
 ],
-"imdb_id": "tt0039822",
-"original_title": "Le Silence de la mer",
-"overview": "In a small town in WWII France, a German officer is billeted in the house of an elderly man and his niece who resist the occupation by refusing to interact with him, even as he speaks to them candidly about his life and hopes for the future of France and Germany.",
-"poster": "https://image.tmdb.org/t/p/w342/fSXcS9ARNI07I1mR6FcycdLnnJj.jpg",
-"runtime": 87,
-"title": "The Silence of the Sea",
-"tmdb_id": 40650,
-"year": 1949
+"imdb_id": "tt5390504",
+"original_title": "Detroit",
+"overview": "Fra den Oscar-vinnende regissøren av THE HURT LOCKER og ZERO DARK THIRTY, kommer en gripende historie om en av de mørkeste hendelsene under urolighetene som rystet Detroit sommeren 1967.",
+"poster": "https://image.tmdb.org/t/p/w342/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+"runtime": 143,
+"title": "Detroit",
+"tmdb_id": 407448,
+"year": 2017
+},
+"40867": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ckJPiOT2EMsUOHb0pMdpGmeTtqU.jpg",
+"cast": [
+"Doris Day",
+"John Raitt",
+"Carol Haney",
+"Eddie Foy Jr.",
+"Reta Shaw",
+"Barbara Nichols"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen",
+"George Abbott"
+],
+"imdb_id": "tt0050814",
+"original_title": "The Pajama Game",
+"overview": "An Iowa pajama factory worker falls in love with an affable superintendent who had been hired by the factory's boss to help oppose the workers' demand for a pay raise.",
+"poster": "https://image.tmdb.org/t/p/w342/71Q9f7byPqH8trF4BvZOlXnhO2D.jpg",
+"runtime": 103,
+"title": "The Pajama Game",
+"tmdb_id": 40867,
+"year": 1957
 },
 "408882": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zTCZdXGnTxtIQIrKyh0JM65mX6d.jpg",
@@ -43269,6 +59601,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Black Rain",
 "tmdb_id": 4105,
 "year": 1989
+},
+"41253": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jfGgCSFMUlf8DklzUkpz1GfieHA.jpg",
+"cast": [
+"Tab Hunter",
+"Gwen Verdon",
+"Ray Walston",
+"Russ Brown",
+"Shannon Bolin",
+"Nathaniel Frey"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen",
+"George Abbott"
+],
+"imdb_id": "tt0051516",
+"original_title": "Damn Yankees",
+"overview": "Film adaptation of the George Abbott Broadway musical about a Washington Senators fan who makes a pact with the Devil to help his baseball team win the league pennant.",
+"poster": "https://image.tmdb.org/t/p/w342/iSw0Fb4pdXDqm9Bl8iqsSwfn5u7.jpg",
+"runtime": 111,
+"title": "Damn Yankees",
+"tmdb_id": 41253,
+"year": 1958
 },
 "414019": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mdYj4YNPGh3xVMgshHYNlWKWRRi.jpg",
@@ -43390,6 +59748,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 416051,
 "year": 2017
 },
+"41611": {
+"backdrop": "https://image.tmdb.org/t/p/w780/myvNbmklXMyINevJqRBc2i9laeh.jpg",
+"cast": [
+"Barbara Stanwyck",
+"Barry Sullivan",
+"Ralph Meeker",
+"Lee Aaker",
+"Rico Alaniz",
+"Salvador Baguez"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0045932",
+"original_title": "Jeopardy",
+"overview": "A woman is kidnapped when she goes to get help for her husband who is trapped on a beach with the tide coming in to surely drown him.",
+"poster": "https://image.tmdb.org/t/p/w342/8eXPMsrLsTK2AcFSwbCoWWIeeRB.jpg",
+"runtime": 69,
+"title": "Jeopardy",
+"tmdb_id": 41611,
+"year": 1953
+},
 "416373": {
 "backdrop": null,
 "cast": [],
@@ -43412,6 +59795,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Their First Films",
 "tmdb_id": 416373,
 "year": 2004
+},
+"41670": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zlnim8fvgMbYmAVpLgnogwgyy8X.jpg",
+"cast": [
+"Melanie Griffith",
+"Eric Thal",
+"John Pankow",
+"Tracy Pollan",
+"Lee Richardson",
+"Mia Sara"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0105483",
+"original_title": "A Stranger Among Us",
+"overview": "Detective Emily Eden is a tough New York City cop forced to go undercover to solve a puzzling murder. Her search for the truth takes her into a secret world of unwritten law and unspoken power, a world where the only way out is deeper in.",
+"poster": "https://image.tmdb.org/t/p/w342/t9V1cE3PzlK0syDD2HzrUiUpIRV.jpg",
+"runtime": 110,
+"title": "A Stranger Among Us",
+"tmdb_id": 41670,
+"year": 1992
 },
 "417198": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p04OwhvsoxgmdHQqflnDW8h3QBb.jpg",
@@ -43439,31 +59847,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 417198,
 "year": 2016
 },
-"4174": {
-"backdrop": "https://image.tmdb.org/t/p/w780/45HFziT30x25QxQdWPkhSIqFbKR.jpg",
-"cast": [
-"Ingrid Bergman",
-"Gregory Peck",
-"Michael Chekhov",
-"Leo G. Carroll",
-"Rhonda Fleming",
-"John Emery"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Alfred Hitchcock"
-],
-"imdb_id": "tt0038109",
-"original_title": "Spellbound",
-"overview": "When Dr. Anthony Edwardes arrives at a Vermont mental hospital to replace the outgoing hospital director, Dr. Constance Peterson, a psychoanalyst, discovers Edwardes is actually an impostor. The man confesses that the real Dr. Edwardes is dead and fears he may have killed him, but cannot recall anything. Dr. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
-"poster": "https://image.tmdb.org/t/p/w342/dPAox7jGScLBvxKLeRptJIBF7v.jpg",
-"runtime": 111,
-"title": "Spellbound",
-"tmdb_id": 4174,
-"year": 1945
-},
 "4175": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rF35vILVjqI2ryfiiKkP8EQNvU8.jpg",
 "cast": [
@@ -43489,6 +59872,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4175,
 "year": 1949
 },
+"4176": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+"cast": [
+"Albert Finney",
+"Lauren Bacall",
+"Martin Balsam",
+"Ingrid Bergman",
+"Sean Connery",
+"Anthony Perkins"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0071877",
+"original_title": "Murder on the Orient Express",
+"overview": "In 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+"poster": "https://image.tmdb.org/t/p/w342/oJjKcuoH7SuiqZaEpHt2Nd5ZxNY.jpg",
+"runtime": 128,
+"title": "Murder on the Orient Express",
+"tmdb_id": 4176,
+"year": 1974
+},
 "41789": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mmLJoiJOBqlxtZos6DRX9pl5Orm.jpg",
 "cast": [
@@ -43513,6 +59921,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Jacquot",
 "tmdb_id": 41789,
 "year": 1991
+},
+"41847": {
+"backdrop": "https://image.tmdb.org/t/p/w780/FEKqArMJkdf9AF07c09cPlBGo5.jpg",
+"cast": [
+"Maggie Gyllenhaal",
+"Glenn Close",
+"Dean Winters",
+"Ken Leung",
+"Bruno Lastra",
+"Shing Ka"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0376215",
+"original_title": "Strip Search",
+"overview": "Strip Search follows several parallel stories examining personal freedoms vs. national security in the aftermath of 9/11; two main subplots involve an American woman detained in China and an Arab man detained in New York City.",
+"poster": "https://image.tmdb.org/t/p/w342/lWoZQE5hcVWSLk2X5MKQ8mvOTCu.jpg",
+"runtime": 56,
+"title": "Strip Search",
+"tmdb_id": 41847,
+"year": 2004
 },
 "41889": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8JhmQlJRgj2e3qrHHyi26PI3RDf.jpg",
@@ -43585,6 +60018,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Trail of Hate",
 "tmdb_id": 419697,
 "year": 1917
+},
+"419709": {
+"backdrop": "https://image.tmdb.org/t/p/w780/brOj9ODIBPnhNnR8prIbBPy2j23.jpg",
+"cast": [
+"Steve Carell",
+"Bryan Cranston",
+"Laurence Fishburne",
+"Yul Vazquez",
+"J. Quinton Johnson",
+"Deanna Reed-Foster"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt6018306",
+"original_title": "Last Flag Flying",
+"overview": "Thirty years after serving together in the Vietnam War, Larry, Sal and Richard reunite for a different type of mission: to bury Doc's son, a young Marine killed in Iraq. Forgoing the burial, the trio take the casket on a bittersweet trip up the coast to New Hampshire – along the way reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.",
+"poster": "https://image.tmdb.org/t/p/w342/pizynKUzJ9YucGff1O1MYisY1WM.jpg",
+"runtime": 125,
+"title": "Last Flag Flying",
+"tmdb_id": 419709,
+"year": 2017
 },
 "419711": {
 "backdrop": null,
@@ -43809,6 +60267,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Scarlet Drop",
 "tmdb_id": 419993,
 "year": 1918
+},
+"420011": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dlmaZ0VjE1J0Qp1fMA03xQ3w0VD.jpg",
+"cast": [
+"May McAvoy",
+"Leslie Fenton",
+"Ford Sterling",
+"Rockliffe Fellowes",
+"Milla Davenport",
+"Carole Lombard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0017328",
+"original_title": "The Road to Glory",
+"overview": "May McAvoy is a woman who is blinded in an auto accident and relies on prayer to regain her sight.",
+"poster": "https://image.tmdb.org/t/p/w342/jILRsb6Z7vovNGGnG2Rp66UdLPc.jpg",
+"runtime": 93,
+"title": "The Road to Glory",
+"tmdb_id": 420011,
+"year": 1926
 },
 "42021": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7YjjphrUKt9tdtVEcm5mJQZ4DYX.jpg",
@@ -44085,6 +60568,110 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 42164,
 "year": 1979
 },
+"42200": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iBsfqlbjxDkox9RUlnLZ1tA6Mx5.jpg",
+"cast": [
+"Gérard Depardieu",
+"Marcello Mastroianni",
+"James Coco",
+"Abigail Clayton",
+"Geraldine Fitzgerald",
+"Stefania Casini"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0075848",
+"original_title": "Ciao maschio",
+"overview": "In metahistorical New York city electrotechnician Lafayette deals with a megalomaniac director of a wax museum of ancient Rome, an italian lonely anarchist, a group of feminist actresses - including Angelica who falls in love with him - and a small adopted chimpanzee.",
+"poster": "https://image.tmdb.org/t/p/w342/gw1PrkRwMe9XZUksQpdB81ExP1j.jpg",
+"runtime": 113,
+"title": "Bye Bye Monkey",
+"tmdb_id": 42200,
+"year": 1978
+},
+"42201": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uuEF8CfsfhOgy21t1nAEGObJPBN.jpg",
+"cast": [
+"James Caan",
+"Jane Fonda",
+"Jason Robards",
+"George Grizzard",
+"Richard Farnsworth",
+"Jim Davis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0077360",
+"original_title": "Comes a Horseman",
+"overview": "Ella Connors is a single woman who gets pressured to sell her failing cattle farm to her corrupt ex-suitor, Jacob Ewing. She asks for help from her neighbor, Frank Athearn. As Ella and Frank fight back through stampedes, jealousy, betrayal, and sabotage... they eventually find love.",
+"poster": "https://image.tmdb.org/t/p/w342/yAB1AmZWkHitsE2q7nLtrjuQe2k.jpg",
+"runtime": 118,
+"title": "Comes a Horseman",
+"tmdb_id": 42201,
+"year": 1978
+},
+"422298": {
+"backdrop": null,
+"cast": [
+"Alejandro Camacho",
+"Carmen Salinas",
+"David Reynoso",
+"Rafael Sánchez Navarro",
+"Erika Buenfil",
+"Mariagna Prats"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Rafael Montero",
+"Juan Antonio de la Riva",
+"Alfredo Gurrola",
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0368648",
+"original_title": "Cita con la muerte",
+"overview": "A horror anthology composed of four episodes from the TV series \"La Hora Marcada\".",
+"poster": "https://image.tmdb.org/t/p/w342/mKc8gCr7oaE6jFinr7aRugpO1DL.jpg",
+"runtime": 85,
+"title": "Appointment with Death",
+"tmdb_id": 422298,
+"year": 1989
+},
+"42232": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+"cast": [
+"David Carradine",
+"Ronny Cox",
+"Melinda Dillon",
+"Gail Strickland",
+"John Lehne",
+"Ji-Tu Cumbuka"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0074235",
+"original_title": "Bound for Glory",
+"overview": "A biography of Woody Guthrie, one of America's greatest folk singers. He left his dust-devastated Texas home in the 1930s to find work, discovering the suffering and strength of America's working class.",
+"poster": "https://image.tmdb.org/t/p/w342/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+"runtime": 148,
+"title": "Bound for Glory",
+"tmdb_id": 42232,
+"year": 1976
+},
 "42233": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2JbySwrCjjZUasCwIbh6uxUlF8R.jpg",
 "cast": [
@@ -44109,6 +60696,53 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
 "tmdb_id": 42233,
 "year": 1976
+},
+"42258": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jmBZp22GAoEUoVPEz3fKEIERs6r.jpg",
+"cast": [
+"Monique van de Ven",
+"Rutger Hauer",
+"Andrea Domburg",
+"Hannah de Leeuwe",
+"Jan Blaaser",
+"Eddie Brugman"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0073233",
+"original_title": "Keetje Tippel",
+"overview": "In the late 19th-century, the Tippel family moves to rural Stavoren in search of greener pastures. However, their dreams are quickly shattered, as teenage Katie is terrorized by a male-dominated society who only see her as an object. Her situation worsens when, following her father's sacking and her elder sister's descent into alcoholism, her mother decides that, rather than starving, Katie becomes a prostitute.",
+"poster": "https://image.tmdb.org/t/p/w342/2xIaUVAzO5IM7PVOqDGxHbTrUf4.jpg",
+"runtime": 102,
+"title": "Katie Tippel",
+"tmdb_id": 42258,
+"year": 1975
+},
+"423059": {
+"backdrop": null,
+"cast": [
+"Charley Boorman",
+"John Boorman",
+"John Hurt",
+"Janet McTeer",
+"Stan Gebler-Davis"
+],
+"countries": [],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0102085",
+"original_title": "I Dreamt I Woke Up",
+"overview": "John Boorman reflects on the personal influences shaping his life and films in this short work, blending family, neighbors, and the Wicklow Mountains landscape surrounding his Irish home.",
+"poster": "https://image.tmdb.org/t/p/w342/wRQGy6HVtiLrukqmioVrDOOSDt1.jpg",
+"runtime": 44,
+"title": "I Dreamt I Woke Up",
+"tmdb_id": 423059,
+"year": 1991
 },
 "4233": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lVmcX3hlJqsUGkEOEZkRFiOQdLv.jpg",
@@ -44177,6 +60811,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The ABC of Hand Tools",
 "tmdb_id": 423424,
 "year": 1946
+},
+"42409": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sEbmokMU314z6XOVuR3J52ETr8E.jpg",
+"cast": [
+"Jon Anderson",
+"Chris Squire",
+"Trevor Rabin",
+"Alan White",
+"Tony Kaye"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0204116",
+"original_title": "Yes - 9012Live",
+"overview": "The YES line-up of Jon Anderson, Chris Squire, Trevor Rabin, Alan White and Tony Kaye perform highlights from their 1985 tour - \"Introduction,\" \"Cinema,\" \"Leave It,\" \"Hold On,\" \"I've Seen All Good People,\" \"Changes,\" \"Owner of a Lonely Heart,\" \"It Can Happen,\" \"City of Love,\" and \"Starship Trooper\" in a landmark concert.",
+"poster": "https://image.tmdb.org/t/p/w342/mM8kk9WdH55cxgdlypy1zhDiUGe.jpg",
+"runtime": 67,
+"title": "Yes - 9012Live",
+"tmdb_id": 42409,
+"year": 1985
 },
 "42461": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mpEySWm3VVp2HuMx7c5W07cSVzP.jpg",
@@ -44334,6 +60992,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 42531,
 "year": 1971
 },
+"4256": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nF74HKjNe7X54XMcIc7ulK5InxR.jpg",
+"cast": [
+"Anna Faris",
+"Regina Hall",
+"Simon Rex",
+"Anthony Anderson",
+"Charlie Sheen",
+"Leslie Nielsen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0306047",
+"original_title": "Scary Movie 3",
+"overview": "Den alltid så uheldige Cindy Campbell har gjort unna sin tid på college, og arbeider nå som nyhetsoppleser på TV. Og i løpet av få dager skjer det. Hun får i oppdrag å finne ut hva som skjuler seg bak de mystiske ringmerkene i åkeren på Tom Logans gård, og samtidig opplever hun å få innblikk i de uhyggelige omstendighetene rundt dødsfallet til en av hennes venner.  Mens oppdraget pågår besøker Cindy en mann ved navn Orpheus, som forklarer henne at hun er \"Den utvalgte\", og at hum må hjelpe den amerikanske presidenten med å unngå en gigantisk invasjon av fremmede vesener.",
+"poster": "https://image.tmdb.org/t/p/w342/8dLsax5KSwlCY5uWXETKjud5k6U.jpg",
+"runtime": 84,
+"title": "Scary Movie 3",
+"tmdb_id": 4256,
+"year": 2003
+},
 "425656": {
 "backdrop": null,
 "cast": [],
@@ -44352,6 +61035,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Journal des réalisateurs",
 "tmdb_id": 425656,
 "year": 2008
+},
+"4257": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pSNwe7G9bESwlCBVurlwRs7fMZU.jpg",
+"cast": [
+"Anna Faris",
+"Regina Hall",
+"Craig Bierko",
+"Bill Pullman",
+"Anthony Anderson",
+"Leslie Nielsen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0362120",
+"original_title": "Scary Movie 4",
+"overview": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+"poster": "https://image.tmdb.org/t/p/w342/dEwlu8S0z1AibuX1weLwUyiRWFl.jpg",
+"runtime": 83,
+"title": "Scary Movie 4",
+"tmdb_id": 4257,
+"year": 2006
 },
 "42586": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5hCGMVTgs24FSsiLjZqGXoQ352j.jpg",
@@ -44376,6 +61084,31 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 143,
 "title": "Darling Lili",
 "tmdb_id": 42586,
+"year": 1970
+},
+"42589": {
+"backdrop": "https://image.tmdb.org/t/p/w780/glApIq3OKhjEUrs2cuaCKL8LFGO.jpg",
+"cast": [
+"Robert De Niro",
+"Jennifer Salt",
+"Allen Garfield",
+"Charles Durning",
+"Lara Parker",
+"Paul Bartel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0065836",
+"original_title": "Hi, Mom!",
+"overview": "Vietnam vet Jon Rubin returns to New York and rents a rundown flat in Greenwich Village. It is in this flat that he begins to film, 'Peeping Tom' style, the people in the apartment across the street. His obsession with making films leads him to fall in with a radical 'Black Power' group, which in turn leads him to carry out a bizarre act of urban terrorism.",
+"poster": "https://image.tmdb.org/t/p/w342/l4rge37nxK6nQFQVJxgdRaBG1xS.jpg",
+"runtime": 87,
+"title": "Hi, Mom!",
+"tmdb_id": 42589,
 "year": 1970
 },
 "42590": {
@@ -44631,6 +61364,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 42741,
 "year": 1972
 },
+"427768": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2HhhQcF32IaOQX4SIuqVmuts32R.jpg",
+"cast": [
+"Walt Disney",
+"Clarence Nash",
+"James MacDonald",
+"June Foray",
+"Cliff Edwards",
+"Dessie Flynn"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Charles August Nichols",
+"Jack Hannah",
+"Jack Kinney"
+],
+"imdb_id": "tt0912697",
+"original_title": "This Is Your Life Donald Duck",
+"overview": "Jiminy Cricket is all set to give a testimonial to Donald Duck. But alas, Donald is relaxing at home, with no plans to leave any time soon. Literally dragged to the Disney Studio by his nephews, an outraged Donald relaxes a bit when he realizes that he's the guest of honor. Donald's life is recounted by such colleagues as Daisy Duck (who explains why she and Donald never married), Chip 'n' Dale, Mickey Mouse, Pluto, and even a few guest stars who never made a picture with the duck, including the Three Little Pigs, Snow White and the Seven Dwarfs and Lady and the Tramp.",
+"poster": "https://image.tmdb.org/t/p/w342/lokRpFpLgL3Jk7xZPL0VsOzxWzn.jpg",
+"runtime": 45,
+"title": "This Is Your Life Donald Duck",
+"tmdb_id": 427768,
+"year": 1960
+},
 "427774": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9d5D2b0O5PZ8w3pVFT43alaRx0L.jpg",
 "cast": [
@@ -44653,6 +61413,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Kids Is Kids",
 "tmdb_id": 427774,
 "year": 1961
+},
+"42807": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nw0xlXxry89BlsErsuOMSIuxloq.jpg",
+"cast": [
+"Matthew McConaughey",
+"Skeet Ulrich",
+"Ethan Hawke",
+"Vincent D'Onofrio",
+"Dwight Yoakam",
+"Gail Cronauer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0120769",
+"original_title": "The Newton Boys",
+"overview": "The story of the Newton gang, the most successful bank robbers in history, owing to their good planning and minimal violence.",
+"poster": "https://image.tmdb.org/t/p/w342/v3VuDClmFZNjfI6YLTkeinae9HK.jpg",
+"runtime": 122,
+"title": "The Newton Boys",
+"tmdb_id": 42807,
+"year": 1998
+},
+"42815": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4kcUGPbSZZvvTjve3DrJo3erzFT.jpg",
+"cast": [
+"Walter Huston",
+"Phillips Holmes",
+"Constance Cummings",
+"Boris Karloff",
+"DeWitt Jennings",
+"Mary Doran"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0021770",
+"original_title": "The Criminal Code",
+"overview": "After young Robert Graham commits a murder while drunk and defending his girlfriend, he is prosecuted by ambitious Mark Brady and sentenced to 10 years. Six years later, Brady becomes the prison warden and offers the beleaguered Robert a job as his chauffeur. Robert cleans up his act, but, on the eve of his pardon, his cellmate drags him back into the world of violence, and he faces a difficult choice that could return him to prison.",
+"poster": "https://image.tmdb.org/t/p/w342/nshRsmnw7wpE2fsRkVrCED7uCcI.jpg",
+"runtime": 97,
+"title": "The Criminal Code",
+"tmdb_id": 42815,
+"year": 1931
 },
 "429189": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sSlL9NfqN5gBhPkHE1TOBXqBoew.jpg",
@@ -44679,6 +61489,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 429189,
 "year": 2017
 },
+"42949": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qA8IqLOzdRFvFxXqg5bV6Fto21f.jpg",
+"cast": [
+"Freddie Highmore",
+"Mia Farrow",
+"Robert Stanton",
+"Penny Balfour",
+"David Gasman",
+"Antony Hickling"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0940656",
+"original_title": "Arthur 3: la guerre des deux mondes",
+"overview": "Den tredje og avsluttende filmen om Arthur og Minimoyene er endelig her! Maltazard fanger Arthur i Minimoyenes rike og drar selv i den andre retningen; mot menneskenes verden. Maltazard er nå over to meter høy og samler en hær av kjempemygg for å hjelpe ham til å ta over universet.  Arthur er den eneste som kan få stoppet ham, men først må han komme seg tilbake til soverommet sitt og returnere til normal størrelse. Nå som han er i liten Minimoy-størrelse vet han at han vil få hjelp fra Selenia og Betameche, men det som er mer overraskende er at Darkos, Maltazards sønn, sier at han vil komme over til den gode siden og hjelpe Arthur.  Til fots, på sykkel, i bil og til og med på en Harley Davidson; Arthur og vennene hans trenger all den hjelpen de kan få i den siste kampen mot Maltazard.  La kampen begynne!",
+"poster": "https://image.tmdb.org/t/p/w342/wBT40NqmBz65WYmIGhDnWcgzPcA.jpg",
+"runtime": 101,
+"title": "Arthur 3: The War of the Two Worlds",
+"tmdb_id": 42949,
+"year": 2010
+},
 "42995": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mz2nMk0iA7CwHZwtbWdcV8oePg.jpg",
 "cast": [
@@ -44702,31 +61537,6 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 123,
 "title": "Experiment in Terror",
 "tmdb_id": 42995,
-"year": 1962
-},
-"42999": {
-"backdrop": "https://image.tmdb.org/t/p/w780/68uiiAFDZDmJabbIrCWdT7GvBMq.jpg",
-"cast": [
-"Carlotta Barilli",
-"Lorenza Benedetti",
-"Clorinda Celani",
-"Vincenzo Ciccora",
-"Alvaro D'Ercole",
-"Giancarlo De Rosa"
-],
-"countries": [
-"IT"
-],
-"directors": [
-"Bernardo Bertolucci"
-],
-"imdb_id": "tt0055858",
-"original_title": "La commare secca",
-"overview": "Roman police detectives interrogate a series of potential perpetrators in their struggle to determine whom to arrest for the brutal murder of a beautiful prostitute whose body is discovered in a park on the day of a torrential rainstorm. One by one, the prime suspects -- girl-crazy teenager Nino, pickpocket Canticchia, a soldier on leave, a tourist and a pimp -- recount the events of the day to the police, each insisting he is innocent.",
-"poster": "https://image.tmdb.org/t/p/w342/mRlO7kBLNxG4nUwkzaL5eDT8fK9.jpg",
-"runtime": 91,
-"title": "La Commare Secca",
-"tmdb_id": 42999,
 "year": 1962
 },
 "430": {
@@ -44753,6 +61563,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "One, Two, Three",
 "tmdb_id": 430,
 "year": 1961
+},
+"43004": {
+"backdrop": "https://image.tmdb.org/t/p/w780/k6E1lQBDb29OD5c9XlyyVpR4P8E.jpg",
+"cast": [
+"Katharine Hepburn",
+"Ralph Richardson",
+"Dean Stockwell",
+"Jason Robards",
+"Jeanne Barr"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0056196",
+"original_title": "Long Day's Journey Into Night",
+"overview": "An Irish miser, his morphine addicted wife, their debauched older son, and a gravely ill younger son. A quiet Connecticut vacation home on one foggy day in August 1912 becomes the backdrop for domestic decline.",
+"poster": "https://image.tmdb.org/t/p/w342/b7cu92b2sAJix1WFiLZiHSkZY1r.jpg",
+"runtime": 170,
+"title": "Long Day's Journey Into Night",
+"tmdb_id": 43004,
+"year": 1962
 },
 "43007": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p55n7xZJnDUoJwopNpYsmJ09s5D.jpg",
@@ -44831,6 +61665,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 43040,
 "year": 1960
 },
+"430591": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Hannah",
+"Jack Kinney",
+"Bill Justice"
+],
+"imdb_id": "tt0239644",
+"original_title": "The Adventures of Chip 'N' Dale",
+"overview": "An assortment of classic Disney cartoons blended into a complete movie featurette.  Features \"Two Chips and a Miss,\" \"Chicken in the Rough,\" \"Donald Applecore,\" \"Chips Ahoy,\" \"Up a Tree,\" and \"The Lone Chipmunk.\"",
+"poster": "https://image.tmdb.org/t/p/w342/aX6bdzqkszG80zQumVzKvhm4LYS.jpg",
+"runtime": 48,
+"title": "The Adventures of Chip 'N' Dale",
+"tmdb_id": 430591,
+"year": 1959
+},
 "43101": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wgo4NDOiZkkcbKx5Z38lvAJX50n.jpg",
 "cast": [
@@ -44905,6 +61759,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 431792,
 "year": 1995
 },
+"43196": {
+"backdrop": "https://image.tmdb.org/t/p/w780/t2Sh0thIhrtQSW8THqTcxZyCZSU.jpg",
+"cast": [
+"José Ferrer",
+"Helen Traubel",
+"Doe Avedon",
+"Walter Pidgeon",
+"Paul Henreid",
+"Tamara Toumanova"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0046896",
+"original_title": "Deep in My Heart",
+"overview": "Biographic movie about the American composer Sigmund Romberg.",
+"poster": "https://image.tmdb.org/t/p/w342/t5f8JcfqnDkeCCrRVz7LlrUuNOP.jpg",
+"runtime": 132,
+"title": "Deep in My Heart",
+"tmdb_id": 43196,
+"year": 1954
+},
 "432343": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ieTADaJyoAQk1yVG9d3JpXuOsHs.jpg",
 "cast": [
@@ -44965,56 +61844,73 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 432839,
 "year": 1952
 },
-"43389": {
-"backdrop": "https://image.tmdb.org/t/p/w780/k6ksC8bISMCB8dSAc6Pt0g1Cs4u.jpg",
+"43362": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6Bi7gmPzoMRgwtm2XxQhVho155g.jpg",
 "cast": [
-"Peppino De Filippo",
-"Carla Del Poggio",
-"Giulietta Masina",
-"John Kitzmiller",
-"Dante Maggio",
-"Checco Durante"
+"Larry Parks",
+"Elizabeth Taylor",
+"Josephine Hutchinson",
+"Tom Tully",
+"Ann Doran",
+"Elinor Donahue"
 ],
 "countries": [
-"IT"
+"US"
 ],
 "directors": [
-"Federico Fellini",
-"Alberto Lattuada"
+"Stanley Donen"
 ],
-"imdb_id": "tt0042692",
-"original_title": "Luci del varietà",
-"overview": "In Italy, Checco Dal Monte manages a troupe of traveling performers with plenty of heart but minimal talent. At a small town engagement, he encounters the starry-eyed, gorgeous Lily Antonelli, and hires her as a dancer on the show. Vivacious Lily quickly sells out crowds and earns the resentment of Checco's mistress, Melina Amour, but the fledgling performer has far bigger ambitions and soon sets her sights on a higher-profile role.",
-"poster": "https://image.tmdb.org/t/p/w342/YIjVHxmNetC15MrRPu97OYdIOW.jpg",
-"runtime": 93,
-"title": "Variety Lights",
-"tmdb_id": 43389,
-"year": 1950
+"imdb_id": "tt0044852",
+"original_title": "Love Is Better Than Ever",
+"overview": "A dance instructor falls in love with a smart theatre agent; while he returns her affections, it's just not enough to give up his exciting bachelor life.",
+"poster": "https://image.tmdb.org/t/p/w342/gC0WrX2JOR0USgTMZKPdncw6Pwi.jpg",
+"runtime": 81,
+"title": "Love Is Better Than Ever",
+"tmdb_id": 43362,
+"year": 1952
 },
-"43469": {
-"backdrop": "https://image.tmdb.org/t/p/w780/nHxDQoD4B8leyb7axSQQrb0CHJr.jpg",
+"43367": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7mVxlq9ln4USELWdbmulSprVMAa.jpg",
 "cast": [
-"Franco Interlenghi",
-"Rinaldo Smordoni",
-"Annielo Mele",
-"Bruno Ortenzi",
-"Emilio Cigoli",
-"Gino Saltamerenda"
+"Kirk Douglas",
+"Dewey Martin",
+"Elizabeth Threatt",
+"Arthur Hunnicutt",
+"Buddy Baer",
+"Steven Geray"
 ],
 "countries": [
-"IT"
+"US"
 ],
 "directors": [
-"Vittorio De Sica"
+"Howard Hawks"
 ],
-"imdb_id": "tt0038913",
-"original_title": "Sciuscià",
-"overview": "Two shoeshine boys in postwar Rome, Italy save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison; the experience take a devastating toll on their friendship.",
-"poster": "https://image.tmdb.org/t/p/w342/qhhbo7rzJ1U8y1jW5cpR2j5GhvR.jpg",
-"runtime": 91,
-"title": "Shoeshine",
-"tmdb_id": 43469,
-"year": 1946
+"imdb_id": "tt0044419",
+"original_title": "The Big Sky",
+"overview": "Two tough Kentucky mountaineers join a trading expedition from St. Louis up the Missouri River to trade whisky for furs with the Blackfoot Indians. They soon discover that there is much more than the elements to contend with.",
+"poster": "https://image.tmdb.org/t/p/w342/iAmNnANi9XK9l0AMC7JCuSGBnT4.jpg",
+"runtime": 133,
+"title": "The Big Sky",
+"tmdb_id": 43367,
+"year": 1952
+},
+"43404": {
+"backdrop": null,
+"cast": [
+"Ray Romano"
+],
+"countries": [],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": null,
+"original_title": "To Be a Father",
+"overview": "Hosted by Ray Romano, this video features information on what fathers can do to help promote and participate in their young children's healthy development. Learn how your role as a father can have an enormous impact on your children- from how well they succeed in school to how they get along with their friends. You'll also hear from men who talk about the rewards of being close to their kids. This video provides information on: •How fathering begins even before the baby is born •How dads can connect with their children right from the start •What fathers can do to foster a close relationship with their children- even when they live miles apart •How fathers can overcome the challenges of parenting under special circumstances, like seperation or divorce.",
+"poster": "https://image.tmdb.org/t/p/w342/hhlOAGZznSZZCPOIdt82mWj4M2X.jpg",
+"runtime": 29,
+"title": "To Be a Father",
+"tmdb_id": 43404,
+"year": 2005
 },
 "43487": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2I46DNR7WSZxTj8yFPSA5YC8L5y.jpg",
@@ -45040,6 +61936,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "No Regrets for Our Youth",
 "tmdb_id": 43487,
 "year": 1946
+},
+"43525": {
+"backdrop": "https://image.tmdb.org/t/p/w780/giyRIb02hjIn8KQRHZbHsb67VLH.jpg",
+"cast": [
+"Bette Davis",
+"Olivia de Havilland",
+"George Brent",
+"Dennis Morgan",
+"Charles Coburn",
+"Frank Craven"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0034890",
+"original_title": "In This Our Life",
+"overview": "An unhappy, self-centered woman runs off with her sister's husband, wreaking havoc and ruining the lives of those around her.",
+"poster": "https://image.tmdb.org/t/p/w342/bnQulLMPOlBfUqAxKPA3FvqxTrD.jpg",
+"runtime": 97,
+"title": "In This Our Life",
+"tmdb_id": 43525,
+"year": 1942
 },
 "435452": {
 "backdrop": null,
@@ -45088,6 +62009,51 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Los 4 Golpes",
 "tmdb_id": 435872,
 "year": 1962
+},
+"43629": {
+"backdrop": "https://image.tmdb.org/t/p/w780/t1NlvLU5xJamUTPVwnWi2o9nR76.jpg",
+"cast": [
+"Jeremy Theobald"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt0411302",
+"original_title": "Doodlebug",
+"overview": "There's something in his apartment. A man looking for an insect-like thing devolves into a bout of insanity as his subconscious mind begins to strangle his waking one.",
+"poster": "https://image.tmdb.org/t/p/w342/cXDFFv6yZNW3vUHOKKUPJNnL0So.jpg",
+"runtime": 3,
+"title": "Doodlebug",
+"tmdb_id": 43629,
+"year": 1997
+},
+"436298": {
+"backdrop": null,
+"cast": [
+"Liz Smith",
+"Clifford Kershaw",
+"Polly Hemingway",
+"Bernard Hill",
+"Alison Steadman",
+"Vanessa Harris "
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0070153",
+"original_title": "Hard Labour",
+"overview": "A quiet and put-upon house cleaner breaks her silence.",
+"poster": "https://image.tmdb.org/t/p/w342/kgbL3ng2ObR1w0FMxU3n3Y2Cydo.jpg",
+"runtime": 71,
+"title": "Hard Labour",
+"tmdb_id": 436298,
+"year": 1973
 },
 "436417": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9mTqDppkCn1A83ws2sznxPqRfU5.jpg",
@@ -45341,6 +62307,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 43931,
 "year": 2010
 },
+"43949": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wdOGA0LC1NiWgAX1OaiKtNA247i.jpg",
+"cast": [
+"Madeline Carroll",
+"Callan McAuliffe",
+"Rebecca De Mornay",
+"Anthony Edwards",
+"John Mahoney",
+"Penelope Ann Miller"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0817177",
+"original_title": "Flipped",
+"overview": "When Juli meets Bryce in the second grade, she knows it's true love. After spending six years trying to convince Bryce the same, she's ready to give up - until he starts to reconsider.",
+"poster": "https://image.tmdb.org/t/p/w342/6zDYFigohwncqFL00MKbFV01dWb.jpg",
+"runtime": 89,
+"title": "Flipped",
+"tmdb_id": 43949,
+"year": 2010
+},
 "44027": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7FjtqbxCdQssnQFyoRTTgpO3mjA.jpg",
 "cast": [
@@ -45390,6 +62381,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Gideon's Day",
 "tmdb_id": 44071,
 "year": 1958
+},
+"44092": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dJXQ840kmEGefoJ0EQGlpZfsoic.jpg",
+"cast": [
+"Michelle Yeoh",
+"Jung Woo-sung",
+"Wang Xueqi",
+"Barbie Hsu",
+"Yue Man-lok",
+"Kelly Lin Hsi-Lei"
+],
+"countries": [
+"CN",
+"HK",
+"TW"
+],
+"directors": [
+"Su Chaobin",
+"John Woo"
+],
+"imdb_id": "tt1460743",
+"original_title": "剑雨",
+"overview": "Set in ancient China, Zeng Jing is a skilled assassin who finds herself in possession of a mystical Buddhist monk's remains. She begins a quest to return the remains to its rightful resting place, and thus places herself in mortal danger because a team of assassins is in a deadly pursuit to possess the remains which holds an ancient power-wielding secret.",
+"poster": "https://image.tmdb.org/t/p/w342/jIQAm7YlBoZqllu4gbnagRlO9NY.jpg",
+"runtime": 117,
+"title": "Reign of Assassins",
+"tmdb_id": 44092,
+"year": 2010
 },
 "44163": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iA8LoWS4Kf7zyAathOCb8Xs3ams.jpg",
@@ -45466,6 +62485,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "G.I. Jane",
 "tmdb_id": 4421,
 "year": 1997
+},
+"44238": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u6nKFnhNZF9O1rMMkJlB3lhOdd7.jpg",
+"cast": [
+"Klas-Gösta Olsson",
+"Lennart Björklund",
+"Christer Christensen",
+"Bernhard Eiger",
+"Rolf Engström",
+"Gun Fors"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0102083",
+"original_title": "Härlig är jorden",
+"overview": "The narrative portrays a plain man who guides the viewer through his life in a bleakly stylised world.",
+"poster": "https://image.tmdb.org/t/p/w342/AkmArVfTaXS9SPqOjWe80TY0vCC.jpg",
+"runtime": 17,
+"title": "World of Glory",
+"tmdb_id": 44238,
+"year": 1991
 },
 "44264": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
@@ -45724,6 +62768,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 44605,
 "year": 2002
 },
+"446329": {
+"backdrop": null,
+"cast": [
+"Aurélia Alcaïs",
+"Eloïse Bennett",
+"Gilles Masson",
+"Sophie Robin",
+"Corinne Ortega",
+"David Conti"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0258694",
+"original_title": "Les Jeux de société",
+"overview": "Cut into six parts, this film Rohmer gives us the opportunity to discover a foultitude of pledges to be made between friends (the famous kiss to the Capucine or that of hare that, not dog , I give you pictures), hairy anecdotes on the Colin Maillard with small children, verbal exercises of high fly such as I love my lover by A. where you have to fiddle the brain to find words ... In \"a\", the game of the Fly where poor Alexandra Stewart finds herself surrounded by actors whom Rohmer had to find in a retirement home, the game of Kings and Queens adapted from the unavoidable Game of Robin and Marion d ' Adam de la Halle, who should bring back good memories to friend Gols (I, who in my time was a demi-god in old French, I had to poke a word out of twelve ... everything is lost, by God ) Or the mega bamboche charades game with a Pascal Greggory under acid",
+"poster": "https://image.tmdb.org/t/p/w342/lU2OQmor2ZJ42BRjocSBWFKpe6F.jpg",
+"runtime": 57,
+"title": "Les Jeux de société",
+"tmdb_id": 446329,
+"year": 1989
+},
 "446791": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wJLTRnFKAVDDD7ci2L1eVnNJ7aI.jpg",
 "cast": [
@@ -45776,6 +62845,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 44716,
 "year": 2010
 },
+"44766": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4hX5UoeX7ggzLegRh5oU1gqOa4B.jpg",
+"cast": [
+"Robert Taylor",
+"Richard Widmark",
+"Patricia Owens",
+"Robert Middleton",
+"Henry Silva",
+"DeForest Kelley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0051848",
+"original_title": "The Law and Jake Wade",
+"overview": "Jake Wade breaks Clint Hollister out of jail to pay off an old debt, though it's clear there is some pretty deep hostility between them. They part, and Jake returns to his small-town marshal's job and his fiancée only to find he has been tracked there by Hollister. It seems they were once in a gang together and Jake knows where the proceeds of a bank hold-up are hidden. Hollister and his sidekicks make off into the hills, taking along the trussed-up marshal and his kidnapped bride-to-be to force the lawman to show them where the loot is.",
+"poster": "https://image.tmdb.org/t/p/w342/pbQLht5Wu6gOeJPd04yaG9HEmT8.jpg",
+"runtime": 86,
+"title": "The Law and Jake Wade",
+"tmdb_id": 44766,
+"year": 1958
+},
+"4477": {
+"backdrop": "https://image.tmdb.org/t/p/w780/Bfsoyo6mai2KKhdL5tk85RIB8F.jpg",
+"cast": [
+"Harrison Ford",
+"Brad Pitt",
+"Margaret Colin",
+"Rubén Blades",
+"Treat Williams",
+"George Hearn"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0118972",
+"original_title": "The Devil's Own",
+"overview": "Frankie McGuire, one of the IRA's deadliest assassins, draws an American family into the crossfire of terrorism. But when he is sent to the U.S. to buy weapons, Frankie is housed with the family of Tom O'Meara, a New York cop who knows nothing about Frankie's real identity. Their surprising friendship, and Tom's growing suspicions, forces Frankie to choose between the promise of peace or a lifetime of murder.",
+"poster": "https://image.tmdb.org/t/p/w342/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+"runtime": 107,
+"title": "The Devil's Own",
+"tmdb_id": 4477,
+"year": 1997
+},
 "44826": {
 "backdrop": "https://image.tmdb.org/t/p/w780/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
 "cast": [
@@ -45801,30 +62920,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 44826,
 "year": 2011
 },
-"44864": {
-"backdrop": "https://image.tmdb.org/t/p/w780/30VFInw6IUlMgKCYTxI3LgrNTqs.jpg",
+"44871": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8fHhQBIrZlX3fdDUHaTxVglkowW.jpg",
 "cast": [
-"Josef Köstlinger",
-"Irma Urrila",
-"Håkan Hagegård",
-"Elisabeth Erikson",
-"Britt-Marie Aruhn",
-"Kirsten Vaupel"
+"Jim Backus",
+"Kathryn Grant",
+"Dwayne Hickman",
+"Hans Conried",
+"Herschel Bernardi",
+"Alan Reed"
 ],
 "countries": [
-"SE"
+"US"
 ],
 "directors": [
-"Ingmar Bergman"
+"Jack Kinney"
 ],
-"imdb_id": "tt0073822",
-"original_title": "Trollflöjten",
-"overview": "The Queen of the Night enlists a handsome prince named Tamino to rescue her beautiful kidnapped daughter, Princess Pamina, in this screen adaptation of the beloved Mozart opera. Aided by the lovelorn bird hunter Papageno and a magical flute that holds the power to change the hearts of men, young Tamino embarks on a quest for true love, leading to the evil Sarastro's temple where Pamina is held captive.",
-"poster": "https://image.tmdb.org/t/p/w342/3N0L2ijwcVjRLJRSXbv3AKT2Vnt.jpg",
-"runtime": 134,
-"title": "The Magic Flute",
-"tmdb_id": 44864,
-"year": 1975
+"imdb_id": "tt0052527",
+"original_title": "1001 Arabian Nights",
+"overview": "In this animated retelling of the classic tale, Abdul Aziz Magoo -- an ancestor of Mr. Magoo -- is the lamp-selling uncle of Aladdin. Tired of his nephew's laziness, Abdul insists that Aladdin find a wife. To his uncle's surprise, Aladdin falls in love with the beautiful Princess Yasminda. Before he can make his move, however, Aladdin is whisked away by the evil Wazir on a quest to find a magic lamp that will grant its owner unlimited power in the form of three magic wishes.",
+"poster": "https://image.tmdb.org/t/p/w342/5NDQlf8FXAtOYbTFQkbjz8Jkoom.jpg",
+"runtime": 75,
+"title": "1001 Arabian Nights",
+"tmdb_id": 44871,
+"year": 1959
 },
 "448991": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jOxWxXwvI99FZRB3Cpm6Bx6g5PH.jpg",
@@ -46362,6 +63481,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4543,
 "year": 1983
 },
+"4547": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg",
+"cast": [
+"Jodie Foster",
+"Kristen Stewart",
+"Forest Whitaker",
+"Dwight Yoakam",
+"Jared Leto",
+"Patrick Bauchau"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt0258000",
+"original_title": "Panic Room",
+"overview": "Meg Altman og hennes sukkersyke datter Sarah flytter inn i et hus utstyrt med et såkalt \"panikkrom\". Når tre menn bryter seg inn i huset, flykter Meg og Sarah inn i rommet for å unnslippe.",
+"poster": "https://image.tmdb.org/t/p/w342/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+"runtime": 111,
+"title": "Panic Room",
+"tmdb_id": 4547,
+"year": 2002
+},
 "45513": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lbPD6uODEGQuMRR7gINcjsAtQUL.jpg",
 "cast": [
@@ -46485,6 +63629,36 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 45590,
 "year": 1959
 },
+"455957": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oVW0qhssm5NsOqTEJgO9DRH2lYT.jpg",
+"cast": [
+"Nikolaj Coster-Waldau",
+"Søren Malling",
+"Paprika Steen",
+"Carice van Houten",
+"Guy Pearce",
+"Ériq Ebouaney"
+],
+"countries": [
+"BE",
+"DK",
+"FR",
+"IT",
+"NL",
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt3282076",
+"original_title": "Domino",
+"overview": "Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.",
+"poster": "https://image.tmdb.org/t/p/w342/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
+"runtime": 89,
+"title": "Domino",
+"tmdb_id": 455957,
+"year": 2019
+},
 "456096": {
 "backdrop": null,
 "cast": [
@@ -46508,6 +63682,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Killers: Unstaged",
 "tmdb_id": 456096,
 "year": 2012
+},
+"456684": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8dfB31n4bKSEvzA58PvKo0jims2.jpg",
+"cast": [
+"Jeremy Theobald",
+"Mark Deighton",
+"Dave Savva"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt6386412",
+"original_title": "Larceny",
+"overview": "A man breaks into a flat, startling the occupant. They argue about the new girlfriend of the 'burglar', who's come to get her stuff. Then a third man bursts out of the cupboard...",
+"poster": "https://image.tmdb.org/t/p/w342/jBWtTViwpr9xN6PWuzp8WlxTSXB.jpg",
+"runtime": 9,
+"title": "Larceny",
+"tmdb_id": 456684,
+"year": 1996
 },
 "456746": {
 "backdrop": null,
@@ -46616,6 +63812,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Wedding",
 "tmdb_id": 45695,
 "year": 1978
+},
+"45712": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6rlOgCIxCuJj1cmlPcaBekgQuRb.jpg",
+"cast": [
+"Sharon Stone",
+"Jeremy Northam",
+"Cathy Moriarty",
+"Jean-Luke Figueroa",
+"Mike Starr",
+"George C. Scott"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0120683",
+"original_title": "Gloria",
+"overview": "After serving a prison term for her boyfriend, a streetwise, middle-aged moll named Gloria stands up against the mobs, which is complicated by a six-year-old urchin with a will of his own, whom she reluctantly takes under her wing after his family has been gunned down.",
+"poster": "https://image.tmdb.org/t/p/w342/1AKAfnT3nm7asU9qyNT6gtS1vbe.jpg",
+"runtime": 108,
+"title": "Gloria",
+"tmdb_id": 45712,
+"year": 1999
 },
 "45763": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8XA4QIjWEliY6U0MfEMkK4F5XtH.jpg",
@@ -46731,6 +63952,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Balloonatic",
 "tmdb_id": 45807,
 "year": 1923
+},
+"45817": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rlnmgMp5tE8Roqb96bRV6rdfYte.jpg",
+"cast": [
+"Bibi Andersson",
+"Patrick O'Neal",
+"Richard Boone",
+"Nigel Green",
+"Dean Jagger",
+"Lila Kedrova"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0065950",
+"original_title": "The Kremlin Letter",
+"overview": "After an unauthorized letter suggesting U.S. support for a Russian attack on China is sent to Moscow, a former naval officer and his team go undercover to retrieve it. Their plans are disrupted when a cunning politician raids their hideout.",
+"poster": "https://image.tmdb.org/t/p/w342/wSxhK4AJTupQIiODuhfxR2YqUE.jpg",
+"runtime": 120,
+"title": "The Kremlin Letter",
+"tmdb_id": 45817,
+"year": 1970
 },
 "45865": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2VLAiouyOjzECNS8qxq2uNEm6vL.jpg",
@@ -46904,6 +64150,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 45970,
 "year": 1951
 },
+"46027": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mBMlGgX74cd6g6OE2mM7CqrHyxE.jpg",
+"cast": [
+"Andy Garcia",
+"Ian Holm",
+"James Gandolfini",
+"Lena Olin",
+"Shiek Mahmud-Bey",
+"Colm Feore"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0119783",
+"original_title": "Night Falls on Manhattan",
+"overview": "A newly elected District attorney finds himself in the middle of a police corruption investigation that may involve his father and his partner.",
+"poster": "https://image.tmdb.org/t/p/w342/sjvySDgeAOqrMmm965gdkqR5AML.jpg",
+"runtime": 113,
+"title": "Night Falls on Manhattan",
+"tmdb_id": 46027,
+"year": 1997
+},
 "460631": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qco3aM3yj130H6RSqcpWYQBdJzr.jpg",
 "cast": [
@@ -46976,6 +64247,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Wings of Eagles",
 "tmdb_id": 46189,
 "year": 1957
+},
+"462": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+"cast": [
+"Julia Roberts",
+"Albert Finney",
+"Aaron Eckhart",
+"Marg Helgenberger",
+"Cherry Jones",
+"Veanne Cox"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0195685",
+"original_title": "Erin Brockovich",
+"overview": "Erin Brockovich er en arbeidsløs tre-barns-alenemor som får jobb i arkivet hos advokaten Ed Masry i Los Angeles. Hun støter på en sak om en suspekt eiendomshandel. Snart finner hun ut at det dreier seg om en hel by som er blitt syke, forgiftet av forurenset grunnvann. Først vil ikke innbyggerne gå til sak, men Erins ukuelighet overbeviser dem. Hun går fra dør til dør og får med seg 600 saksøkere. Og vinner den største private erstatning i USA's historie...",
+"poster": "https://image.tmdb.org/t/p/w342/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+"runtime": 131,
+"title": "Erin Brockovich",
+"tmdb_id": 462,
+"year": 2000
 },
 "462603": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yWqTrctf5wbUefDKqXaQHWR0Dh2.jpg",
@@ -47202,31 +64498,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 46625,
 "year": 1997
 },
-"466420": {
-"backdrop": "https://image.tmdb.org/t/p/w780/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
-"cast": [
-"Leonardo DiCaprio",
-"Robert De Niro",
-"Lily Gladstone",
-"Jesse Plemons",
-"Tantoo Cardinal",
-"John Lithgow"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Martin Scorsese"
-],
-"imdb_id": "tt5537002",
-"original_title": "Killers of the Flower Moon",
-"overview": "Når olje blir oppdaget i 1920-tallets Oklahoma under Osage Nation-landet, blir Osage-folket myrdet én etter én under mystiske omstendigheter.",
-"poster": "https://image.tmdb.org/t/p/w342/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
-"runtime": 206,
-"title": "Killers of the Flower Moon",
-"tmdb_id": 466420,
-"year": 2023
-},
 "466486": {
 "backdrop": null,
 "cast": [
@@ -47271,6 +64542,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 466494,
 "year": 2004
 },
+"467660": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5u0ImRdr8Z6uyDfmSWcThXEb8cl.jpg",
+"cast": [
+"Claire Foy",
+"Joshua Leonard",
+"Jay Pharoah",
+"Juno Temple",
+"Aimee Mullins",
+"Amy Irving"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt7153766",
+"original_title": "Unsane",
+"overview": "A woman is involuntarily committed to a mental institution where she is confronted by her greatest fear.",
+"poster": "https://image.tmdb.org/t/p/w342/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+"runtime": 98,
+"title": "Unsane",
+"tmdb_id": 467660,
+"year": 2018
+},
 "46769": {
 "backdrop": "https://image.tmdb.org/t/p/w780/s4ZW5BkzhOySaWDg0Wx1whUGgHx.jpg",
 "cast": [
@@ -47293,6 +64589,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 46769,
 "year": 1946
 },
+"467731": {
+"backdrop": "https://image.tmdb.org/t/p/w780/k7bragDDnHBDK9GU18l5EDHLLhK.jpg",
+"cast": [
+"Lloyd Bridges",
+"Jack Warden",
+"Rafael Campos",
+"Robert Emhardt",
+"Vivian Nathan",
+"Betty Lou Keim"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0507700",
+"original_title": "Tragedy in a Temporary Town",
+"overview": "Fifteen-year-old girl Dotty Fisher is assaulted at a construction camp. In the wake of this incident, the construction workers form a vigilante group led by the hot-headed Frank Doran in order to find the person responsible for the attack. After the group erroneously assume that innocent Puerto Rican Raphael Infante is guilty of the crime, only one lone man named Alec Beggs dares to stand up to the angry mob.",
+"poster": "https://image.tmdb.org/t/p/w342/w4JMsyG5Nsd8PzxY8PgtJwYaLsS.jpg",
+"runtime": 56,
+"title": "Tragedy in a Temporary Town",
+"tmdb_id": 467731,
+"year": 1956
+},
 "46777": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fNpQmLSbuXdshZ4aXsePaRdmj7b.jpg",
 "cast": [
@@ -47312,6 +64633,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The So-Called Caryatids",
 "tmdb_id": 46777,
 "year": 1984
+},
+"46789": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5N0TkirfreQ5PM5rpSVOTq0OO7.jpg",
+"cast": [
+"Jakob Cedergren",
+"Peter Plaugborg",
+"Gustav Fischer Kjærulff",
+"Morten Rose",
+"Henrik Strube",
+"Helene Reingaard Neumann"
+],
+"countries": [
+"DK",
+"SE",
+"NO",
+"FR"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt1322385",
+"original_title": "Submarino",
+"overview": "As children, Nick and his little brother take care of their baby brother while their mother drinks herself senseless. But the baby dies, and both brothers blame themselves. Many years later, Nick is out of prison after serving time for an assault. He drinks, lives in a shelter and tries to help an old friend. When their mother dies, Nick meets his brother at the funeral. The brother, who remains nameless, is a single father to a young boy, but also supports a drug habit that is spiraling out of control. When an opportunity presents itself, he becomes a drug dealer to secure his son's future. Eventually, the two brothers meet again.",
+"poster": "https://image.tmdb.org/t/p/w342/kzkQqjphmXSMoJjxOGcDitPhjAs.jpg",
+"runtime": 115,
+"title": "Submarino",
+"tmdb_id": 46789,
+"year": 2010
 },
 "46828": {
 "backdrop": "https://image.tmdb.org/t/p/w780/y2L5kW4SGseKH1XDL4c11qB21Xe.jpg",
@@ -47461,30 +64810,55 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 46929,
 "year": 1947
 },
-"46979": {
-"backdrop": "https://image.tmdb.org/t/p/w780/lczZgNXUqSm9SxPLgDAt6SSnSHn.jpg",
+"46941": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wW5alMLoaKvo4y7LK13GK0J8OqL.jpg",
 "cast": [
-"Eleonora Rossi Drago",
-"Gabriele Ferzetti",
-"Franco Fabrizi",
-"Valentina Cortese",
-"Yvonne Furneaux",
-"Madeleine Fischer"
+"Maggie Smith",
+"Timothy Bottoms",
+"Jaime de Mora y Aragón",
+"Emiliano Redondo",
+"Charles Baxter",
+"Margaret Modlin"
 ],
 "countries": [
-"IT"
+"US"
 ],
 "directors": [
-"Michelangelo Antonioni"
+"Alan J. Pakula"
 ],
-"imdb_id": "tt0047821",
-"original_title": "Le amiche",
-"overview": "Clelia, a self-made woman coming from humble means, travels back to Turin, her hometown, to scout locations for the successful Roman atelier she works for. At the hotel, she encounters some upper middle-class women and she finds herself drawn into their friendships.",
-"poster": "https://image.tmdb.org/t/p/w342/ksEwRHvYqOyV7JokAhfgtUUTxsA.jpg",
-"runtime": 104,
-"title": "Le Amiche",
-"tmdb_id": 46979,
-"year": 1955
+"imdb_id": "tt0068850",
+"original_title": "Love and Pain and the Whole Damn Thing",
+"overview": "While bicycling through the Spanish countryside, Walter, the aimless young son of a doctor, makes the acquaintance of proper, middle-aged, clumsy and secretive Lila. He falls in love with her, but she is resistant.",
+"poster": "https://image.tmdb.org/t/p/w342/hhPPga5JK8xuEe0fkYST08F4VcD.jpg",
+"runtime": 110,
+"title": "Love and Pain and the Whole Damn Thing",
+"tmdb_id": 46941,
+"year": 1973
+},
+"46948": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8ekazzF0sUaC8pfKdk5hL2j0uWl.jpg",
+"cast": [
+"Richard Gere",
+"Denzel Washington",
+"Gene Hackman",
+"Julie Christie",
+"Kate Capshaw",
+"E.G. Marshall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0091786",
+"original_title": "Power",
+"overview": "Pete St. John is a powerful and successful political consultant, with clients spread around the country. When his long-time friend and client Ohio senator Sam Hastings decides to quit politics, he is rapidly drafted to help with the campaign of the man destined to succeed him, unknown and mysterious businessman Jerome Cade...",
+"poster": "https://image.tmdb.org/t/p/w342/6sj8HFCODqHah4DTCWs8uPp4IyL.jpg",
+"runtime": 111,
+"title": "Power",
+"tmdb_id": 46948,
+"year": 1986
 },
 "46982": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jWUjXdQF7b3L6kRGfoCZLjSBbDg.jpg",
@@ -47553,6 +64927,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "They Caught the Ferry",
 "tmdb_id": 46984,
 "year": 1948
+},
+"46995": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vvqprQnRk954ztiidiz3EPBflpu.jpg",
+"cast": [
+"Ann Todd",
+"Norman Wooland",
+"Ivan Desny",
+"Leslie Banks",
+"Elizabeth Sellars",
+"André Morell"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0042700",
+"original_title": "Madeleine",
+"overview": "Madeleine's middle-class family cannot understand why she puts off marrying a respectable young man, as they know nothing about her long-term affair with a Frenchman.",
+"poster": "https://image.tmdb.org/t/p/w342/nQsThlhGuWUn8h3vpdbK3Kr4qGM.jpg",
+"runtime": 115,
+"title": "Madeleine",
+"tmdb_id": 46995,
+"year": 1950
 },
 "47011": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fMReDZO1Mukdn6Lqfgm4KEBR4Uj.jpg",
@@ -47666,6 +65065,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 472693,
 "year": 1997
 },
+"47423": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r0K79o2AI4VoXFCxXW01HZCwvUh.jpg",
+"cast": [
+"Chow Yun-Fat",
+"Leslie Cheung",
+"Cherie Chung Cho-Hung",
+"Paul Chu Kong",
+"Kenneth Tsang",
+"Woo Fung"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0101020",
+"original_title": "縱橫四海",
+"overview": "Three orphans grow up to become art thieves under the tutelage of a crime boss. Romance complicates matters when the trio are double-crossed.",
+"poster": "https://image.tmdb.org/t/p/w342/xCm4qIID3oyhBxRNKsYo3TpDivF.jpg",
+"runtime": 108,
+"title": "Once a Thief",
+"tmdb_id": 47423,
+"year": 1991
+},
 "47429": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p5OSk41qSfhoh18ZkF7tzg4QjIN.jpg",
 "cast": [
@@ -47718,6 +65142,93 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 47434,
 "year": 1996
 },
+"47451": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r1d9QzpEIW2orezLcMp7ajTlZ5b.jpg",
+"cast": [
+"Nadja Tesich",
+"Jean-Pierre Léaud"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209175",
+"original_title": "Nadja à Paris",
+"overview": "Nadja is a guest student, who stays at Cité Universitaire and visits the Sorbonne, while preparing a thesis on Proust; she also likes to stroll about Paris.",
+"poster": "https://image.tmdb.org/t/p/w342/bYrLdJVBv3ANtB1yN7XfRIRFJ3w.jpg",
+"runtime": 13,
+"title": "Nadja in Paris",
+"tmdb_id": 47451,
+"year": 1964
+},
+"47454": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oE4I9cKrflZEPvn2MXLUY9ux008.jpg",
+"cast": [
+"Jean-Luc Godard",
+"Anna Karina",
+"Stéphane Audran",
+"Anne Couderet",
+"Andrée Bertrand"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209256",
+"original_title": "Présentation ou Charlotte et son steak",
+"overview": "On a snowy day in a Swiss village, Walter introduces Charlotte to Clara, hoping to spark jealousy. Later, at Charlotte’s home, tensions rise as they discuss beauty, attraction, and honesty. Despite initial resistance, emotions take over, leading to an unexpected moment of intimacy before their farewell.",
+"poster": "https://image.tmdb.org/t/p/w342/44zQGy9oL8gexayEzx1rYzNbcrN.jpg",
+"runtime": 12,
+"title": "Presentation, or Charlotte and Her Steak",
+"tmdb_id": 47454,
+"year": 1951
+},
+"47455": {
+"backdrop": "https://image.tmdb.org/t/p/w780/t8m1q5nLo91jUqvVaF5MeD9l1qg.jpg",
+"cast": [
+"Antoine Vitez"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209453",
+"original_title": "Une étudiante d'aujourd'hui",
+"overview": "Eric Rohmer directs this short documentary that narrates the presence of women in French universities as of the time of its release -- 1966. During the film's short run, the narrator continues to point out that during the advent of World War II, only 21,000 women attended college and made only a 30 % of the student body, a number that by the 1964-1965 school year had passed the 120,000 mark. Instead of opting to live according to what was expected of them, now they were joining the work force, trading in aprons for lab jackets and becoming professionals even after getting married.",
+"poster": "https://image.tmdb.org/t/p/w342/nRfzthP6aHqDdBxw10FUroXkYJM.jpg",
+"runtime": 13,
+"title": "A Modern Coed",
+"tmdb_id": 47455,
+"year": 1966
+},
+"47456": {
+"backdrop": null,
+"cast": [
+"Nicole Berger",
+"Stella Dassas",
+"Alain Delrieu"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209470",
+"original_title": "Véronique et son cancre",
+"overview": "Véronique gives a mathematics lesson to a dunce who answers the prepared questions with disconcertingly sound answers.",
+"poster": "https://image.tmdb.org/t/p/w342/3KBqocgkjrR7MohjvVbIxtoVbgR.jpg",
+"runtime": 18,
+"title": "Véronique and Her Dunce",
+"tmdb_id": 47456,
+"year": 1959
+},
 "47474": {
 "backdrop": "https://image.tmdb.org/t/p/w780/luHUQITsjkkRzStHlkbEejatTx.jpg",
 "cast": [
@@ -47769,31 +65280,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 475303,
 "year": 2019
 },
-"476": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
-"cast": [
-"Matt Dillon",
-"Kelly Lynch",
-"James Remar",
-"James Le Gros",
-"Heather Graham",
-"Beah Richards"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Gus Van Sant"
-],
-"imdb_id": "tt0097240",
-"original_title": "Drugstore Cowboy",
-"overview": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
-"poster": "https://image.tmdb.org/t/p/w342/1URuvqnZcwL4wy8hIIwQ9p9AxVq.jpg",
-"runtime": 102,
-"title": "Drugstore Cowboy",
-"tmdb_id": 476,
-"year": 1989
-},
 "47617": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3lLqBrjSqOOSlSWNR66OgS5iuAD.jpg",
 "cast": [],
@@ -47835,6 +65321,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Tältprojektet 2004",
 "tmdb_id": 476209,
 "year": 2005
+},
+"476335": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vLDz1V7CNRf5uue4eAgbJPRT99q.jpg",
+"cast": [
+"Woody Harrelson",
+"James Marsden",
+"Rob Reiner",
+"Tommy Lee Jones",
+"Jessica Biel",
+"Milla Jovovich"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt5540992",
+"original_title": "Shock and Awe",
+"overview": "A group of journalists covering George Bush's planned invasion of Iraq in 2003 are skeptical of the presidents claim that Saddam Hussein has \"weapons of mass destruction.\"",
+"poster": "https://image.tmdb.org/t/p/w342/x8Y9lKNnroACauSxmVQRkACj2ow.jpg",
+"runtime": 90,
+"title": "Shock and Awe",
+"tmdb_id": 476335,
+"year": 2017
 },
 "47650": {
 "backdrop": "https://image.tmdb.org/t/p/w780/v637wt18xznrE2NU56Y3MB1MrNs.jpg",
@@ -47886,6 +65397,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 47653,
 "year": 1917
 },
+"476554": {
+"backdrop": null,
+"cast": [
+"Éric Rohmer",
+"Jean Douchet"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Post-face à Boudu sauvé des eaux",
+"overview": "French television program discussing Jean Renoir's 1932 film \"Boudu Saved from Drowning\".",
+"poster": "https://image.tmdb.org/t/p/w342/q8RNChfv4X4buyOi5FXU7oHviXu.jpg",
+"runtime": 31,
+"title": "Looking Back on Boudu Saved from Drowning",
+"tmdb_id": 476554,
+"year": 1969
+},
 "47695": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ojxIfC8ESL3HnCUPcjvUcVg6wJD.jpg",
 "cast": [
@@ -47910,31 +65442,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Juno and the Paycock",
 "tmdb_id": 47695,
 "year": 1930
-},
-"4772": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9MA9H3opBwq9cP4taf3S5ZWI2Fz.jpg",
-"cast": [
-"Lionel Stander",
-"Donald Pleasence",
-"Françoise Dorléac",
-"Jack MacGowran",
-"Iain Quarrier",
-"Jacqueline Bisset"
-],
-"countries": [
-"GB"
-],
-"directors": [
-"Roman Polanski"
-],
-"imdb_id": "tt0060268",
-"original_title": "Cul-de-sac",
-"overview": "On the run and in search of help, two wounded gangsters find refuge in the secluded castle of a feeble man and his wife; however, under the point of a gun, nothing is what it seems.",
-"poster": "https://image.tmdb.org/t/p/w342/5YmxgiY8Pi9D1kawwzQUE7nCQQM.jpg",
-"runtime": 112,
-"title": "Cul-de-sac",
-"tmdb_id": 4772,
-"year": 1966
 },
 "47723": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bwqWufPLPVHQbZYowNkRURbWX38.jpg",
@@ -47965,31 +65472,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 47723,
 "year": 1998
 },
-"47735": {
-"backdrop": "https://image.tmdb.org/t/p/w780/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
-"cast": [
-"Harriet Andersson",
-"Lars Ekborg",
-"Dagmar Ebbesen",
-"Åke Fridell",
-"Naemi Briese",
-"Åke Grönberg"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0046345",
-"original_title": "Sommaren med Monika",
-"overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
-"poster": "https://image.tmdb.org/t/p/w342/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
-"runtime": 98,
-"title": "Summer with Monika",
-"tmdb_id": 47735,
-"year": 1953
-},
 "47760": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ryWdhY92EhVyb9wpyPZ7ru3NVO.jpg",
 "cast": [
@@ -48014,6 +65496,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Restless",
 "tmdb_id": 47760,
 "year": 2011
+},
+"4780": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg",
+"cast": [
+"Cliff Robertson",
+"Geneviève Bujold",
+"John Lithgow",
+"Sylvia Kuumba Williams",
+"Wanda Blackman",
+"J. Patrick McNamara"
+],
+"countries": [
+"US",
+"IT"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0074991",
+"original_title": "Obsession",
+"overview": "A wealthy New Orleans businessman becomes obsessed with a young woman who resembles his late wife.",
+"poster": "https://image.tmdb.org/t/p/w342/a0bOKTldOJVJivmPNGBHfMYJU9x.jpg",
+"runtime": 99,
+"title": "Obsession",
+"tmdb_id": 4780,
+"year": 1976
 },
 "4781": {
 "backdrop": "https://image.tmdb.org/t/p/w780/G0tvrklupK9ZupJkofdylDMzuM.jpg",
@@ -48131,6 +65639,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Cassandra's Dream",
 "tmdb_id": 4787,
 "year": 2007
+},
+"47870": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yc01i1AneAgphcDbhR5KYugAFFO.jpg",
+"cast": [
+"Phil Davis",
+"Ruth Sheen",
+"Edna Doré",
+"Philip Jackson",
+"Heather Tobias",
+"Lesley Manville"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0095302",
+"original_title": "High Hopes",
+"overview": "Working-class couple Shirley and Cyril are in conflict over whether they should have children, their problems with 'yuppies' moving into the neighbourhood and outpricing them, and the advent of Cyril's ageing mother's seventieth birthday.",
+"poster": "https://image.tmdb.org/t/p/w342/uDTFcJbZDexghaQVvkKNXWvVw11.jpg",
+"runtime": 108,
+"title": "High Hopes",
+"tmdb_id": 47870,
+"year": 1989
+},
+"47878": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9E3V82RIeSqdvhRkxFt3n7Vts1r.jpg",
+"cast": [
+"Jon Voight",
+"Ann-Margret",
+"Burt Young",
+"Bert Remsen",
+"Jude Farese",
+"Allen Keller"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0084268",
+"original_title": "Lookin' to Get Out",
+"overview": "Two gamblers must leave New York City after one loses a lot of money. Doing what all gamblers in trouble would do, they hurry to the gambling capital Las Vegas to turn their luck around.",
+"poster": "https://image.tmdb.org/t/p/w342/tcfuDnWoGBFqdqDRoJrfj21jAhu.jpg",
+"runtime": 105,
+"title": "Lookin' to Get Out",
+"tmdb_id": 47878,
+"year": 1982
+},
+"47888": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rcJFPsBPPGa0KfK03sX9VlQZ00o.jpg",
+"cast": [
+"Jane Fonda",
+"Kris Kristofferson",
+"Hume Cronyn",
+"Josef Sommer",
+"Bob Gunton",
+"Macon McCalman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0083006",
+"original_title": "Rollover",
+"overview": "The wife of a murdered petrochemical company chairman and a banker investigating the liquidity of his new bank stumble upon an international financial scheme that could lead to global economic collapse.",
+"poster": "https://image.tmdb.org/t/p/w342/nKHS1gqfZL0imDyN4CLqloYXDWr.jpg",
+"runtime": 116,
+"title": "Rollover",
+"tmdb_id": 47888,
+"year": 1981
 },
 "4789": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bMTBDpipkszdWcY9U9lRTVy4zh9.jpg",
@@ -48305,6 +65888,78 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 48145,
 "year": 1960
 },
+"4820": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lmlfBM23b1zgLmSJTswRGZwm1km.jpg",
+"cast": [
+"Frank Sinatra",
+"Gina Lollobrigida",
+"Charles Bronson",
+"Steve McQueen",
+"Peter Lawford",
+"Paul Henreid"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0053108",
+"original_title": "Never So Few",
+"overview": "A U.S. military troop takes command of a band of Burmese guerillas during World War II.",
+"poster": "https://image.tmdb.org/t/p/w342/5TzI4sDBPscxeq2SNcM8GZEL0Mh.jpg",
+"runtime": 125,
+"title": "Never So Few",
+"tmdb_id": 4820,
+"year": 1959
+},
+"48205": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uOetgTXdupZTgqSMEdnUYot5Ogs.jpg",
+"cast": [
+"Edith Clever",
+"Bruno Ganz",
+"Edda Seippel",
+"Peter Lühr",
+"Otto Sander",
+"Eduard Linkers"
+],
+"countries": [
+"FR",
+"DE"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0074870",
+"original_title": "Die Marquise von O...",
+"overview": "A German Marquise has to deal with a pregnancy she cannot explain and an infatuated Russian Count.",
+"poster": "https://image.tmdb.org/t/p/w342/z7oWathRvbObBUeCWae8AKrI5ZZ.jpg",
+"runtime": 102,
+"title": "The Marquise of O",
+"tmdb_id": 48205,
+"year": 1976
+},
+"48206": {
+"backdrop": null,
+"cast": [
+"Brice Parain",
+"Dominique Dubarle"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209224",
+"original_title": "Entretien sur Pascal",
+"overview": "An episode of the educational TV series \"En profil dans le texte\" directed by Rohmer, on the French philosopher Blaise Pascal, the subject of debate in Rohmer's film \"My Night at Maud’s.\"",
+"poster": "https://image.tmdb.org/t/p/w342/5b8CwSOPPPDu3OnBnVVs97zcCei.jpg",
+"runtime": 22,
+"title": "On Pascal",
+"tmdb_id": 48206,
+"year": 1965
+},
 "48208": {
 "backdrop": "https://image.tmdb.org/t/p/w780/y9ma6USZ4CQae82yQuZ0VzZfkRj.jpg",
 "cast": [
@@ -48352,6 +66007,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "La Soufrière: Waiting for an Inevitable Catastrophe",
 "tmdb_id": 48227,
 "year": 1977
+},
+"48231": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iGMz1vJEVZNdBafpE7vrHIj1Quo.jpg",
+"cast": [
+"Keira Knightley",
+"Viggo Mortensen",
+"Michael Fassbender",
+"Sarah Gadon",
+"Vincent Cassel",
+"André Hennicke"
+],
+"countries": [
+"CH",
+"GB",
+"DE",
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt1571222",
+"original_title": "A Dangerous Method",
+"overview": "Seduced by the challenge of an impossible case, the driven Dr. Carl Jung takes the unbalanced yet beautiful Sabina Spielrein as his patient. Jung’s weapon is the method of his master, the renowned Sigmund Freud. Both men fall under Sabina’s spell.",
+"poster": "https://image.tmdb.org/t/p/w342/7TPYtzq9ABkfED1JB0tRASamL4z.jpg",
+"runtime": 99,
+"title": "A Dangerous Method",
+"tmdb_id": 48231,
+"year": 2011
 },
 "48278": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xq1oOYlNCDFPmZ8WxDfGBEX4LgW.jpg",
@@ -48440,6 +66123,35 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Lumière & Company",
 "tmdb_id": 48336,
 "year": 1995
+},
+"484641": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xavGKawUyXPWAa6JTUkFzaRXMPF.jpg",
+"cast": [
+"Sasha Luss",
+"Helen Mirren",
+"Luke Evans",
+"Cillian Murphy",
+"Lera Abova",
+"Alexander Petrov"
+],
+"countries": [
+"FR",
+"GP",
+"RU",
+"RS",
+"US"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt7456310",
+"original_title": "Anna",
+"overview": "En vakker kvinne lar seg verve av KGB, for å unnslippe den voldelige kjæresten sin. På modelloppdrag i Paris, blir hun dratt inn i et farlig spill mellom stormaktene.",
+"poster": "https://image.tmdb.org/t/p/w342/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg",
+"runtime": 119,
+"title": "Anna",
+"tmdb_id": 484641,
+"year": 2019
 },
 "484925": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mmOIUPo8Bofe4O54aPCJlgtDpyV.jpg",
@@ -48585,6 +66297,22 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 48717,
 "year": 1963
 },
+"487617": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0067567",
+"original_title": "Perché pagare per essere felici!!",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/gBgfEyO6lWqY5ZcXCEjB6NBvJDy.jpg",
+"runtime": 46,
+"title": "Perché pagare per essere felici!!",
+"tmdb_id": 487617,
+"year": 1970
+},
 "48775": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bO3L7mVhMCeSjWpYtbkvCRs4qcP.jpg",
 "cast": [
@@ -48690,6 +66418,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "I Miss Sonia Henie",
 "tmdb_id": 48860,
 "year": 1971
+},
+"48864": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iIdRMGCNNAaaQF9wf1iBYJQb9vC.jpg",
+"cast": [
+"Dabney Coleman",
+"Uma Thurman",
+"Joanna Cassidy",
+"Crispin Glover",
+"Suzy Amis",
+"Christopher Plummer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0100924",
+"original_title": "Where the Heart Is",
+"overview": "A wealthy businessman shows his young adult kids how tough life can be.",
+"poster": "https://image.tmdb.org/t/p/w342/i3DAggUcSsQX3DUFBOS3igTVQz.jpg",
+"runtime": 107,
+"title": "Where the Heart Is",
+"tmdb_id": 48864,
+"year": 1990
 },
 "48868": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cP9IvqJx7kqmimyBsMiLfcMx3p6.jpg",
@@ -48859,6 +66612,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Cars 2",
 "tmdb_id": 49013,
 "year": 2011
+},
+"49026": {
+"backdrop": "https://image.tmdb.org/t/p/w780/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+"cast": [
+"Christian Bale",
+"Gary Oldman",
+"Tom Hardy",
+"Joseph Gordon-Levitt",
+"Anne Hathaway",
+"Marion Cotillard"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt1345836",
+"original_title": "The Dark Knight Rises",
+"overview": "Det har gått mange år siden Batman tok på seg skylden for Harvey Dents forbrytelser. Sannheten om dette forblir hemmelig, overskygger totalt Batmans heltemodige fortid, og fører til at Bruce Wayne lever ensom og bitter i sin store herregård uten å vende tilbake til sitt mørke alter ego. Samtidig har terroristen Bane arbeidet i undergrunnen med en ondskapsfull og særdeles utspekulert plan for Gotham City. Bane og hans medhjelpere overrasker politiet i Gotham, og gjør en hel by til gissel i sitt farlige spill. Dette betyr at Batman igjen må forsvare den byen som ser på ham som en fiende.",
+"poster": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+"runtime": 165,
+"title": "The Dark Knight Rises",
+"tmdb_id": 49026,
+"year": 2012
 },
 "49030": {
 "backdrop": "https://image.tmdb.org/t/p/w780/h6RKj49MMWBHVcU8nNygkl1ti2D.jpg",
@@ -49272,6 +67051,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 49134,
 "year": 1976
 },
+"4916": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m4nj31M92zxZJxtjjOyZIYenTzQ.jpg",
+"cast": [
+"Rebecca De Mornay",
+"Don Johnson",
+"Stephen Lang",
+"Jack Warden",
+"Dana Ivey",
+"Ron White"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0107057",
+"original_title": "Guilty as Sin",
+"overview": "Before a criminal lawyer knows what has happened, she is forced to defend a wife killer she knows is guilty.",
+"poster": "https://image.tmdb.org/t/p/w342/a5b53cYM23bUA7OyoNyDtIJ38kc.jpg",
+"runtime": 107,
+"title": "Guilty as Sin",
+"tmdb_id": 4916,
+"year": 1993
+},
+"49302": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ps7ACSyVUb9tvrksge7Wc21lYKQ.jpg",
+"cast": [
+"Thomas Bo Larsen",
+"Ulrich Thomsen",
+"Mia Maria Back",
+"Bjarne Henriksen",
+"Paprika Steen",
+"Trine Dyrholm"
+],
+"countries": [
+"DK",
+"SE"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0117771",
+"original_title": "De største helte",
+"overview": "The two medicated low-lifes Carsten and Peter are long time partners, an old flame of Peter's turns up to tell him that he has a twelve year old daughter, whom he should present himself to. Her adoptive father is a mean bastard, and incestive undertones lies in the relationship between the two. The daughter escapes from her adoptive father, turns up at Peter's place, and Carsten, Peter, and the daughter escapes to Sweden.",
+"poster": "https://image.tmdb.org/t/p/w342/k0AObd9g2FIi4hlSuU6l89elESB.jpg",
+"runtime": 90,
+"title": "The Biggest Heroes",
+"tmdb_id": 49302,
+"year": 1996
+},
 "49308": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lPLb8Xs8EQqTHTQlMjENb9aKPU6.jpg",
 "cast": [
@@ -49402,6 +67232,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4944,
 "year": 2008
 },
+"49455": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xhKy0ps3jCIjWfYr1cDSDqrYWKK.jpg",
+"cast": [
+"Alison Steadman",
+"Sylvestra Le Touzel",
+"David Thewlis",
+"Wendy Nottingham"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0093961",
+"original_title": "The Short & Curlies",
+"overview": "A short comedy by Mike Leigh about the romance between a young woman and a man who communicates only through jokes and humor...",
+"poster": "https://image.tmdb.org/t/p/w342/vHPJGFP7UONECmRW1blxcJ5clJ6.jpg",
+"runtime": 17,
+"title": "The Short & Curlies",
+"tmdb_id": 49455,
+"year": 1987
+},
 "49456": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jPHswsCZzKyKRSJNCof7ULSLPYz.jpg",
 "cast": [
@@ -49525,6 +67378,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 49517,
 "year": 2011
 },
+"49529": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hj5RynBrJB1Wlz84t3lJj9DuTJh.jpg",
+"cast": [
+"Taylor Kitsch",
+"Lynn Collins",
+"Samantha Morton",
+"Mark Strong",
+"Ciarán Hinds",
+"Dominic West"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt0401729",
+"original_title": "John Carter",
+"overview": "John Carter er en krigstrøtt eks-militær som på uforklarlig vis blir transportert til den mystiske og eksotiske planeten Barsoom, for oss bedre kjent som Mars. Der blir han dratt inn i en enorm konflikt mellom planetens innbyggere, deriblant Tars Tarkas og den betagende prinsessen Dejah Thoris. I en ukjent verden på randen av kollaps, oppdager Carter at overlevelsen til Barsoom og planetens innbyggere hviler i hans hender.",
+"poster": "https://image.tmdb.org/t/p/w342/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",
+"runtime": 132,
+"title": "John Carter",
+"tmdb_id": 49529,
+"year": 2012
+},
 "495449": {
 "backdrop": null,
 "cast": [
@@ -49598,40 +67476,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 49687,
 "year": 1964
 },
-"497828": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
-"cast": [
-"Harris Dickinson",
-"Charlbi Dean",
-"Dolly de Leon",
-"Woody Harrelson",
-"Zlatko Burić",
-"Vicki Berlin"
-],
-"countries": [
-"DK",
-"FR",
-"DE",
-"GR",
-"MX",
-"SE",
-"CH",
-"TR",
-"GB",
-"US"
-],
-"directors": [
-"Ruben Östlund"
-],
-"imdb_id": "tt7322224",
-"original_title": "Triangle of Sadness",
-"overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
-"poster": "https://image.tmdb.org/t/p/w342/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
-"runtime": 147,
-"title": "Triangle of Sadness",
-"tmdb_id": 497828,
-"year": 2022
-},
 "4982": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
 "cast": [
@@ -49656,6 +67500,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "American Gangster",
 "tmdb_id": 4982,
 "year": 2007
+},
+"49921": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gw0ugxqblFODyoQug4RLaD33FHe.jpg",
+"cast": [
+"Dave Clark",
+"Barbara Ferris",
+"Mike Smith",
+"Lenny Davidson",
+"Rick Huxley",
+"Denis Payton"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0059258",
+"original_title": "Catch Us If You Can",
+"overview": "Dinah is a famous model and actress who is getting tired of life in the limelight and wants to take a break. While shooting a commercial spot for meat, she meets Steve, a stuntman. Dinah and Steve hit it off and decide to head to an island to get away from it all, bringing along four of Steve's friends. Before long, Dinah is reported missing and everyone is looking for her, making their getaway anything but tranquil.",
+"poster": "https://image.tmdb.org/t/p/w342/b9uVoefbNxGemQyG0Aoh9xNU0LB.jpg",
+"runtime": 87,
+"title": "Catch Us If You Can",
+"tmdb_id": 49921,
+"year": 1965
 },
 "49934": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ct47RDVgl3FaIo6sYxjLrqHelev.jpg",
@@ -49735,26 +67604,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 5,
 "year": 1995
 },
-"50034": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hDXPjIv95FFm3DRFl9BdrZbHHHK.jpg",
-"cast": [
-"Philip Baker Hall"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Robert Altman"
-],
-"imdb_id": "tt0088074",
-"original_title": "Secret Honor",
-"overview": "In his New Jersey study, Richard Nixon retraces the missteps of his political career, attempting to absolve himself of responsibility for Watergate and lambasting President Gerald Ford's decision to pardon him. His monologue explores his personal life and describes his upbringing and his mother. A tape recorder, a gun and whiskey are his only companions during his entire monologue, which is tinged with the vitriol and paranoia that puzzled the public during his presidency.",
-"poster": "https://image.tmdb.org/t/p/w342/hYiadiL0xgIqpPgKj02NkYsb988.jpg",
-"runtime": 90,
-"title": "Secret Honor",
-"tmdb_id": 50034,
-"year": 1984
-},
 "50106": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dW132K3GtENDxIPRRL4rgsmGQgI.jpg",
 "cast": [
@@ -49779,6 +67628,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Trick of the Light",
 "tmdb_id": 50106,
 "year": 1995
+},
+"50117": {
+"backdrop": "https://image.tmdb.org/t/p/w780/j8UWcwQeLocoUiSYcb8o6Y3icca.jpg",
+"cast": [
+"Jennifer Jones",
+"John Garfield",
+"Pedro Armendáriz",
+"Gilbert Roland",
+"Ramon Novarro",
+"Wally Cassell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0042035",
+"original_title": "We Were Strangers",
+"overview": "China Valdes joins the Cuban underground after her brother is killed by the chief of the secret police, Ariete. She meets and falls in love with American expatriate Tony Fenner. Tony develops a plan to tunnel under the city's cemetery to a plot owned by a high official, assassinate him, and blow up the whole Cuban hierarchy at the ensuing state funeral. Together with a band of dedicated revolutionaries, they begin digging.",
+"poster": "https://image.tmdb.org/t/p/w342/6dyjFLrxNESNqD61Zu3DgBhv6IN.jpg",
+"runtime": 106,
+"title": "We Were Strangers",
+"tmdb_id": 50117,
+"year": 1949
 },
 "50204": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lmglBJjuzAqdvmvVomX69AXHYNk.jpg",
@@ -49805,6 +67679,76 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 50204,
 "year": 2010
 },
+"503452": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt5569888",
+"original_title": "Ville nouvelle : Enfance d'une ville",
+"overview": "How is a planned city designed? What consequences does creating one has on the environment? What are the living conditions in such areas ? Such are the questions asked by Eric Rohmer in this first part of a TV documentary series, through the particular case of Cergy-Pontoise, near Paris.",
+"poster": "https://image.tmdb.org/t/p/w342/rK4fBJDNHSQRZpSbm83KbBeqEVg.jpg",
+"runtime": 52,
+"title": "Ville nouvelle : Enfance d'une ville",
+"tmdb_id": 503452,
+"year": 1975
+},
+"503453": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Ville nouvelle : La Diversité du paysage urbain",
+"overview": "Second part of a French TV series about the creation and building of the town of Cergy-Pontoise.",
+"poster": "https://image.tmdb.org/t/p/w342/3Qnv1jAJcYhsGOILRT4jzwgwyND.jpg",
+"runtime": 52,
+"title": "Ville nouvelle : La Diversité du paysage urbain",
+"tmdb_id": 503453,
+"year": 1975
+},
+"503454": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Ville nouvelle : La Forme de la ville",
+"overview": "Third part of a French TV series about town-planning in which Éric Rohmer and Jean-Paul Pigeat look into the l'Arlequin neighbourhood of Grenoble-Échirolles and the new town of Évry.",
+"poster": "https://image.tmdb.org/t/p/w342/p3sAx9Vhbm2flPgggnaRIF8HYaL.jpg",
+"runtime": 52,
+"title": "Ville nouvelle : La Forme de la ville",
+"tmdb_id": 503454,
+"year": 1975
+},
+"503455": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Ville nouvelle : Le Logement à la demande",
+"overview": "Fourth part of a French TV series about the creation and building of the town of Cergy-Pontoise.",
+"poster": "https://image.tmdb.org/t/p/w342/KhV12erK2OwBDFURQB2qdYhuso.jpg",
+"runtime": 52,
+"title": "Ville nouvelle : Le Logement à la demande",
+"tmdb_id": 503455,
+"year": 1975
+},
 "5038": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uU7Ctqx6V27BXWhWgxcnFWaYYHz.jpg",
 "cast": [
@@ -49830,6 +67774,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Vicky Cristina Barcelona",
 "tmdb_id": 5038,
 "year": 2008
+},
+"504564": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vt1dlCSkn8U7EO27Z3CmKExaZRT.jpg",
+"cast": [
+"Edmonda Aldini",
+"Franco Citti",
+"Michele Placido",
+"Valeria D'Obici",
+"Sara Di Nepi",
+"Anna Melato"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0498270",
+"original_title": "Yerma",
+"overview": "Yerma wants a child but with her dispassionate husband has failed to conceive. On the other hand, Victor courts her but the sense of caste and honor prevent from surrendering to him.",
+"poster": "https://image.tmdb.org/t/p/w342/uK8LEdrhZtzPLCG73fSvulmJtAK.jpg",
+"runtime": 113,
+"title": "Yerma",
+"tmdb_id": 504564,
+"year": 1978
 },
 "505205": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lUVRn6CC3voutG905c8qTIAa7QL.jpg",
@@ -49859,6 +67828,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Pope Francis: A Man of His Word",
 "tmdb_id": 505205,
 "year": 2018
+},
+"505481": {
+"backdrop": null,
+"cast": [
+"Dennis Prager",
+"Jason Alexander",
+"Bob Saget"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Zucker"
+],
+"imdb_id": "tt0205945",
+"original_title": "For Goodness Sake",
+"overview": "The concept of goodness is discussed. Why is goodness important? What is a good person? Can doing good change the world? These and other questions are addressed in the film through short, humorous, ironic, and moving vignettes.",
+"poster": "https://image.tmdb.org/t/p/w342/vLNWksxPlf670mzDTKQTlW8KdrY.jpg",
+"runtime": 29,
+"title": "For Goodness Sake",
+"tmdb_id": 505481,
+"year": 1993
 },
 "505819": {
 "backdrop": null,
@@ -50005,6 +67996,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 50704,
 "year": 1921
 },
+"507485": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tc2YK6BgzSPweXTTviAUmc4YM4x.jpg",
+"cast": [
+"Trevor Rabin",
+"Jon Anderson",
+"Alan White",
+"Tony Kaye",
+"Chris Squire"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt1210315",
+"original_title": "Access All Areas",
+"overview": "Behind-the-scenes documentary following the band Yes on their 90125 Tour (1984-1985).",
+"poster": "https://image.tmdb.org/t/p/w342/gFm5rCZGsBaWVtnHFLhFXwDLXDw.jpg",
+"runtime": 24,
+"title": "Access All Areas",
+"tmdb_id": 507485,
+"year": 1985
+},
 "50775": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6wIHT2lm1HLXsobX7XnlvloJtXG.jpg",
 "cast": [
@@ -50029,31 +68044,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Jitney Elopement",
 "tmdb_id": 50775,
 "year": 1915
-},
-"50785": {
-"backdrop": "https://image.tmdb.org/t/p/w780/q53o3eyUorC2WTbdepCiuc2XSix.jpg",
-"cast": [
-"Michel Subor",
-"Anna Karina",
-"Henri-Jacques Huet",
-"Paul Beauvais",
-"Szabó László",
-"Georges de Beauregard"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Jean-Luc Godard"
-],
-"imdb_id": "tt0054177",
-"original_title": "Le Petit Soldat",
-"overview": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement.",
-"poster": "https://image.tmdb.org/t/p/w342/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
-"runtime": 87,
-"title": "Le Petit Soldat",
-"tmdb_id": 50785,
-"year": 1963
 },
 "50789": {
 "backdrop": "https://image.tmdb.org/t/p/w780/eNKqAIKKyCT2RNeoGEYflUb7p9w.jpg",
@@ -50105,6 +68095,36 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 508442,
 "year": 2020
 },
+"509967": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eFw5YSorHidsajLTayo1noueIxI.jpg",
+"cast": [
+"Ryan Reynolds",
+"Mélanie Laurent",
+"Manuel Garcia-Rulfo",
+"Ben Hardy",
+"Adria Arjona",
+"Dave Franco"
+],
+"countries": [
+"US",
+"CA",
+"AE",
+"IT",
+"HU",
+"UZ"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt8106534",
+"original_title": "6 Underground",
+"overview": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+"poster": "https://image.tmdb.org/t/p/w342/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+"runtime": 128,
+"title": "6 Underground",
+"tmdb_id": 509967,
+"year": 2019
+},
 "51024": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bSfaSSy9q0VqgfcHlFvHyCcjZyJ.jpg",
 "cast": [
@@ -50150,6 +68170,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bergman's Reliquarium",
 "tmdb_id": 510406,
 "year": 2018
+},
+"510498": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8S2tdATwEksYUxWCmsQsKfkIXrw.jpg",
+"cast": [
+"André Holland",
+"Zazie Beetz",
+"Melvin Gregg",
+"Sonja Sohn",
+"Zachary Quinto",
+"Glenn Fleshler"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt8128188",
+"original_title": "High Flying Bird",
+"overview": "Når en utestengelse fra NBA setter klienten hans på sidelinjen, legger agent Ray en dristig plan for å redde karrierene deres og ødelegge ligaens maktstruktur.",
+"poster": "https://image.tmdb.org/t/p/w342/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+"runtime": 90,
+"title": "High Flying Bird",
+"tmdb_id": 510498,
+"year": 2019
 },
 "510844": {
 "backdrop": null,
@@ -51022,6 +69067,131 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 514214,
 "year": 1997
 },
+"51554": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eRbax8hUTdF5n7xuLBycyg170MU.jpg",
+"cast": [
+"Susan Peters",
+"Alexander Knox",
+"Phyllis Thaxter",
+"Peggy Ann Garner",
+"Ron Randell",
+"May Whitty"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0040785",
+"original_title": "The Sign of the Ram",
+"overview": "A wheelchair-bound woman manipulates her family to a point where they suspect she may be unhinged.",
+"poster": "https://image.tmdb.org/t/p/w342/9Dd6tbe81psuPd6RZFPRH7gFTPz.jpg",
+"runtime": 84,
+"title": "The Sign of the Ram",
+"tmdb_id": 51554,
+"year": 1948
+},
+"5157": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ySmAJZRdhPwlHr7XxhF9LZLNJ0F.jpg",
+"cast": [
+"Kitten Natividad",
+"Ann Marie",
+"Ken Kerr",
+"June Mack",
+"Patrick Wright",
+"Henry Rowland"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0078846",
+"original_title": "Beneath the Valley of the Ultra-Vixens",
+"overview": "Believe it or not, even Smalltown USA, those unfulfilled and unrelieved in the midst of plenty reside. Levonna and Lamar could have the perfect relationship, were it not for Lamar's obsession with rear entry.",
+"poster": "https://image.tmdb.org/t/p/w342/i1MCj9yhC2qZmfP1Mgh0YKNcd1b.jpg",
+"runtime": 93,
+"title": "Beneath the Valley of the Ultra-Vixens",
+"tmdb_id": 5157,
+"year": 1979
+},
+"51618": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7ygJjPeWvmRfUUdWUnPRdxGfT1I.jpg",
+"cast": [
+"Ann Todd",
+"Claude Rains",
+"Trevor Howard",
+"Betty Ann Davies",
+"Isabel Dean",
+"Wilfrid Hyde-White"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0041735",
+"original_title": "The Passionate Friends",
+"overview": "A woman is torn between the love of her life, who's married to someone else, and her older husband.",
+"poster": "https://image.tmdb.org/t/p/w342/awmC8rVQR2WcN7kTKP7bXHFInnA.jpg",
+"runtime": 91,
+"title": "The Passionate Friends",
+"tmdb_id": 51618,
+"year": 1949
+},
+"51619": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ycw1LTBimIrYIKegutP0SGULZG8.jpg",
+"cast": [
+"Ralph Richardson",
+"Ann Todd",
+"Nigel Patrick",
+"John Justin",
+"Dinah Sheridan",
+"Joseph Tomelty"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"David Lean"
+],
+"imdb_id": "tt0044446",
+"original_title": "The Sound Barrier",
+"overview": "A young RAF pilot tests his father-in-law’s prototype supersonic aircraft to the limit, at a time of intense development in the field of aviation, just as commercial jet airliners are about to enter service.",
+"poster": "https://image.tmdb.org/t/p/w342/cExgxdISr0gEvVr74mmpEL4yLh4.jpg",
+"runtime": 117,
+"title": "The Sound Barrier",
+"tmdb_id": 51619,
+"year": 1952
+},
+"517909": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mXFmiaqqTPHatImHvQOujIYX7qF.jpg",
+"cast": [
+"Meryl Streep",
+"Gary Oldman",
+"Antonio Banderas",
+"Jeffrey Wright",
+"Melissa Rauch",
+"Jeff Michalski"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt5865326",
+"original_title": "The Laundromat",
+"overview": "En enke blir frasvindlet forsikringspengene sine, og hennes leting etter svar fører henne til to utspekulerte advokater i Panama som skjuler penger for de superrike.",
+"poster": "https://image.tmdb.org/t/p/w342/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+"runtime": 96,
+"title": "The Laundromat",
+"tmdb_id": 517909,
+"year": 2019
+},
 "5185": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9FxGJdhpvDjb0qvhEjNFT3a1r4L.jpg",
 "cast": [
@@ -51072,31 +69242,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 51945,
 "year": 2003
 },
-"51949": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hKO0l5mSuqgZk0lQxoxvqJEfPMz.jpg",
-"cast": [
-"Charles Blavette",
-"Celia Montalván",
-"Jenny Hélia",
-"Max Dalban",
-"Andrex",
-"Édouard Delmont"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Jean Renoir"
-],
-"imdb_id": "tt0025898",
-"original_title": "Toni",
-"overview": "In the 1920s, the Provence is a magnet for immigrants seeking work in the quarries or in the agriculture. Many mingle with locals and settle down for good — like Toni, an Italian who has moved in with Marie, a Frenchwoman. Even a well-ordered existence is not immune from boredom, friendship, romance, or enmity, and Toni becomes entangled in a web of increasingly passionate relationships. For there is his best pal Fernand, but also Albert, his overbearing foreman; there is Sebastian, a steady Spanish peasant, but also Gabi, his young rogue relative; there is Marie, but there is also Josefa.",
-"poster": "https://image.tmdb.org/t/p/w342/ubrZ3WugUofh5P1km5m05UtZOwK.jpg",
-"runtime": 84,
-"title": "Toni",
-"tmdb_id": 51949,
-"year": 1935
-},
 "52036": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7crZgHFGctVmCmNiTtgxenEWQsI.jpg",
 "cast": [
@@ -51123,31 +69268,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Company",
 "tmdb_id": 52036,
 "year": 2003
-},
-"52047": {
-"backdrop": "https://image.tmdb.org/t/p/w780/sWLZoxw5p9ngxu4xNzDncBEsASL.jpg",
-"cast": [
-"Chōko Iida",
-"Shinichi Himori",
-"Masao Hayama",
-"Yoshiko Tsubouchi",
-"Mitsuko Yoshikawa",
-"Tomio Aoki"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Yasujirō Ozu"
-],
-"imdb_id": "tt0027752",
-"original_title": "一人息子",
-"overview": "A rural widow sends her only son to Tokyo to receive a better education. Years later, she visits him and finds he has become a night school teacher struggling to support his wife and son.",
-"poster": "https://image.tmdb.org/t/p/w342/xFSHjmpIAyDkrheszNfSM99H3Bl.jpg",
-"runtime": 87,
-"title": "The Only Son",
-"tmdb_id": 52047,
-"year": 1936
 },
 "5206": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tZnSELkhNmzDmRLzWWsQh74HNcW.jpg",
@@ -51177,31 +69297,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Boss of It All",
 "tmdb_id": 5206,
 "year": 2006
-},
-"521": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mD6EAjfIr7CLdFlCIJjh7CJeWX3.jpg",
-"cast": [
-"Ray Milland",
-"Grace Kelly",
-"Robert Cummings",
-"John Williams",
-"Anthony Dawson",
-"Leo Britt"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Alfred Hitchcock"
-],
-"imdb_id": "tt0046912",
-"original_title": "Dial M for Murder",
-"overview": "Alfred Hitchcocks filmversjon av Frederick Knotts teatersuksess Dial M for Murder, er en smakfull blanding av eleganse og spenning. Grace Kelly, Ray Milland og Robert Cummings er hjørnene i en romantisk trekant. Hun elsker Cummings, hennes mann Milland planlegger å myrde henne. Men når hun ringer et sentralbord i Mayfair for å sette i gang plottet, får hans riktige nummer feil svar – og en skinnende saks blir et dødelig våpen. Dette er spenningens mester på sitt mest elegante. Kelly ble tildelt New York Film Critics og National Board of Reviews pris for Beste Skuespillerinne for denne og to andre kritikerroste opptredener hun gjorde i 1954 (Hitchcocks Rear Window og hennes Oscar-belønte innsats i The Country Girl).",
-"poster": "https://image.tmdb.org/t/p/w342/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
-"runtime": 105,
-"title": "Dial M for Murder",
-"tmdb_id": 521,
-"year": 1954
 },
 "521110": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dZqttSurogIAvWXeELqERWALaNw.jpg",
@@ -51385,6 +69480,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 523017,
 "year": 1985
 },
+"52367": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1D6xVjFx3WdEzb0Yu3RprmHZ2Jy.jpg",
+"cast": [
+"Cary Grant",
+"Jayne Mansfield",
+"Leif Erickson",
+"Suzy Parker",
+"Ray Walston",
+"Larry Blyden"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0050599",
+"original_title": "Kiss Them for Me",
+"overview": "Three navy war heroes are booked on a morale-building \"vacation\" in San Francisco. Once they manage to elude their ulcerated public relations officer, the trio throw a wild party with plenty of pretty girls.",
+"poster": "https://image.tmdb.org/t/p/w342/zUNJp1m5lIS5jy2pIuQEIBB3Udi.jpg",
+"runtime": 105,
+"title": "Kiss Them for Me",
+"tmdb_id": 52367,
+"year": 1957
+},
 "524463": {
 "backdrop": null,
 "cast": [
@@ -51430,6 +69550,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Elmer Elephant",
 "tmdb_id": 52482,
 "year": 1936
+},
+"5255": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+"cast": [
+"Tom Hanks",
+"Leslie Zemeckis",
+"Eddie Deezen",
+"Nona Gaye",
+"Peter Scolari",
+"Michael Jeter"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0338348",
+"original_title": "The Polar Express",
+"overview": "Det er julekveld. Chris ligger våken på rommet sitt og lytter etter de kimende klokkene på julenissens slede. Så hører han et dundrende brøl. Utenfor huset venter en overraskelse. En reise som gir ny næring til fantasien kan starte.",
+"poster": "https://image.tmdb.org/t/p/w342/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+"runtime": 100,
+"title": "The Polar Express",
+"tmdb_id": 5255,
+"year": 2004
 },
 "52561": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vMTGbVTjyCFQtUKGYJvnRnr8uGX.jpg",
@@ -51578,32 +69723,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 52782,
 "year": 1927
 },
-"5279": {
-"backdrop": "https://image.tmdb.org/t/p/w780/936dZMmlCejiIzDe5jWsxdTSoOf.jpg",
-"cast": [
-"Maggie Smith",
-"Michael Gambon",
-"Kristin Scott Thomas",
-"Camilla Rutherford",
-"Charles Dance",
-"Geraldine Somerville"
-],
-"countries": [
-"IT",
-"US"
-],
-"directors": [
-"Robert Altman"
-],
-"imdb_id": "tt0280707",
-"original_title": "Gosford Park",
-"overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
-"poster": "https://image.tmdb.org/t/p/w342/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
-"runtime": 137,
-"title": "Gosford Park",
-"tmdb_id": 5279,
-"year": 2001
-},
 "52859": {
 "backdrop": "https://image.tmdb.org/t/p/w780/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
 "cast": [
@@ -51628,6 +69747,59 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Long Voyage Home",
 "tmdb_id": 52859,
 "year": 1940
+},
+"528591": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208841",
+"original_title": "Les Cabinets de physique au XVIIIe siècle",
+"overview": "A look at scientific practice during the 18th century, featuring recreations of five experiments from the era.",
+"poster": "https://image.tmdb.org/t/p/w342/dSSfPMQNBXMpZ3d0MvfFLxxvntK.jpg",
+"runtime": 24,
+"title": "Les Cabinets de physique au XVIIIe siècle",
+"tmdb_id": 528591,
+"year": 1964
+},
+"528893": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209030",
+"original_title": "Victor Hugo : les Contemplations, livres V et VI",
+"overview": "“Rohmer traveled to the island of Jersey to find and film, alone and with a small Paillard 16mm camera, the places that had inspired some of his favorite poems…. […] Victor Hugo’s “Les Contemplations,” a work reread, walked, and filmed by Éric Rohmer, is in fact one of the filmmaker’s most poetic miniatures.” –Antoine de Baecque & Noël Herpe",
+"poster": "https://image.tmdb.org/t/p/w342/yDxqzY0JJ3frB6aFbZm8fCnaxR6.jpg",
+"runtime": 20,
+"title": "Victor Hugo : les Contemplations, livres V et VI",
+"tmdb_id": 528893,
+"year": 1966
+},
+"529040": {
+"backdrop": null,
+"cast": [
+"François Truffaut",
+"Éric Rohmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Postface à l’Atalante",
+"overview": "An interview with François Truffaut on the cinema of Jean Vigo.",
+"poster": "https://image.tmdb.org/t/p/w342/veNFUBoYHM4im9iKJ40m6n2sGTW.jpg",
+"runtime": 18,
+"title": "Postface à l’Atalante",
+"tmdb_id": 529040,
+"year": 2025
 },
 "52907": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9nB3Z5jq5R11j8MiKFELQAP7qMC.jpg",
@@ -51855,6 +70027,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 530992,
 "year": 1985
 },
+"531219": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4lWr2j3ZSEe8qlt3W3ma8TiiMQB.jpg",
+"cast": [
+"Anne Hathaway",
+"Octavia Spencer",
+"Stanley Tucci",
+"Jahzir Bruno",
+"Chris Rock",
+"Codie-Lei Eastick"
+],
+"countries": [
+"MX",
+"GB",
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0805647",
+"original_title": "Roald Dahl's The Witches",
+"overview": "Basert på Roald Dahls klassiker Heksene. Forteller den skumle, morsomme og kreative historien til en syv år gammel gutt som møter noen virkelige hekser.",
+"poster": "https://image.tmdb.org/t/p/w342/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+"runtime": 104,
+"title": "Roald Dahl's The Witches",
+"tmdb_id": 531219,
+"year": 2020
+},
 "53178": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zDiqums2ddiNLGNhkXVLzMrT5pM.jpg",
 "cast": [],
@@ -52028,6 +70227,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 532625,
 "year": 1988
 },
+"532639": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+"cast": [
+"Joseph Gordon-Levitt",
+"Tom Hanks",
+"Benjamin Evan Ainsworth",
+"Angus Wright",
+"Cynthia Erivo",
+"Sheila Atim"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt4593060",
+"original_title": "Pinocchio",
+"overview": "Geppettos dukke, Pinocchio blir på magisk vis vekket til live, og drømmer om å bli en ekte gutt. Pinocchio føres lett på villspor og snubler fra den ene ulykken til en annen.",
+"poster": "https://image.tmdb.org/t/p/w342/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+"runtime": 105,
+"title": "Pinocchio",
+"tmdb_id": 532639,
+"year": 2022
+},
 "533484": {
 "backdrop": "https://image.tmdb.org/t/p/w780/db6UEn1TGiV8hYw7fNcihte530C.jpg",
 "cast": [
@@ -52053,6 +70277,46 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Young World",
 "tmdb_id": 533484,
 "year": 1966
+},
+"533570": {
+"backdrop": null,
+"cast": [
+"Antoine Vitez"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209231",
+"original_title": "Perceval ou le Conte du Graal",
+"overview": "Documentary on “Perceval, the Story of the Grail”, written by Chrétien de Troyes in the 12th century.",
+"poster": "https://image.tmdb.org/t/p/w342/3Zgx1t6lr8pmcuiSHFmGhQjfWTS.jpg",
+"runtime": 23,
+"title": "Perceval ou le Conte du Graal",
+"tmdb_id": 533570,
+"year": 1965
+},
+"533599": {
+"backdrop": null,
+"cast": [
+"Paul Virilio",
+"François Loyer",
+"Claude Parent"
+],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208837",
+"original_title": "Entretien sur le béton",
+"overview": "Rohmer films a discussion between Claude Parent, Paul Virilio and François Loyer about the usage of concrete in architecture.",
+"poster": "https://image.tmdb.org/t/p/w342/eQNdQUyhnRT0ghPx36JZ5SL5Cry.jpg",
+"runtime": 29,
+"title": "Entretien sur le béton",
+"tmdb_id": 533599,
+"year": 1969
 },
 "53375": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w0wIzSmNsKeimFyFe1TkjvIWIFh.jpg",
@@ -53223,6 +71487,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 536437,
 "year": 2023
 },
+"53648": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4TGLZjBcnPHc0w78eqk5A0BlyFN.jpg",
+"cast": [
+"Roberto Benigni",
+"Francesca De Sapio",
+"Dominique Laffin",
+"Carlo Monni",
+"Luca Levi",
+"Girolamo Marzano"
+],
+"countries": [
+"IT",
+"FR"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0078963",
+"original_title": "Chiedo asilo",
+"overview": "A new teacher introduces radical ideas at a nursery school and it leads to various reactions from the students and the parents.",
+"poster": "https://image.tmdb.org/t/p/w342/h5YWyJ9pKOKZWHZJW9iozRbpG9R.jpg",
+"runtime": 110,
+"title": "Seeking Asylum",
+"tmdb_id": 53648,
+"year": 1979
+},
 "537459": {
 "backdrop": null,
 "cast": [
@@ -53269,6 +71559,37 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 537996,
 "year": 2018
 },
+"53832": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qLn0gd98HnXusmyvpF4nH9O6dfr.jpg",
+"cast": [
+"Ethel Barrymore",
+"Keefe Brasselle",
+"Gary Cooper",
+"Nancy Reagan",
+"Van Johnson",
+"Gene Kelly"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges",
+"Charles Vidor",
+"Richard Thorpe",
+"Clarence Brown",
+"Don Weis",
+"William A. Wellman",
+"Don Hartman"
+],
+"imdb_id": "tt0043680",
+"original_title": "It's a Big Country",
+"overview": "Comprised of eight unrelated episodes of inconsistent quality, this anthology piece of American propaganda features some of MGM Studios' best directors, screenwriters and actors; it is narrated by Louis Calhern. Stories are framed by the lecture of a university professor. In one tale a Boston resident becomes angry when the census forgets to record her presence. Another sketch chronicles the achievements of African Americans while still another pays tongue-in-cheek tribute to Texas.",
+"poster": "https://image.tmdb.org/t/p/w342/3NCKpK9tCkFObDTI5aujq1PvxGq.jpg",
+"runtime": 89,
+"title": "It's a Big Country",
+"tmdb_id": 53832,
+"year": 1951
+},
 "538620": {
 "backdrop": "https://image.tmdb.org/t/p/w780/r7dGZ3o9bfzCwY616eszq714jSx.jpg",
 "cast": [
@@ -53291,6 +71612,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "El Pepe: A Supreme Life",
 "tmdb_id": 538620,
 "year": 2019
+},
+"53914": {
+"backdrop": "https://image.tmdb.org/t/p/w780/s3ICglPYb0xjEYBIQdAQ7HptRhF.jpg",
+"cast": [
+"Isabelle Huppert",
+"Hanna Schygulla",
+"Marcello Mastroianni",
+"Angelo Infanti",
+"Aiche Nana",
+"Tanya Lopert"
+],
+"countries": [
+"IT",
+"DE",
+"FR"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0086372",
+"original_title": "Storia di Piera",
+"overview": "Piera is a young woman who grows up under the parentage of two extremely original overseers: both her mother and father have incestuous relations with her before they are committed to insane asylums.\r A special connection, between a mother and her daughter, full of sensuality and complicity, has allowed to portray a family full of fears, rather unbalanced, but nevertheless searching infinite love.",
+"poster": "https://image.tmdb.org/t/p/w342/5JOjkbiAZWDlhTGak3afhkbrkIr.jpg",
+"runtime": 105,
+"title": "The Story of Piera",
+"tmdb_id": 53914,
+"year": 1983
 },
 "53929": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dA98dztdxK3dMYK6NCxj2xg8T1z.jpg",
@@ -53330,6 +71678,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Health Is Ill",
 "tmdb_id": 539421,
 "year": 1971
+},
+"539735": {
+"backdrop": null,
+"cast": [
+"Pierre Gavarry"
+],
+"countries": [
+"CA",
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208915",
+"original_title": "Don Quichotte de Cervantes",
+"overview": "This TV program tries to show how the illustration from the 17th to 20th century of the famous novel written by Cervantès has in the same time improved and impoverished our knowledges of this novel. Improved, because the illustration help us to discover that the physical aspect of the caracters influences the comical features and the symbolism of this masterpiece. Impoverished, because it neglected, especially since the 19th century, the representation of the age and the context, thus favoring abusive adaptations and condensations.",
+"poster": "https://image.tmdb.org/t/p/w342/v26w8A2lgA6ZfFrrGz2nzdzEyGO.jpg",
+"runtime": 24,
+"title": "Don Quichotte de Cervantes",
+"tmdb_id": 539735,
+"year": 1965
 },
 "54000": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5j1ezbq2yJIilKRNL9W5z5ha5nR.jpg",
@@ -53380,6 +71749,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Miniatures in Motion: Bringing Frankenweenie to Life",
 "tmdb_id": 540176,
 "year": 2012
+},
+"540204": {
+"backdrop": null,
+"cast": [
+"Jean-Michel Rouzière",
+"Marcel Gallon",
+"Maya Josse",
+"Philippe Sollers",
+"Jean Douchet",
+"Georges Bez"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Place de l'Étoile",
+"overview": "Éric Rohmer's short for the portmanteau film Paris vu par (Six in Paris, 1965), concerning a haberdasher and his umbrella. Convinced he has killed a man, Jean-Marc flees and spends an anxious few days waiting for the death of the stranger to be reported in the newspapers...",
+"poster": "https://image.tmdb.org/t/p/w342/zbgEWKBXdaT7FZbCqQtWocof7HH.jpg",
+"runtime": 17,
+"title": "Place de l'Étoile",
+"tmdb_id": 540204,
+"year": 1965
 },
 "540460": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4dpuvx3jTnPdOwE6dO0h0HlXeUq.jpg",
@@ -53491,6 +71885,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 54123,
 "year": 1973
 },
+"54141": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4OjPoWMzPEt4oYr1jnhFWU6Ris1.jpg",
+"cast": [
+"Nino Manfredi",
+"Ugo Tognazzi",
+"Anna Maria Ferrero",
+"Dolores Wettach",
+"Umberto D'Orsi",
+"Antonio Ciani"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Renato Castellani",
+"Marco Ferreri",
+"Franco Rossi"
+],
+"imdb_id": "tt0057964",
+"original_title": "Controsesso",
+"overview": "A vivid assortment consisted of three acts taken from the lives of modern 1960s Italians, always in orbit around the restless theme of sexual inhibition and the pursuit of pleasure in sex.",
+"poster": "https://image.tmdb.org/t/p/w342/mumtBLhq7Vk73a8rmNmdaywjHFp.jpg",
+"runtime": 109,
+"title": "Controsesso",
+"tmdb_id": 54141,
+"year": 1964
+},
 "541576": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rza0gAHK8KvsuqVyoSGj3duwP9V.jpg",
 "cast": [
@@ -53519,6 +71941,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 541576,
 "year": 2019
 },
+"54176": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9qoJ2iQD450YMqKi76uJjiFKbIb.jpg",
+"cast": [
+"Clarence Nash",
+"Dessie Flynn",
+"James MacDonald"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0049069",
+"original_title": "Chips Ahoy",
+"overview": "Chip and Dale are starving in their tree home when they notice a plentiful supply of acorns on an island in a lake. To get to the island, they borrow a miniature model ship of Donald's to sail on. The irate Donald, however, doesn't appreciate them stealing his ship and makes several attempts to get it back and thwart their scheme to get to their acorn paradise. Chip and Dale are, of course, always one step ahead of Donald.",
+"poster": "https://image.tmdb.org/t/p/w342/x4EfUXdimWapm4NEVE0Pc49rbkb.jpg",
+"runtime": 6,
+"title": "Chips Ahoy",
+"tmdb_id": 54176,
+"year": 1956
+},
 "54200": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iur2D00fCf06H6YVC4JWwIvhpgF.jpg",
 "cast": [
@@ -53538,6 +71982,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Little House",
 "tmdb_id": 54200,
 "year": 1952
+},
+"542609": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zvrkh0HV8dr1iAEHPhM29WUQISH.jpg",
+"cast": [
+"Bob Balaban",
+"Kara Hayward"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt3707014",
+"original_title": "Do You Like to Read?",
+"overview": "The librarian of the town of New Penzance introduces six animated segments illustrating Suzy's favorite books.",
+"poster": "https://image.tmdb.org/t/p/w342/cmNdWBmMXfSIAIH9acAUrjKB57e.jpg",
+"runtime": 5,
+"title": "Do You Like to Read?",
+"tmdb_id": 542609,
+"year": 2012
 },
 "543": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3fWwpoAVj3mhgQxTnv2O0F1ElAM.jpg",
@@ -53590,31 +72055,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 543580,
 "year": 2018
 },
-"54436": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qCm7JsnryHF0SCXTIvBB7k7oh5m.jpg",
-"cast": [
-"Philippe Noiret",
-"Silvia Monfort",
-"Marcel Jouet",
-"Albert Lubrano",
-"Anna Banegas",
-"André Lubrano"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Agnès Varda"
-],
-"imdb_id": "tt0048499",
-"original_title": "La Pointe courte",
-"overview": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
-"poster": "https://image.tmdb.org/t/p/w342/jPT3tkTu9U7oXkLTSpkPBAr5dwO.jpg",
-"runtime": 80,
-"title": "La Pointe Courte",
-"tmdb_id": 54436,
-"year": 1956
-},
 "54464": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oDFrBLxqrnnvRrOtFNQ8AmNHjPv.jpg",
 "cast": [
@@ -53663,6 +72103,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Donald and the Wheel",
 "tmdb_id": 54477,
 "year": 1961
+},
+"54494": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oG8BHJO9JoKCyRfUSY0Y8XjcxLi.jpg",
+"cast": [
+"Liza Minnelli",
+"Wendell Burton",
+"Tim McIntire",
+"Anita Alberts",
+"Eric Best",
+"Chris Bugbee"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0065037",
+"original_title": "The Sterile Cuckoo",
+"overview": "Uptight college freshman Jerry Payne finds a carefree friend in zany Pookie. After an awkward meeting on the bus, Pookie quickly works her way into Jerry's life. She makes an unannounced visit to Jerry's campus, and before long annoyance turns to affection, and friendship turns to romance. But with Pookie's increasingly neurotic behavior, how long can this love affair last?",
+"poster": "https://image.tmdb.org/t/p/w342/8IP6hkHhmyVvgKPL8V37yjDMiAp.jpg",
+"runtime": 107,
+"title": "The Sterile Cuckoo",
+"tmdb_id": 54494,
+"year": 1969
 },
 "544959": {
 "backdrop": null,
@@ -53788,6 +72253,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 54615,
 "year": 1950
 },
+"54663": {
+"backdrop": "https://image.tmdb.org/t/p/w780/y50gto8KjSGnabp6SCO1nNTqrkk.jpg",
+"cast": [
+"Burt Reynolds",
+"Jill Clayburgh",
+"Candice Bergen",
+"Charles Durning",
+"Frances Sternhagen",
+"Austin Pendleton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0079948",
+"original_title": "Starting Over",
+"overview": "After divorcing his ambitious singer wife, a middle-aged man begins a new relationship with a teacher.",
+"poster": "https://image.tmdb.org/t/p/w342/kvhfunLx3iL3VM0rjmFLV2dcEyd.jpg",
+"runtime": 105,
+"title": "Starting Over",
+"tmdb_id": 54663,
+"year": 1979
+},
 "547302": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2HqfW9aAx6qg1B5w1RrGkUy2NiP.jpg",
 "cast": [
@@ -53812,6 +72302,107 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Decades Apart",
 "tmdb_id": 547302,
 "year": 2017
+},
+"547658": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"Pascal Greggory",
+"Arielle Dombasle",
+"Marie Rivière",
+"Françoise Huguet",
+"Éric Rohmer"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt0382948",
+"original_title": "Rosette sort le soir",
+"overview": "",
+"poster": null,
+"runtime": 11,
+"title": "Rosette sort le soir",
+"tmdb_id": 547658,
+"year": 1983
+},
+"547660": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"Pascal Greggory",
+"Arielle Dombasle",
+"María Luisa García",
+"Jacques Penot"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt0387552",
+"original_title": "Rosette prend sa douche",
+"overview": "",
+"poster": null,
+"runtime": 14,
+"title": "Rosette prend sa douche",
+"tmdb_id": 547660,
+"year": 1984
+},
+"547661": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"François-Marie Banier",
+"Pascal Greggory",
+"Amanda Langlet",
+"Féodor Atkine",
+"Marie Rivière"
+],
+"countries": [],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt0387551",
+"original_title": "Rosette cherche une chambre",
+"overview": "",
+"poster": null,
+"runtime": 15,
+"title": "Rosette cherche une chambre",
+"tmdb_id": 547661,
+"year": 1987
+},
+"547663": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"François-Marie Banier",
+"Marie Rivière",
+"Pascal Greggory",
+"Arielle Dombasle",
+"María Luisa García"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt4502272",
+"original_title": "Rosette vole les voleurs",
+"overview": "",
+"poster": null,
+"runtime": 18,
+"title": "Rosette vole les voleurs",
+"tmdb_id": 547663,
+"year": 1988
 },
 "54793": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ihRoKR2NTENLhDZSI7rgtzLbvJY.jpg",
@@ -53862,6 +72453,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "I'm a Cyborg, But That's OK",
 "tmdb_id": 5488,
 "year": 2006
+},
+"54993": {
+"backdrop": "https://image.tmdb.org/t/p/w780/goEkJBDylLvZ4jxNCGo5R7Cq0fL.jpg",
+"cast": [
+"Denise Du Vall",
+"Heide Richter",
+"Yvette Le Grand",
+"Greta Thorwald",
+"Abundavita",
+"Gigi La Touche"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0057047",
+"original_title": "Europe in the Raw",
+"overview": "Russ Meyer's documentary about the underground vice world of Europe.",
+"poster": "https://image.tmdb.org/t/p/w342/zdJsmoxAundtgTgzhdP3UXBp8Tm.jpg",
+"runtime": 72,
+"title": "Europe in the Raw",
+"tmdb_id": 54993,
+"year": 1963
 },
 "550365": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bU9NuOEP88METckg9a4s7fxTLwH.jpg",
@@ -53992,6 +72608,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 55178,
 "year": 2000
 },
+"5518": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6PDxkbxTYfCgm8OPpc25FzyvZzU.jpg",
+"cast": [
+"Anne Chapman",
+"Paul Lockwood",
+"Duncan McLeod",
+"Robert Rudelson",
+"Lavelle Roby",
+"Jan Sinclair"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0062973",
+"original_title": "Finders Keepers, Lovers Weepers!",
+"overview": "The owner of a topless Sunset Strip go-go bar is unaware of his wife's affair with the hunky bartender and his girlfriend's plan to rob the club.",
+"poster": "https://image.tmdb.org/t/p/w342/hWWCqyf5Q7w7wNJ3uOwFrP1Bf3O.jpg",
+"runtime": 71,
+"title": "Finders Keepers, Lovers Weepers!",
+"tmdb_id": 5518,
+"year": 1968
+},
 "55192": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yNP40LGPV1g6JTyvAZDrnulcW5m.jpg",
 "cast": [
@@ -54016,31 +72657,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Tokyo Twilight",
 "tmdb_id": 55192,
 "year": 1957
-},
-"55197": {
-"backdrop": "https://image.tmdb.org/t/p/w780/p5BLZ8KmcQFOaT51KnmDmRxrpnb.jpg",
-"cast": [
-"Shin Saburi",
-"Michiyo Kogure",
-"Koji Tsuruta",
-"Chikage Awashima",
-"Keiko Tsushima",
-"Eijirō Yanagi"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Yasujirō Ozu"
-],
-"imdb_id": "tt0044982",
-"original_title": "お茶漬けの味",
-"overview": "The arranged marriage between a capricious woman from Tokyo high society and a quiet rustic man is tested by a marital crisis.",
-"poster": "https://image.tmdb.org/t/p/w342/mCXg9AfQlcwCR7E7vJCI96n4nLv.jpg",
-"runtime": 116,
-"title": "The Flavor of Green Tea Over Rice",
-"tmdb_id": 55197,
-"year": 1952
 },
 "55198": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pCPYL0j4lqrmSF8e92n2zlaAyMI.jpg",
@@ -54123,6 +72739,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Vincent & Theo",
 "tmdb_id": 55309,
 "year": 1990
+},
+"55357": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2A4z2UzJGGsaw10xpuS1fjXscM6.jpg",
+"cast": [
+"Clarence Nash",
+"Leslie Denison",
+"Vivi Janiss"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0046924",
+"original_title": "Donald's Diary",
+"overview": "Donald is writing in his diary and narrating (in a rather sophisticated voice) about his romance with Daisy. She was able to snare him into a relationship in which they got to know each other better and Donald got to meet Daisy's family. Finally, Donald decides to marry Daisy but when waiting for her to arrive so he can pop the question, he falls asleep and has a nightmarish vision of what married life would be like (among other things that he'll be forced to do all the housework and be served a burnt T bone for dinner). Needless to say, the marriage is called off when he awakens.",
+"poster": "https://image.tmdb.org/t/p/w342/zRUeH40ya9HZ0sNV3m0QfGq3YzE.jpg",
+"runtime": 7,
+"title": "Donald's Diary",
+"tmdb_id": 55357,
+"year": 1954
 },
 "554297": {
 "backdrop": null,
@@ -54218,6 +72856,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 554967,
 "year": 2019
 },
+"55541": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2VJyZKgb1QyI1F7t3ecnkNb6qkE.jpg",
+"cast": [
+"Clarence Nash",
+"Billy Bletcher",
+"June Foray",
+"Doodles Weaver"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0037661",
+"original_title": "Duck Pimples",
+"overview": "Donald has an unpleasant evening when a mysterious book salesman comes to his door then disappears leaving Donald with a collection of whodunnit novels. He reads one and gets so fully involved in it that it appears that the characters are actually coming out of the book and into his living room getting him involved in the murder caper. Finally the author of the book, J. Harold King, steps forth and claims Donald innocent. The characters return to the novel from whence they came leaving Donald wondering if it was really just his \"imagination\"",
+"poster": "https://image.tmdb.org/t/p/w342/3mWurpmJyRHjihe9u0jVuvfH3HF.jpg",
+"runtime": 8,
+"title": "Duck Pimples",
+"tmdb_id": 55541,
+"year": 1945
+},
+"555857": {
+"backdrop": "https://image.tmdb.org/t/p/w780/OoGbLUtNBY5Yy3ycqmJPahvhiM.jpg",
+"cast": [
+"Nikolaj Coster-Waldau",
+"Ann Eleonora Jørgensen",
+"Ulrich Thomsen",
+"Jesper Klein"
+],
+"countries": [
+"DK"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt0217806",
+"original_title": "Slaget på tasken",
+"overview": "A young couple, Christian and Louise, are woken up by their sweetest slumber a morning. Two employees in their property company acquire access and take photographs to prove that Christian and Louise live illegally. The young people may be thrown out of their homes - but might find something else along the way.",
+"poster": null,
+"runtime": 33,
+"title": "Hit the Bag",
+"tmdb_id": 555857,
+"year": 1993
+},
 "55587": {
 "backdrop": "https://image.tmdb.org/t/p/w780/roHOz9bIqW7Ko3B7pWjqYWXm68j.jpg",
 "cast": [
@@ -54242,31 +72926,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Michael",
 "tmdb_id": 55587,
 "year": 1924
-},
-"55589": {
-"backdrop": "https://image.tmdb.org/t/p/w780/cscHKe13svp1Txa6ttcj0mDDvCZ.jpg",
-"cast": [
-"Johannes Meyer",
-"Astrid Holm",
-"Karin Nellemose",
-"Mathilde Nielsen",
-"Clara Schønfeld",
-"Johannes Nielsen"
-],
-"countries": [
-"DK"
-],
-"directors": [
-"Carl Theodor Dreyer"
-],
-"imdb_id": "tt0015768",
-"original_title": "Du skal ære din hustru",
-"overview": "When a man becomes tyrannical towards his family, the women of the house decide to teach him a lesson in gratitude.",
-"poster": "https://image.tmdb.org/t/p/w342/iRxogRnql0tmHRhuH8XsV1pOSFr.jpg",
-"runtime": 107,
-"title": "Master of the House",
-"tmdb_id": 55589,
-"year": 1925
 },
 "55624": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fO489b4PPR5Ndm3xJZ1AboCoSb.jpg",
@@ -54293,6 +72952,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 55624,
 "year": 1972
 },
+"55819": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bs0QTuo2EBqiWTyeGUxke37TAfK.jpg",
+"cast": [
+"Timothy Hutton",
+"Mandy Patinkin",
+"Lindsay Crouse",
+"Ed Asner",
+"Ellen Barkin",
+"Julie Bovasso"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0085398",
+"original_title": "Daniel",
+"overview": "The fictionalized story of Daniel, the son of Paul and Rochelle Isaacson, who were executed as Soviet spies in the 1950s. As a graduate student in New York in the 1960s, Daniel is involved in the antiwar protest movement and contrasts his experiences to the memory of his parents and his belief that they were wrongfully convicted.",
+"poster": "https://image.tmdb.org/t/p/w342/5wr27gUyfi0sDdiTPa1jg48MvmK.jpg",
+"runtime": 130,
+"title": "Daniel",
+"tmdb_id": 55819,
+"year": 1983
+},
 "558449": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
 "cast": [
@@ -54317,6 +73002,80 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Gladiator II",
 "tmdb_id": 558449,
 "year": 2024
+},
+"559411": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vYVz1UuQ68tn0X1iktk8WkrPEgL.jpg",
+"cast": [
+"Rosette",
+"Marie Rivière",
+"François-Marie Banier",
+"Pascal Greggory",
+"Arielle Dombasle",
+"Françoise Huguet"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer",
+"Rosette"
+],
+"imdb_id": "tt27859219",
+"original_title": "Les Aventures de Rosette",
+"overview": "A series of stories told by Rosette about her vacation. Filmed in super 8 by Eric Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/rFcsgLKZUgWEafni54JKDiaRhMr.jpg",
+"runtime": 71,
+"title": "The Adventures of Rosette",
+"tmdb_id": 559411,
+"year": 1983
+},
+"56011": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zilShz9dAEDBZnUMrKPuHjIeSh7.jpg",
+"cast": [
+"Gary Owens",
+"Bill Thompson",
+"Bob Hamlin",
+"Thurl Ravenscroft",
+"Max Smith",
+"Bill Lee"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0047353",
+"original_title": "Pigs Is Pigs",
+"overview": "Flannery, a railway agent does everything by the book. He gets into a scrape with a customer, McMorehouse, who wants to pay 44 cents freight for two guinea pigs which he considers pets. Flannery, however, considers them pigs (freight 48 cents), a decision he begins to regret when the animals begin to reproduce.",
+"poster": "https://image.tmdb.org/t/p/w342/4JxuMr30JsP6NxCelB0HdgjqmfP.jpg",
+"runtime": 10,
+"title": "Pigs Is Pigs",
+"tmdb_id": 56011,
+"year": 1954
+},
+"56015": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qtUk3ZvkrG0qYMMGEoQArWzUCt7.jpg",
+"cast": [
+"Paul Frees",
+"Stan Freberg",
+"James MacDonald",
+"Alan Mowbray"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0047511",
+"original_title": "Lion Social",
+"overview": "The lion is trapped by the safari and brought to New York, where he's accidentally set free, but nobody is intimidated by him.",
+"poster": "https://image.tmdb.org/t/p/w342/vf1BVsbFQiTcL4XIsY5afDlvgDj.jpg",
+"runtime": 6,
+"title": "Lion Social",
+"tmdb_id": 56015,
+"year": 1954
 },
 "56122": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fhVSxAgbqsfr6rgRXRD30DfT1cF.jpg",
@@ -54365,6 +73124,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Battle of Midway",
 "tmdb_id": 56143,
 "year": 1942
+},
+"56149": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4AhpNlgYxywqAUB18owZiDPKD3a.jpg",
+"cast": [
+"Owen Wilson",
+"Luke Wilson",
+"Robert Musgrave",
+"Elissa Sommerfield",
+"Isiah Ellis",
+"Temple Nash"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt0109322",
+"original_title": "Bottle Rocket",
+"overview": "Dysfunctional friends Dignan and Anthony plan and execute a robbery with their pot-growing friend, Bob. The short film that inspired Wes Anderson’s feature debut.",
+"poster": "https://image.tmdb.org/t/p/w342/6RU227m20neBsRS8WMNuO1BCFn8.jpg",
+"runtime": 14,
+"title": "Bottle Rocket",
+"tmdb_id": 56149,
+"year": 1993
 },
 "56156": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fdEDV6cT9SbhDmJHcypOsxnO8Cu.jpg",
@@ -54458,6 +73242,102 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 564142,
 "year": 1943
 },
+"5642": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pMKKm0ukK4AWdFs0gzy7mMQKCIR.jpg",
+"cast": [
+"Eve Meyer",
+"Anthony-James Ryan",
+"Frank Bolger",
+"Francesca Leslie",
+"Florence E. Moore",
+"Ken Parker"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0054859",
+"original_title": "Eve and the Handyman",
+"overview": "Dressed in a long raincoat, Eve follows the handyman around as he makes his appointed rounds. She witnesses humorous run-ins on his various errands. But why is she watching him so carefully?",
+"poster": "https://image.tmdb.org/t/p/w342/xWjGKUYVFZ5kZO8MjMMi9ro5uNV.jpg",
+"runtime": 65,
+"title": "Eve and the Handyman",
+"tmdb_id": 5642,
+"year": 1961
+},
+"5645": {
+"backdrop": null,
+"cast": [
+"Sherry Knight",
+"Werner Kirsch",
+"Charles G. Schelling",
+"Peter A. DeCenzie",
+"Russ Meyer",
+"Lana Young"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0054852",
+"original_title": "Erotica",
+"overview": "Six vignettes of female sexuality: 'Naked Innocence', 'Beauties, Bubbles and H2O', 'The Bear and the Bare', 'Nudists on the High Seas', 'The Nymphs' and 'The Bikini Busters'.",
+"poster": "https://image.tmdb.org/t/p/w342/dWp33nUaY2oPlU9lcL18NkqX2Yd.jpg",
+"runtime": 68,
+"title": "Erotica",
+"tmdb_id": 5645,
+"year": 1961
+},
+"5646": {
+"backdrop": "https://image.tmdb.org/t/p/w780/abRspLcDYn4Oosc9c1voTFH1D1w.jpg",
+"cast": [
+"Sammy Gilbert",
+"Anthony-James Ryan",
+"Jackie Moran",
+"Terri Taylor",
+"Frank Bolger",
+"Werner Kirsch"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0056692",
+"original_title": "Wild Gals of the Naked West",
+"overview": "An old geezer recalls some of the antics of the citizens of his Western town, more wild and woolly than Tombstone or Dodge City. In this town, they shoot like Stormtroopers, the women seek new meat, and practical jokers abound.",
+"poster": "https://image.tmdb.org/t/p/w342/oQbTEKAq7YHSTFaGGCWGmkYRgCR.jpg",
+"runtime": 65,
+"title": "Wild Gals of the Naked West",
+"tmdb_id": 5646,
+"year": 1962
+},
+"5647": {
+"backdrop": null,
+"cast": [
+"Peter A. DeCenzie",
+"Tempest Storm"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0347025",
+"original_title": "The French Peep Show",
+"overview": "A filmed burlesque show, staged at the El Rey Theater in Oakland, CA.",
+"poster": "https://image.tmdb.org/t/p/w342/wsYmrdYtW6J9L5Y2wW5WtMiOx6e.jpg",
+"runtime": 40,
+"title": "The French Peep Show",
+"tmdb_id": 5647,
+"year": 1954
+},
 "564784": {
 "backdrop": null,
 "cast": [
@@ -54484,6 +73364,97 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Disneyland's 35th Anniversary Celebration",
 "tmdb_id": 564784,
 "year": 1990
+},
+"5648": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hdUj5sfcwRSypi0XngtZXnfuLwb.jpg",
+"cast": [
+"Bill Teas",
+"Ann Peters",
+"Marilyn Wesley",
+"Michele Roberts",
+"Dawn Danielle",
+"Don Cochran"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0052920",
+"original_title": "The Immoral Mr. Teas",
+"overview": "A door-to-door salesman of dental appliances encounters beautiful, well-endowed nude women everywhere he goes.",
+"poster": "https://image.tmdb.org/t/p/w342/iyOgZPEv2JUUxGEGio7QA9pTW42.jpg",
+"runtime": 62,
+"title": "The Immoral Mr. Teas",
+"tmdb_id": 5648,
+"year": 1959
+},
+"5649": {
+"backdrop": null,
+"cast": [
+"Rochelle Kennedy",
+"Russ Meyer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0057508",
+"original_title": "Skyscrapers and Brassieres",
+"overview": "As a architectural expert discusses how design and function is of the essence in his craft Russ sees in his mind a a woman getting fitted for a bra using all the same design factors as building a skyscraper.",
+"poster": "https://image.tmdb.org/t/p/w342/8qxiuHXSKOrKIb9mV8vTefCs01w.jpg",
+"runtime": 5,
+"title": "Skyscrapers and Brassieres",
+"tmdb_id": 5649,
+"year": 1963
+},
+"5650": {
+"backdrop": null,
+"cast": [
+"Mikki France"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0054110",
+"original_title": "The Naked Camera",
+"overview": "According to his own statement, Meyer destroyed the last copy of this short film himself.",
+"poster": null,
+"runtime": 10,
+"title": "The Naked Camera",
+"tmdb_id": 5650,
+"year": 1961
+},
+"5651": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gTaZHBgI4D3hEO7N0cmbkVTJHh6.jpg",
+"cast": [
+"Raven De La Croix",
+"Robert McLane",
+"Janet Wood",
+"Candy Samples",
+"Su Ling",
+"Elaine Collins"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0075376",
+"original_title": "Up!",
+"overview": "Adolf Hitler is hiding out in California under the identity of Adolf Schwartz; however, he is soon murdered by a mysterious assailant. This coincides with the arrival of a mysterious woman in a nearby town. Whatever the case might be, nobody seems interested in investigating the crime, but there are many who are interested in her.",
+"poster": "https://image.tmdb.org/t/p/w342/kU6wvyu8yxIf7IynQmn8P0Gi6fN.jpg",
+"runtime": 81,
+"title": "Up!",
+"tmdb_id": 5651,
+"year": 1976
 },
 "5652": {
 "backdrop": "https://image.tmdb.org/t/p/w780/onNVUGRWoFIPlJx0sQL8q1VyWna.jpg",
@@ -54557,6 +73528,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 56553,
 "year": 2008
 },
+"5656": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zekuTaFoBl3gRBT6OAQyb4iIPYX.jpg",
+"cast": [
+"Anouska Hempel",
+"David Warbeck",
+"Percy Herbert",
+"Thomas Baptiste",
+"Milton McCollin",
+"Bernard Boston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0069796",
+"original_title": "Black Snake",
+"overview": "On a 19th century Caribbean island, slaves revolt against their beautiful and sadistic mistress.",
+"poster": "https://image.tmdb.org/t/p/w342/92WK6MVknFcyBoYmhkH59jS3Xpv.jpg",
+"runtime": 82,
+"title": "Black Snake",
+"tmdb_id": 5656,
+"year": 1973
+},
+"5674": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vVi2MRu4SpY3d1kf7fRwWHKsXp1.jpg",
+"cast": [
+"Pandora Peaks",
+"Leasha",
+"Russ Meyer",
+"Candy Samples",
+"Tundi",
+"Anthony-James Ryan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0299079",
+"original_title": "Pandora Peaks",
+"overview": "A dialogue-free documentary on former magazine model Pandora Peaks, with narration by Peaks and Meyer.",
+"poster": "https://image.tmdb.org/t/p/w342/ofJPKiYvLCc8lKmYVBamWy10LI3.jpg",
+"runtime": 71,
+"title": "Pandora Peaks",
+"tmdb_id": 5674,
+"year": 2004
+},
 "567749": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i5eYAulYV7asDfyfbNQFF6oVCSD.jpg",
 "cast": [
@@ -54576,31 +73597,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Maniac Summer",
 "tmdb_id": 567749,
 "year": 2009
-},
-"5683": {
-"backdrop": "https://image.tmdb.org/t/p/w780/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
-"cast": [
-"Paul Reubens",
-"E. G. Daily",
-"Mark Holton",
-"Diane Salinger",
-"Judd Omen",
-"Irving Hellman"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Tim Burton"
-],
-"imdb_id": "tt0089791",
-"original_title": "Pee-wee's Big Adventure",
-"overview": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike.",
-"poster": "https://image.tmdb.org/t/p/w342/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
-"runtime": 91,
-"title": "Pee-wee's Big Adventure",
-"tmdb_id": 5683,
-"year": 1985
 },
 "5709": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nAl380kw8qxE7FeSdbbghKuUlp6.jpg",
@@ -54631,6 +73627,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 5709,
 "year": 1987
 },
+"5711": {
+"backdrop": null,
+"cast": [
+"Ken Parker",
+"Gaby Martone",
+"Don Cochran",
+"Werner Kirsch",
+"Fred Owens",
+"Billy A. Newhouse"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0057133",
+"original_title": "Heavenly Bodies",
+"overview": "A group of filmmakers shadow some glamour photographers in order to discover the skill involved in getting 'magic' to appear on the photos.",
+"poster": "https://image.tmdb.org/t/p/w342/82mdVfn45Tio4A88nfhKpdvLULC.jpg",
+"runtime": 55,
+"title": "Heavenly Bodies",
+"tmdb_id": 5711,
+"year": 1963
+},
 "57158": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
 "cast": [
@@ -54657,6 +73678,81 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 57158,
 "year": 2013
 },
+"5719": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7HAxaIgeDHr2dGNmYiPwNJwM4BV.jpg",
+"cast": [
+"Hal Hopper",
+"Antoinette Cristiani",
+"John Furlong",
+"Rena Horten",
+"Princess Livingston",
+"Lorna Maitland"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0059477",
+"original_title": "Mudhoney!",
+"overview": "In this Depression-era tale, Calef McKinney, traveling from Michigan to California, stops in Spooner, Missouri, where Lute hires him for odd jobs. Calef gets involved with Lute's niece, Hannah. But she's married to Sidney, a wife-beating drunk who hopes to inherit his uncle-in-law's money. Sidney and an eccentric preacher plot against Calef, who finds it difficult to conceal his mysterious past and his growing affection for Sidney's wife.",
+"poster": "https://image.tmdb.org/t/p/w342/8iHie5qpBGrYpoC8ypN2m4PkPDe.jpg",
+"runtime": 93,
+"title": "Mudhoney!",
+"tmdb_id": 5719,
+"year": 1965
+},
+"5720": {
+"backdrop": "https://image.tmdb.org/t/p/w780/soS9qQtL79YmRRJAg0NvgesPaGF.jpg",
+"cast": [
+"Haji",
+"Alex Rocco",
+"Steve Oliver",
+"Lane Carroll",
+"Joseph Cellini",
+"Timothy Scott"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0059474",
+"original_title": "Motorpsycho!",
+"overview": "A vengeful veterinarian and a grieving widow join forces to track down violent bikers after they commit heinous acts against their loved ones.",
+"poster": "https://image.tmdb.org/t/p/w342/tSCSSnEjLJltHTcqMUNJINd9S06.jpg",
+"runtime": 75,
+"title": "Motorpsycho!",
+"tmdb_id": 5720,
+"year": 1965
+},
+"5721": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uLu8zcwmR7qjkkF3zkScm6Sjh2v.jpg",
+"cast": [
+"Erica Gavin",
+"Garth Pillsbury",
+"Harrison Page",
+"Jon Evans",
+"Vincene Wallace",
+"Robert Aiken"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0063787",
+"original_title": "Vixen!",
+"overview": "In a Canadian mountain resort, Vixen Palmer resides with her naive pilot husband Tom. While he's away flying in tourists, she sleeps with practically everybody including a husband and his wife, and even her biker brother. However, the only one she won't bed is her brother's friend... who is Black.",
+"poster": "https://image.tmdb.org/t/p/w342/9KMZWDA3xTrlgrScqdMisINQmsh.jpg",
+"runtime": 72,
+"title": "Vixen!",
+"tmdb_id": 5721,
+"year": 1968
+},
 "57212": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tcx15vswrQJCGET5lGxESQ4J5LG.jpg",
 "cast": [
@@ -54682,6 +73778,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "War Horse",
 "tmdb_id": 57212,
 "year": 2011
+},
+"57220": {
+"backdrop": null,
+"cast": [
+"Dennis Day"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045778",
+"original_title": "Football (Now and Then)",
+"overview": "An old-timer tells his grandson that old-time football players could take a modern team, so we see a game with just that match-up: Bygone U. vs. Present State. More specifically, the Bygone U. team of 11 vs. Present State's dozens of special squads and support personnel. Even the stadium, fans, and press are modern vs. old-time. The game is close, and fiercely fought.",
+"poster": "https://image.tmdb.org/t/p/w342/dtFa0nVQILp9d3vhXQ9GKzEcjxr.jpg",
+"runtime": 7,
+"title": "Football (Now and Then)",
+"tmdb_id": 57220,
+"year": 1953
 },
 "57222": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hfHwrU7rJB2kYoKJHT64nO1Euyp.jpg",
@@ -54723,56 +73839,55 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 57231,
 "year": 2011
 },
-"57276": {
-"backdrop": "https://image.tmdb.org/t/p/w780/p6GI3J6CfxhxwYmvHpBtYRVi7iq.jpg",
+"5725": {
+"backdrop": "https://image.tmdb.org/t/p/w780/491YUaK0Au2kpnOIqH6PNrrcM2c.jpg",
 "cast": [
-"Regina Advento",
-"Malou Airaudo",
-"Ruth Amarante",
-"Pina Bausch",
-"Jorge Puerta",
-"Mechthild Großmann"
+"Shari Eubank",
+"Charles Pitts",
+"Charles Napier",
+"Uschi Digard",
+"Christy Hartburg",
+"Colleen Brennan"
 ],
 "countries": [
-"DE",
-"FR"
+"US"
 ],
 "directors": [
-"Wim Wenders"
+"Russ Meyer"
 ],
-"imdb_id": "tt1440266",
-"original_title": "Pina",
-"overview": "Pina is a feature-length dance film in 3D with the ensemble of the Tanztheater Wuppertal Pina Bausch, featuring the unique and inspiring art of the great German choreographer, who died in the summer of 2009.",
-"poster": "https://image.tmdb.org/t/p/w342/mKKtIJYtaGwcgpMfnVR2byYhfz9.jpg",
+"imdb_id": "tt0073768",
+"original_title": "Supervixens",
+"overview": "Clint must flee after his wife is killed by a psychopathic cop, who tries to pin the murder on him.",
+"poster": "https://image.tmdb.org/t/p/w342/1xtBWyQj15pz28qQ255rUF5W9iw.jpg",
 "runtime": 106,
-"title": "Pina",
-"tmdb_id": 57276,
-"year": 2011
+"title": "Supervixens",
+"tmdb_id": 5725,
+"year": 1975
 },
-"573": {
-"backdrop": "https://image.tmdb.org/t/p/w780/feiECea2yhyiNRAfvqXzbQFgR1W.jpg",
+"5726": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6sswkS3SQCgavptmAxSpNET87JV.jpg",
 "cast": [
-"Jon Finch",
-"Barry Foster",
-"Barbara Leigh-Hunt",
-"Anna Massey",
-"Alec McCowen",
-"Vivien Merchant"
+"Babette Bardot",
+"Pat Barrington",
+"Sin Lenee",
+"Darlene Grey",
+"Diane Young",
+"Darla Paris"
 ],
 "countries": [
-"GB"
+"US"
 ],
 "directors": [
-"Alfred Hitchcock"
+"Russ Meyer"
 ],
-"imdb_id": "tt0068611",
-"original_title": "Frenzy",
-"overview": "London is terrorized by a vicious sex killer known as The Necktie Murderer. Following the brutal slaying of his ex-wife, down-on-his-luck Richard Blaney is suspected by the police of being the killer. He goes on the run, determined to prove his innocence.",
-"poster": "https://image.tmdb.org/t/p/w342/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg",
-"runtime": 116,
-"title": "Frenzy",
-"tmdb_id": 573,
-"year": 1972
+"imdb_id": "tt0060712",
+"original_title": "Mondo Topless",
+"overview": "Completely topless. Completely uninhibited. The craze that began in San Francisco is now exploding across the USA and Europe.",
+"poster": "https://image.tmdb.org/t/p/w342/vpudwaFJJA9nE6p80ZQLE3qKHpc.jpg",
+"runtime": 60,
+"title": "Mondo Topless",
+"tmdb_id": 5726,
+"year": 1966
 },
 "573886": {
 "backdrop": null,
@@ -54816,6 +73931,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Man Who Knew Too Much",
 "tmdb_id": 574,
 "year": 1956
+},
+"574056": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5cSs43W3TDjUAomnSv9zsMRjX2l.jpg",
+"cast": [
+"Steven Soderbergh"
+],
+"countries": [],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt13838772",
+"original_title": "Your Life as a Spy",
+"overview": "You are a spy and you are lonely.",
+"poster": "https://image.tmdb.org/t/p/w342/69OHkuqk3TH1DOulKqog5pv6as7.jpg",
+"runtime": 4,
+"title": "Your Life as a Spy",
+"tmdb_id": 574056,
+"year": 2019
 },
 "574082": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dk56abIpSm48mZ8oeluV2b0qvLR.jpg",
@@ -54868,30 +74001,131 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 574095,
 "year": 2021
 },
-"574638": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4MYtYsSGzQUUYQqHGWBNeEkT91s.jpg",
+"5741": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hIv6OyyUTWmAwrEYiGdipVz8Qjf.jpg",
 "cast": [
-"Bob Dylan",
-"Allen Ginsberg",
-"Patti Smith",
-"Martin von Haselberg",
-"Scarlet Rivera",
-"Joan Baez"
+"Lorna Maitland",
+"James Rucker",
+"Mark Bradley",
+"Althea Currier",
+"James Griffith",
+"Hal Hopper"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Martin Scorsese"
+"Russ Meyer"
 ],
-"imdb_id": "tt9577852",
-"original_title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
-"overview": "Part documentary, part concert film, part fever dream, this film captures the troubled spirit of America in 1975 and the joyous music that Dylan performed during the fall of that year.",
-"poster": "https://image.tmdb.org/t/p/w342/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
-"runtime": 142,
-"title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
-"tmdb_id": 574638,
-"year": 2019
+"imdb_id": "tt0058301",
+"original_title": "Lorna",
+"overview": "Lorna and Jim have been married for a year but Lorna remains sexually unsatisfied. While he's at work, she is raped by an escaped convict, then becomes lustfully involved with him.",
+"poster": "https://image.tmdb.org/t/p/w342/8GoCGn7Rc9OhNmeb8KWPpXSjfBL.jpg",
+"runtime": 78,
+"title": "Lorna",
+"tmdb_id": 5741,
+"year": 1964
+},
+"5742": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2OdvdoXyaLktZejlvcZZtvDtf7b.jpg",
+"cast": [
+"Larissa Ely",
+"Linda Ashton",
+"Charles Napier",
+"Bert Santos",
+"Frank Bolger",
+"Uschi Digard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0064160",
+"original_title": "Cherry, Harry & Raquel!",
+"overview": "In a small border town, a sheriff and his 'associate', involved in an operation in which they divert marijuana through the border, must kill another smuggler who has gone into business for himself.",
+"poster": "https://image.tmdb.org/t/p/w342/gzPVbOSvGuS0KWBA8wf4omeFF4i.jpg",
+"runtime": 72,
+"title": "Cherry, Harry & Raquel!",
+"tmdb_id": 5742,
+"year": 1969
+},
+"5744": {
+"backdrop": "https://image.tmdb.org/t/p/w780/p77xULQxlVos1YnvtFbzOUebq4F.jpg",
+"cast": [
+"Letícia Román",
+"Miriam Hopkins",
+"Alexander D'Arcy",
+"Walter Giller",
+"Chris Howland",
+"Ulli Lommel"
+],
+"countries": [
+"US",
+"DE"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0058088",
+"original_title": "Fanny Hill",
+"overview": "Young, pretty and innocent, Fanny Hill has lost her parents and must find her way in life amidst the perils of turbulent 18th-century London. She's fortunate enough to rapidly find a place as chambermaid of the effusive Mrs. Brown, who lives in a large house teeming with female 'relatives' in negligée and with very relaxed manners. She also insists that Fanny alone meets various gentlemen who show an ardent interest in her.",
+"poster": "https://image.tmdb.org/t/p/w342/c8gcQ0MSymcqnvR4OQSngI6SgRP.jpg",
+"runtime": 104,
+"title": "Fanny Hill",
+"tmdb_id": 5744,
+"year": 1964
+},
+"5745": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fcx3Th14KRVmruIwVCUrIfCRvI6.jpg",
+"cast": [
+"Wayne Maunder",
+"Marianne McAndrew",
+"Philip Carey",
+"Jay C. Flippen",
+"Edy Williams",
+"Yvonne De Carlo"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0067736",
+"original_title": "The Seven Minutes",
+"overview": "To help with an upcoming election, a bookstore clerk is indicted for selling obscene material. The defense attorneys need to uncover the mystery of the original publication of the book.",
+"poster": "https://image.tmdb.org/t/p/w342/uHd1zxZPpTQ7CBrUlj4HzV0wJy1.jpg",
+"runtime": 111,
+"title": "The Seven Minutes",
+"tmdb_id": 5745,
+"year": 1971
+},
+"5747": {
+"backdrop": "https://image.tmdb.org/t/p/w780/shAFFC3DvPC6M4E4Li3Kq6S7Bma.jpg",
+"cast": [
+"Ken Swofford",
+"Alaina Capri",
+"Jackie Moran",
+"Adele Rein",
+"Andrew Hagara",
+"Frank Bolger"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0061504",
+"original_title": "Common Law Cabin",
+"overview": "After stealing a fortune in unclaimed jewelry, ex-detective Barney Rickert arrives at a run-down dude ranch in Arizona to hide out. When owner Dewey Hoople refuses to sell to Rickert, he proceeds to win over the female inhabitants by seducing them one by one which leads to one refusing his advances and a dangerous game played out in which Rickert ruthlessly sets out to get what he wants.",
+"poster": "https://image.tmdb.org/t/p/w342/b7j9ltahIhWJzDpinZJP4Ji88mG.jpg",
+"runtime": 69,
+"title": "Common Law Cabin",
+"tmdb_id": 5747,
+"year": 1967
 },
 "57472": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oSIPum1CLiWk77LUIbRTwgOs31m.jpg",
@@ -54935,6 +74169,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Little Toot",
 "tmdb_id": 57473,
 "year": 1948
+},
+"5748": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gCEgbKKnjK433C20r8TRk9XZvpP.jpg",
+"cast": [
+"Alaina Capri",
+"Stuart Lancaster",
+"Patrick Wright",
+"Haji",
+"Karen Ciral",
+"Tom Howland"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt0061719",
+"original_title": "Good Morning... and Goodbye!",
+"overview": "Burt can't satisfy Angel, so she seeks the arms of another man, who is caught by Angel in the arms of another woman. Angel ends up with Justin, who ends up with a co-worker's wife. As Angel and Burt argue, a sorceress watches, and eventually seduces Burt while Angel gets to know Ray, who had previously chased a blonde girl down on the coast. You get the idea.",
+"poster": "https://image.tmdb.org/t/p/w342/ifRmkCLomyleNJJKZjCqAaEIHTM.jpg",
+"runtime": 78,
+"title": "Good Morning... and Goodbye!",
+"tmdb_id": 5748,
+"year": 1967
 },
 "57646": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g7HaqokNxlkazKdVwZGo4RNRCja.jpg",
@@ -54988,6 +74247,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 576510,
 "year": 1986
 },
+"57666": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h6nQF38rCfrNCQ1rZQP9bUCoFp7.jpg",
+"cast": [
+"Omar Sharif",
+"Anouk Aimée",
+"Didi Perego",
+"Fausto Tozzi",
+"Lotte Lenya",
+"Gabriella Boccardo"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0064035",
+"original_title": "The Appointment",
+"overview": "Lawyer Federico Fendi has reasons to suspect that his fashion model wife Carla is secretly one of Rome's highest paid call-girls.",
+"poster": "https://image.tmdb.org/t/p/w342/sQTZcdZ3guzHII6lhO9SNTeuxGC.jpg",
+"runtime": 115,
+"title": "The Appointment",
+"tmdb_id": 57666,
+"year": 1969
+},
 "576663": {
 "backdrop": null,
 "cast": [
@@ -55008,31 +74292,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 576663,
 "year": 1964
 },
-"577": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7LNkP4ofj5pPgPeyEXC5z3U4y8a.jpg",
+"577922": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
 "cast": [
-"Nicole Kidman",
-"Matt Dillon",
-"Joaquin Phoenix",
-"Casey Affleck",
-"Illeana Douglas",
-"Alison Folland"
+"John David Washington",
+"Robert Pattinson",
+"Elizabeth Debicki",
+"Kenneth Branagh",
+"Dimple Kapadia",
+"Michael Caine"
 ],
 "countries": [
 "GB",
 "US"
 ],
 "directors": [
-"Gus Van Sant"
+"Christopher Nolan"
 ],
-"imdb_id": "tt0114681",
-"original_title": "To Die For",
-"overview": "Suzanne Stone vil bli en verdenskjent nyhetsanker og gjør alt for å nå målet sitt, med kald besluttsomhet og manipulasjon, uansett kostnad eller konsekvens.",
-"poster": "https://image.tmdb.org/t/p/w342/ji0F2HvO58iIrNfbo41lrnYybed.jpg",
-"runtime": 106,
-"title": "To Die For",
-"tmdb_id": 577,
-"year": 1995
+"imdb_id": "tt6723592",
+"original_title": "Tenet",
+"overview": "En hemmelig agent får et enkelt ord som våpen, og sendes for å forhindre begynnelsen av tredje verdenskrig. Han må reise gjennom tiden og bøye naturlovene for å lykkes i oppdraget sitt.",
+"poster": "https://image.tmdb.org/t/p/w342/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
+"runtime": 150,
+"title": "Tenet",
+"tmdb_id": 577922,
+"year": 2020
 },
 "57908": {
 "backdrop": "https://image.tmdb.org/t/p/w780/moJnfHo34dD1vODgEdqcwgjta3F.jpg",
@@ -55099,6 +74383,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 57976,
 "year": 1997
 },
+"580175": {
+"backdrop": "https://image.tmdb.org/t/p/w780/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+"cast": [
+"Mads Mikkelsen",
+"Thomas Bo Larsen",
+"Magnus Millang",
+"Lars Ranthe",
+"Maria Bonnevie",
+"Helene Reingaard Neumann"
+],
+"countries": [
+"DK",
+"NL",
+"SE"
+],
+"directors": [
+"Thomas Vinterberg"
+],
+"imdb_id": "tt10288566",
+"original_title": "Druk",
+"overview": "Fire lærere bestemmer seg for å teste ut en teori om at mennesket er født med en halv promille for lite i blodet.",
+"poster": "https://image.tmdb.org/t/p/w342/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+"runtime": 117,
+"title": "Another Round",
+"tmdb_id": 580175,
+"year": 2020
+},
 "58159": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iNawpyQYb30IqFl4AjNsYlPn1HM.jpg",
 "cast": [
@@ -55147,6 +74458,36 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 58160,
 "year": 1937
 },
+"5817": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
+"cast": [
+"Håkan Angser",
+"Eric Bäckman",
+"Patrik Anders Edgren",
+"Björn Englund",
+"Lennart Eriksson",
+"Pär Fredriksson"
+],
+"countries": [
+"DK",
+"FR",
+"DE",
+"JP",
+"NO",
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0445336",
+"original_title": "Du levande",
+"overview": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
+"poster": "https://image.tmdb.org/t/p/w342/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
+"runtime": 93,
+"title": "You, the Living",
+"tmdb_id": 5817,
+"year": 2007
+},
 "58185": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tM5MrMYLvbLIhGgQVOb2M3vcBFN.jpg",
 "cast": [
@@ -55173,6 +74514,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 58185,
 "year": 1961
 },
+"582183": {
+"backdrop": null,
+"cast": [
+"John Boorman",
+"Bert Head",
+"Owen Dawson",
+"Ernie Hunt",
+"Don Rogers",
+"Mike Summerbee"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt1500751",
+"original_title": "In View: Six Days to Saturday",
+"overview": "Directed by John Boorman for the In View series, this documentary follows Swindon Town F.C. through six days of training and preparation, offering an inside look at the rhythms and pressures of professional football life.",
+"poster": "https://image.tmdb.org/t/p/w342/sBUkvOqLiX2tCNBcw0pnfGwk0fv.jpg",
+"runtime": 40,
+"title": "In View: Six Days to Saturday",
+"tmdb_id": 582183,
+"year": 1963
+},
 "58416": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9NBOuI2Zh2pv4M3NFWhmPIp7Gg3.jpg",
 "cast": [
@@ -55198,6 +74564,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Take Care of Your Scarf, Tatjana",
 "tmdb_id": 58416,
 "year": 1994
+},
+"58527": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zUCrMahkEYuUMEsvdyHxLFYBFDw.jpg",
+"cast": [
+"George Johnson",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0035148",
+"original_title": "The Olympic Champ",
+"overview": "A narrator explains the history of the Olympic Games while Goofy demonstrates events.",
+"poster": "https://image.tmdb.org/t/p/w342/gac7DVaKcJNrHVlzTyiHRd3c3Qh.jpg",
+"runtime": 7,
+"title": "The Olympic Champ",
+"tmdb_id": 58527,
+"year": 1942
 },
 "585397": {
 "backdrop": null,
@@ -55275,31 +74662,23 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 58574,
 "year": 2011
 },
-"58655": {
-"backdrop": "https://image.tmdb.org/t/p/w780/cMDKT5bRD0X4ZMHQHfH2iZFbIi6.jpg",
-"cast": [
-"Jacques Tati",
-"Michèle Brabo",
-"Karl Kossmayer",
-"Pierre Brama",
-"Pia Colombo",
-"Johnny Lonn"
-],
+"586860": {
+"backdrop": null,
+"cast": [],
 "countries": [
-"FR",
-"SE"
+"US"
 ],
 "directors": [
-"Jacques Tati"
+"Brian De Palma"
 ],
-"imdb_id": "tt0071968",
-"original_title": "Parade",
-"overview": "The story of a big party during which Jacques Tati brings together audience members, performers, clowns, children, and himself.",
-"poster": "https://image.tmdb.org/t/p/w342/pa1jp4ItzasTzl8L04WZhx6leFL.jpg",
-"runtime": 90,
-"title": "Parade",
-"tmdb_id": 58655,
-"year": 1974
+"imdb_id": "tt0257179",
+"original_title": "Show Me a Strong Town and I'll Show You a Strong Bank",
+"overview": "Commissioned by the U.S. Treasury Department, the film follows an inspector conducting surprise inspections.  Note: As of now, the film is considered lost and no known copies are publicly available.",
+"poster": "https://image.tmdb.org/t/p/w342/3Ye1dZ3N6fXJMLb8YJsqwOdPQ8N.jpg",
+"runtime": null,
+"title": "Show Me a Strong Town and I'll Show You a Strong Bank",
+"tmdb_id": 586860,
+"year": 1966
 },
 "587434": {
 "backdrop": null,
@@ -55366,6 +74745,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mickey, les J.O. rigolos",
 "tmdb_id": 58817,
 "year": 2005
+},
+"58828": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6R6uHL8puCVdZxezMhxyjEHluj0.jpg",
+"cast": [
+"Gloria Blondell"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0190806",
+"original_title": "The Story of Menstruation",
+"overview": "A basic explanation of the purpose and process of menstruation, told largely with diagrams.",
+"poster": "https://image.tmdb.org/t/p/w342/wryQZXn0qyHQQcOpCHnGZhXwm3.jpg",
+"runtime": 10,
+"title": "The Story of Menstruation",
+"tmdb_id": 58828,
+"year": 1946
 },
 "588950": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2KtsTechqTL9ufaE6GpNoAQzBqM.jpg",
@@ -55921,6 +75320,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 594,
 "year": 2004
 },
+"59401": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cgmuUeuz6hOZvKWzlk4G824QvKL.jpg",
+"cast": [
+"Audie Murphy",
+"Bill Mauldin",
+"Douglas Dick",
+"Royal Dano",
+"John Dierkes",
+"Arthur Hunnicutt"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0043961",
+"original_title": "The Red Badge of Courage",
+"overview": "Henry Fleming is a young Union soldier in the American Civil War. During his unit's first engagement, Henry flees the battlefield in fear. When he learns that the Union actually won the battle, shame over his cowardice leads him to lie to his friend Tom and the other soldiers, saying that he had been injured in battle. However, when he learns that his unit will be leading a charge against the enemy, Henry takes the opportunity to face his fears and redeem himself.",
+"poster": "https://image.tmdb.org/t/p/w342/RKomX6ExUYMvlNcv2HjgupVKdS.jpg",
+"runtime": 69,
+"title": "The Red Badge of Courage",
+"tmdb_id": 59401,
+"year": 1951
+},
 "59436": {
 "backdrop": "https://image.tmdb.org/t/p/w780/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
 "cast": [
@@ -56466,6 +75890,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 610428,
 "year": 2012
 },
+"61120": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8xnucZi1Y1MetGVRXJwW7VXRcrv.jpg",
+"cast": [
+"Jim Broadbent",
+"Stephen Bill",
+"Belinda Bradley",
+"Edward Bradley"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt0105355",
+"original_title": "A Sense of History",
+"overview": "Jim Broadbent wrote and starred in this short film directed by none other than Mike Leigh. As a member of the landed gentry, the 23rd Earl of Leete has a duty to maintain and expand his lands. Shot in the style and manner of a BBC documentary, Broadbent tells his family history to the crew, who slowly come to realise - as do we - that things are not what they seem.",
+"poster": "https://image.tmdb.org/t/p/w342/clpYdBOWCTWYYOnndKIu6SbD7my.jpg",
+"runtime": 26,
+"title": "A Sense of History",
+"tmdb_id": 61120,
+"year": 1992
+},
 "61129": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3ANrMyAECrJ0Z812OpUEdGbPPdL.jpg",
 "cast": [
@@ -56582,6 +76029,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 61296,
 "year": 1974
 },
+"61337": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jPuyVi5SdFAQdzhIBiObWvNWxFP.jpg",
+"cast": [
+"James Spader",
+"Kyra Sedgwick",
+"Helen Mirren",
+"Albert Brooks",
+"Anne Bancroft",
+"Wallace Shawn"
+],
+"countries": [
+"US",
+"AU"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0118901",
+"original_title": "Critical Care",
+"overview": "Werner Ernst is a young hospital resident who becomes embroiled in a legal battle between two half-sisters who are fighting over the care of their comatose father. But are they really fighting over their father's care, or over his $10 million estate? Meanwhile, Werner must contend with his nutty supervisor, who insists that he only care for patients with full insurance. Can Werner sidestep the hospital's legal team and do what's best for the patient?",
+"poster": "https://image.tmdb.org/t/p/w342/p4UPT3vvdKHsv6PbhvvtFm8w5Zx.jpg",
+"runtime": 107,
+"title": "Critical Care",
+"tmdb_id": 61337,
+"year": 1997
+},
 "613496": {
 "backdrop": null,
 "cast": [
@@ -56652,30 +76125,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 61415,
 "year": 1986
 },
-"61461": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jlUSRGkcPDNYAhxlezdohFHrDCa.jpg",
+"614560": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
 "cast": [
-"Emilio Cigoli",
-"Luciano De Ambrosis",
-"Isa Pola",
-"Adriano Rimoldi",
-"Giovanna Cigoli",
-"Jone Frigerio"
+"Gary Oldman",
+"Amanda Seyfried",
+"Lily Collins",
+"Arliss Howard",
+"Tom Pelphrey",
+"Sam Troughton"
 ],
 "countries": [
-"IT"
+"US"
 ],
 "directors": [
-"Vittorio De Sica"
+"David Fincher"
 ],
-"imdb_id": "tt0034493",
-"original_title": "I bambini ci guardano",
-"overview": "In his first collaboration with renowned screenwriter and longtime partner Cesare Zavattini, Vittorio De Sica examines the cataclysmic consequences of adult folly on an innocent child. Heralding the pair’s subsequent work on some of the masterpieces of Italian neorealism, The Children Are Watching Us is a vivid, deeply humane portrait of a family’s disintegration.",
-"poster": "https://image.tmdb.org/t/p/w342/vEkp2FoxUFpCGeioWdUS4wb7ezh.jpg",
-"runtime": 84,
-"title": "The Children Are Watching Us",
-"tmdb_id": 61461,
-"year": 1943
+"imdb_id": "tt10618286",
+"original_title": "Mank",
+"overview": "1930s Hollywood is reevaluated through the eyes of scathing social critic and alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay of Citizen Kane.",
+"poster": "https://image.tmdb.org/t/p/w342/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+"runtime": 132,
+"title": "Mank",
+"tmdb_id": 614560,
+"year": 2020
 },
 "61464": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vaQMztQIuNxpgyxUZIEBygtIO6K.jpg",
@@ -56701,6 +76174,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Maddalena, Zero for Conduct",
 "tmdb_id": 61464,
 "year": 1940
+},
+"614823": {
+"backdrop": null,
+"cast": [
+"Pinto Colvig",
+"Joaquin Garay",
+"James MacDonald",
+"Billy Bletcher"
+],
+"countries": [],
+"directors": [
+"Jack Kinney",
+"Jack Hannah"
+],
+"imdb_id": null,
+"original_title": "Here's Goofy!",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/cgCDc387sK3oEpRfJNzIWX8lLPM.jpg",
+"runtime": null,
+"title": "Here's Goofy!",
+"tmdb_id": 614823,
+"year": 1987
 },
 "61549": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5nN4tunQgaUA9ByIA6Dc9WJWrwT.jpg",
@@ -56820,6 +76315,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Last Duel",
 "tmdb_id": 617653,
 "year": 2021
+},
+"61823": {
+"backdrop": "https://image.tmdb.org/t/p/w780/guDyp7hs2Klr31E6A4agyvThAOy.jpg",
+"cast": [
+"Ugo Tognazzi",
+"Annie Girardot",
+"Achille Majeroni",
+"Filippo Pompa Marcelli",
+"Ermelinda De Felice",
+"Elvira Paolini"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0057006",
+"original_title": "La donna scimmia",
+"overview": "A modest Neapolitan man meets a young woman with excessive hairiness. He exhibits her at fairs and marries her. It is after marriage that he receives a tempting offer from a French manager.",
+"poster": "https://image.tmdb.org/t/p/w342/38avfcyrLqAzWE19jIpTnoQATZD.jpg",
+"runtime": 92,
+"title": "The Ape Woman",
+"tmdb_id": 61823,
+"year": 1964
 },
 "618424": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iYjNPRBuTqQABRBQhAPhf31YbJf.jpg",
@@ -56946,6 +76467,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 61934,
 "year": 1955
 },
+"62084": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5eFiJPKQEpRIgPb95zDDD1gazzn.jpg",
+"cast": [
+"Lew Ayres",
+"Teresa Wright",
+"Victor Jory",
+"Jacqueline White",
+"Jimmy Hunt",
+"Barry Kelley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0042313",
+"original_title": "The Capture",
+"overview": "A badly injured fugitive explains to a priest how he came to be in his present predicament.",
+"poster": "https://image.tmdb.org/t/p/w342/e0tGJ3noqXACU8LT4qPv7jkYt5d.jpg",
+"runtime": 91,
+"title": "The Capture",
+"tmdb_id": 62084,
+"year": 1950
+},
 "620930": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pztTxEBbf1bz8h7g8QHOWEjMrxp.jpg",
 "cast": [
@@ -56966,6 +76512,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Le Marais",
 "tmdb_id": 620930,
 "year": 2006
+},
+"621109": {
+"backdrop": null,
+"cast": [
+"Theodore Bikel",
+"Sylvia Davis",
+"Ludwig Donath",
+"Vincent Gardenia",
+"Stefan Gierasch",
+"Theo Goetz"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0675399",
+"original_title": "The Dybbuk",
+"overview": "The Dybbuk is a made for TV film adaptation of a classic Jewish folktale. The story is about a young Jewish man, Sender (Theodore Bikel) who loves a young Jewish woman, Leah (Carol Lawrence) but her father arranges her marriage with another man. The grief of this causes Sender to die, but his spirit passes into the body of his beloved on her wedding day. Rabbi Azrael (Ludwig Donath), who serves as our narrator through the beginning of the film, is charged with the task of exercising Sender’s Dybbuk (sometimes defined as a malicious spirit or demon who possesses the living) from Leah’s body.",
+"poster": "https://image.tmdb.org/t/p/w342/7CBHh9l8vSQTSeBOiuOmOdime1s.jpg",
+"runtime": 104,
+"title": "The Dybbuk",
+"tmdb_id": 621109,
+"year": 1960
 },
 "621749": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2mJBGDwpqLQcViV2paaeS8h8JDc.jpg",
@@ -57070,6 +76641,72 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 62214,
 "year": 2012
 },
+"623630": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fA7oBv40FEQVWNkRnYDVgvXZU99.jpg",
+"cast": [
+"Choi Seong-woo"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt2999786",
+"original_title": "프레임 속의 기억들",
+"overview": "A young boy struggles with the loss of his beloved dog.",
+"poster": "https://image.tmdb.org/t/p/w342/7OUh1T9ImhkyzDJaaBiJBcgFsoG.jpg",
+"runtime": 5,
+"title": "The Memories in My Frame",
+"tmdb_id": 623630,
+"year": 1994
+},
+"623631": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2THMLhoMyYoqg7KimnyEag2SGrO.jpg",
+"cast": [
+"Kim Roi-ha",
+"Ahn Nae-sang"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt2991052",
+"original_title": "백색인",
+"overview": "A white-collar South Korean man discovers a severed human finger and keeps it.",
+"poster": "https://image.tmdb.org/t/p/w342/eIRGWKW8UMhTf7Yb53fnqvnOyxA.jpg",
+"runtime": 19,
+"title": "White Man",
+"tmdb_id": 623631,
+"year": 1994
+},
+"623856": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u6Y510S63IXrXkDHcHlQ49Fecmj.jpg",
+"cast": [
+"Meryl Streep",
+"Lucas Hedges",
+"Gemma Chan",
+"Dianne Wiest",
+"Candice Bergen",
+"Daniel Algrant"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt10808832",
+"original_title": "Let Them All Talk",
+"overview": "A celebrated author takes a journey with some old friends to have some fun and heal old wounds. Her nephew comes along to wrangle the ladies and finds himself involved with a young literary agent.",
+"poster": "https://image.tmdb.org/t/p/w342/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+"runtime": 113,
+"title": "Let Them All Talk",
+"tmdb_id": 623856,
+"year": 2020
+},
 "62405": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8xFUnNO1FDbstbeBGWieInVYGSo.jpg",
 "cast": [
@@ -57139,6 +76776,52 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Land of Silence and Darkness",
 "tmdb_id": 62437,
 "year": 1971
+},
+"62599": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ztkPxVPJsTh3Kg7yz1z97NjtWyw.jpg",
+"cast": [
+"Fred Shields",
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0036934",
+"original_title": "How to Play Golf",
+"overview": "Goofy shows us, in his inimitable way, the fundamentals of golf, guided as usual by the somewhat sarcastic narrator.",
+"poster": "https://image.tmdb.org/t/p/w342/4WeHMOE8TyfrIIvJGZb14zapoUX.jpg",
+"runtime": 8,
+"title": "How to Play Golf",
+"tmdb_id": 62599,
+"year": 1944
+},
+"62648": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fDSQz4yTlV8hfjRrMgzdY55DVjk.jpg",
+"cast": [
+"Richard Widmark",
+"Donna Reed",
+"William Campbell",
+"John McIntire",
+"Barton MacLane",
+"Harry Morgan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0048976",
+"original_title": "Backlash",
+"overview": "Jim Slater's father (whom he never knew) died in the Apache ambush at Gila Valley, and Jim is searching for the one survivor, who supposedly went for help but disappeared with a lot of gold. In the process, he gets several people gunning for him, and he keeps meeting liberated woman Karyl Orton, who may be on a similar mission. Renewed Apache hostilities and an impending range war provide complications.",
+"poster": "https://image.tmdb.org/t/p/w342/ny5zwvwmToqeHrLSlJMGk4wXtGZ.jpg",
+"runtime": 84,
+"title": "Backlash",
+"tmdb_id": 62648,
+"year": 1956
 },
 "62761": {
 "backdrop": "https://image.tmdb.org/t/p/w780/LhNAYzoYqJssVojll2eyKLonu6.jpg",
@@ -57215,6 +76898,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 63,
 "year": 1995
 },
+"63176": {
+"backdrop": "https://image.tmdb.org/t/p/w780/XlbqBMlGpQFsmTmkR6m0VJkG7u.jpg",
+"cast": [
+"Marcello Mastroianni",
+"Catherine Deneuve",
+"Corinne Marchand",
+"Claudine Berg",
+"Dominique Marcas",
+"Luigi Antonio Guerra"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0068868",
+"original_title": "La cagna",
+"overview": "Liza meets the artist Giorgio and falls in love with him. She dreams of becoming the wife of Giorgio, but he is married. She dreams of being a close friend to him, but he has a favorite dog. Liza is ready for any sacrifice for the sake of her love. She kills Giorgio's dog and takes her place. Now she is a woman who always and everywhere follows her master.",
+"poster": "https://image.tmdb.org/t/p/w342/zsJa2ibtGSx1ZRbzOV4sA3ZQSQq.jpg",
+"runtime": 100,
+"title": "Liza",
+"tmdb_id": 63176,
+"year": 1972
+},
 "632": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
 "cast": [
@@ -57261,31 +76970,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 63272,
 "year": 1946
 },
-"63318": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tDOSQWVCRNrS9QfpHckzRtvSmPi.jpg",
+"633": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uNhZCcxkXmrmzPfOH0ZxegMs6SL.jpg",
 "cast": [
-"Thérèse Liotard",
-"Valérie Mairesse",
-"Robert Dadiès",
-"Mona Mairesse",
-"Francis Lemaire",
-"François Courbin"
+"Rutger Hauer",
+"Jeroen Krabbé",
+"Lex van Delden",
+"Derek de Lint",
+"Huib Rooymans",
+"Dolf de Vries"
 ],
 "countries": [
-"FR",
 "BE",
-"AN"
+"NL"
 ],
 "directors": [
-"Agnès Varda"
+"Paul Verhoeven"
 ],
-"imdb_id": "tt0076855",
-"original_title": "L'une chante, l'autre pas",
-"overview": "The intertwined lives of two women in 1970s France, set against the progress of the women's movement in which Agnes Varda was involved. Pomme and Suzanne meet when Pomme helps Suzanne obtain an abortion after a third pregnancy which she cannot afford. They lose contact but meet again ten years later. Pomme has become an unconventional singer, Suzanne a serious community worker - despite the contrast they remain friends and share in the various dramas of each others' lives, in the process affirming their different female identities.",
-"poster": "https://image.tmdb.org/t/p/w342/b3YTxT8LM1AWeWyrAXd3b0kjjzz.jpg",
-"runtime": 122,
-"title": "One Sings, the Other Doesn't",
-"tmdb_id": 63318,
+"imdb_id": "tt0076734",
+"original_title": "Soldaat van Oranje",
+"overview": "The lives of Erik Lanshof and five of his closest friends take different paths when the German army invades the Netherlands in 1940: fight and resistance, fear and resignation, collaboration and high treason.",
+"poster": "https://image.tmdb.org/t/p/w342/yc83fjZc2BcG9EbUJQhrBOXGnCC.jpg",
+"runtime": 148,
+"title": "Soldier of Orange",
+"tmdb_id": 633,
 "year": 1977
 },
 "63320": {
@@ -57392,31 +77100,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 637649,
 "year": 2021
 },
-"63892": {
-"backdrop": "https://image.tmdb.org/t/p/w780/joQL41XWmYj5egSVRkVDVbxYtFf.jpg",
+"638373": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8nihBkCdgYtf7N9yRZIytoigEQE.jpg",
 "cast": [
-"Emmanuelle Riva",
-"Jean-Paul Belmondo",
-"Irène Tunc",
-"Nicole Mirel",
-"Gisèle Grimm",
-"Marco Behar"
+"Chi-Sung Chow",
+"Ah Dun",
+"Ren Na",
+"Yoon Je-moon",
+"Koh Soo-hee",
+"Miwako Ichikawa"
 ],
 "countries": [
-"FR",
-"IT"
+"HK",
+"JP",
+"KR"
 ],
 "directors": [
-"Jean-Pierre Melville"
+"Gakuryu Ishii",
+"Bong Joon Ho",
+"Nelson Yu Lik-wai"
 ],
-"imdb_id": "tt0055082",
-"original_title": "Léon Morin, prêtre",
-"overview": "Barny, although a Marxist, is intrigued by the mysteries of religion. In confession, she teases a priest, Léon Morin, but he is a young and intelligent man and ready to discuss anything.",
-"poster": "https://image.tmdb.org/t/p/w342/i89R891gei0UVS8xY6ymOUPExtW.jpg",
-"runtime": 118,
-"title": "Léon Morin, Priest",
-"tmdb_id": 63892,
-"year": 1961
+"imdb_id": "tt0874886",
+"original_title": "거울에 비친 마음: 디지털삼인삼색2004",
+"overview": "Three digital short films: 'Influenza' by Bong Joon-ho, 'Kyo-shin' by Sogo Ishii, 'Dance Me to the End of Love' by Yu Lik-wai",
+"poster": "https://image.tmdb.org/t/p/w342/1yWLv7kXlxRJrcm6PW6pmCIruf3.jpg",
+"runtime": 98,
+"title": "Jeonju Digital Project 2004",
+"tmdb_id": 638373,
+"year": 2004
 },
 "638991": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nEINcRLbifqYcVSFI9oIjqKWyZd.jpg",
@@ -57643,6 +77354,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 641731,
 "year": 1944
 },
+"641736": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vHpjz9QICBK2qX3apIsGwNkYoc3.jpg",
+"cast": [
+"Laverne Andrews",
+"Maxene Andrews",
+"Patty Andrews"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0038659",
+"original_title": "Johnny Fedora and Alice Blue Bonnet",
+"overview": "This segment told the romantic story of two hats who fell in love in a department store window. When Alice was sold, Johnny devoted himself to finding her again. They eventually, by pure chance, meet up again and live happily ever after together, side by side. The Andrews Sisters provided the vocals. Like the other segments, it was later released theatrically.",
+"poster": "https://image.tmdb.org/t/p/w342/cYYjH7C7C9qXn7qrSIxoyaSxD52.jpg",
+"runtime": 7,
+"title": "Johnny Fedora and Alice Blue Bonnet",
+"tmdb_id": 641736,
+"year": 1946
+},
+"6418": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kvlXOT8snP7qplRpkOSAZahH5UB.jpg",
+"cast": [
+"Jason Schwartzman",
+"Natalie Portman",
+"Waris Ahluwalia",
+"Michel Castejon"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt1094249",
+"original_title": "Hotel Chevalier",
+"overview": "In a Paris hotel room, Jack Whitman lies on a bed. His phone rings; it's a woman on her way to see him, a surprise. She arrives and the complications of their relationship emerge in bits and pieces. Will they make love? Is their relationship over? (A prequel to The Darjeeling Limited, 2007.)",
+"poster": "https://image.tmdb.org/t/p/w342/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+"runtime": 13,
+"title": "Hotel Chevalier",
+"tmdb_id": 6418,
+"year": 2007
+},
 "641862": {
 "backdrop": null,
 "cast": [],
@@ -57696,6 +77453,41 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Danube",
 "tmdb_id": 641869,
 "year": 1960
+},
+"642794": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Nancy au XVIIIe siècle",
+"overview": "A documentary about the construction and aesthetics of Nancy Stanislas, King of Poland.",
+"poster": "https://image.tmdb.org/t/p/w342/dfATCDMgIY5guNQkpvYlemDhjuJ.jpg",
+"runtime": 19,
+"title": "Nancy au XVIIIe siècle",
+"tmdb_id": 642794,
+"year": 1968
+},
+"642801": {
+"backdrop": null,
+"cast": [
+"Pascal Greggory",
+"Jessica Forde"
+],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt35463756",
+"original_title": "Le trio en mi bémol",
+"overview": "Paul and Adèle were once lovers and separated but are still good friends, one year after everything seems to take them away from each other. The key of E may be the key of true friendship, but it is Mozart that pushes them apart.",
+"poster": "https://image.tmdb.org/t/p/w342/n7I25ZiffUpiWemUEDxWdDbUmbb.jpg",
+"runtime": 75,
+"title": "Trio in E Flat",
+"tmdb_id": 642801,
+"year": 1988
 },
 "64398": {
 "backdrop": "https://image.tmdb.org/t/p/w780/m8FIyekwdT4jm9hXppgiYQGpfOE.jpg",
@@ -57767,6 +77559,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Nightfall in Shanghai",
 "tmdb_id": 644900,
 "year": 2007
+},
+"64544": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7P7Gd5iiqISDI3UUsmryBUK8rMj.jpg",
+"cast": [
+"Emmanuelle Chaulet",
+"Sophie Renoir",
+"François-Eric Gendron",
+"Éric Viellard",
+"Anne-Laure Meury"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0092550",
+"original_title": "L'Ami de mon amie",
+"overview": "Middle-class Parisian suburbs: Blanche and Léa, office worker and student, meet and become friends. Léa is going out with Fabien, but is thinking of leaving him. Blanche falls for Léa's handsome and witty friend Alexandre, but is tongue-tied whenever she meets him. Léa goes on holiday and Blanche, still smitten with the dashing Alexandre, begins to get to know Fabien.",
+"poster": "https://image.tmdb.org/t/p/w342/obfJYuVMGFZRlMeNQklFlvhShFu.jpg",
+"runtime": 103,
+"title": "Boyfriends and Girlfriends",
+"tmdb_id": 64544,
+"year": 1987
 },
 "645992": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wmFAIzObxg4Lm5dSmpE0USQpLDQ.jpg",
@@ -57881,6 +77697,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 64659,
 "year": 1942
 },
+"64662": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dM14pctQo4QanoBRqMfuQP0mnSw.jpg",
+"cast": [
+"Pinto Colvig",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0036932",
+"original_title": "How to Be a Sailor",
+"overview": "Goofy provides a history of ships and sailing.",
+"poster": "https://image.tmdb.org/t/p/w342/y1cV3lDKjOQvULynGeamuJLMBVA.jpg",
+"runtime": 7,
+"title": "How to Be a Sailor",
+"tmdb_id": 64662,
+"year": 1944
+},
 "64663": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3p86sFpa3pdS0eaLqEsLS5wJwZ9.jpg",
 "cast": [
@@ -57986,6 +77823,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 64701,
 "year": 1942
 },
+"64708": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tkUv6z8A1Q6vyiiJxXK0o0is1gI.jpg",
+"cast": [
+"George Johnson",
+"Fred Shields"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0036498",
+"original_title": "Victory Vehicles",
+"overview": "Goofy demonstrates a number of crazy vehicles.",
+"poster": "https://image.tmdb.org/t/p/w342/t6N7iVkv53VQOKnAgXvIgfiFDGB.jpg",
+"runtime": 8,
+"title": "Victory Vehicles",
+"tmdb_id": 64708,
+"year": 1943
+},
 "64782": {
 "backdrop": "https://image.tmdb.org/t/p/w780/u8C3cbk6UgDNp0sZN4DROp8kQXy.jpg",
 "cast": [
@@ -58033,6 +77891,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 647991,
 "year": 1966
 },
+"64828": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aY3LIWmAe1SW6OTPBOj4o9IPUMi.jpg",
+"cast": [
+"Beau Bridges",
+"Lee Grant",
+"Diana Sands",
+"Pearl Bailey",
+"Walter Brooke",
+"Louis Gossett Jr."
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0065963",
+"original_title": "The Landlord",
+"overview": "At the age of twenty-nine, Elgar Enders \"runs away\" from home. This running away consists of buying a building in a black ghetto in the Park Slope section of Brooklyn. Initially, his intention is to evict the black tenants and convert the building into a posh flat. But Elgar is not one to be bound by yesterday's urges, and soon he has other thoughts on his mind.",
+"poster": "https://image.tmdb.org/t/p/w342/DoDKRMIRki2ft2D9bZGa1zzgVx.jpg",
+"runtime": 112,
+"title": "The Landlord",
+"tmdb_id": 64828,
+"year": 1970
+},
 "648515": {
 "backdrop": null,
 "cast": [
@@ -58054,6 +77937,110 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Chaplin Cavalcade",
 "tmdb_id": 648515,
 "year": 1941
+},
+"64936": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dEi6y24XfsYwq6IWuBjm6ZUGmUf.jpg",
+"cast": [
+"Andra Akers",
+"William Finley",
+"Margo Norton",
+"Jared Martin",
+"Ken Burrows",
+"Lorenzo Catlett"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0163114",
+"original_title": "Murder à la Mod",
+"overview": "Naive young Karen wants to help her struggling amateur filmmaker boyfriend Christopher raise enough money so he can divorce his wife. Meanwhile, jolly psycho-prankster Otto stalks the building where Christopher is shooting a low-grade adult movie in order to keep himself afloat.",
+"poster": "https://image.tmdb.org/t/p/w342/rywNtpPmIlS5uIL85gk2gOAuEuU.jpg",
+"runtime": 80,
+"title": "Murder à la Mod",
+"tmdb_id": 64936,
+"year": 1968
+},
+"649409": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ok7RdHhVngnwkvKj09tvtOvypG.jpg",
+"cast": [
+"Don Cheadle",
+"Benicio del Toro",
+"David Harbour",
+"Jon Hamm",
+"Ray Liotta",
+"Brendan Fraser"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt11525644",
+"original_title": "No Sudden Move",
+"overview": "A group of criminals are brought together under mysterious circumstances and have to work together to uncover what's really going on when their simple job goes completely sideways.",
+"poster": "https://image.tmdb.org/t/p/w342/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+"runtime": 115,
+"title": "No Sudden Move",
+"tmdb_id": 649409,
+"year": 2021
+},
+"65041": {
+"backdrop": "https://image.tmdb.org/t/p/w780/umGLf0T28LOQw8e3zkHL13CQJ4U.jpg",
+"cast": [
+"Katerina Didaskalou",
+"Serge Renko",
+"Cyrielle Clair",
+"Grigori Manoukov",
+"Dimitri Rafalsky",
+"Nathalia Krougly"
+],
+"countries": [
+"FR",
+"IT",
+"ES",
+"GR",
+"RU"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0374294",
+"original_title": "Triple agent",
+"overview": "The Popular Front wins elections, the Spanish Civil War begins, and Hitler and Stalin are manipulating and spying. The brilliant exile, Fiodor Voronin, a general at 20, is the deputy at the White Russian Military Union, probably slated to replace the aging Général Dobrinsky soon. Fiodor's Greek wife, Arsinoé, paints and stays away from politics, befriending Communist neighbors. Her health declines; the attentive Fiodor arranges care and, against the backdrop of Stalin's Great Purge, considers his options. He plays a chess game in which love of country, love of Arsinoé, ideology, petty jealousies, and the machinations of power roil in matters of life and death.",
+"poster": "https://image.tmdb.org/t/p/w342/oelyn9Xx8NRnKAt5oIKRC6XxwIQ.jpg",
+"runtime": 115,
+"title": "Triple Agent",
+"tmdb_id": 65041,
+"year": 2004
+},
+"65057": {
+"backdrop": "https://image.tmdb.org/t/p/w780/afC5IhoNZb8MqDHuiWOAcLjqi6b.jpg",
+"cast": [
+"George Clooney",
+"Shailene Woodley",
+"Amara Miller",
+"Nick Krause",
+"Patricia Hastie",
+"Grace A. Cruz"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt1033575",
+"original_title": "The Descendants",
+"overview": "With his wife Elizabeth on life support after a boating accident, Hawaiian land baron Matt King takes his daughters on a trip from Oahu to Kauai to confront a young real estate broker, who was having an affair with Elizabeth before her misfortune.",
+"poster": "https://image.tmdb.org/t/p/w342/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+"runtime": 115,
+"title": "The Descendants",
+"tmdb_id": 65057,
+"year": 2011
 },
 "65092": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uUMv6QcTHz60WSKlLgy7NZZVDIe.jpg",
@@ -58078,6 +78065,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Rite",
 "tmdb_id": 65092,
 "year": 1969
+},
+"6520": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tsgEdYjwWVhdGHv01djx7KdXDJm.jpg",
+"cast": [
+"Sean Connery",
+"Richard Gere",
+"Julia Ormond",
+"Ben Cross",
+"Liam Cunningham",
+"Christopher Villiers"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jerry Zucker"
+],
+"imdb_id": "tt0113071",
+"original_title": "First Knight",
+"overview": "The timeless tale of King Arthur and the legend of Camelot are retold in this passionate period drama. Arthur is reluctant to hand the crown to Lancelot, and Guinevere is torn between her loyalty to her husband and her growing love for his rival. But Lancelot must balance his loyalty to the throne with the rewards of true love.",
+"poster": "https://image.tmdb.org/t/p/w342/dJH5bwtu3UxbwRsSlhlhmMrV8ZH.jpg",
+"runtime": 134,
+"title": "First Knight",
+"tmdb_id": 6520,
+"year": 1995
 },
 "652257": {
 "backdrop": null,
@@ -58142,6 +78154,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 652259,
 "year": 2007
 },
+"6524": {
+"backdrop": "https://image.tmdb.org/t/p/w780/umDfiTpF5zFzEMfN1rLSorHmS6F.jpg",
+"cast": [
+"Mel Brooks",
+"Lesley Ann Warren",
+"Jeffrey Tambor",
+"Stuart Pankin",
+"Michael Ensign",
+"Howard Morris"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0102303",
+"original_title": "Life Stinks",
+"overview": "Affluent and arrogant businessman Goddard Bolt, feuding with rival Vance Crasswell over a land deal, makes a bet with Crasswell that he has the wits and street smarts to live penniless and anonymous on the rough streets of Los Angeles for thirty days. But Bolt has a rude awakening when the reality of homelessness hits him. Still, he finds a silver lining in a burgeoning romance with Molly, a former Broadway dancer who has fallen on hard times.",
+"poster": "https://image.tmdb.org/t/p/w342/uRyxlMbGQwONnN2Ez9ECMPVHxok.jpg",
+"runtime": 92,
+"title": "Life Stinks",
+"tmdb_id": 6524,
+"year": 1991
+},
 "652510": {
 "backdrop": null,
 "cast": [
@@ -58191,6 +78228,122 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "If You Were Me",
 "tmdb_id": 65318,
 "year": 2003
+},
+"65475": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3TC75AAFau6H83xWqh9mEDPM1Ng.jpg",
+"cast": [
+"Lucianna De Falco",
+"Iaia Forte",
+"Éric Berger",
+"Fabio De Luigi",
+"Dario Costa",
+"László Váradi Balogh"
+],
+"countries": [
+"FR",
+"IT",
+"HU"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0117187",
+"original_title": "Nitrato d'argento",
+"overview": "This documentary celebrates the 100th anniversary of the cinema birth. It is an historic running through the technical and artistic evolution of the 7th art. We move from mute to sound, from B&amp;W to color, trough all the genders (musical, Lyric, politic...). Beside it we have a kind of resume of the historic contest in which cinema lived till now, events and movements (neo-realism, classical etc.). All the aspects are taken in consideration: fashion, star system till the end, the sad end, of cinema in the theaters.",
+"poster": "https://image.tmdb.org/t/p/w342/vrnz1zvIMgKZKRfgQt7NGql6v79.jpg",
+"runtime": 87,
+"title": "Nitrate Base",
+"tmdb_id": 65475,
+"year": 1997
+},
+"655207": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uwtQzRTVBvtRwa3XzPjExc7WgfO.jpg",
+"cast": [
+"Marja Habraken",
+"Wim Hulscher"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt6190192",
+"original_title": "Kopjes Koffie",
+"overview": "Filmic exercise by Verhoeven",
+"poster": "https://image.tmdb.org/t/p/w342/ek6144EEbAkE4Ye5DGJJmYYlrE7.jpg",
+"runtime": 3,
+"title": "Cups of Coffee",
+"tmdb_id": 655207,
+"year": 1959
+},
+"655210": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5sLEUEjjMq06pGtPmrtINb0RrrZ.jpg",
+"cast": [
+"Karin Hofkes",
+"Wim Hulscher"
+],
+"countries": [],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": null,
+"original_title": "De Zoen",
+"overview": "Filmic exercise by Paul Verhoeven.",
+"poster": "https://image.tmdb.org/t/p/w342/yb2vrKHx7KUqbvODvbne3u1De4t.jpg",
+"runtime": 3,
+"title": "The Kiss",
+"tmdb_id": 655210,
+"year": 1959
+},
+"655865": {
+"backdrop": null,
+"cast": [
+"Richard Linklater",
+"Brittaney Ortiz",
+"Sophia Bernard",
+"Nicholas Saenz",
+"Angela Rawna"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt11634166",
+"original_title": "Une journée au bureau",
+"overview": "A day in the life of Rick Linklater, taking in a conference call with some young studio executives and a session with a psychologist.",
+"poster": "https://image.tmdb.org/t/p/w342/vZ3ZH2L1G5l8WqRNOgpwmkbu6CH.jpg",
+"runtime": 21,
+"title": "Another Day at the Office",
+"tmdb_id": 655865,
+"year": 2019
+},
+"65590": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yJRArzxnqxx0AOlpXVGXvAvJjo8.jpg",
+"cast": [
+"John Wayne",
+"Eiko Ando",
+"Sam Jaffe",
+"So Yamamura",
+"Ryuzo Demura",
+"Takeshi Kumagai"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0051398",
+"original_title": "The Barbarian and the Geisha",
+"overview": "Townsend Harris is sent by President Pierce to Japan to serve as the first U.S. Consul-General to that country. Harris discovers enormous hostility to foreigners, as well as the love of a young geisha.",
+"poster": "https://image.tmdb.org/t/p/w342/reavQ6J7uZNaj4e6bgCIVvv3yBV.jpg",
+"runtime": 105,
+"title": "The Barbarian and the Geisha",
+"tmdb_id": 65590,
+"year": 1958
 },
 "65612": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2Ak04QUoSb4mWIx4xAKeN6NouLJ.jpg",
@@ -58264,6 +78417,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 65697,
 "year": 2002
 },
+"65754": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+"cast": [
+"Daniel Craig",
+"Rooney Mara",
+"Christopher Plummer",
+"Stellan Skarsgård",
+"Robin Wright",
+"Yorick van Wageningen"
+],
+"countries": [
+"SE",
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt1568346",
+"original_title": "The Girl with the Dragon Tattoo",
+"overview": "En vanæret journalist (Daniel Craig) og den mystiske datahackeren Lisbeth Salander (Rooney Mara) oppdager at selv de rikeste familier har skjeletter i skapet. David Fincher har regissert denne imponerende nyinnspillingen av den svenske thrilleren.",
+"poster": "https://image.tmdb.org/t/p/w342/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+"runtime": 158,
+"title": "The Girl with the Dragon Tattoo",
+"tmdb_id": 65754,
+"year": 2011
+},
 "660781": {
 "backdrop": null,
 "cast": [
@@ -58328,6 +78507,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Sabrina",
 "tmdb_id": 6620,
 "year": 1954
+},
+"6643": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"cast": [
+"Burt Lancaster",
+"Audrey Hepburn",
+"Audie Murphy",
+"John Saxon",
+"Charles Bickford",
+"Lillian Gish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0054428",
+"original_title": "The Unforgiven",
+"overview": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"poster": "https://image.tmdb.org/t/p/w342/9085eJIHF1LqoKgGWK74Z3dxXpo.jpg",
+"runtime": 125,
+"title": "The Unforgiven",
+"tmdb_id": 6643,
+"year": 1960
+},
+"6644": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ysMN7eVMqFIE3GXU5ctPdLTF7CN.jpg",
+"cast": [
+"John Wayne",
+"Robert Mitchum",
+"James Caan",
+"Charlene Holt",
+"Paul Fix",
+"Arthur Hunnicutt"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0061619",
+"original_title": "El Dorado",
+"overview": "Cole Thornton, en leiesoldat, slår seg sammen med en gammel venn, sheriff J.P. Harrah. Sammen med en kriger og en gambler hjelper de en rancher og familien hans med å bekjempe en rivaliserende rancher som prøver å stjele vannet deres.",
+"poster": "https://image.tmdb.org/t/p/w342/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+"runtime": 126,
+"title": "El Dorado",
+"tmdb_id": 6644,
+"year": 1966
 },
 "66487": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5pNMXTknzL8NCHQBWy0fs32pkri.jpg",
@@ -58430,6 +78659,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 66812,
 "year": 1926
 },
+"66818": {
+"backdrop": "https://image.tmdb.org/t/p/w780/n2VdaPuTYZljBMrZVPJEFZDNDD2.jpg",
+"cast": [
+"Pinto Colvig",
+"Frank Graham",
+"James MacDonald",
+"Clarence Nash"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0037500",
+"original_title": "African Diary",
+"overview": "Goofy narrates his own quest to Africa accompanied by various tour guides. He is in search of wild game. After run-ins with various animals while camping for the night and taking his morning plunge (ruined by a hippo that takes all the water with him when exiting the pool), he sets off in search of the black rhinoceros. Unfortunately for Goofy, the rhino is prepared for Goofy (thanks to a stool pigeon bird resting on his horn) and charges him. Goofy tries his gun against the rhino but the rhino is still to much for Goofy so he leaves Africa and leaves the rhino for other hunters.",
+"poster": "https://image.tmdb.org/t/p/w342/7Jc0YxPYPdzjQzn2MFaw6BUitH6.jpg",
+"runtime": 6,
+"title": "African Diary",
+"tmdb_id": 66818,
+"year": 1945
+},
 "66819": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hgMUItwm1tIb9Jf0UfJQLtVrO8z.jpg",
 "cast": [
@@ -58452,6 +78704,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Alpine Climbers",
 "tmdb_id": 66819,
 "year": 1936
+},
+"66821": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aK27iBbCBHy8BPZVFGCgdh0s6K9.jpg",
+"cast": [
+"Danny Webb"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0033371",
+"original_title": "Baggage Buster",
+"overview": "Goofy has to get a box belonging to a magician in time for the next train to pick the baggage. Clumsy Goofy drops the box and a lot of magician's props appear.",
+"poster": "https://image.tmdb.org/t/p/w342/za1EHKMknko1Sq7MT66VXPGiGRE.jpg",
+"runtime": 8,
+"title": "Baggage Buster",
+"tmdb_id": 66821,
+"year": 1941
 },
 "66822": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ss2FnROTLKjjFcR2LuwhZvH9LJ4.jpg",
@@ -58524,6 +78796,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 66826,
 "year": 1935
 },
+"66831": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rQTaKeWwL6rqf4gzvhCQmMZbQrg.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0037569",
+"original_title": "Californy 'Er Bust",
+"overview": "A narrator tells the story of how the Western pioneers (all being Goofy lookalikes) are travelling in covered wagons across the frontier. They run into some Indians (who are also Goofy lookalikes) and battle breaks out between them. Suddenly a tornado comes by and sweeps up the covered wagons, dropping them into various states such as \"Wash\", \"Organ\", and \"Californy.\"",
+"poster": "https://image.tmdb.org/t/p/w342/kaTKJmVWi5PHvIp726gYtLS5laY.jpg",
+"runtime": 8,
+"title": "Californy 'Er Bust",
+"tmdb_id": 66831,
+"year": 1945
+},
 "66834": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9yVtzy9TK0mWuliiDaB8JtABkSM.jpg",
 "cast": [
@@ -58548,6 +78840,170 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 66834,
 "year": 1937
 },
+"66836": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iusHkR8A42NvtuxmPnpyNOT7Dhj.jpg",
+"cast": [
+"Pinto Colvig",
+"Rhoda Williams"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0042336",
+"original_title": "Cold War",
+"overview": "George Geef gets sent home from work to tend to his cold.",
+"poster": "https://image.tmdb.org/t/p/w342/3H70eANgYPGQsi1CggY4gfcHI8J.jpg",
+"runtime": 7,
+"title": "Cold War",
+"tmdb_id": 66836,
+"year": 1951
+},
+"66851": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vKBO8EjoLpe8HqlAH3XZQgaDuYv.jpg",
+"cast": [
+"Bobby Driscoll",
+"June Foray",
+"Bob Jackman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043527",
+"original_title": "Fathers Are People",
+"overview": "George Geef rushes to the office to inform his fellow employees, \"Hey, fellas! I'm a father!\". Unfortunately, Geef later learns that, with fatherhood, comes responsibility and lots of it. He must discipline his son when he starts fighting with neighboring kids, filling his pipe with bubble water, and pestering him while he tries to read the newspaper. But most difficult of all is getting him to pick up his toys which is no easy task. Finally, he gets ready to apply hair brush to child's behind but is talked out of it when he sees his son sleeping peacefully. \"Kids, they're wonderful,\" he concludes.",
+"poster": "https://image.tmdb.org/t/p/w342/epB6Q2HhaJhMio6MqFfkNE2AQTJ.jpg",
+"runtime": 7,
+"title": "Fathers Are People",
+"tmdb_id": 66851,
+"year": 1951
+},
+"66852": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3UN1MHrATzwIeH9WI4z5ZGC6JL4.jpg",
+"cast": [
+"Pinto Colvig",
+"Alan Reed"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045756",
+"original_title": "Father's Day Off",
+"overview": "Mrs. Goofy leaves for the day leaving the house in the hands of her husband, Goofy. Goofy is confident that he can handle the day's household chores but he keeps making typical goof-ups while attempting them. His first mistake is sending Junior to school on a Saturday. At first, he just makes small blunders but, of course, they keep escalating to the point where his house is flooded, scribbled on, set on fire, invaded by firemen and policemen alike, and, basically, an utter disaster area when the wife returns.",
+"poster": "https://image.tmdb.org/t/p/w342/2l6UTde7YVotIPwiy8r1XxDSXWG.jpg",
+"runtime": 7,
+"title": "Father's Day Off",
+"tmdb_id": 66852,
+"year": 1953
+},
+"66862": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5kgGbFyIVjiAVWWBns2D7I4F3PM.jpg",
+"cast": [
+"Pinto Colvig",
+"Bobby Driscoll"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0044606",
+"original_title": "Father's Lion",
+"overview": "George Geef takes his son camping. His son thinks he sees lions everywhere; George can't see them even when they are right next to him. Lucky for George, his son's got his trusty pop-gun.",
+"poster": "https://image.tmdb.org/t/p/w342/rse3qGMjRzLzj8C0kOOORhluXLv.jpg",
+"runtime": 6,
+"title": "Father's Lion",
+"tmdb_id": 66862,
+"year": 1952
+},
+"66863": {
+"backdrop": "https://image.tmdb.org/t/p/w780/njd2AzKyle3pFnYw5Xm3SvT0tsD.jpg",
+"cast": [
+"Pinto Colvig",
+"June Foray"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045757",
+"original_title": "Father's Week-End",
+"overview": "Goofy plays everyman again. He's an average working joe who demonstrates \"the up on time/work on time/bed on time\" routine while going from work to home every weekday. On Saturday night, however, he parties it up and attempts to get some rest the next Sunday but with his son around, it's impossible. He insists Dad take him to the beach and, although Goofy refuses, he ends up going anyway where he gets into all sorts of trouble mainly as the result of chasing his son all over the place. Worse yet, when he leaves, he falls victim to the world's biggest traffic jam. As a result of all this, he is relieved to go back to work the following week!",
+"poster": "https://image.tmdb.org/t/p/w342/6olhTOZthardxsG3tPWYulsQXxS.jpg",
+"runtime": 7,
+"title": "Father's Week-End",
+"tmdb_id": 66863,
+"year": 1953
+},
+"66865": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kWis3Fgun5S1awzXLVua3P44YTS.jpg",
+"cast": [
+"Pinto Colvig",
+"Rhoda Williams"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043583",
+"original_title": "Get Rich Quick",
+"overview": "Goofy is portrayed as George Geef, a typical common man who makes a perfect prey for all kinds of swindlers, bookmakers and the like, eager to be a 'good looser' after they 'won' all his money; never mind the name of the game nor the venue, from alley to casino and 'friendly' poker nights. Alas, even when lady luck smiles at him, the poor player doesn't stand a chance against the worst gold-digger of all: the wife, who 'manually' blames his irresponsible behavior when he looses but otherwise cheerfully claims all his occasional hard-earned winnings for her own fashionable waste.",
+"poster": "https://image.tmdb.org/t/p/w342/ueLwOdF81VHn1JrilX6DGkdryOk.jpg",
+"runtime": 6,
+"title": "Get Rich Quick",
+"tmdb_id": 66865,
+"year": 1951
+},
+"66867": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cXUVDM3CSSb34MBiEWyD34hvpfW.jpg",
+"cast": [
+"Pinto Colvig",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0041421",
+"original_title": "Goofy Gymnastics",
+"overview": "Inspired by a magazine ad, Goofy sends for a mail order body building course. First is weight lifting; after Goofy finally gets the weights up, a fly lands and sends him crashing through several floors in the apartment building. Chinups: the bar itself goes up and down. Then a rubber-band stretch device, which Goofy quickly tangles up in, sending him crashing through the building and several other pieces of equipment.",
+"poster": "https://image.tmdb.org/t/p/w342/p22koUwPj9fhGSAYiCig3MZN0xs.jpg",
+"runtime": 6,
+"title": "Goofy Gymnastics",
+"tmdb_id": 66867,
+"year": 1949
+},
+"66868": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hVW2YLcZY6pF5CztRr7nC7mvTEl.jpg",
+"cast": [
+"George Johnson",
+"John McLeish",
+"Florence Gill"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0032544",
+"original_title": "Goofy's Glider",
+"overview": "Yet another sport is made 'easy' for us by Goofy's demonstration how- never, ever, to try anything for real, least of all with a glider-flying machine he launches in ways that would kill anything but a cartoon character, such as a giant catapult and even a canon. Meanwhile Goofy proves totally incapable to control any of its movements in the air, let alone the 'landing' which is too messy even for a bombshell.",
+"poster": "https://image.tmdb.org/t/p/w342/qTy7O1odFFukimYHHUomX5LOK9J.jpg",
+"runtime": 8,
+"title": "Goofy's Glider",
+"tmdb_id": 66868,
+"year": 1940
+},
 "66872": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iP7v4CnrJZjVnJnoxivHbiFU2xQ.jpg",
 "cast": [
@@ -58571,6 +79027,256 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 66872,
 "year": 1937
 },
+"66874": {
+"backdrop": "https://image.tmdb.org/t/p/w780/N28dQByS257I9FLpoLOYAstq1W.jpg",
+"cast": [
+"Pinto Colvig",
+"Harry Owens"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0044699",
+"original_title": "Hello Aloha",
+"overview": "In the city, Goofy finds his daily job much too stressful so he decides to leave this hustle and bustle for a more peaceful life in the tropics. He finds life there most enjoyable collecting shells from the beach, making a hut in which to live, getting back to nature, and even joining in the big luau feast (with meals such as shark fin soup). Yes, Goofy thinks nothing can go wrong in this paradise...until the natives need to sacrifice someone to their volcano.",
+"poster": "https://image.tmdb.org/t/p/w342/h8mfu0RQFPunEoVpjOaY4XIqJli.jpg",
+"runtime": 6,
+"title": "Hello Aloha",
+"tmdb_id": 66874,
+"year": 1952
+},
+"66876": {
+"backdrop": "https://image.tmdb.org/t/p/w780/j8fdl8INO8aIQKHm4WIAwYdExIq.jpg",
+"cast": [
+"Doodles Weaver",
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0037784",
+"original_title": "Hockey Homicide",
+"overview": "A crowd gathers at the skating rink to watch the big championship hockey game of the Pelicans versus the Aardvarks. Although referee \"Clean Game\" Kinney does his best to supervise, the hockey game really gets out of hand eventually. Two star players, Bertino and Ferguson, are so anxious, they never get let out of the penalty box, referee Kinney is never able to drop the puck without being physically hurt somehow, and the spectators themselves are so worked into the game, they take out their aggression on the ice while the players relax in the bleachers.",
+"poster": "https://image.tmdb.org/t/p/w342/f0P2oPEI2vyeWE4p5G9g6V61pwF.jpg",
+"runtime": 8,
+"title": "Hockey Homicide",
+"tmdb_id": 66876,
+"year": 1945
+},
+"66877": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pywQcNBmglZaccsdK3evP5klFhE.jpg",
+"cast": [
+"Pinto Colvig",
+"Winston Hibler",
+"Bob Jackman",
+"James MacDonald"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0042567",
+"original_title": "Hold That Pose",
+"overview": "Goofy is tired and bored. He needs a hobby and decides to pursue photography. Wildlife is an excellent choice for photography so Goofy decides to take a grizzly bear's picture. Unfortunately, when Goofy's flash powder explodes, the bear becomes infuriated and chases Goofy through an amusement park and back to his apartment. Fortunately for Goofy, the bear is pleased with the resulting pictures and ultimately sets up a stand giving his \"autographed photo\" for $10.",
+"poster": "https://image.tmdb.org/t/p/w342/icn8cA7qB5qXybzUZnEODFC8AxS.jpg",
+"runtime": 7,
+"title": "Hold That Pose",
+"tmdb_id": 66877,
+"year": 1950
+},
+"66878": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3tOeiHnKfJmQFztlqWIiB3GUvzG.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043649",
+"original_title": "Home Made Home",
+"overview": "Goofy's building a house, and struggling with the blueprints, the window glass, the paint, and finally the house-warming guests.",
+"poster": "https://image.tmdb.org/t/p/w342/Ir1NxS9OLiomaaV0q15FPXGWTm.jpg",
+"runtime": 7,
+"title": "Home Made Home",
+"tmdb_id": 66878,
+"year": 1951
+},
+"66882": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jC8mHMc7XmdWPsEHpO7cT95vZQ7.jpg",
+"cast": [
+"Pinto Colvig",
+"Billy Bletcher",
+"June Foray"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0044726",
+"original_title": "How to Be a Detective",
+"overview": "Goofy is \"Johnny Eyeball, Private Eye\" who gets mixed up in a surreal whodunnit involving a classy dame, a cop, weasels, and the mysterious missing Al.",
+"poster": "https://image.tmdb.org/t/p/w342/fXuWKUstRunI7z5zyQWgWxm4wIf.jpg",
+"runtime": 7,
+"title": "How to Be a Detective",
+"tmdb_id": 66882,
+"year": 1952
+},
+"66883": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wTww9R54DSKiJ4YrX0tMmHXUtdQ.jpg",
+"cast": [
+"Pinto Colvig",
+"Firehouse Five Plus Two",
+"June Foray",
+"Alan Reed"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045890",
+"original_title": "How to Dance",
+"overview": "Goofy learns the basics of ballroom dancing.",
+"poster": "https://image.tmdb.org/t/p/w342/x95wTaVlaDp8SmQkadTW40aoFyG.jpg",
+"runtime": 6,
+"title": "How to Dance",
+"tmdb_id": 66883,
+"year": 1953
+},
+"66884": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ws2thFdm3Ophu7bDDKPvZG8mwqV.jpg",
+"cast": [
+"George Johnson",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0034873",
+"original_title": "How to Fish",
+"overview": "Goofy's demonstration of fishing is fouled up by his clumsy casting and fly fishing, and problems with his boat.",
+"poster": "https://image.tmdb.org/t/p/w342/bCu4PyNkVZ02UlXdUMjrE72s1Jz.jpg",
+"runtime": 7,
+"title": "How to Fish",
+"tmdb_id": 66884,
+"year": 1942
+},
+"66983": {
+"backdrop": "https://image.tmdb.org/t/p/w780/a2XW58swv2pwthHjESbiEyAVpNd.jpg",
+"cast": [
+"George Johnson",
+"Fred Shields"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0034874",
+"original_title": "How to Play Baseball",
+"overview": "Goofy shows us the national pastime. After a brief overview, we have a demonstration of the many possible pitches. On to the World Series, where we go through an eventful inning, culminating in a baseball that disintegrates when being hit.",
+"poster": "https://image.tmdb.org/t/p/w342/uyDzmQhrBWO7BV6joFb6dn23lUy.jpg",
+"runtime": 8,
+"title": "How to Play Baseball",
+"tmdb_id": 66983,
+"year": 1942
+},
+"66984": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jti0stDkPBZdtXYxUGZzbZuYSzf.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0036933",
+"original_title": "How to Play Football",
+"overview": "Taking all the places on both teams, Goofy demonstrates the game of football with varying results, having problems with the coach and the goal post.",
+"poster": "https://image.tmdb.org/t/p/w342/wg9U6j2R8A4t41N7zPhAK3dHnoL.jpg",
+"runtime": 7,
+"title": "How to Play Football",
+"tmdb_id": 66984,
+"year": 1944
+},
+"66985": {
+"backdrop": "https://image.tmdb.org/t/p/w780/17y185n1piYDcpKSBn4B0wuYiUX.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045892",
+"original_title": "How to Sleep",
+"overview": "Goofy has insomnia, and is desperate for some restful sleep.",
+"poster": "https://image.tmdb.org/t/p/w342/86mkdv0oUfk0vryevjPURyxUG57.jpg",
+"runtime": 7,
+"title": "How to Sleep",
+"tmdb_id": 66985,
+"year": 1953
+},
+"66986": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kkvvpyImNjRgcfZpPPCawEY948v.jpg",
+"cast": [
+"George Johnson",
+"John McLeish"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0034875",
+"original_title": "How to Swim",
+"overview": "Goofy's plans to give a swimming lesson and enjoy a day at the beach go awry.",
+"poster": "https://image.tmdb.org/t/p/w342/7kPrqirhoy2zIKwhti7xFwUBrIE.jpg",
+"runtime": 8,
+"title": "How to Swim",
+"tmdb_id": 66986,
+"year": 1942
+},
+"66993": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6WTXWP4t0wl39VktTEuXNmeARO.jpg",
+"cast": [
+"Pinto Colvig",
+"James MacDonald"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043745",
+"original_title": "Lion Down",
+"overview": "Goofy is about to set up a hammock in the backyard of his penthouse apartment but is minus one tree. He immediately decides to get another one but he shows poor judgement in regards that the one he picks is unkowingly the home of a mountain lion. The lion returns to Goofy's penthouse to reclaim his tree, notices the hammock, and decides this is a much better source of relaxation than laying on a tree branch. Thus, he tries to remove Goofy from the hammock so he can relax himself and eventually a battle ensues.",
+"poster": "https://image.tmdb.org/t/p/w342/swSOzBicz7P1ECXcQqldNIVHyAV.jpg",
+"runtime": 7,
+"title": "Lion Down",
+"tmdb_id": 66993,
+"year": 1951
+},
 "66997": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xAGNYm6RmJizZdIog4j8KVVL7xv.jpg",
 "cast": [
@@ -58592,6 +79298,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Magician Mickey",
 "tmdb_id": 66997,
 "year": 1937
+},
+"66998": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gIMrGtqXZjxqIBn6QcFVoJqOgGz.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0044878",
+"original_title": "Man's Best Friend",
+"overview": "Goofy buys a pet dog (Bowser) and has trouble training it. As Bowser gets bigger, he becomes a larger problem, angering the neighbors. Goofy goes out for the night, and Bowser proves not to be much of a guard dog until Goofy comes home and tries to get in.",
+"poster": "https://image.tmdb.org/t/p/w342/2ex8jyVgLkdYpQtvtM8QUEJz8tk.jpg",
+"runtime": 6,
+"title": "Man's Best Friend",
+"tmdb_id": 66998,
+"year": 1952
 },
 "67010": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tIHFZ9p5aPPYXYKBHBzqr4BqO39.jpg",
@@ -58840,6 +79564,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 67128,
 "year": 1938
 },
+"67129": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5yt4xR94cbkN0Ly4i2CGcpRXjPh.jpg",
+"cast": [
+"John McLeish",
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0042750",
+"original_title": "Motor Mania",
+"overview": "Mild-mannered average guy Mr. Walker (Goofy) turns into violent Mr. Wheeler when he starts driving. Back on his feet, Mr. Walker finds it nearly impossible to cross the street.",
+"poster": "https://image.tmdb.org/t/p/w342/kXBGAQ06ZH75Cg8DcyA8IIuykG7.jpg",
+"runtime": 7,
+"title": "Motor Mania",
+"tmdb_id": 67129,
+"year": 1950
+},
 "67130": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mC3atWHenpqL7hPG7133NNc1d51.jpg",
 "cast": [
@@ -58884,6 +79629,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mr. Mouse Takes a Trip",
 "tmdb_id": 67132,
 "year": 1940
+},
+"67145": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i1EuBJiASXa87MnGZ34pjDwtD6u.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043862",
+"original_title": "No Smoking",
+"overview": "Goofy (again playing George Geef) is a nicotine addict to the extreme. He smokes while doing income tax, before going to bed, after waking up in the morning, and at work. Finally, he decides to quit. He soon learns it's not as easy as that and everywhere he looks, he is tempted to start again until he finally cracks. He runs everywhere yelling, \"Smoke! Smoke! Smoke!\" but with no luck. Finally, he asks a man for a cigar and the man gladly gives him one...an exploding cigar which finally has Goofy vowing, \"I quit!\".",
+"poster": "https://image.tmdb.org/t/p/w342/5tuZm3Yywyl9U2yAt3rW4OcozVT.jpg",
+"runtime": 6,
+"title": "No Smoking",
+"tmdb_id": 67145,
+"year": 1951
 },
 "67152": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wOhys4BplM2eZmazPrqEf45pPdW.jpg",
@@ -59045,6 +79810,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 67217,
 "year": 1968
 },
+"673": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+"cast": [
+"Daniel Radcliffe",
+"Rupert Grint",
+"Emma Watson",
+"Robbie Coltrane",
+"Michael Gambon",
+"Gary Oldman"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0304141",
+"original_title": "Harry Potter and the Prisoner of Azkaban",
+"overview": "Det er Harrys tredje år på Galtvort. Sirius Svart er ute etter den unge trollmannen, sjeleslukende desperanter kretser truende over skolen, mens en tilhenger av den avskyelige Han-du-vet lurer innenfor slottets murer. Og Harry vil bli tvunget til å konfrontere dem alle.",
+"poster": "https://image.tmdb.org/t/p/w342/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+"runtime": 141,
+"title": "Harry Potter and the Prisoner of Azkaban",
+"tmdb_id": 673,
+"year": 2004
+},
 "673419": {
 "backdrop": null,
 "cast": [
@@ -59100,6 +79891,141 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Music Land",
 "tmdb_id": 673615,
 "year": 1955
+},
+"67378": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eJrEvztU8yRKKk3qWkh8daqDGuI.jpg",
+"cast": [
+"Ugo Tognazzi",
+"Marina Vlady",
+"Walter Giller",
+"Linda Sini",
+"Riccardo Fellini",
+"Gian Luigi Polidoro"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0057532",
+"original_title": "Una storia moderna - L'ape regina",
+"overview": "A forty-year-old employee marries a seemingly quiet girl who turns into a mantis after the wedding.",
+"poster": "https://image.tmdb.org/t/p/w342/2Tpl6sQJPR83uXANWnynfdWZP21.jpg",
+"runtime": 92,
+"title": "The Conjugal Bed",
+"tmdb_id": 67378,
+"year": 1963
+},
+"67415": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vmHMnZ1RQNBP0wvkF453qYMIjNb.jpg",
+"cast": [
+"Yoo Yeon-soo",
+"Yun Il-ju",
+"Kim Roi-ha",
+"Lim Sang-hyo",
+"Shin Dong-hwan",
+"Kim Seon-hwa"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt1997399",
+"original_title": "지리멸렬",
+"overview": "Over three episodes, three respectable middle-aged men find themselves behaving badly. A teacher hides his pornographic magazine from a female student. A jogger steals milk and blames it on a newspaper delivery boy. A drunk man desperately searches for a public toilet late at night.",
+"poster": "https://image.tmdb.org/t/p/w342/A8D7xLxLlr1HtvuLgEVSvG0sLdT.jpg",
+"runtime": 31,
+"title": "Incoherence",
+"tmdb_id": 67415,
+"year": 2025
+},
+"67503": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AutEN2riNSUCiWWueVf2A0HoBR7.jpg",
+"cast": [
+"Pinto Colvig",
+"Alan Reed"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045222",
+"original_title": "Teachers Are People",
+"overview": "As the narrator explains, educating children is one of the most important things today and the heroic man who takes on this role is \"the school teacher\" (Goofy, naturally). After taking role call, Goofy tries to teach the class but keeps having to deal with a mischievous trouble-maker named George who enjoys sneaking out of class to go fishing, eating the teacher's apple, squeaking chalk, making faces while teacher gives a geography lesson, and terrorizing the other students with his water pistol. In the end, George's mischief goes too far when he destroys the school with an exploding bomb and is forced to write \"I will not bomb the school again\" 100 times!",
+"poster": "https://image.tmdb.org/t/p/w342/8ttBuBpkPWvgyTWhNfNTwjbXnTT.jpg",
+"runtime": 7,
+"title": "Teachers Are People",
+"tmdb_id": 67503,
+"year": 1952
+},
+"67505": {
+"backdrop": "https://image.tmdb.org/t/p/w780/e7U5jGaBlHteF8XSerfuMOfsMzo.jpg",
+"cast": [
+"Pinto Colvig",
+"Doodles Weaver"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0041953",
+"original_title": "Tennis Racquet",
+"overview": "Two Goofys play a tennis match in typical Goofy style. The announcer sometimes has trouble following the action. The groundskeeper seems to always be present, trimming the grass, filling in holes (in one case with a tree), and delivering the oversized trophy.",
+"poster": "https://image.tmdb.org/t/p/w342/1wOjsdNXe3jHOJuOHo8LwPlTWZp.jpg",
+"runtime": 7,
+"title": "Tennis Racquet",
+"tmdb_id": 67505,
+"year": 1949
+},
+"67570": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ug5NGCaXJToE1HnqFADEXWUw3gd.jpg",
+"cast": [
+"John McLeish",
+"George Johnson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0033355",
+"original_title": "The Art of Self Defense",
+"overview": "Goofy takes a lighthearted look at self defense through the ages: cavemen, knights, the age of chivalry, and finally boxing.",
+"poster": "https://image.tmdb.org/t/p/w342/rLzDoY9HGiOvVrbtUAHqNLcwXYH.jpg",
+"runtime": 8,
+"title": "The Art of Self Defense",
+"tmdb_id": 67570,
+"year": 1941
+},
+"67571": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jkbZlspkCDfEbESu0YRLetYIOWn.jpg",
+"cast": [
+"John McLeish",
+"Hannes Schroll"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0033356",
+"original_title": "The Art of Skiing",
+"overview": "Langbein, som ligger over på feriestedet Sugar Bowl, demonstrerer det grunnleggende i slalåm. Utstyret er selvfølgelig alle tiders. Som du kan forestille deg, har Langbein mye problemer med å holde skiene parallelle og peke nedover. Den siste hoppbakken lander Langbein bekvemt tilbake til sengs.",
+"poster": "https://image.tmdb.org/t/p/w342/bsh0RdmBB5h8tl3NtuPl0UgYNnu.jpg",
+"runtime": 8,
+"title": "The Art of Skiing",
+"tmdb_id": 67571,
+"year": 1941
 },
 "67572": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hBaj2SArQLo2OFh2kcOpJzN2qIC.jpg",
@@ -59303,6 +80229,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 67599,
 "year": 1939
 },
+"676": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+"cast": [
+"Ben Affleck",
+"Josh Hartnett",
+"Kate Beckinsale",
+"William Lee Scott",
+"Greg Zola",
+"Ewen Bremner"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt0213149",
+"original_title": "Pearl Harbor",
+"overview": "En søvnig søndag morgen mens barn lekte og familier var i kirken suste skvadroner av japanske krigsfly over himmelen på Hawaii og angrep den amerikanske flåtebasen Pearl Harbor. Filmen fokuserer på disse hendelsene som forandret livet til mange, og krigens ødeleggende virkning på to unge dristige piloter Rafe og Danny og en vakker sykepleier Evelyn. Rafe og Danny er to venner som har vokst opp som brødre, og som nå er kampflygere i det amerikanske flyvåpenet. Rafe treffer sykepleieren Evelyn som han blir forelsket i. Men idet forholdet deres får luft under vingene, melder Rafe seg frivillig til det britiske flyvåpenet for å kjempe mot Tyskland og Evelyn forflyttes til flåtebasen Pearl Harbor på Hawaii.",
+"poster": "https://image.tmdb.org/t/p/w342/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+"runtime": 183,
+"title": "Pearl Harbor",
+"tmdb_id": 676,
+"year": 2001
+},
 "67602": {
 "backdrop": "https://image.tmdb.org/t/p/w780/h2ybh40mmSg0gldhiw07L4XuEpt.jpg",
 "cast": [],
@@ -59409,6 +80360,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 676179,
 "year": 1988
 },
+"67624": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qTTWgRUibtrPh8jsn778fEW5av1.jpg",
+"cast": [
+"Pinto Colvig",
+"Joaquin Garay",
+"Rafael Jaime Mendéz"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045779",
+"original_title": "For Whom the Bulls Toil",
+"overview": "Goofy, driving through Mexico, deals with a stubborn bull on the road who eventually charges, and Goofy unwittingly subdues the bull. Mexicans who are watching the scene believe that Goofy is \"the great Matador\" and the minute Goofy arrives in Mexico City, they dress him like a matador and make him do battle with another bull. The reluctant Goofy tries to escape the enormous bull although after a while, once again, he triumphs over the bull by accident.",
+"poster": "https://image.tmdb.org/t/p/w342/eHAoy2hh5D4Kf5yJPaUh8n3880T.jpg",
+"runtime": 6,
+"title": "For Whom the Bulls Toil",
+"tmdb_id": 67624,
+"year": 1953
+},
 "67626": {
 "backdrop": "https://image.tmdb.org/t/p/w780/drLoRGRKrWTxvFezfdhZRMjd7DY.jpg",
 "cast": [
@@ -59475,6 +80446,47 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 67661,
 "year": 1936
 },
+"67694": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2elsYUAAs0H5SD1iu8StzDrB52q.jpg",
+"cast": [
+"Pinto Colvig",
+"Fred Shields"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0038174",
+"original_title": "Tiger Trouble",
+"overview": "Big game hunter Goofy and his trusty elephant search for a tiger to hunt.",
+"poster": "https://image.tmdb.org/t/p/w342/c1zbqa6rgbu4fUTg3LlGxhK9C5A.jpg",
+"runtime": 7,
+"title": "Tiger Trouble",
+"tmdb_id": 67694,
+"year": 1945
+},
+"67695": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yhqRzMoE3qmcOqaSMnkfUCt1tBM.jpg",
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0044137",
+"original_title": "Tomorrow We Diet",
+"overview": "Indeed, man craves to eat and George Geef (Goofy) is no exception. He eats like it's going out of style. Finally, his reflection in the mirror tells him he's getting too fat. Goofy starts showing all the signs of being overweight. When he gets into a taxi, the back tires deflate. When he gets into an elevator, the elevator remains grounded. Goofy's reflection \"helps\" him lose weight by refusing to let him eat. Geef thinks he can resist but is soon upset by all manner of temptations. He goes to bed but sleepwalks to the refrigerator only to discover it is empty. It turns out his reflection ate all the food telling him, \"Eat, drink, and be merry, and tomorrow we diet!\"",
+"poster": "https://image.tmdb.org/t/p/w342/xFtRyJIAGA5ngVQal7uaWgBG7b.jpg",
+"runtime": 7,
+"title": "Tomorrow We Diet",
+"tmdb_id": 67695,
+"year": 1951
+},
 "67703": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zRpmWMd3p0rwfqiUmG1zBem3BgA.jpg",
 "cast": [
@@ -59496,6 +80508,46 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Tugboat Mickey",
 "tmdb_id": 67703,
 "year": 1940
+},
+"67704": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u57iKmhbMhM2Hh4pHLOPzRlRv9e.jpg",
+"cast": [
+"Pinto Colvig",
+"Alan Reed"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045271",
+"original_title": "Two Weeks Vacation",
+"overview": "After several long days at work, Goofy finally takes a much needed vacation. However, his trip never quite gets off the ground mainly because he spends most of it stuck behind a slow moving trailer. When he gets a flat tire, the mechanic inspects every part of his car except the tire. The only motel he can find is a little shack too close to a railroad track. On the road once more, he gets stuck behind said trailer again only to pass it and discover no one is driving it.",
+"poster": "https://image.tmdb.org/t/p/w342/4Jbdff3bzb89m4nQLlfPywgiZDv.jpg",
+"runtime": 6,
+"title": "Two Weeks Vacation",
+"tmdb_id": 67704,
+"year": 1952
+},
+"67706": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sJmJZeolvx0kJtOO2IvcwIMkNPQ.jpg",
+"cast": [
+"Pinto Colvig",
+"Billy Bletcher"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0045270",
+"original_title": "Two Gun Goofy",
+"overview": "Bandit Pistol Pete enters a lawless western town and robs a bank. The town is in desperate need of a sheriff. Enter wandering cowboy Goofy who notices a pretty girl being held up in a stagecoach robbery by Pete. Lovestruck and completely oblivious to Pete, he foils the robbery while getting to know the girl better. This earns him a reputation as a great gunslinger and he is challenged to apprehend Pete. Pete tries to get his revenge on Goofy but every attempt backfires due to Goofy's clumsiness usually directed unintentionally at Pete.",
+"poster": "https://image.tmdb.org/t/p/w342/6yDq9mVRG1w7Pq8EM0ZkvzEFZKz.jpg",
+"runtime": 7,
+"title": "Two Gun Goofy",
+"tmdb_id": 67706,
+"year": 1952
 },
 "67772": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zJvl00opIasv1T0l2v9BDSipLy8.jpg",
@@ -59567,6 +80619,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Gentleman's Gentleman",
 "tmdb_id": 68486,
 "year": 1941
+},
+"68489": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iczKKGtUWwu75kbvS8s9C5ERBuJ.jpg",
+"cast": [
+"Lee Millar",
+"James MacDonald",
+"Clarence Nash",
+"Hal Rees",
+"Elvia Allman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0032269",
+"original_title": "Bone Trouble",
+"overview": "Pluto is on the run after stealing a bone from Butch the bulldog and finds refuge in a carnival Hall of Mirrors.",
+"poster": "https://image.tmdb.org/t/p/w342/6kWwqupKYLxlpphsyJ8k78RE2Aq.jpg",
+"runtime": 9,
+"title": "Bone Trouble",
+"tmdb_id": 68489,
+"year": 1940
 },
 "68490": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i3nOTcjTCWfpq6grtv2DI5OiafE.jpg",
@@ -59815,6 +80891,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 68569,
 "year": 2001
 },
+"686": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+"cast": [
+"Jodie Foster",
+"Matthew McConaughey",
+"James Woods",
+"John Hurt",
+"Tom Skerritt",
+"William Fichtner"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0118884",
+"original_title": "Contact",
+"overview": "Det spennende eventyret om den dagen vi får kontakt med liv utenfor jorden, er skildret på lerretet med en dyp følelse av undring og slående, utenomjordiske visuelle effekter som tøyer fantasiens grenser. Jodie Foster er astronom og forsker. Matthew McConaughey er religionsviter og personlig troende. De representerer ytterpunktene i et spektrum – og blir plutselig aktører på verdensscenen idet nedtellingen til menneskehetens største reise begynner.",
+"poster": "https://image.tmdb.org/t/p/w342/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+"runtime": 150,
+"title": "Contact",
+"tmdb_id": 686,
+"year": 1997
+},
 "686852": {
 "backdrop": null,
 "cast": [
@@ -59884,6 +80985,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Silence",
 "tmdb_id": 68730,
 "year": 2016
+},
+"69014": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5mvR6DzYxs5usizlXTLWl49Vpnw.jpg",
+"cast": [
+"Ben Gazzara",
+"Ornella Muti",
+"Susan Tyrrell",
+"Tanya Lopert",
+"Roy Brocksmith",
+"Katya Berger"
+],
+"countries": [
+"IT",
+"FR"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0086410",
+"original_title": "Storie di ordinaria follia",
+"overview": "Poet/lecturer Charles Serking awakens from his alcoholic haze long enough to take a bus back to L.A. and plunge into an orgy of drink and sexual depravity.",
+"poster": "https://image.tmdb.org/t/p/w342/riWT9Y5JJ6bzxw2hK1PqAHeFFJV.jpg",
+"runtime": 101,
+"title": "Tales of Ordinary Madness",
+"tmdb_id": 69014,
+"year": 1981
 },
 "690752": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9JszLY5wfTtQLaoQxaWnu9Lau5c.jpg",
@@ -59968,6 +81095,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Polar Trappers",
 "tmdb_id": 69108,
 "year": 1938
+},
+"69161": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qRWe8QN18RjdTg3j9rchqze7yQ0.jpg",
+"cast": [
+"Eddy Ko Hung",
+"Lam Ching-Ying",
+"Ma Yingchun",
+"Philippe Loffredo",
+"Cécile Le Bailly",
+"Lee Hae-suk"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0092264",
+"original_title": "英雄無淚",
+"overview": "The Thai government hires a group of Chinese mercenaries to capture a powerful drug lord from the Golden Triangle. The mercenaries manage to capture the drug lord, but soon find themselves pursued by his forces, and the forces of a bitter Thai officer. The Chinese mercenaries are vastly outnumbered, and as their numbers begin to dwindle, their desperation pulls them into a corner as their enemies close in on them.",
+"poster": "https://image.tmdb.org/t/p/w342/4pHMcQeumCxVur57XN79BelfQfo.jpg",
+"runtime": 87,
+"title": "Heroes Shed No Tears",
+"tmdb_id": 69161,
+"year": 1984
 },
 "691639": {
 "backdrop": null,
@@ -60058,6 +81210,416 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Dune: Part Two",
 "tmdb_id": 693134,
 "year": 2024
+},
+"693263": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Le Français langue vivante ?",
+"overview": "A reflection on the french language, done for french TV by Eric Rohmer.",
+"poster": null,
+"runtime": 30,
+"title": "Le Français langue vivante ?",
+"tmdb_id": 693263,
+"year": 1970
+},
+"693268": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Paysages urbains",
+"overview": "This short film was made for TV by Eric Rohmer, it deals with the urban landscape.",
+"poster": null,
+"runtime": 22,
+"title": "Paysages urbains",
+"tmdb_id": 693268,
+"year": 1963
+},
+"693274": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208778",
+"original_title": "Les Caractères de La Bruyère",
+"overview": "Actors embody different portraits from the Characters by Bruyere, in a castle setting.",
+"poster": null,
+"runtime": 22,
+"title": "Les Caractères de La Bruyère",
+"tmdb_id": 693274,
+"year": 1965
+},
+"693277": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt37427786",
+"original_title": "Raphaël par le dessin",
+"overview": "A short film made by Eric Rohmer dealing with the drawings of Raphael.",
+"poster": "https://image.tmdb.org/t/p/w342/eH3yTxJ349krYVrzuZoXsxxT1s6.jpg",
+"runtime": 8,
+"title": "Raphaël par le dessin",
+"tmdb_id": 693277,
+"year": 1982
+},
+"693279": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208873",
+"original_title": "Victor Hugo architecte",
+"overview": "In this short film made for french TV, Eric Rohmer discusses the architecture that influenced Victor Hugo.",
+"poster": null,
+"runtime": 26,
+"title": "Victor Hugo architecte",
+"tmdb_id": 693279,
+"year": 1969
+},
+"693282": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Les Salons de Diderot",
+"overview": "A short film made for french TV, En Profil dans le Text, by Eric Rohmer. Dealing with the salons of Diderot.",
+"poster": null,
+"runtime": 17,
+"title": "Les Salons de Diderot",
+"tmdb_id": 693282,
+"year": 1964
+},
+"693284": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0208930",
+"original_title": "Les Histoires extraordinaires d’Edgar Poe",
+"overview": "This is a short film for French TV, En Profil dans le Texte, directed by Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/QNXtzazE2aQu2ESVdnu7po3YUy.jpg",
+"runtime": 24,
+"title": "Les Histoires extraordinaires d’Edgar Poe",
+"tmdb_id": 693284,
+"year": 1965
+},
+"693286": {
+"backdrop": null,
+"cast": [
+"Antoine Vitez"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "La Sorcière de Michelet",
+"overview": "The film traces the history of witchcraft through Michelet's text, paintings, engravings, and film clips by Carl Th. Dreyer and Ingmar Bergman.",
+"poster": "https://image.tmdb.org/t/p/w342/pePxpKySfqtTk9a5nvT8yH8IDwX.jpg",
+"runtime": 26,
+"title": "La Sorcière de Michelet",
+"tmdb_id": 693286,
+"year": 1969
+},
+"693295": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L'Enfant apprend sa langue",
+"overview": "Debate about the natural process of acquiriing a language for the child.",
+"poster": "https://image.tmdb.org/t/p/w342/dhn8AxTTrVVZOIgpl66rWejYslB.jpg",
+"runtime": 28,
+"title": "L'Enfant apprend sa langue",
+"tmdb_id": 693295,
+"year": 1970
+},
+"693296": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "La Linguistique et l'Enseignement du français",
+"overview": "Round table on the teaching of secondary school.",
+"poster": "https://image.tmdb.org/t/p/w342/8l8CKe6Sdzee8cWXMl4h16qPCxs.jpg",
+"runtime": 30,
+"title": "La Linguistique et l'Enseignement du français",
+"tmdb_id": 693296,
+"year": 1970
+},
+"693299": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0209066",
+"original_title": "Journal d'un scélérat",
+"overview": "A lost film by Eric Rohmer. 16mm",
+"poster": null,
+"runtime": 30,
+"title": "Journal d'un scélérat",
+"tmdb_id": 693299,
+"year": 1950
+},
+"693302": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Les Petites Filles modèles",
+"overview": "A medium feature from Rohmer, in 35mm now lost.",
+"poster": null,
+"runtime": 60,
+"title": "Les Petites Filles modèles",
+"tmdb_id": 693302,
+"year": 1952
+},
+"693308": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L’Homme et la Machine",
+"overview": "Made for TV by Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/nDCVFiHPApZXelgwZWNJYtbonVv.jpg",
+"runtime": 34,
+"title": "L’Homme et la Machine",
+"tmdb_id": 693308,
+"year": 1967
+},
+"693310": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L’Homme et les Gouvernements",
+"overview": "In two parts, by Rohmer.",
+"poster": null,
+"runtime": 59,
+"title": "L’Homme et les Gouvernements",
+"tmdb_id": 693310,
+"year": 1967
+},
+"693312": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L’Homme et son journal",
+"overview": "Made by Rohmer for TV.",
+"poster": "https://image.tmdb.org/t/p/w342/9m2J76yAL1NJKErRhpvW7KuRjLo.jpg",
+"runtime": 36,
+"title": "L’Homme et son journal",
+"tmdb_id": 693312,
+"year": 1967
+},
+"693313": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L’Homme et les Frontières",
+"overview": "Made for TV by Rohmer, in two parts.",
+"poster": null,
+"runtime": 60,
+"title": "L’Homme et les Frontières",
+"tmdb_id": 693313,
+"year": 1968
+},
+"693314": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "L’Homme et les Images",
+"overview": "Made for TV by Eric Rohmer.",
+"poster": null,
+"runtime": 35,
+"title": "L’Homme et les Images",
+"tmdb_id": 693314,
+"year": 1967
+},
+"693322": {
+"backdrop": null,
+"cast": [
+"Aurélia Alcaïs",
+"Laura Favali",
+"Stéphane Pioffet",
+"Jeanloup Sieff",
+"Joël Barbouth"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Haydée Caillot",
+"Aurélia Alcaïs",
+"Éric Rohmer",
+"Stéphane Pioffet"
+],
+"imdb_id": "tt0375166",
+"original_title": "Un dentiste exemplaire",
+"overview": "Mélanie, a young student from Paris, is thinking of posing (nude) for a photographer...",
+"poster": "https://image.tmdb.org/t/p/w342/a5aGd7k5ctmF3UY72mPuGzcfMdv.jpg",
+"runtime": 12,
+"title": "Un dentiste exemplaire",
+"tmdb_id": 693322,
+"year": 1998
+},
+"693324": {
+"backdrop": null,
+"cast": [
+"Rosette"
+],
+"countries": [],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": null,
+"original_title": "Une histoire qui se dessine",
+"overview": "A short film co-created by Eric Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/pGF5R2doBtMFqBvW1NQ5HmgASGN.jpg",
+"runtime": 10,
+"title": "Une histoire qui se dessine",
+"tmdb_id": 693324,
+"year": 1999
+},
+"693326": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer",
+"Annie Balkarash"
+],
+"imdb_id": null,
+"original_title": "Le Nu à la terrasse",
+"overview": "A short film co-created by Eric Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/zPAnt188dVSiqVuozkOz1DId48H.jpg",
+"runtime": 26,
+"title": "Le Nu à la terrasse",
+"tmdb_id": 693326,
+"year": 2008
+},
+"693331": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u5BYZNUQedEjd3wOd9U1Rl7JG5j.jpg",
+"cast": [
+"Laure Marsac",
+"Éric Viellard"
+],
+"countries": [],
+"directors": [
+"Éric Rohmer",
+"Anne-Sophie Rouvillois"
+],
+"imdb_id": "tt0305421",
+"original_title": "Des goûts et des couleurs",
+"overview": "A short film co-created by Eric Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/kO36XdOfKjacHfXdBprISyFvu7o.jpg",
+"runtime": 21,
+"title": "Des goûts et des couleurs",
+"tmdb_id": 693331,
+"year": 1997
+},
+"693332": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Éric Rohmer",
+"Florence Rauscher",
+"François Rauscher"
+],
+"imdb_id": null,
+"original_title": "Heurts divers",
+"overview": "A short film co-created by Eric Rohmer.",
+"poster": "https://image.tmdb.org/t/p/w342/bvjgC1kqMk8wcn3g8ki2xxi8epX.jpg",
+"runtime": 24,
+"title": "Heurts divers",
+"tmdb_id": 693332,
+"year": 1998
+},
+"693333": {
+"backdrop": null,
+"cast": [
+"Rosette",
+"Julie Jézéquel",
+"Arielle Dombasle",
+"Pascal Greggory",
+"Isild Le Besco"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Rosette",
+"Éric Rohmer"
+],
+"imdb_id": "tt0272446",
+"original_title": "Les amis de Ninon",
+"overview": "Ninon, an overwhelmed wife and mother, decides to invite some of her former lovers to her birthday.",
+"poster": "https://image.tmdb.org/t/p/w342/zGnFgYmyswZIjfAvgs04rIPT9W3.jpg",
+"runtime": 24,
+"title": "Les amis de Ninon",
+"tmdb_id": 693333,
+"year": 1998
 },
 "695081": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4uAuOzAt6AZk6bHYBMkc5KEbwXI.jpg",
@@ -60189,6 +81751,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 695792,
 "year": 1993
 },
+"696506": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
+"cast": [
+"Robert Pattinson",
+"Naomi Ackie",
+"Steven Yeun",
+"Mark Ruffalo",
+"Toni Collette",
+"Anamaria Vartolomei"
+],
+"countries": [
+"US",
+"GB"
+],
+"directors": [
+"Bong Joon Ho"
+],
+"imdb_id": "tt12299608",
+"original_title": "Mickey 17",
+"overview": "Vi møter den usannsynlige helten Mickey Barnes, som befinner seg i den uvanlige situasjonen å jobbe for en arbeidsgiver som krever den ultimate forpliktelsen til jobben... å dø.",
+"poster": "https://image.tmdb.org/t/p/w342/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+"runtime": 137,
+"title": "Mickey 17",
+"tmdb_id": 696506,
+"year": 2025
+},
 "696595": {
 "backdrop": "https://image.tmdb.org/t/p/w780/asa0nCZRhrBFvLe1kmU2DIzLJ5A.jpg",
 "cast": [
@@ -60240,6 +81828,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 69729,
 "year": 1963
 },
+"6984": {
+"backdrop": "https://image.tmdb.org/t/p/w780/s5QthdkkCptUiHnfUzXDkqLinUJ.jpg",
+"cast": [
+"Nancy Allen",
+"Mary Davenport",
+"Kirk Douglas",
+"Vincent Gardenia",
+"Keith Gordon",
+"Gerrit Graham"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0079302",
+"original_title": "Home Movies",
+"overview": "A cult guru urges a shy disciple to make life a movie and be its star.",
+"poster": "https://image.tmdb.org/t/p/w342/mhvSohW6JmHaCVAwKZChZKadRlz.jpg",
+"runtime": 90,
+"title": "Home Movies",
+"tmdb_id": 6984,
+"year": 1980
+},
 "698564": {
 "backdrop": null,
 "cast": [],
@@ -60263,6 +81876,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "How Are The Kids?",
 "tmdb_id": 698564,
 "year": 1992
+},
+"69910": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jhdxRasM0HcfMKCC00oMV1fZt6i.jpg",
+"cast": [
+"Angel Torralba",
+"Ramón Barragán",
+"Guillermo García Cantú",
+"Mariagna Prats",
+"Rafael Sánchez Navarro"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0350746",
+"original_title": "Cuarteto para el fin del tiempo",
+"overview": "The story of a young man who lives alone in his house, and his indifference and solitude with the world around him.",
+"poster": "https://image.tmdb.org/t/p/w342/tH4cK6R7ZENCjb4L6JaduWfTsWd.jpg",
+"runtime": 23,
+"title": "Quartet for the End of Time",
+"tmdb_id": 69910,
+"year": 1983
 },
 "69928": {
 "backdrop": "https://image.tmdb.org/t/p/w780/z3SBKjtZ5lSqMAU78e66ueBAtPq.jpg",
@@ -60310,6 +81947,23 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 69995,
 "year": 1946
 },
+"700592": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Marco Ferreri",
+"Luigi Malerba"
+],
+"imdb_id": "tt0060256",
+"original_title": "Corrida!",
+"overview": "",
+"poster": null,
+"runtime": null,
+"title": "Corrida!",
+"tmdb_id": 700592,
+"year": 1966
+},
 "701387": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
 "cast": [
@@ -60337,6 +81991,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bugonia",
 "tmdb_id": 701387,
 "year": 2025
+},
+"70435": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r5bLJXXwUMp2MO5hkn4KYXIR4eO.jpg",
+"cast": [
+"Gina Carano",
+"Michael Fassbender",
+"Channing Tatum",
+"Michael Douglas",
+"Antonio Banderas",
+"Ewan McGregor"
+],
+"countries": [
+"US",
+"IE",
+"ES"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt1506999",
+"original_title": "Haywire",
+"overview": "A black ops soldier seeks payback after she is betrayed and left for dead.",
+"poster": "https://image.tmdb.org/t/p/w342/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+"runtime": 93,
+"title": "Haywire",
+"tmdb_id": 70435,
+"year": 2011
 },
 "704455": {
 "backdrop": null,
@@ -60818,31 +82499,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 722220,
 "year": 1959
 },
-"72277": {
-"backdrop": "https://image.tmdb.org/t/p/w780/sPJmwvy9z5IpjdEXoYG6zxd7LO7.jpg",
-"cast": [
-"Richard Chamberlain",
-"Olivia Hamnett",
-"David Gulpilil",
-"Nandjiwarra Amagula",
-"Frederick Parslow",
-"Vivean Gray"
-],
-"countries": [
-"AU"
-],
-"directors": [
-"Peter Weir"
-],
-"imdb_id": "tt0076299",
-"original_title": "The Last Wave",
-"overview": "A Sydney lawyer defends five Aboriginal people in a ritualised taboo murder and in the process learns disturbing truths about himself and premonitions.",
-"poster": "https://image.tmdb.org/t/p/w342/7UwdJ0EMXirUuNFaohfK023Nuyr.jpg",
-"runtime": 106,
-"title": "The Last Wave",
-"tmdb_id": 72277,
-"year": 1977
-},
 "72449": {
 "backdrop": "https://image.tmdb.org/t/p/w780/y3V9gVSGnrl3M0fAwJsJKbO6knA.jpg",
 "cast": [
@@ -61020,6 +82676,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 7270,
 "year": 2003
 },
+"72808": {
+"backdrop": "https://image.tmdb.org/t/p/w780/UJje4GZglCtC8ZtYY8T4jj1RHm.jpg",
+"cast": [
+"Sergio Castellitto",
+"Francesca Dellera",
+"Philippe Léotard",
+"Farid Chopel",
+"Petra Reinhardt",
+"Gudrun Gundlach"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0101548",
+"original_title": "La carne",
+"overview": "A piano player meets and falls in love with a beautiful and voluptuous woman who, by some strange procedure, leaves the man unable to move but with a permanent priapism.  After some time he becomes sick of it and she relieves his paralysis. Eventually she gets bored and decides to leave, but he can't take it because he loves her…",
+"poster": "https://image.tmdb.org/t/p/w342/5s9UarEgQWXHtZbm8fakXQnveRt.jpg",
+"runtime": 90,
+"title": "The Flesh",
+"tmdb_id": 72808,
+"year": 1991
+},
 "72838": {
 "backdrop": "https://image.tmdb.org/t/p/w780/e7F80oQLrFS7kkSXad4eyMIleqw.jpg",
 "cast": [
@@ -61154,39 +82835,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 73194,
 "year": 1939
 },
-"73319": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tPLE5TmpCFcYKhf25foPNTwDikC.jpg",
-"cast": [
-"Miloš Forman",
-"Kon Ichikawa",
-"Claude Lelouch",
-"Arthur Penn",
-"Yuri Ozerov",
-"John Schlesinger"
-],
-"countries": [
-"DE",
-"US"
-],
-"directors": [
-"Miloš Forman",
-"Kon Ichikawa",
-"Arthur Penn",
-"John Schlesinger",
-"Mai Zetterling",
-"Claude Lelouch",
-"Michael Pfleghar",
-"Yuri Ozerov"
-],
-"imdb_id": "tt0070884",
-"original_title": "Visions of Eight",
-"overview": "Eight acclaimed filmmakers bring their unique and differing perspectives to the 1972 Summer Olympic Games held in Munich. The segments include Lelouch's take on Olympic losers and their struggle to remain dignified even in the face of bitter disappointment and defeat; Zetterling's dramatic exploration of the world of weightlifting; and Pfleghar's piece on young Russian gymnast Ludmilla Tourischev's majestic performance on the uneven bars.",
-"poster": "https://image.tmdb.org/t/p/w342/mzVkecyq9ZUh5kaF8caVwr7tHso.jpg",
-"runtime": 110,
-"title": "Visions of Eight",
-"tmdb_id": 73319,
-"year": 1973
-},
 "733264": {
 "backdrop": null,
 "cast": [
@@ -61206,6 +82854,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Veränderung",
 "tmdb_id": 733264,
 "year": 2020
+},
+"73354": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nCevJRQSRjT8cypakUY10VWhzOo.jpg",
+"cast": [
+"Paul Michael Glaser",
+"Susan Hogan",
+"John Colicos",
+"David Bolt",
+"Patricia Collins",
+"Lisa Langlois"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0081334",
+"original_title": "Phobia",
+"overview": "A psychiatrist involved in a radical new therapy comes under suspicion when his patients are murdered, each according to their individual phobias.",
+"poster": "https://image.tmdb.org/t/p/w342/5WgzICL2IIpFbsAPefmcuihcsaR.jpg",
+"runtime": 91,
+"title": "Phobia",
+"tmdb_id": 73354,
+"year": 1980
+},
+"7350": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6OpluXPGIE8hfVrhpeygR7p4XwR.jpg",
+"cast": [
+"Jack Nicholson",
+"Morgan Freeman",
+"Sean Hayes",
+"Beverly Todd",
+"Alfonso Freeman",
+"Dawn Lewis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0825232",
+"original_title": "The Bucket List",
+"overview": "Businessmilliardæren Edward Cole og arbeiderklassemekanikeren Carter Chambers lever i to verdener. Ved et vendepunkt i livet deler de sykehusrom og oppdager at de har to ting felles: et ønske om å bruke tiden de har igjen til å gjøre alt de har ønsket før de kaster inn håndkleet og et behov for å erkjenne hvem de er. Sammen legger de ut på en reise for livet. De blir venner underveis og lærer å leve livet til fulle, med innsikt og humor. Hvert eventyr blir et nytt punkt å krysse av på ønskelisten.",
+"poster": "https://image.tmdb.org/t/p/w342/idbNSe8zsYKQL97dJApfOrDSdya.jpg",
+"runtime": 97,
+"title": "The Bucket List",
+"tmdb_id": 7350,
+"year": 2007
 },
 "73567": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mpiwGcxp30sHxTOJ1jw3Dd1QgPZ.jpg",
@@ -61274,6 +82972,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Professor",
 "tmdb_id": 73705,
 "year": 1919
+},
+"737447": {
+"backdrop": null,
+"cast": [
+"Nor Eddin Abboud",
+"Jezabelle Amato",
+"Claude Antonini",
+"Thierry Bois",
+"Jean-François Chandelier",
+"Paul Chaniet"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt1577806",
+"original_title": "Faictz ce que Vouldras",
+"overview": "Made-for-TV biopic directed by Marco Ferreri.",
+"poster": null,
+"runtime": 52,
+"title": "Do What Thou Wilt",
+"tmdb_id": 737447,
+"year": 1995
 },
 "737665": {
 "backdrop": null,
@@ -61350,6 +83073,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 739405,
 "year": 2023
 },
+"73984": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8O3lOzIh5VathDwLl56t8xjhVhh.jpg",
+"cast": [
+"Charles Bronson",
+"Jill Ireland",
+"Vincent Van Patten",
+"Fausto Tozzi",
+"Ettore Manni",
+"Corrado Gaipa"
+],
+"countries": [
+"IT",
+"ES",
+"FR"
+],
+"directors": [
+"John Sturges",
+"Duilio Coletti"
+],
+"imdb_id": "tt0069833",
+"original_title": "Valdez, il mezzosangue",
+"overview": "Chino Valdez is a loner horse breeder living in the old west. Partly a loner by choice, and partly because, being a 'half-breed', he finds himself unwelcome almost everywhere he goes. One day, a young runaway named Jimmy shows up at his door looking for work and a roof over his head. Reluctantly, Chino agrees to take him in and teach him the art of raising, breaking and breeding horses, until the pair finally begin to accept each other.",
+"poster": "https://image.tmdb.org/t/p/w342/sFbU6gkpG8XNoTMxAKkZLzFUJMx.jpg",
+"runtime": 98,
+"title": "The Valdez Horses",
+"tmdb_id": 73984,
+"year": 1973
+},
 "74": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
 "cast": [
@@ -61424,6 +83175,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 74126,
 "year": 1947
 },
+"74137": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gV8L15s7RELeeBBUXglK8ysYJhH.jpg",
+"cast": [
+"Charles Pfluger",
+"Jill Clayburgh",
+"William Finley",
+"Robert De Niro",
+"Valda Setterfield",
+"Raymond McNally"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma",
+"Cynthia Munroe",
+"Wilford Leach"
+],
+"imdb_id": "tt0065198",
+"original_title": "The Wedding Party",
+"overview": "Young Charlie begins to develop cold feet as his wedding looms nearer. Desperate to throw the plans off-track, he tries a variety of tactics, including attempting to rekindle the relationship between his fiancée, Josephine, and her former boyfriend.",
+"poster": "https://image.tmdb.org/t/p/w342/vfEkKOCeFmfWwkuaO4wTvtM7E3.jpg",
+"runtime": 92,
+"title": "The Wedding Party",
+"tmdb_id": 74137,
+"year": 1969
+},
 "74184": {
 "backdrop": null,
 "cast": [
@@ -61447,6 +83225,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Legend of Hallowdega",
 "tmdb_id": 74184,
 "year": 2010
+},
+"74287": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2pPPazrrSGWWW9OhgKiUh0nYGvS.jpg",
+"cast": [
+"David Chiang Da-Wei",
+"Danny Lee Sau-Yin",
+"Chen Kuan-Tai",
+"Tien Niu",
+"Cally Kwong Mei-Wan",
+"Wu Ma"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wu Ma",
+"John Woo"
+],
+"imdb_id": "tt0094351",
+"original_title": "義膽群英",
+"overview": "A respected and well liked gang-boss is betrayed and killed. One of his three adopted sons are to take his place. One of them is the traitor.",
+"poster": "https://image.tmdb.org/t/p/w342/9XFE1bSI0QnWEW2HTcGww2BQ8IO.jpg",
+"runtime": 97,
+"title": "Just Heroes",
+"tmdb_id": 74287,
+"year": 1989
 },
 "742920": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7R9H3WTlYBcZpw0E030oyFqKVcf.jpg",
@@ -61492,6 +83296,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Crime and Punishment",
 "tmdb_id": 74295,
 "year": 1983
+},
+"74468": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pK6ZuTc9tmk1rxwFAD8c0DvATvn.jpg",
+"cast": [
+"Anita Louise",
+"Lloyd Corrigan",
+"Michael Duane",
+"Mark Roberts",
+"Doris Houck",
+"Terry Moore"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0038928",
+"original_title": "Shadowed",
+"overview": "Fred J. Johnson scores a hole-in-one but his next drive, using the lucky, initialed golf ball, soars out of bounds and lands near a spot where some counterfeiters are burying a murder victim. Then begins a series of events in which he is hounded and threatened by the killers. The consequences of his not reporting what he saw to the police lead to a climax in which is daughter is held hostage by the crooks.",
+"poster": "https://image.tmdb.org/t/p/w342/zjDI8EOrloBXlgW2YWBiOgGf925.jpg",
+"runtime": 70,
+"title": "Shadowed",
+"tmdb_id": 74468,
+"year": 1946
 },
 "744797": {
 "backdrop": null,
@@ -61563,31 +83392,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Agnès Varda: From Here to There",
 "tmdb_id": 745698,
 "year": 2011
-},
-"74585": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pFIKYogV7g3kjGGiS8TQRJfwDeM.jpg",
-"cast": [
-"Jennifer Jones",
-"Montgomery Clift",
-"Gino Cervi",
-"Richard Beymer",
-"Paolo Stoppa",
-"Nando Bruno"
-],
-"countries": [
-"IT"
-],
-"directors": [
-"Vittorio De Sica"
-],
-"imdb_id": "tt0046366",
-"original_title": "Stazione Termini",
-"overview": "While on vacation in Rome, married American Mary Forbes becomes entangled in an affair with an Italian man, Giovanni Doria. As she prepares to leave Italy, Giovanni confesses his love for her; he doesn't want her to go. Together they wander the railroad station where Mary is to take the train to Paris, then ultimately reunite with her husband and daughter in Philadelphia. Will she throw away her old life for this passionate new romance?",
-"poster": "https://image.tmdb.org/t/p/w342/4yEmRpNVEbdOxWlPDhLE3enYD79.jpg",
-"runtime": 64,
-"title": "Indiscretion of an American Wife",
-"tmdb_id": 74585,
-"year": 1953
 },
 "74615": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3QwUZbaNitQ7BZhNce8FZWgvL1u.jpg",
@@ -61692,6 +83496,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 747109,
 "year": 2007
 },
+"747188": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dExUxMWt0UjS93waeCGYeDr1D7m.jpg",
+"cast": [
+"Jason Schwartzman",
+"Scarlett Johansson",
+"Tom Hanks",
+"Jeffrey Wright",
+"Tilda Swinton",
+"Bryan Cranston"
+],
+"countries": [
+"US",
+"DE"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt14230388",
+"original_title": "Asteroid City",
+"overview": "I en amerikansk ørkenby samler familier fra hele landet seg for et Junior Stargazer-konvent. Blant disse en enkemann og alenefar (Jason Schwartzman), en filmstjerne (Scarlett Johansson), en barneskolelærer med hele sin klasse (Maya Hawke) og mange mange fler.",
+"poster": "https://image.tmdb.org/t/p/w342/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+"runtime": 105,
+"title": "Asteroid City",
+"tmdb_id": 747188,
+"year": 2023
+},
 "747225": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dTBlaTqKYFrXX5BWKY96xKqiXs.jpg",
 "cast": [
@@ -61792,6 +83622,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 75009,
 "year": 2001
 },
+"750894": {
+"backdrop": null,
+"cast": [
+"John Kassir",
+"Mary Ellen Trainor",
+"Larry Drake",
+"Marshall Bell",
+"Lindsey Whitney Barry",
+"Kirk Douglas"
+],
+"countries": [],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": null,
+"original_title": "Tales from the Crypt: The Robert Zemeckis Collection",
+"overview": "In \"All Through the Night,\" perhaps the single most famous story from the original comic book series, a psychotic killer dressed as Santa escapes Christmas Eve and terrorizes a middle-class home where murder has already made a holiday appearance: a homicidal wife plunges a fireplace poker into her husband's skull. (It was also adapted in the 1972 British anthology movie Tales from the Crypt). Kirk Douglas stars as a blood-and-thunder World War I general who discovers his son is a coward in the grim \"Yellow,\" the most dramatically acute of the trio. Digital magic morphs Humphrey Bogart into \"You, Murderer,\" a high-concept, rather gimmicky tale of murder, double crosses, and poetic justice as seen through a dead man's eyes. Isabella Rossellini (daughter of Bogie's Casablanca costar Ingrid Bergman) and John Lithgow costar as plotting lovers.",
+"poster": "https://image.tmdb.org/t/p/w342/zzeBLqqJc8D8WZZ9o5XRFu64VV6.jpg",
+"runtime": 87,
+"title": "Tales from the Crypt: The Robert Zemeckis Collection",
+"tmdb_id": 750894,
+"year": 1999
+},
 "753342": {
 "backdrop": "https://image.tmdb.org/t/p/w780/33pMXav77ICRnceEBLhL8lXTywv.jpg",
 "cast": [
@@ -61816,6 +83669,59 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Napoleon",
 "tmdb_id": 753342,
 "year": 2023
+},
+"75733": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aST9UfzhV4LQ4lHCNj1OCB4it0a.jpg",
+"cast": [
+"Fabrice Luchini",
+"André Dussollier",
+"Solange Boulanger",
+"Catherine Schroeder",
+"Francisco Orozco",
+"Deborah Nathan"
+],
+"countries": [
+"FR",
+"DE",
+"IT",
+"CH"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0078073",
+"original_title": "Perceval le Gallois",
+"overview": "The film chronicles Perceval's knighthood, maturation and eventual peerage amongst the Knights of the Round Table, and also contains brief episodes from the story of Gawain and the crucifixion of Christ.",
+"poster": "https://image.tmdb.org/t/p/w342/hvywz6133UMPfKRVcMWav151Ci5.jpg",
+"runtime": 140,
+"title": "Perceval",
+"tmdb_id": 75733,
+"year": 1978
+},
+"75752": {
+"backdrop": "https://image.tmdb.org/t/p/w780/84dT6opIgfTWRUtdG7VHtIOhv7t.jpg",
+"cast": [
+"Bobby Darin",
+"Stella Stevens",
+"Everett Chambers",
+"Nick Dennis",
+"Vince Edwards",
+"Val Avery"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Cassavetes"
+],
+"imdb_id": "tt0055534",
+"original_title": "Too Late Blues",
+"overview": "Ghost is an ideological musician and leader of a jazz band who would rather play his blues in the park to the birds than compromise himself. His peripatetic performances lead him to cross paths with a singer, while his masculinity is thrown into question following a violent brawl.",
+"poster": "https://image.tmdb.org/t/p/w342/zklWXL0nlmJRyG9TGaCxr7f5IKN.jpg",
+"runtime": 103,
+"title": "Too Late Blues",
+"tmdb_id": 75752,
+"year": 1961
 },
 "75793": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6GTOJeeD15w6nWIS5ObwYm6twri.jpg",
@@ -61845,6 +83751,107 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Elstree Calling",
 "tmdb_id": 75793,
 "year": 1930
+},
+"75799": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m3odlVzSQllLAdhOMdoLcggR5Qh.jpg",
+"cast": [
+"Errol Flynn",
+"Trevor Howard",
+"Eddie Albert",
+"Juliette Gréco",
+"Orson Welles",
+"Paul Lukas"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0052148",
+"original_title": "The Roots of Heaven",
+"overview": "In French Equatorial Africa, an idealist campaigns to save the African elephant, gaining support from a nightclub hostess and an ex-soldier. His cause attracts a mix of characters, including a U.S. commentator, a government aide opposed to him, and an ivory hunter with conflicting interests.",
+"poster": "https://image.tmdb.org/t/p/w342/o61Y2bK2Oqnc48C6rUM7hecpUBs.jpg",
+"runtime": 121,
+"title": "The Roots of Heaven",
+"tmdb_id": 75799,
+"year": 1958
+},
+"762987": {
+"backdrop": null,
+"cast": [
+"Barry Hansen",
+"Dennis Hopper",
+"Tom Pirko",
+"Peter Hayden",
+"Phil Kavanaugh",
+"John MacDougall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0212717",
+"original_title": "The Pursuit of Happiness",
+"overview": "Showtime's \"In the 20th Century\" is a millennium-related strand of feature-length documentaries in which famous directors take on major subjects of their choosing. In the fourth of the six films, \"The Pursuit of Happiness,\" filmmaker Robert Zemeckis delves into the history of America's relationship with mind-altering substances over the past 100 years, presenting interviews with historians and professionals in the drug treatment field, interspersed with a treasure trove of film and television clips depicting the highs and lows of smoking, drinking and drugging in the 20th century.",
+"poster": "https://image.tmdb.org/t/p/w342/n6JIMhXNGGbsSnBazAZeB427CpC.jpg",
+"runtime": 112,
+"title": "The Pursuit of Happiness",
+"tmdb_id": 762987,
+"year": 1999
+},
+"763285": {
+"backdrop": "https://image.tmdb.org/t/p/w780/peJmavN1H3Js9SiqQbPNs8Hgwgr.jpg",
+"cast": [
+"Jake Gyllenhaal",
+"Yahya Abdul-Mateen II",
+"Eiza González",
+"Garret Dillahunt",
+"Keir O'Donnell",
+"Jackson White"
+],
+"countries": [
+"US",
+"JP"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt4998632",
+"original_title": "Ambulance",
+"overview": "To brødre, en veteran som er desperat etter å forsørge familien sin og en yrkeskriminell, prøver å unnslippe et feilslått bankran i en uvanlig fluktbil.",
+"poster": "https://image.tmdb.org/t/p/w342/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+"runtime": 136,
+"title": "Ambulance",
+"tmdb_id": 763285,
+"year": 2022
+},
+"76363": {
+"backdrop": null,
+"cast": [
+"William Hurt",
+"John Boorman",
+"Jim Jarmusch",
+"Pamela Marvin",
+"Robert Filkosky"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0325723",
+"original_title": "Lee Marvin: A Personal Portrait by John Boorman",
+"overview": "John Boorman met Lee Marvin in London when the latter was making The Dirty Dozen and immediately they struck up a friendship. Shortly afterwards they made two films together, the first of which was Point Blank, during which Boorman found that he learnt a lot about screen acting and how to direct from the contributions and support from Marvin. Later they worked together on Hell in the Pacific. With his friendship providing an insightful collection of memories of Marvin, Boorman leads this intimate documentary on the life of Lee Marvin.",
+"poster": "https://image.tmdb.org/t/p/w342/b3eHKQ4wKb4lMHY15mz3hK13yl1.jpg",
+"runtime": 55,
+"title": "Lee Marvin: A Personal Portrait by John Boorman",
+"tmdb_id": 76363,
+"year": 1998
 },
 "76406": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g49r83xwdZ0T5ziq4apxRyL5J2n.jpg",
@@ -61896,6 +83903,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 76452,
 "year": 1973
 },
+"76499": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jjE8o214f2Xn6gAGK3YfXH9XKbG.jpg",
+"cast": [
+"Miriam Hopkins",
+"Edward G. Robinson",
+"Joel McCrea",
+"Walter Brennan",
+"Frank Craven",
+"Brian Donlevy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0026097",
+"original_title": "Barbary Coast",
+"overview": "Mary Rutledge arrives from the east, finds her fiancé dead, and goes to work at the roulette wheel of Luis Chamalis' Bella Donna, a rowdy gambling house in San Francisco in the 1850s. She falls in love with miner Jim Carmichael and takes his gold dust at the wheel. She goes after him, Chamalis goes after her with intent to harm Carmichael.",
+"poster": "https://image.tmdb.org/t/p/w342/hkUzk3WBI11LYgn1qsWGTsFlLOL.jpg",
+"runtime": 90,
+"title": "Barbary Coast",
+"tmdb_id": 76499,
+"year": 1935
+},
 "765149": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fJMjZOINmPO281HxCW4LBlLvTAy.jpg",
 "cast": [
@@ -61938,6 +83970,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 76553,
 "year": 1989
 },
+"76600": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+"cast": [
+"Sam Worthington",
+"Zoe Saldaña",
+"Sigourney Weaver",
+"Stephen Lang",
+"Kate Winslet",
+"Cliff Curtis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt1630029",
+"original_title": "Avatar: The Way of Water",
+"overview": "Mer enn et tiår etter hendelsene i den første filmen, fortelles historien om Sully-familien, om tragediene som følger dem, og hvor langt de må gå for å beskytte hverandre og holde seg i live.",
+"poster": "https://image.tmdb.org/t/p/w342/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+"runtime": 192,
+"title": "Avatar: The Way of Water",
+"tmdb_id": 76600,
+"year": 2022
+},
 "768104": {
 "backdrop": null,
 "cast": [
@@ -61962,6 +84019,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Well Paid Walk",
 "tmdb_id": 768104,
 "year": 1966
+},
+"768494": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eXEiLjNNa4214TZFB19NL5Y9yWN.jpg",
+"cast": [
+"Stacy Keach",
+"Harris Yulin",
+"James Earl Jones",
+"Dorothy Tristan",
+"Gordon Willis",
+"Michael Chapman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt2698338",
+"original_title": "An Amazing Time: A Conversation About End of the Road",
+"overview": "In the summer of 1968, a group of people assembled in Great Barrington, Massachusetts. They were making a film of John Barth's 1958 novel The End of the Road.",
+"poster": "https://image.tmdb.org/t/p/w342/rDRZguWId4eV1GohJ2OIQMddGf3.jpg",
+"runtime": 34,
+"title": "An Amazing Time: A Conversation About End of the Road",
+"tmdb_id": 768494,
+"year": 2012
+},
+"77056": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ioAjcXAZ6qzY7OY3HsK0A7XecmA.jpg",
+"cast": [
+"Clara Bellar",
+"Antoine Basler",
+"Mathias Mégard",
+"Judith Chancel",
+"Malcolm Conrath",
+"Cécile Parès"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Éric Rohmer"
+],
+"imdb_id": "tt0114266",
+"original_title": "Les Rendez-vous de Paris",
+"overview": "Three stories of love and coincidence around the theme of dates in Paris.",
+"poster": "https://image.tmdb.org/t/p/w342/rCdlWdkwA4MMVNdEQFXQKgxqkzw.jpg",
+"runtime": 98,
+"title": "Rendezvous in Paris",
+"tmdb_id": 77056,
+"year": 1995
 },
 "77245": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sv6KLwDXi7QNSDcdSofc2NF3tk.jpg",
@@ -62012,6 +84119,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Hurricane",
 "tmdb_id": 77250,
 "year": 1937
+},
+"77333": {
+"backdrop": "https://image.tmdb.org/t/p/w780/q0uArk1ReuzaIH6ogDrwWBPza74.jpg",
+"cast": [
+"Marcello Mastroianni",
+"Billie Whitelaw",
+"Calvin Lockhart",
+"Vladek Sheybal",
+"Graham Crowden",
+"Gwen Ffrangcon Davies"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"John Boorman"
+],
+"imdb_id": "tt0065974",
+"original_title": "Leo the Last",
+"overview": "Prince Leo, last in the line of rulers of a long-deposed monarchy on continental Europe and jaded with the frenetic search for kicks with the European jet-set, returns to his father's London town house for rest.",
+"poster": "https://image.tmdb.org/t/p/w342/n00wxf5fDcYVgpJySih5A3Q9FiK.jpg",
+"runtime": 104,
+"title": "Leo the Last",
+"tmdb_id": 77333,
+"year": 1970
 },
 "77352": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yZq6UtScwm8atkK2pPIGEWUrBM8.jpg",
@@ -62064,6 +84196,82 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 77365,
 "year": 2011
 },
+"77878": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wrxA079U3x0JZoqr68wC4DcyF2V.jpg",
+"cast": [
+"Susan Wooldridge",
+"Michelle Yeoh",
+"David Thewlis",
+"Jonathan Raggett",
+"Jonathan Woodhouse",
+"Benedict Wong"
+],
+"countries": [
+"FR",
+"GB"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt1802197",
+"original_title": "The Lady",
+"overview": "The story of Aung San Suu Kyi as she becomes the core of Burma's democracy movement, and her relationship with her husband, writer Michael Aris.",
+"poster": "https://image.tmdb.org/t/p/w342/nAtFlDKS7VP1EQ3nGs8Rv2GUuTP.jpg",
+"runtime": 132,
+"title": "The Lady",
+"tmdb_id": 77878,
+"year": 2011
+},
+"77930": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7DWGkbncSGb3nG6MAd2ZqxDvwEt.jpg",
+"cast": [
+"Channing Tatum",
+"Matthew McConaughey",
+"Alex Pettyfer",
+"Cody H. Carolin",
+"Olivia Munn",
+"Joe Manganiello"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt1915581",
+"original_title": "Magic Mike",
+"overview": "Mike, an experienced stripper, takes a younger performer called The Kid under his wing and schools him in the arts of partying, picking up women, and making easy money.",
+"poster": "https://image.tmdb.org/t/p/w342/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+"runtime": 110,
+"title": "Magic Mike",
+"tmdb_id": 77930,
+"year": 2012
+},
+"77937": {
+"backdrop": "https://image.tmdb.org/t/p/w780/84eZ4TLzv3Z4buxEjUyNLNsuNqt.jpg",
+"cast": [
+"Rex Harrison",
+"Richard Burton",
+"Cathleen Nesbitt",
+"Beatrix Lehmann",
+"Stephen Lewis",
+"Neil Wilson"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0065031",
+"original_title": "Staircase",
+"overview": "An aging gay couple owns a barber shop in the East End of London. One of them is a part-time actor about to go on trial for propositioning a police officer. The action takes place over the course of one night as they discuss their loving but often volatile past together and possible future without each other.",
+"poster": "https://image.tmdb.org/t/p/w342/zs9xJWbdEo9DI5YPLtxfeWNnogC.jpg",
+"runtime": 96,
+"title": "Staircase",
+"tmdb_id": 77937,
+"year": 1969
+},
 "7797": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nZJhuZMSlL21rm5HrrLWWIV6drP.jpg",
 "cast": [
@@ -62115,6 +84323,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Voyage à travers un film (Sauve qui peut (la vie))",
 "tmdb_id": 780397,
 "year": 1981
+},
+"78041": {
+"backdrop": "https://image.tmdb.org/t/p/w780/Ai9jCcEzJbbaEpaMYzHdez0UPcK.jpg",
+"cast": [
+"Alan Arkin",
+"Beverly D'Angelo",
+"Peter Falk",
+"Charles Durning",
+"Robert Stack",
+"Paul Dooley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Cassavetes"
+],
+"imdb_id": "tt0090727",
+"original_title": "Big Trouble",
+"overview": "Leonard Hoffman is an insurance salesman struggling to make ends meet. The fact that he has triplet sons who all want to go to Yale isn't making things any easier. Blanche Rickey is also worried about money; her husband is a millionaire with a weak heart, and she worries that he'll blow through all his cash before he finally dies. When Blanche meets Leonard, she devises a murderous plan that she claims will fix both their problems.",
+"poster": "https://image.tmdb.org/t/p/w342/1fQ9ryGMLt1fZxX45CI9xfVWPG9.jpg",
+"runtime": 93,
+"title": "Big Trouble",
+"tmdb_id": 78041,
+"year": 1986
+},
+"78353": {
+"backdrop": "https://image.tmdb.org/t/p/w780/byFvyxWDBcv6IhhLubSKREX4WiD.jpg",
+"cast": [
+"Gene Hackman",
+"Liza Minnelli",
+"Burt Reynolds",
+"Geoffrey Lewis",
+"John Hillerman",
+"Robby Benson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0073317",
+"original_title": "Lucky Lady",
+"overview": "When an American booze smuggler gets murdered in Prohibition-era Mexico, his widow, a nightclub singer, joins forces with her lover and a desperate loner to become rum-runners to the U.S.",
+"poster": "https://image.tmdb.org/t/p/w342/ZqXvQXzOGFBNP674rA5xrI6J23.jpg",
+"runtime": 118,
+"title": "Lucky Lady",
+"tmdb_id": 78353,
+"year": 1975
+},
+"78364": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hq7TBOjxQlOtzqxeG2N9vJdt4f3.jpg",
+"cast": [
+"Michael O'Keefe",
+"Rebecca De Mornay",
+"Martin Ritt",
+"Randy Quaid",
+"Cleavant Derricks",
+"Lisa Langlois"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0090036",
+"original_title": "The Slugger's Wife",
+"overview": "Darryl Palmer is a major league baseball player who meets and pursues an attractive singer. After some setbacks, the two are married and sent on an emotional journey that sees his career take off, while hers doesn't. She can't escape unhappiness when she gives up her dreams to support her husband. With a separation on the horizon, Darryl must choose between his big-league life and his one true love.",
+"poster": "https://image.tmdb.org/t/p/w342/g5psR5tS3uFKRwcUGmHQcycc6iF.jpg",
+"runtime": 104,
+"title": "The Slugger's Wife",
+"tmdb_id": 78364,
+"year": 1985
 },
 "784082": {
 "backdrop": null,
@@ -62184,6 +84467,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Life and Flight of the Reverend Buck Shotte",
 "tmdb_id": 784632,
 "year": 1968
+},
+"78482": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8nn8JVGLJcz5yfGUjcR372voxhq.jpg",
+"cast": [
+"Jerry Colonna",
+"Ken Darby",
+"Jon Dodson",
+"Bud Linn",
+"Rad Robinson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0042280",
+"original_title": "The Brave Engineer",
+"overview": "Casey Jones is one of the best engineers there is and it is his duty to get his cargo to its destination on time via train. He sets off but is set back by a number of unfortunate circumstances such as a rain storm, a cow on the tracks, a mad bomber, and finally, when his train starts falling apart. Worst of all, he is on a collision course with another train coming in the opposite direction. After a terrific crash, the man at the train station assumes the worst when Casey doesn't show up but, to his delight, Casey finally makes it to his destination a total wreck but on time (almost).",
+"poster": "https://image.tmdb.org/t/p/w342/42hPStDkAqood9jJ1Ax7n8hpaM3.jpg",
+"runtime": 8,
+"title": "The Brave Engineer",
+"tmdb_id": 78482,
+"year": 1950
 },
 "784971": {
 "backdrop": null,
@@ -62528,6 +84835,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 79591,
 "year": 2002
 },
+"7972": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ocAiyzGWhfr3PtNXxYih5s19c1h.jpg",
+"cast": [
+"Philip Seymour Hoffman",
+"Ethan Hawke",
+"Albert Finney",
+"Marisa Tomei",
+"Aleksa Palladino",
+"Michael Shannon"
+],
+"countries": [
+"US",
+"GB"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0292963",
+"original_title": "Before the Devil Knows You're Dead",
+"overview": "Andy, en risikoblind aksjemegler lokker sin yngre bror Hank med på laget. De skal rane en smykkebutikk, og oppdraget er tilsynelatende lett. Planen er likevel ganske uvanlig. Butikken eies av deres foreldre, og når den i utgangspunktet perfekte plan misslykkes, får de et større problem å hanskes med, levert som en uhåndterlig pakke på familiens egen dørmatte.",
+"poster": "https://image.tmdb.org/t/p/w342/h4QXi4Ysuc3zICiK9jHxjCAK9Oh.jpg",
+"runtime": 117,
+"title": "Before the Devil Knows You're Dead",
+"tmdb_id": 7972,
+"year": 2007
+},
 "7974": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tHF5OIcguut0Y83BXzqHtGdJOAf.jpg",
 "cast": [
@@ -62661,6 +84994,102 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 799583,
 "year": 2024
 },
+"800158": {
+"backdrop": "https://image.tmdb.org/t/p/w780/f9Atch0jlzcOT9RbF8UccqfNOpd.jpg",
+"cast": [
+"Michael Fassbender",
+"Tilda Swinton",
+"Charles Parnell",
+"Arliss Howard",
+"Kerry O'Malley",
+"Sophie Charlotte"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt1136617",
+"original_title": "The Killer",
+"overview": "Etter et skjebnesvangert bomskudd kjemper en snikmorder mot arbeidsgiverne – og seg selv – på en internasjonal jakt etter hevn han insisterer på at ikke er personlig.",
+"poster": "https://image.tmdb.org/t/p/w342/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+"runtime": 118,
+"title": "The Killer",
+"tmdb_id": 800158,
+"year": 2023
+},
+"80040": {
+"backdrop": null,
+"cast": [
+"Pinto Colvig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0043420",
+"original_title": "Cold Storage",
+"overview": "An egret, frozen by the winter weather, moves into Pluto's doghouse. Pluto, cold and tired, takes a while to realize his doghouse is moving around without him. Even when he does realize, though, he has a hard time dislodging the interloper.",
+"poster": "https://image.tmdb.org/t/p/w342/xBKsmexLzsxN2oo4f6Kk6Kyij0R.jpg",
+"runtime": 7,
+"title": "Cold Storage",
+"tmdb_id": 80040,
+"year": 1951
+},
+"8005": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xFhpZ9UDUGXu52lCHdN39PIooRt.jpg",
+"cast": [
+"Cary Elwes",
+"Richard Lewis",
+"Roger Rees",
+"Amy Yasbeck",
+"Dave Chappelle",
+"Isaac Hayes"
+],
+"countries": [
+"US",
+"FR"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0107977",
+"original_title": "Robin Hood: Men in Tights",
+"overview": "I gamle dager, da menn var menn, gikk menn i strømpebukser. Tettsittende strømpebukser. Og ingen gikk i dem bedre enn Robin Hood, helten fra Sherwood skogen. Hjulpet av sin gruppe glade menn, klarer Robin av Loxley å frata den slemme prins Johan all makten og på samme tid sjarmere vakre jomfru Marian. Men det store spørsmålet er; klarer han å slippe gjennom hennes kyskhetsbelte?",
+"poster": "https://image.tmdb.org/t/p/w342/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+"runtime": 104,
+"title": "Robin Hood: Men in Tights",
+"tmdb_id": 8005,
+"year": 1993
+},
+"800510": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
+"cast": [
+"Zoë Kravitz",
+"Byron Bowers",
+"Jaime Camil",
+"Erika Christensen",
+"Derek DelGaudio",
+"Robin Givens"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt14128670",
+"original_title": "Kimi",
+"overview": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: leave her apartment.",
+"poster": "https://image.tmdb.org/t/p/w342/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+"runtime": 89,
+"title": "Kimi",
+"tmdb_id": 800510,
+"year": 2022
+},
 "800564": {
 "backdrop": null,
 "cast": [
@@ -62684,6 +85113,48 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 800564,
 "year": 1950
 },
+"801986": {
+"backdrop": null,
+"cast": [
+"Jack Mercer",
+"Jackson Beck",
+"Mae Questel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0982451",
+"original_title": "Barbecue for Two",
+"overview": "Popeye wants to have a barbecue for two -- namely him and Olive. But Brutus, Wimpy and Swee' Pea all try to muscle in.",
+"poster": "https://image.tmdb.org/t/p/w342/uBq0hj6wRyJFg7YIA3THmcHhpNd.jpg",
+"runtime": 6,
+"title": "Barbecue for Two",
+"tmdb_id": 801986,
+"year": 1960
+},
+"802042": {
+"backdrop": null,
+"cast": [
+"Jack Mercer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt1279860",
+"original_title": "Popeye in the Grand Steeple Chase",
+"overview": "Popeye at the horse race track.",
+"poster": "https://image.tmdb.org/t/p/w342/dIushDeKjANJ3Qz194yHft5dZAI.jpg",
+"runtime": 6,
+"title": "Popeye in the Grand Steeple Chase",
+"tmdb_id": 802042,
+"year": 1960
+},
 "802780": {
 "backdrop": null,
 "cast": [
@@ -62703,6 +85174,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Precious Blood",
 "tmdb_id": 802780,
 "year": 1982
+},
+"804706": {
+"backdrop": null,
+"cast": [
+"Roko Belic",
+"Christopher Nolan"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Roko Belic",
+"Christopher Nolan"
+],
+"imdb_id": "tt6386408",
+"original_title": "Tarantella",
+"overview": "\"Tarantella\" was an early Super 8 short film directed by Christopher Nolan with his childhood friend Roko Belic. It was made in 1989 while Nolan was studying at University College London. The film aired on \"Image Union,\" a PBS programme in Chicago.  It is about the suffering of a young man while he has nightmare about spiders and demons.",
+"poster": "https://image.tmdb.org/t/p/w342/eqFhruWEIRwjkvqgJN48VPuR50Q.jpg",
+"runtime": 5,
+"title": "Tarantella",
+"tmdb_id": 804706,
+"year": 1990
 },
 "80486": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3WsbWwzkmbmQYuVtaUnPOujfbFY.jpg",
@@ -62825,6 +85319,23 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 806005,
 "year": 1995
 },
+"806348": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Riccardo Ghione",
+"Marco Ferreri"
+],
+"imdb_id": null,
+"original_title": "Documento mensile",
+"overview": "",
+"poster": null,
+"runtime": 14,
+"title": "Documento mensile",
+"tmdb_id": 806348,
+"year": 1951
+},
 "80655": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rSCg30yphMJapmyjHLEC6KCmyJ8.jpg",
 "cast": [
@@ -62901,33 +85412,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 8070,
 "year": 1978
 },
-"8071": {
-"backdrop": "https://image.tmdb.org/t/p/w780/uRElXqD7Dv4KypsnS1OReQS7iFO.jpg",
-"cast": [
-"Yves Montand",
-"Jane Fonda",
-"Vittorio Caprioli",
-"Elizabeth Chauvin",
-"Castel Casti",
-"Éric Chartier"
-],
-"countries": [
-"FR",
-"IT"
-],
-"directors": [
-"Jean-Luc Godard",
-"Jean-Pierre Gorin"
-],
-"imdb_id": "tt0069398",
-"original_title": "Tout va bien",
-"overview": "A strike at a French sausage factory contributes to the estrangement of a married filmmaker and his reporter wife.",
-"poster": "https://image.tmdb.org/t/p/w342/6mJssZAMmziBP6tIe4vGTdNjeIA.jpg",
-"runtime": 95,
-"title": "Tout Va Bien",
-"tmdb_id": 8071,
-"year": 1972
-},
 "80743": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oubWdMXPw63TZp1gH0MfKU9aYaZ.jpg",
 "cast": [
@@ -62949,6 +85433,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Susie, the Little Blue Coupe",
 "tmdb_id": 80743,
 "year": 1952
+},
+"8077": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
+"cast": [
+"Sigourney Weaver",
+"Charles S. Dutton",
+"Charles Dance",
+"Paul McGann",
+"Brian Glover",
+"Ralph Brown"
+],
+"countries": [
+"US"
+],
+"directors": [
+"David Fincher"
+],
+"imdb_id": "tt0103644",
+"original_title": "Alien³",
+"overview": "Lt. Ripleyer eneste overlevende når hennes vrak av et romskip lander på Fiorina 161, en gold ødemark bebodd av de tidligere fangene fra planetens fengsel for særlig farlige forbrytere.",
+"poster": "https://image.tmdb.org/t/p/w342/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+"runtime": 114,
+"title": "Alien³",
+"tmdb_id": 8077,
+"year": 1992
 },
 "8078": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
@@ -62992,6 +85501,45 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Country Cousin",
 "tmdb_id": 80927,
 "year": 1936
+},
+"809427": {
+"backdrop": null,
+"cast": [
+"Jackson Beck",
+"Jack Mercer",
+"Mae Questel"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0976936",
+"original_title": "Jeep Tale",
+"overview": "Popeye tells Swee'Pea the story of how Eugene the Jeep got his special powers. He tells a fairy tale about a mama jeep and her four children- three good girls and a mischievous boy named Jeepers. One day, they go to eat spinach in the good farmer's garden. Jeepers goes into the bad farmer's garden and eats weeds. The farmer catches Jeepers and locks him up, but mama rescues him that night. The next day, the bad farmer tries to chop down the jeep tree, but mama jeep foils him completely. Afterward, the good farmer invites them over for more spinach.",
+"poster": "https://image.tmdb.org/t/p/w342/cqgrjs2X0w2zOIbtei9a55yFGYg.jpg",
+"runtime": 6,
+"title": "Jeep Tale",
+"tmdb_id": 809427,
+"year": 1960
+},
+"809540": {
+"backdrop": null,
+"cast": [
+"Jack Mercer",
+"Mae Questel"
+],
+"countries": [],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0976940",
+"original_title": "Plumbers Pipe Dream",
+"overview": "Popeye's bungling attempts to fix Olive's faucet lead to an escalating series of disasters that culminate in flooding all of New York City.",
+"poster": "https://image.tmdb.org/t/p/w342/iq0nWypxLwrOrJ6Vj1KYShGVUPm.jpg",
+"runtime": 6,
+"title": "Plumbers Pipe Dream",
+"tmdb_id": 809540,
+"year": 1960
 },
 "81009": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cEKi2NlvzV3avL00XyZlwRfRBaT.jpg",
@@ -63058,6 +85606,168 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 811912,
 "year": 1978
 },
+"813168": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0250055",
+"original_title": "Tourrettes",
+"overview": "A short documentary produced for Canadian public television about the medieval village of Tourrettes-sur-Loup, where Cronenberg stayed in 1971 and had since been an honorary citizen, trying to become a novelist.",
+"poster": null,
+"runtime": 6,
+"title": "Tourrettes",
+"tmdb_id": 813168,
+"year": 1971
+},
+"813173": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249707",
+"original_title": "Letter from Michelangelo",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 6,
+"title": "Letter from Michelangelo",
+"tmdb_id": 813173,
+"year": 1971
+},
+"813178": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0067273",
+"original_title": "Jim Ritchie Sculptor",
+"overview": "The work of Montreal sculptor Jim Ritchie, living in France at the time. There is no narration but a music track accompanies this documentary for Canadian public television made by David Cronenberg while in France.",
+"poster": null,
+"runtime": 6,
+"title": "Jim Ritchie Sculptor",
+"tmdb_id": 813178,
+"year": 1971
+},
+"813183": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0250117",
+"original_title": "Winter Garden",
+"overview": "A recording of the eponymous ballet choreographed by Olga Roriz, produced for Canadian public television.",
+"poster": "https://image.tmdb.org/t/p/w342/5vuGyHwmN3973W27EFowjentcuO.jpg",
+"runtime": 27,
+"title": "Winter Garden",
+"tmdb_id": 813183,
+"year": 1972
+},
+"813233": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249941",
+"original_title": "Scarborough Bluffs",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 27,
+"title": "Scarborough Bluffs",
+"tmdb_id": 813233,
+"year": 1972
+},
+"813234": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249678",
+"original_title": "Lakeshore",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 27,
+"title": "Lakeshore",
+"tmdb_id": 813234,
+"year": 1972
+},
+"813236": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249595",
+"original_title": "In the Dirt",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 27,
+"title": "In the Dirt",
+"tmdb_id": 813236,
+"year": 1972
+},
+"813237": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249519",
+"original_title": "Fort York",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 27,
+"title": "Fort York",
+"tmdb_id": 813237,
+"year": 1972
+},
+"813238": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt0249479",
+"original_title": "Don Valley",
+"overview": "A short documentary produced for Canadian public television.",
+"poster": null,
+"runtime": 27,
+"title": "Don Valley",
+"tmdb_id": 813238,
+"year": 1972
+},
 "813350": {
 "backdrop": "https://image.tmdb.org/t/p/w780/54IWQLRB0W9eI54T7ldD1BGkCoP.jpg",
 "cast": [
@@ -63083,6 +85793,59 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Armide",
 "tmdb_id": 813350,
 "year": 1987
+},
+"81775": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4JmdWx4NZ8TuKxIa9m1Xcenzc1k.jpg",
+"cast": [
+"Enzo Jannacci",
+"Claudia Cardinale",
+"Ugo Tognazzi",
+"Michel Piccoli",
+"Vittorio Gassman",
+"Alain Cuny"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0067896",
+"original_title": "L'udienza",
+"overview": "Caustic satire on bureaucracy of the Vatican authority and a simple Italian who wants to achieve the audience with the Pope.",
+"poster": "https://image.tmdb.org/t/p/w342/twsQq5mmkN60sQkLr2aucZBr4qO.jpg",
+"runtime": 108,
+"title": "The Audience",
+"tmdb_id": 81775,
+"year": 1972
+},
+"81787": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i61amFTWkTWuO9AjmRiLOgOwu5M.jpg",
+"cast": [
+"Ornella Muti",
+"Hanna Schygulla",
+"Niels Arestrup",
+"Maurizio Donadoni",
+"Isabella Biagini",
+"Michele Bovenzi"
+],
+"countries": [
+"FR",
+"DE",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0087310",
+"original_title": "Il futuro è donna",
+"overview": "In this improbable, ponderous story about a couple who do not want to have children of their own, and a pregnant, single woman who needs a home for awhile, the relationship between the three is strange, at the very least.",
+"poster": "https://image.tmdb.org/t/p/w342/gGiwh3KGOvHSg1qv3VwR19Z8pju.jpg",
+"runtime": 99,
+"title": "The Future Is Woman",
+"tmdb_id": 81787,
+"year": 1984
 },
 "81831": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jhMk9aLhN0wLLFuzc5MfKxwzBP6.jpg",
@@ -63135,6 +85898,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 81836,
 "year": 2012
 },
+"81847": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1n6OeLYXzDZ5TnuyWj9ysatBDyv.jpg",
+"cast": [
+"Richard Barthelmess",
+"Douglas Fairbanks Jr.",
+"Neil Hamilton",
+"Frank McHugh",
+"Clyde Cook",
+"James Finlayson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0020815",
+"original_title": "The Dawn Patrol",
+"overview": "World War I ace Dick Courtney derides the leadership of his superior officer, but he soon is promoted to squadron commander and learns harsh lessons about sending subordinates to their deaths.",
+"poster": "https://image.tmdb.org/t/p/w342/rJQIJGOx1EMkPt0vkRGpEUuXvSw.jpg",
+"runtime": 108,
+"title": "The Dawn Patrol",
+"tmdb_id": 81847,
+"year": 1930
+},
 "81857": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yfTo3luM4pcfb8KYXJsbyLLs39i.jpg",
 "cast": [
@@ -63163,30 +85951,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 81857,
 "year": 2011
 },
-"8208": {
-"backdrop": "https://image.tmdb.org/t/p/w780/o9QuotgupLq34zYyzFrfd4TrimC.jpg",
+"819876": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sqdsuvy8X6Maila4IAc7deMtPAA.jpg",
 "cast": [
-"Leslie Banks",
-"Edna Best",
-"Peter Lorre",
-"Frank Vosper",
-"Hugh Wakefield",
-"Nova Pilbeam"
+"Viggo Mortensen",
+"Léa Seydoux",
+"Scott Speedman",
+"Kristen Stewart",
+"Welket Bungué",
+"Don McKellar"
 ],
 "countries": [
-"GB"
+"CA",
+"GR",
+"GB",
+"FR",
+"US"
 ],
 "directors": [
-"Alfred Hitchcock"
+"David Cronenberg"
 ],
-"imdb_id": "tt0025452",
-"original_title": "The Man Who Knew Too Much",
-"overview": "While vacationing in St. Moritz, a British couple receive a clue to an imminent assassination attempt, only to learn that their daughter has been kidnapped to keep them quiet.",
-"poster": "https://image.tmdb.org/t/p/w342/qghwbSfQblFYRFq675uK5qDGr3w.jpg",
-"runtime": 76,
-"title": "The Man Who Knew Too Much",
-"tmdb_id": 8208,
-"year": 1934
+"imdb_id": "tt14549466",
+"original_title": "Crimes of the Future",
+"overview": "With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. An investigator from the National Organ Registry obsessively tracks their movements, which is when a mysterious group is revealed... Their mission — to use Tenser's notoriety to shed light on the next phase of human evolution.",
+"poster": "https://image.tmdb.org/t/p/w342/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+"runtime": 107,
+"title": "Crimes of the Future",
+"tmdb_id": 819876,
+"year": 2022
 },
 "8214": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dqcXtv7k8WbM0R9Z6Pm1wUcCQiN.jpg",
@@ -63345,6 +86137,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 824016,
 "year": 2023
 },
+"82460": {
+"backdrop": "https://image.tmdb.org/t/p/w780/CPWrrsRFNolZrjZKPpx9xfOjM0.jpg",
+"cast": [
+"George Segal",
+"Jack Warden",
+"Joseph Wiseman",
+"Sorrell Booke",
+"Jessica Walter",
+"Phyllis Newman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0062768",
+"original_title": "Bye Bye Braverman",
+"overview": "One day, Morroe Rieff learns that his friend and fellow writer, Leslie Braverman, has died. After meeting Leslie's widow, Inez, who is more flirtatious than grieving, Morroe joins up with three other writer friends, Barnet, Felix, and Holly to attend funeral services. However, the quartet faces numerous obstacles that could keep them from paying their respects.",
+"poster": "https://image.tmdb.org/t/p/w342/yXj7VPwKuEa6OdlTq98jYaZoUVA.jpg",
+"runtime": 94,
+"title": "Bye Bye Braverman",
+"tmdb_id": 82460,
+"year": 1968
+},
+"82465": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nELEBktXi7wpAi1dS2P2kXFHDtq.jpg",
+"cast": [
+"James Mason",
+"Robert Preston",
+"Beau Bridges",
+"Ron Weyand",
+"Charles White",
+"David Rounds"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0068369",
+"original_title": "Child's Play",
+"overview": "Petter Reese returnerer som lærer til sin gamle skole og finner forholdene totalt forandret. Særlig skremmende er det at guttene mishandler hverandre på ulike vis, samtidig som de holder tett om hva som foregår. De to lærerne, Malley og Dobbs, beskylder hverandre gjensidig for å stå bak ondskapen.",
+"poster": "https://image.tmdb.org/t/p/w342/sOfwI5dzqTwFWQh40C86fjQz07M.jpg",
+"runtime": 100,
+"title": "Child's Play",
+"tmdb_id": 82465,
+"year": 1972
+},
 "8269": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jIR5W0htw4WWEU7vIIpRQMV87rC.jpg",
 "cast": [
@@ -63422,6 +86264,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 8288,
 "year": 1982
 },
+"829921": {
+"backdrop": null,
+"cast": [
+"Jack Warden",
+"Michael Allen",
+"Arthur Cassell",
+"Andrew Duggan"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt3578542",
+"original_title": "The Challenge",
+"overview": "A school bus driver is dismissed by his local school board after refusing to sign a loyalty oath. Produced with assistance from the Fund for the Republic, this unsold television pilot presents the case as an open-ended civic drama, challenging viewers to consider how they would vote.",
+"poster": "https://image.tmdb.org/t/p/w342/46B1HQBcvKyh5PpCU8pp8Wos7hW.jpg",
+"runtime": 28,
+"title": "The Challenge",
+"tmdb_id": 829921,
+"year": 1955
+},
 "829935": {
 "backdrop": null,
 "cast": [
@@ -63467,6 +86332,108 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 830801,
 "year": 1963
 },
+"83099": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m8crLdBzIGGnL6L0aPXj3IV4z5k.jpg",
+"cast": [
+"William Holden",
+"Eleanor Parker",
+"John Forsythe",
+"William Demarest",
+"William Campbell",
+"Polly Bergen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0045737",
+"original_title": "Escape from Fort Bravo",
+"overview": "A Southern belle frees a Rebel officer and his men from a Union captain's Arizona fort.",
+"poster": "https://image.tmdb.org/t/p/w342/dWOpEeHS7ACISCdKE2k0N12zZyO.jpg",
+"runtime": 99,
+"title": "Escape from Fort Bravo",
+"tmdb_id": 83099,
+"year": 1953
+},
+"8324": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eV3ad3ALbIVwfKvLgw2f3T79zxh.jpg",
+"cast": [
+"Greg Kinnear",
+"Bobby Cannavale",
+"Paul Dano",
+"Luis Guzmán",
+"Ashley Johnson",
+"Kris Kristofferson"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0460792",
+"original_title": "Fast Food Nation",
+"overview": "A dramatised examination of the health issues and social consequences of America's love affair with fast food.",
+"poster": "https://image.tmdb.org/t/p/w342/vcRgWIj4p6FtezgZTl4YoxYbSJ7.jpg",
+"runtime": 116,
+"title": "Fast Food Nation",
+"tmdb_id": 8324,
+"year": 2006
+},
+"83343": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tUIYW2sSWy4plbqgEmJPfKVk8Vf.jpg",
+"cast": [
+"Marcello Mastroianni",
+"Catherine Deneuve",
+"Michel Piccoli",
+"Philippe Noiret",
+"Ugo Tognazzi",
+"Paolo Villaggio"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0072305",
+"original_title": "Touche pas à la femme blanche",
+"overview": "A highly stylized surreal farce about the events leading up to Custer's Last Stand anachronistically reenacted in an urban renewal area in modern Paris.",
+"poster": "https://image.tmdb.org/t/p/w342/e17CdsK2fsSGYjwfI6LbC9NmMaT.jpg",
+"runtime": 108,
+"title": "Don't Touch the White Woman!",
+"tmdb_id": 83343,
+"year": 1974
+},
+"83346": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xrnZPAfzgc8l9DxEuKCtaGYGHgC.jpg",
+"cast": [
+"Richard Linklater",
+"Daniel Johnston",
+"James Goodwin",
+"Dan Kratochvil",
+"Linda Finney",
+"Tracy Crabtree"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0095385",
+"original_title": "It's Impossible to Learn to Plow by Reading Books",
+"overview": "A nameless young man travels the country by bus and train, visiting friends and making new ones, having banal conversations, and dedicating his existence to mundane activities.",
+"poster": "https://image.tmdb.org/t/p/w342/npL7AhufNjyLHNuTS12Sl6ZQHNi.jpg",
+"runtime": 85,
+"title": "It's Impossible to Learn to Plow by Reading Books",
+"tmdb_id": 83346,
+"year": 1988
+},
 "83489": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dkDMCd9ma7PssUWH9HsrmmTMCiI.jpg",
 "cast": [
@@ -63511,6 +86478,73 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 835029,
 "year": 2002
 },
+"83533": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+"cast": [
+"Sam Worthington",
+"Zoe Saldaña",
+"Sigourney Weaver",
+"Stephen Lang",
+"Oona Chaplin",
+"Jack Champion"
+],
+"countries": [
+"US"
+],
+"directors": [
+"James Cameron"
+],
+"imdb_id": "tt1757678",
+"original_title": "Avatar: Fire and Ash",
+"overview": "I kjølvannet av den ødeleggende krigen mot RDA og tapet av deres eldste sønn, står Jake Sully og Neytiri overfor en ny trussel på Pandora: Askefolket, en voldelig og maktsulten Na'vi-stamme ledet av den nådeløse Varang. Jakes familie må kjempe for sin overlevelse og for Pandoras fremtid i en konflikt som presser dem til sine følelsesmessige og fysiske grenser.",
+"poster": "https://image.tmdb.org/t/p/w342/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+"runtime": 198,
+"title": "Avatar: Fire and Ash",
+"tmdb_id": 83533,
+"year": 2025
+},
+"8358": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+"cast": [
+"Tom Hanks",
+"Helen Hunt",
+"Nick Searcy",
+"Jenifer Lewis",
+"Geoffrey Blake",
+"Peter Von Berg"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0162222",
+"original_title": "Cast Away",
+"overview": "Chuck, en internasjonal leder for FedEx, og Kelly, en Ph.D. student, er forelsket og forholdet går mot ekteskap. Men Chucks fly til Malaysia styrter i sjøen i en forferdelig storm. Han er den eneste overlevende, og strandet på en liten øy uten en eneste ting, bortsett fra noe drivgods fra flyets last.",
+"poster": "https://image.tmdb.org/t/p/w342/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+"runtime": 143,
+"title": "Cast Away",
+"tmdb_id": 8358,
+"year": 2000
+},
+"836882": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oUN0ON64rY8YgbyH40ch4RY7YNm.jpg",
+"cast": [],
+"countries": [],
+"directors": [
+"Imraan Ismail",
+"Kathryn Bigelow"
+],
+"imdb_id": "tt6075918",
+"original_title": "The Protectors",
+"overview": "A short VR documentary exposing the dangerous and grueling reality faced by rangers protecting African elephants from ivory poachers. Over 30,000 African elephants die each year at the hands of poachers, and despite global outcry the trafficking continues. The biggest key to saving these elephants from extinction is the rangers working on the ground within Africa's national parks.",
+"poster": "https://image.tmdb.org/t/p/w342/AcjYOHd2OakNhzs6Q5aA6l2kEfM.jpg",
+"runtime": 8,
+"title": "The Protectors",
+"tmdb_id": 836882,
+"year": 2017
+},
 "83726": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hCVZweDh7gvsrHsDieWD6ljg0Yf.jpg",
 "cast": [
@@ -63535,6 +86569,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Beyond Therapy",
 "tmdb_id": 83726,
 "year": 1987
+},
+"8373": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bH1bhjn37uA1zOPvyHbzJSvza7v.jpg",
+"cast": [
+"Shia LaBeouf",
+"Megan Fox",
+"Peter Cullen",
+"Hugo Weaving",
+"Tony Todd",
+"Josh Duhamel"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt1055369",
+"original_title": "Transformers: Revenge of the Fallen",
+"overview": "Sam Witwicky er nybakt college-student. Men da han får vite sannheten om Tranformers' opprinnelse, må han akseptere sin skjebne og bli med Optimus Prime og Bumblebee i den historiske kampen mot Decepticons. De har nemlig vendt tilbake sterkere enn noensinne for å tilintetgjøre vår verden.",
+"poster": "https://image.tmdb.org/t/p/w342/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",
+"runtime": 150,
+"title": "Transformers: Revenge of the Fallen",
+"tmdb_id": 8373,
+"year": 2009
 },
 "8388": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sBt6tZpyzgZxc7woBn6vhyHEX1u.jpg",
@@ -63606,6 +86665,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 84038,
 "year": 1932
 },
+"840430": {
+"backdrop": "https://image.tmdb.org/t/p/w780/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+"cast": [
+"Paul Giamatti",
+"Dominic Sessa",
+"Da'Vine Joy Randolph",
+"Carrie Preston",
+"Brady Hepner",
+"Ian Dolley"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alexander Payne"
+],
+"imdb_id": "tt14849194",
+"original_title": "The Holdovers",
+"overview": "Satt til 70-tallet ved Barton Academy, møter vi den gretne læreren Paul Hunham, mislikt av både kolleger og elever. Paul blir valgt til å bli igjen på campus over juleferien, for å passe på et fåtall elever som ikke får reist hjem til jul. I løpet av denne perioden møter han utfordringer med den utagerende eleven, Angus, som sliter med tapet av sin far.",
+"poster": "https://image.tmdb.org/t/p/w342/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+"runtime": 133,
+"title": "The Holdovers",
+"tmdb_id": 840430,
+"year": 2023
+},
 "8410": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6IDCYlcFAKgmEoSczfTxcYsVHep.jpg",
 "cast": [
@@ -63635,6 +86719,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Wild Blue Yonder",
 "tmdb_id": 8410,
 "year": 2005
+},
+"84208": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xv4tkhvQGMwNTRKsWcAzelQkJtf.jpg",
+"cast": [
+"James Cagney",
+"Pat O'Brien",
+"June Travis",
+"Stuart Erwin",
+"Barton MacLane",
+"Henry Wadsworth"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Howard Hawks"
+],
+"imdb_id": "tt0026191",
+"original_title": "Ceiling Zero",
+"overview": "War veteran pilots Dizzy Davis, Texas Clark and Jake Lee are working in an airline. Dizzy is fooling with one of the younger pilot's girl-friend and due to this he changes flights with Texas.",
+"poster": "https://image.tmdb.org/t/p/w342/yUsasw5UCRbebpD8wk6S0z4C1Ll.jpg",
+"runtime": 95,
+"title": "Ceiling Zero",
+"tmdb_id": 84208,
+"year": 1936
+},
+"84278": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ucSm33teUWa7Xm09qy6oygojnwu.jpg",
+"cast": [
+"Candice Bergen",
+"Joan Hackett",
+"Elizabeth Hartman",
+"Shirley Knight",
+"Joanna Pettet",
+"Mary-Robin Redd"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0060479",
+"original_title": "The Group",
+"overview": "It's 1933, and eight young women are friends and members of the upper-class group at a private girl's school, about to graduate and start their own lives. The film documents the years between their graduation and the beginning of the World War in Europe, and shows, in a serialized style, their romances and marriages, their searches for careers or meaning in their lives, their highs and their lows.",
+"poster": "https://image.tmdb.org/t/p/w342/ffwoXYG4TBNxAN5soVcIUoxk9e5.jpg",
+"runtime": 152,
+"title": "The Group",
+"tmdb_id": 84278,
+"year": 1966
 },
 "84298": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lEbxTnpp7dj8Cwm6YjWR9kNaAoN.jpg",
@@ -63686,6 +86820,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 8469,
 "year": 1978
 },
+"84701": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ziDIqBWRSWtP13YkRvCfoGBCTWb.jpg",
+"cast": [
+"Mark W. Clark",
+"John Huston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0036630",
+"original_title": "The Battle of San Pietro",
+"overview": "This documentary movie is about the battle of San Pietro, a small village in Italy. Over 1,100 US soldiers were killed while trying to take this location, that blocked the way for the Allied forces from the Germans.  Preserved by the Academy Film Archive in 2005.",
+"poster": "https://image.tmdb.org/t/p/w342/8JmUoqqdHKfbMUcRKHdca5x6fIU.jpg",
+"runtime": 38,
+"title": "The Battle of San Pietro",
+"tmdb_id": 84701,
+"year": 1945
+},
 "848617": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lVZRKPYt2G8C8YqzFmmnLCLdesy.jpg",
 "cast": [
@@ -63710,6 +86865,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Big Punch",
 "tmdb_id": 848617,
 "year": 1921
+},
+"849116": {
+"backdrop": null,
+"cast": [
+"Amalia Aguilar"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Russ Meyer"
+],
+"imdb_id": "tt3222092",
+"original_title": "Afro Mood Burlesque",
+"overview": "A burlesque short starring Amalia Aguilar. Part of \"Joe Bonica presents the Movie of the Month\" nudie film series.",
+"poster": "https://image.tmdb.org/t/p/w342/6BhOQrwopFgw1LCBrtKiPKYOeKx.jpg",
+"runtime": 3,
+"title": "Afro Mood Burlesque",
+"tmdb_id": 849116,
+"year": 1947
 },
 "849989": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3MOM2elcW9q3s4T39Nsz1bOmRo9.jpg",
@@ -63771,6 +86946,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Happier Than Ever: A Love Letter to Los Angeles",
 "tmdb_id": 853088,
 "year": 2021
+},
+"85420": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jrVELg88uxw1scWJD0N5pZ657LF.jpg",
+"cast": [
+"George C. Scott",
+"Trish Van Devere",
+"Red Buttons",
+"Eli Wallach",
+"Harry Hamlin",
+"Ann Reinking"
+],
+"countries": [
+"US",
+"GB"
+],
+"directors": [
+"Stanley Donen"
+],
+"imdb_id": "tt0077952",
+"original_title": "Movie Movie",
+"overview": "Three movie genres of the 1930s, boxing films, WWI aviation dramas, and backstage Broadway musicals, are satirized using the same cast.",
+"poster": "https://image.tmdb.org/t/p/w342/ibbixbVqqAcs2fot7dUcyOALFsD.jpg",
+"runtime": 108,
+"title": "Movie Movie",
+"tmdb_id": 85420,
+"year": 1978
 },
 "854488": {
 "backdrop": null,
@@ -63944,6 +87145,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 85830,
 "year": 1965
 },
+"85910": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3qb3rd81UamwWtHENmApACxsQ9E.jpg",
+"cast": [
+"Mick Jagger",
+"Charlie Watts",
+"Bill Wyman",
+"Keith Richards",
+"Ronnie Wood"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hal Ashby"
+],
+"imdb_id": "tt0084242",
+"original_title": "Let's Spend the Night Together",
+"overview": "The Rolling Stones' record-breaking 1981 North American arena tour documented by director Hal Ashby. Featuring the biggest Rolling Stones songs from the first 20 years - in the words of Mick Jagger, \"a feel of what it's like to be there\", as 20 cameras take you onstage with the band in this groundbreaking, dynamic tour.",
+"poster": "https://image.tmdb.org/t/p/w342/asaEIVlajTldqznHI8YA8AhS0Pe.jpg",
+"runtime": 94,
+"title": "Let's Spend the Night Together",
+"tmdb_id": 85910,
+"year": 1982
+},
+"85917": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xZppdRehhJSz5nnx2gR0TAq1pnx.jpg",
+"cast": [
+"Billy Bletcher",
+"Dessie Flynn",
+"James MacDonald"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt0047187",
+"original_title": "The Lone Chipmunks",
+"overview": "In this Lone-Ranger spoof, a cleaned-up version of Pegleg Pete robs a western bank and makes his getaway, and decides to hide his loot in a tree inhabited by two chipmunks, the chattering-and-clattering Chip 'n' Dale. They resent the intrusion but really begin to give Pete a hard time when they discover a reward if posted for his capture. The cavalry arrives but Chip 'n' Dale have the situation well in hand.",
+"poster": "https://image.tmdb.org/t/p/w342/hWVbrnzyGbtilbb9OHa70kGdpxu.jpg",
+"runtime": 7,
+"title": "The Lone Chipmunks",
+"tmdb_id": 85917,
+"year": 1954
+},
 "859235": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
 "cast": [
@@ -63970,6 +87217,55 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Coup de chance",
 "tmdb_id": 859235,
 "year": 2023
+},
+"861": {
+"backdrop": "https://image.tmdb.org/t/p/w780/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
+"cast": [
+"Arnold Schwarzenegger",
+"Rachel Ticotin",
+"Sharon Stone",
+"Michael Ironside",
+"Marshall Bell",
+"Michael Champion"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0100802",
+"original_title": "Total Recall",
+"overview": "Året er 2048, og et sted på jorden plages Douglas Quaid av tilbakevendende drømmer om et annet liv på Mars. Han oppsøker bedriften Rekall, et reiseselskap som kan implantere fantasier hos mennesker som ønsker å gjøre drømmer til virkelighet. Drømmer like virkelige som et minne i hjernen. Men noe går galt, og prosessen vekker minner som skulle ha forblitt skjult ...",
+"poster": "https://image.tmdb.org/t/p/w342/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+"runtime": 113,
+"title": "Total Recall",
+"tmdb_id": 861,
+"year": 1990
+},
+"86114": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6VLyIpZyUd6PfUf2HuylssOVa1q.jpg",
+"cast": [
+"James Stewart",
+"Robert Lowery",
+"Lloyd Bridges",
+"Eugene Kern"
+],
+"countries": [
+"US"
+],
+"directors": [
+"William Wyler",
+"John Sturges"
+],
+"imdb_id": "tt0038171",
+"original_title": "Thunderbolt",
+"overview": "Documentary about the U.S. Air Force's P-47 Thunderbolt bomber's role in the Italian Campaign during WW2.",
+"poster": "https://image.tmdb.org/t/p/w342/d7bJCzGC4LHX0ptxjcP9KkaxcUe.jpg",
+"runtime": 44,
+"title": "Thunderbolt",
+"tmdb_id": 86114,
+"year": 1947
 },
 "8619": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
@@ -64070,6 +87366,35 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bringing Out the Dead",
 "tmdb_id": 8649,
 "year": 1999
+},
+"8665": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vhGmRg0RyTwpoPsLpGHtqOcsGSI.jpg",
+"cast": [
+"Harrison Ford",
+"Liam Neeson",
+"Peter Sarsgaard",
+"Joss Ackland",
+"John Shrapnel",
+"Donald Sumpter"
+],
+"countries": [
+"CA",
+"DE",
+"RU",
+"GB",
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0267626",
+"original_title": "K-19: The Widowmaker",
+"overview": "Når Russlands første kjernefysiske ubåt svikter på jomfruturen, må mannskapet haste for å redde ubåten og forhindre en atomkatastrofe.",
+"poster": "https://image.tmdb.org/t/p/w342/vImR0HQkJs7Xs2qgdXEUDeX49m0.jpg",
+"runtime": 138,
+"title": "K-19: The Widowmaker",
+"tmdb_id": 8665,
+"year": 2002
 },
 "8672": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rsNlLP0LKa20YG3NGS0KmMNOyGP.jpg",
@@ -64198,34 +87523,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 86828,
 "year": 2015
 },
-"86829": {
-"backdrop": "https://image.tmdb.org/t/p/w780/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
-"cast": [
-"Oscar Isaac",
-"Carey Mulligan",
-"Justin Timberlake",
-"Ethan Phillips",
-"Robin Bartlett",
-"Max Casella"
-],
-"countries": [
-"FR",
-"GB",
-"US"
-],
-"directors": [
-"Joel Coen",
-"Ethan Coen"
-],
-"imdb_id": "tt2042568",
-"original_title": "Inside Llewyn Davis",
-"overview": "En hjemløs folkesanger søker suksess i Greenwich Village på begynnelsen av 1960-tallet, men møter motgang, skuffelser og en hard vinter. Senere tar han en biltur til Chicago i håp om å imponere en klubbeier som kan hjelpe ham til hans store gjennombrudd.",
-"poster": "https://image.tmdb.org/t/p/w342/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
-"runtime": 105,
-"title": "Inside Llewyn Davis",
-"tmdb_id": 86829,
-"year": 2013
-},
 "86835": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8tupHJ6SDmOHPaeLaEQ2W58Xwlj.jpg",
 "cast": [
@@ -64327,30 +87624,25 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 86942,
 "year": 1980
 },
-"87": {
-"backdrop": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+"86990": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dJxxKv6eGBNRGVGlMEuO3J8EoNC.jpg",
 "cast": [
-"Harrison Ford",
-"Kate Capshaw",
-"Ke Huy Quan",
-"Amrish Puri",
-"Roshan Seth",
-"Philip Stone"
+"Walter Huston"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Steven Spielberg"
+"John Huston"
 ],
-"imdb_id": "tt0087469",
-"original_title": "Indiana Jones and the Temple of Doom",
-"overview": "Handlingen i De Fordømtes Tempel finner sted et år eller to før \"Jakten På Den Forsvunne Skatten\". Indiana Jones befinner seg denne gangen i India, og får i oppdrag å finne en dyrebar edelsten og samtidig redde flere unge gutter som er kidnappet fra en avsidesliggende landsby.",
-"poster": "https://image.tmdb.org/t/p/w342/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
-"runtime": 118,
-"title": "Indiana Jones and the Temple of Doom",
-"tmdb_id": 87,
-"year": 1984
+"imdb_id": "tt0038687",
+"original_title": "Let There Be Light",
+"overview": "The final entry in a trilogy of films produced for the U.S. government by John Huston. Some returning combat veterans suffer scars that are more psychological than physical. This film follows patients and staff during their treatment. It deals with what would now be called PTSD, but at the time was categorised as psychoneurosis or shell-shock. Government officials deemed this 1946 film counterproductive to postwar efforts; it was not shown publicly until 1981.",
+"poster": "https://image.tmdb.org/t/p/w342/wgcAMb5BLKFANzTDfKwnxeH1kYA.jpg",
+"runtime": 58,
+"title": "Let There Be Light",
+"tmdb_id": 86990,
+"year": 1946
 },
 "87093": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qis71iUABx2eTxN9FzOnLbnJ2OA.jpg",
@@ -64393,6 +87685,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Il provino",
 "tmdb_id": 871955,
 "year": 1965
+},
+"872585": {
+"backdrop": "https://image.tmdb.org/t/p/w780/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+"cast": [
+"Cillian Murphy",
+"Emily Blunt",
+"Matt Damon",
+"Robert Downey Jr.",
+"Florence Pugh",
+"Josh Hartnett"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Christopher Nolan"
+],
+"imdb_id": "tt15398776",
+"original_title": "Oppenheimer",
+"overview": "Historien om den amerikanske forskeren J. Robert Oppenheimer og hans rolle i utviklingen av atombomben.",
+"poster": "https://image.tmdb.org/t/p/w342/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+"runtime": 181,
+"title": "Oppenheimer",
+"tmdb_id": 872585,
+"year": 2023
 },
 "873": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
@@ -64444,6 +87762,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 8749,
 "year": 1987
 },
+"87502": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lKaBnmdtFlyec6SGBLbdwXSrrRi.jpg",
+"cast": [
+"Denzel Washington",
+"Don Cheadle",
+"Kelly Reilly",
+"John Goodman",
+"Bruce Greenwood",
+"Brian Geraghty"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt1907668",
+"original_title": "Flight",
+"overview": "Whip Whitaker - en erfaren pilot som på mirakuløst vis lander et passasjerfly som får problemer i luften, og dermed redder nesten alle livene om bord. Etter krasjet hylles Whip som en helt, men jo flere opplysninger som kommer for dagen, dess vanskeligere blir det å avgjøre hvem som egentlig hadde skylden for at flyet styrtet.",
+"poster": "https://image.tmdb.org/t/p/w342/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+"runtime": 138,
+"title": "Flight",
+"tmdb_id": 87502,
+"year": 2012
+},
+"875425": {
+"backdrop": null,
+"cast": [
+"David Cronenberg"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"Caitlin Cronenberg",
+"David Cronenberg"
+],
+"imdb_id": "tt15482624",
+"original_title": "The Death of David Cronenberg",
+"overview": "David Cronenberg stands in a softly lit bedroom and looks deeply into the camera before his gaze shifts to a motionless figure in the bed...",
+"poster": "https://image.tmdb.org/t/p/w342/kUqPIwr11iDdzMl09F9UEKqbfWk.jpg",
+"runtime": 1,
+"title": "The Death of David Cronenberg",
+"tmdb_id": 875425,
+"year": 2023
+},
 "87589": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g3Zgd4Kr0N1qH6FifvLi4I9a20U.jpg",
 "cast": [
@@ -64487,6 +87851,55 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fellini's TV Advertisements",
 "tmdb_id": 876319,
 "year": 2003
+},
+"8764": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+"cast": [
+"Val Kilmer",
+"Lucy Gutteridge",
+"Peter Cushing",
+"Jeremy Kemp",
+"Christopher Villiers",
+"Warren Clarke"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Jim Abrahams",
+"Jerry Zucker",
+"David Zucker"
+],
+"imdb_id": "tt0088286",
+"original_title": "Top Secret!",
+"overview": "Kultkomedie som friskt parodierer såvel Elvis-musikaler som spionfilmer i skyggen av den kalde krigen. Filmdebutanten Val Kilmer spiller den amerikanske rockesangeren Nick Rivers som kommer til Øst-Tyskland for å opptre, og blir dratt inn i den franske motstandsbevegelsen.",
+"poster": "https://image.tmdb.org/t/p/w342/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+"runtime": 90,
+"title": "Top Secret!",
+"tmdb_id": 8764,
+"year": 1984
+},
+"877268": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dkQL7x7rCSVhEovq5zxq8WWC8T3.jpg",
+"cast": [
+"Ben Burtt",
+"Elissa Knight"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Andrew Stanton"
+],
+"imdb_id": "tt14055868",
+"original_title": "WALL·E's Treasures & Trinkets",
+"overview": "Short vignettes featured as a DVD Extra Short.",
+"poster": "https://image.tmdb.org/t/p/w342/pJfm3EggGLZToce08Obf7HQHXrP.jpg",
+"runtime": 5,
+"title": "WALL·E's Treasures & Trinkets",
+"tmdb_id": 877268,
+"year": 2008
 },
 "8773": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uJlc4aNPF3Y8yAqahJTKBwgwPVW.jpg",
@@ -64568,6 +87981,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Great Cat Family",
 "tmdb_id": 879012,
 "year": 1956
+},
+"881": {
+"backdrop": "https://image.tmdb.org/t/p/w780/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+"cast": [
+"Tom Cruise",
+"Jack Nicholson",
+"Demi Moore",
+"Kevin Bacon",
+"Kevin Pollak",
+"James Marshall"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0104257",
+"original_title": "A Few Good Men",
+"overview": "To unge marinesoldater blir tiltalt for drapet på en medsoldat under en såkalt \"straffeaksjon\" – en ulovlig disiplinærstraff. Offeret hadde brutt kommandokjeden og sin æreskodeks ved å sende et brev til sin eksterne base, hvor han truet med å avsløre lovbrudd på basen. Løytnant Kaffee, en ung og uerfaren advokat fra forsvarets justisavdeling, blir satt til å forsvare dem i håp om et raskt forlik og at man skal unngå skandale. Men saken stinker av korrupsjon, og Kaffee starter en grundig etterforskning sammen kapteinløytnant Joanne Galloway. En undersøkelse som langsom løfter sløret for drap, maktmisbruk og korrupsjon i elite-offiserenes rekker...",
+"poster": "https://image.tmdb.org/t/p/w342/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+"runtime": 138,
+"title": "A Few Good Men",
+"tmdb_id": 881,
+"year": 1992
 },
 "882569": {
 "backdrop": "https://image.tmdb.org/t/p/w780/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
@@ -64670,6 +88108,60 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 88271,
 "year": 1932
 },
+"8880": {
+"backdrop": "https://image.tmdb.org/t/p/w780/d752ELVYYWdfqFpyq6tJmHfPKMk.jpg",
+"cast": [
+"Benicio del Toro",
+"Carlos Bardem",
+"Demián Bichir",
+"Joaquim de Almeida",
+"Pablo Durán",
+"Eduard Fernández"
+],
+"countries": [
+"US",
+"ES",
+"FR"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0374569",
+"original_title": "Che: Part Two",
+"overview": "Etter den cubanske revolusjonen er Che på høyden av sin berømthet og makt. Så går han under jorda, men dukker opp igjen inkognito i Bolivia hvor han samler og organiserer en liten gruppe med cubanske kamerater og bolivianske rekrutter for å starte den store latinamerikanske revolusjonen. Historien om den bolivianske kampen er en fortelling om utholdenhet, offer, idealisme og en geriljakrigføring som til slutt feiler, og betyr slutten for Che. Gjennom denne historien skjønner vi hvorfor Che har forblitt et symbol på idealisme og heltedåd for folk rundt hele kloden.",
+"poster": "https://image.tmdb.org/t/p/w342/fKQwwWXYQNkrZa59VbnfVy2kfoF.jpg",
+"runtime": 135,
+"title": "Che: Part Two",
+"tmdb_id": 8880,
+"year": 2008
+},
+"8881": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wWschc3KS0Fe2Rk01KR2tbFWmmL.jpg",
+"cast": [
+"Benicio del Toro",
+"Demián Bichir",
+"Santiago Cabrera",
+"Vladimir Cruz",
+"Alfredo de Quesada",
+"Jsu Garcia"
+],
+"countries": [
+"US",
+"ES",
+"FR"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt0892255",
+"original_title": "Che: Part One",
+"overview": "26 November,1956. Fidel Castro seiler til Cuba sammen med 80 opprørere. En av disse rebellene er Ernesto “Che” Guevara, en argentinsk doktor som deler samme mål som Fidel Castro: Å felle det korrupte diktaturet til Fulgencio Batista. Che viser seg å være en uunnværlig kriger og lærer seg raskt kunsten å utøve geriljakrigføring. Etter hvert som han kaster seg inn i kampen, blir Che tatt godt imot av sine kamerater og det Cubanske folket. Denne filmen følger Che sin vei fra doktor til opprørsstyrkenes leder til bli en helt av revolusjonen.",
+"poster": "https://image.tmdb.org/t/p/w342/jWgPiVTmJsHWKVjAy2gvSFUH9yA.jpg",
+"runtime": 134,
+"title": "Che: Part One",
+"tmdb_id": 8881,
+"year": 2008
+},
 "8886": {
 "backdrop": "https://image.tmdb.org/t/p/w780/afi32ruadygPhNfhgwgAO4jXOvL.jpg",
 "cast": [
@@ -64725,30 +88217,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 88893,
 "year": 1991
 },
-"89": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+"88912": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uw4Lb9F5OaMqzuiHGhhy6PA53r4.jpg",
 "cast": [
-"Harrison Ford",
-"Sean Connery",
-"Denholm Elliott",
-"Alison Doody",
-"John Rhys-Davies",
-"Julian Glover"
+"Burt Lancaster",
+"Judy Garland",
+"Gena Rowlands",
+"Steven Hill",
+"Paul Stewart",
+"Gloria McGehee"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Steven Spielberg"
+"John Cassavetes"
 ],
-"imdb_id": "tt0097576",
-"original_title": "Indiana Jones and the Last Crusade",
-"overview": "I den originale trilogiens siste film møter vi først en ung Indiana Jones og får blant annet en forklaring på heltens legendariske frykt for slanger. Tilbake i \"nåtiden\" blir Jones kontaktet av en kunstsamler som foreslår at han skal finne den hellige gralen. Det viser seg at en annen arkeolog også er på jakt etter det samme relikviet, og at vedkommende har forsvunnet under jakten. Når Indiana Jones finner ut at denne arkeologen er hans egen far, tar han opp letingen - men arbeidet blir ikke akkurat lettere når han stilles overfor en hemmelig naziagent.",
-"poster": "https://image.tmdb.org/t/p/w342/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
-"runtime": 127,
-"title": "Indiana Jones and the Last Crusade",
-"tmdb_id": 89,
-"year": 1989
+"imdb_id": "tt0056930",
+"original_title": "A Child Is Waiting",
+"overview": "Dr. Matthew Clark is the head of a state institution for intellectually disabled children. Jean Hansen, a former music teacher anxious to give her life some meaning, joins the staff of the hospital. Jean, who tries to shelter the children with her love, suspiciously regards Dr. Clark's stern training methods. She becomes emotionally involved with 12-year-old Reuben Widdicombe, who has been abandoned by his divorced parents.",
+"poster": "https://image.tmdb.org/t/p/w342/A4T7rPZRgvE96ZT9qJuyNnGm0No.jpg",
+"runtime": 102,
+"title": "A Child Is Waiting",
+"tmdb_id": 88912,
+"year": 1963
 },
 "8908": {
 "backdrop": "https://image.tmdb.org/t/p/w780/l8GCuwL1mlcPBBZmlu3xbIrUFJK.jpg",
@@ -64772,6 +88264,53 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Maradona by Kusturica",
 "tmdb_id": 8908,
 "year": 2008
+},
+"890998": {
+"backdrop": null,
+"cast": [
+"Eric Allan",
+"Gillian Joyce",
+"Keith Washington"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Mike Leigh"
+],
+"imdb_id": "tt1732439",
+"original_title": "A Mug's Game?",
+"overview": "Transmitted as part of BBC Schools series Scene, 8 March 1973. Actor improvisations around the theme of gambling devised by Mike Leigh.",
+"poster": "https://image.tmdb.org/t/p/w342/owdPrqi3b2O25WOMlNoTKMSpQYF.jpg",
+"runtime": 21,
+"title": "A Mug's Game?",
+"tmdb_id": 890998,
+"year": 1973
+},
+"891699": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
+"cast": [
+"Joel Kinnaman",
+"Kid Cudi",
+"Harold Torres",
+"Catalina Sandino Moreno",
+"Valeria Santaella",
+"Vinny O'Brien"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt15799866",
+"original_title": "Silent Night",
+"overview": "En far blir vitne til sin unge sønns død da han havner i kryssilden under et gjengoppgjør. Han gjør hevn til sin livsoppgave og vil gjøre hva som helst for å ta hevn over de som drepte sønnen hans.",
+"poster": "https://image.tmdb.org/t/p/w342/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg",
+"runtime": 104,
+"title": "Silent Night",
+"tmdb_id": 891699,
+"year": 2023
 },
 "8938": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hUpP1NUVKCg66xFBWjSSxaLzJx9.jpg",
@@ -64802,6 +88341,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Tokyo!",
 "tmdb_id": 8938,
 "year": 2008
+},
+"89417": {
+"backdrop": "https://image.tmdb.org/t/p/w780/OzNsx699wvILAWZpC0ALvhIPnq.jpg",
+"cast": [
+"Tom Smothers",
+"John Astin",
+"Susanne Zenor",
+"Samantha Jones",
+"Allen Garfield",
+"Katharine Ross"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0068637",
+"original_title": "Get to Know Your Rabbit",
+"overview": "A young businessman goes to a magic expert to learn hardness and skill with his cynical and greedy collaborators. He becomes a very good tap dancer, but will he be able to get free of his old boss?",
+"poster": "https://image.tmdb.org/t/p/w342/tj3xzcFBbcmcrq4j0ZyjZhlN5AS.jpg",
+"runtime": 91,
+"title": "Get to Know Your Rabbit",
+"tmdb_id": 89417,
+"year": 1972
 },
 "89462": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pY688uD1bSQaVthnzqNOsE5HAJH.jpg",
@@ -64854,6 +88418,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Vladimir and Rosa",
 "tmdb_id": 89494,
 "year": 1971
+},
+"8961": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+"cast": [
+"Martin Lawrence",
+"Will Smith",
+"Jordi Mollà",
+"Gabrielle Union",
+"Peter Stormare",
+"Theresa Randle"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt0172156",
+"original_title": "Bad Boys II",
+"overview": "Superstjernene Martin Lawrence og Will Smith gjenforenes i suksessoppfølgeren Bad Boys II som de ukontrollerte, gale og kjappe superpolitimennne. Bad Boys II er en fullspekket actionfilm med de villeste biljaktene som noensinne er vist på film. Kiler hviner, biler kræsjer og det er fartsfylt til randen når de jakter på en narkokonge fra Miamis gater til Cubas ghettoer. Det blir i tillegg ekstra hett når Lawrence merker at playboyen Smith i all hemmelighet går ut med hans sexy søster Gabrielle Union. Regissøren Michael Bay og produsenten Jerry Bruckheimer har her sammen skapt en rask og eksplosiv knallsuksess som får det til å miste pusten!",
+"poster": "https://image.tmdb.org/t/p/w342/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+"runtime": 146,
+"title": "Bad Boys II",
+"tmdb_id": 8961,
+"year": 2003
 },
 "89704": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mrTHVR9Xdygn1AZKHR4opLFjM6m.jpg",
@@ -65004,6 +88593,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 89907,
 "year": 1942
 },
+"899079": {
+"backdrop": null,
+"cast": [
+"Benny Goodman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney",
+"Joshua Meador"
+],
+"imdb_id": "tt0153368",
+"original_title": "Two for the Record",
+"overview": "Animated sequences are set to two Benny Goodman numbers.",
+"poster": "https://image.tmdb.org/t/p/w342/2cxyKXMpWVz8EbtROeER9Sayhdw.jpg",
+"runtime": 7,
+"title": "Two for the Record",
+"tmdb_id": 899079,
+"year": 1954
+},
 "899144": {
 "backdrop": null,
 "cast": [],
@@ -65022,6 +88632,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Contrasts in Rhythm",
 "tmdb_id": 899144,
 "year": 1955
+},
+"8992": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6E0GtHsx8335YHJE7dD9oL1gk9i.jpg",
+"cast": [
+"John Cusack",
+"Daphne Zuniga",
+"Anthony Edwards",
+"Boyd Gaines",
+"Tim Robbins",
+"Lisa Jane Persky"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0090103",
+"original_title": "The Sure Thing",
+"overview": "Gib, a beer-guzzling slob, and Alison, an uptight Ivy-Leaguer, are an unlikely duo stuck together on a cross-country trip during Christmas break. At first they get on each other's nerves but, as time passes, they find their divergent natures complement each other. Now they need to realize what they've already found before it's too late.",
+"poster": "https://image.tmdb.org/t/p/w342/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
+"runtime": 95,
+"title": "The Sure Thing",
+"tmdb_id": 8992,
+"year": 1985
 },
 "899732": {
 "backdrop": null,
@@ -65072,58 +88707,152 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 902,
 "year": 1995
 },
-"9063": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zpkSkHXm81jlFgXmTmmGQ4TuUzo.jpg",
+"90349": {
+"backdrop": null,
 "cast": [
-"Michael Elphick",
-"Esmond Knight",
-"Me Me Lai",
-"Jerold Wells",
-"Ahmed El Shenawi",
-"Astrid Henning-Jensen"
+"Ted Donaldson",
+"Tom Powers",
+"Ann Doran",
+"Aubrey Mather",
+"Sid Tomack",
+"George Meader"
 ],
 "countries": [
-"DK"
+"US"
 ],
 "directors": [
-"Lars von Trier"
+"John Sturges"
 ],
-"imdb_id": "tt0087280",
-"original_title": "Forbrydelsens element",
-"overview": "Den tidligere politimannen Fischer kommer hjem etter 13 år i Kairo. Vel hjemme blir han kontaktet av sin tidligere mentor, og forfatter av boken \"Forbrydelsens element\", som ønsker hans hjelp til å løse en rekke mord som har blitt begått. Alle drapene har en fellesnevner; lottokuponger. Ledet av teoriene fra mentorens bok og tre år med politirapporter følger Fischer i sporene på den hovedmistenkte, Harry Grey.",
-"poster": "https://image.tmdb.org/t/p/w342/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg",
-"runtime": 104,
-"title": "The Element of Crime",
-"tmdb_id": 9063,
-"year": 1984
+"imdb_id": "tt0039390",
+"original_title": "For the Love of Rusty",
+"overview": "Danny Mitchell, feeling that he has been misunderstood by his parents, takes his dog, Rusty, and leaves home, camping out near the trailer of veterinary Dr. Francis Xavier Ray. Gas escapes in the trailer during the night, and Rusty rescues the vet before he is overcome.",
+"poster": "https://image.tmdb.org/t/p/w342/hY4B0eCM1tsXxtHZSCIyGgdUZ1H.jpg",
+"runtime": 68,
+"title": "For the Love of Rusty",
+"tmdb_id": 90349,
+"year": 1947
 },
-"9065": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9vOfO3CP8mqqq0oqCNl9R7M07xE.jpg",
+"903757": {
+"backdrop": null,
 "cast": [
-"Jean-Marc Barr",
-"Barbara Sukowa",
-"Udo Kier",
-"Ernst-Hugo Järegård",
-"Erik Mørk",
-"Jørgen Reenberg"
+"Jack Mercer",
+"Mae Questel",
+"Jackson Beck"
 ],
 "countries": [
-"DK",
-"FR",
-"DE",
-"SE"
+"US"
 ],
 "directors": [
-"Lars von Trier"
+"Jack Kinney"
 ],
-"imdb_id": "tt0101829",
-"original_title": "Europa",
-"overview": "Året er 1945, og en amerikaner med tyske gener ankommer etterkrigstidens Tyskland. Onkelen hans finner ham en jobb som konduktør på en jernbanelinje. Ønsket hans er å være nøytral og hjelpe dette landet som sliter med dårlig samvittighet og dype sår, men han opplever isteden å bli brukt både av de allierte og den innflytelsesrike tyske familien som eier jernbanelinjen. Da han forelsker seg i jernbanemagnatens datter skjønner han at han ikke kan være nøytral lenger, og at tiden er inne for noen vanskelige valg.",
-"poster": "https://image.tmdb.org/t/p/w342/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
-"runtime": 113,
-"title": "Europa",
-"tmdb_id": 9065,
-"year": 1991
+"imdb_id": "tt1011854",
+"original_title": "Popeye and the Giant",
+"overview": "Popeye is walking across the street, while Wimpy is practicing his hamburger-mooching talk. Brutus notices him and puts growth pills on a hamburger. Wimpy then eats it, and it causes him to grow very big. Brutus takes the towering moocher to the circus, but they refuse to hire him. Wimpy seeks help from the Sea Hag, who puts him in a baby carriage. Popeye sees his friend's large size and tries to shrink him down by feeding him spinach, but it only makes him grow bigger. He gives Wimpy a hamburger, which turns him back to normal. Wimpy thanks Popeye and promises to pay him Tuesday for today's hamburger.",
+"poster": "https://image.tmdb.org/t/p/w342/2DFX598aZtUb8dV89O3SQeqZv8A.jpg",
+"runtime": 5,
+"title": "Popeye and the Giant",
+"tmdb_id": 903757,
+"year": 1960
+},
+"903759": {
+"backdrop": null,
+"cast": [
+"Jackson Beck",
+"Jack Mercer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney"
+],
+"imdb_id": "tt1134961",
+"original_title": "Popeye's Pizza Palace",
+"overview": "Popeye runs a pizza restaurant. Wimpy wants to pay him Tuesday for some hamburger pizzas, but Popeye says \"No money, no pizzas! Cash on the line!\" Wimpy would pay Brutus Tuesday if he gave him money for pizzas, but Popeye yells \"No money, no pizzas!\" Brutus tells Popeye to fix Wimpy some pizzas. Popeye makes a pizza making machine, and asks Brutus what kind of pizzas he wants. Brutus wants a tamale pizza, but Popeye says he never serves tamale pizzas. Brutus then rolls Popeye into some pizza dough, but Popeye eats some spinach pizza and turns Brutus into a pizza-bread man, then kicks him out. Popeye sees Wimpy eating pizza, and has him pay for it.",
+"poster": "https://image.tmdb.org/t/p/w342/v4MSK2iYSPtNoSQoGPpmDlBqmEH.jpg",
+"runtime": 6,
+"title": "Popeye's Pizza Palace",
+"tmdb_id": 903759,
+"year": 1960
+},
+"9040": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+"cast": [
+"Al Pacino",
+"John Randolph",
+"Jack Kehoe",
+"Biff McGuire",
+"Barbara Eda-Young",
+"Cornelia Sharpe"
+],
+"countries": [
+"US",
+"IT"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0070666",
+"original_title": "Serpico",
+"overview": "Basert på den sanne historien om Frank Serpico, som ofret sin karriere for å avsløre utbredt korrupsjon i NYPD.",
+"poster": "https://image.tmdb.org/t/p/w342/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+"runtime": 129,
+"title": "Serpico",
+"tmdb_id": 9040,
+"year": 1973
+},
+"906221": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wVxlmhk4OS2eCr0wTQcM4zJ20ml.jpg",
+"cast": [
+"Channing Tatum",
+"Salma Hayek Pinault",
+"Ayub Khan-Din",
+"Jemelia George",
+"Juliette Motamed",
+"Ethan Lawrence"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Steven Soderbergh"
+],
+"imdb_id": "tt16280138",
+"original_title": "Magic Mike's Last Dance",
+"overview": "Mike Lane takes to the stage again after a lengthy hiatus, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. For what he hopes will be one last hurrah, Mike heads to London with a wealthy socialite who lures him with an offer he can’t refuse… and an agenda all her own. With everything on the line, once Mike discovers what she truly has in mind, will he—and the roster of hot new dancers he’ll have to whip into shape—be able to pull it off?",
+"poster": "https://image.tmdb.org/t/p/w342/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",
+"runtime": 112,
+"title": "Magic Mike's Last Dance",
+"tmdb_id": 906221,
+"year": 2023
+},
+"9075": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vT39NcxIWHL5XVNQGRMbS8NxXs0.jpg",
+"cast": [
+"Carice van Houten",
+"Sebastian Koch",
+"Thom Hoffman",
+"Halina Reijn",
+"Waldemar Kobus",
+"Matthias Schoenaerts"
+],
+"countries": [
+"BE",
+"DE",
+"NL",
+"GB"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0389557",
+"original_title": "Zwartboek",
+"overview": "Black Book forteller historien om den unge kvinnen Rachel, som med nød og neppe overlevde nazistenes inntog i Holland, men måtte se sin familie bli drept. Fast bestemt på å komme morderne til livs, slutter hun seg til motstandsbevegelsen for å infiltrere det tyske hovedkvarteret i Holland. Med kvinnelist og sjarm lykkes det henne å komme helt inn på nazistenes toppledelse, og hun kan nå forberede det endelige oppgjøret med sin families bødler.",
+"poster": "https://image.tmdb.org/t/p/w342/vZaYDWa3IqTNKsHCsUr72J4zTJ6.jpg",
+"runtime": 145,
+"title": "Black Book",
+"tmdb_id": 9075,
+"year": 2006
 },
 "90770": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1OCxbH2TTzTiar5iMAmOYGwr0kG.jpg",
@@ -65176,6 +88905,56 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Spies Like Us",
 "tmdb_id": 9080,
 "year": 1985
+},
+"9081": {
+"backdrop": "https://image.tmdb.org/t/p/w780/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+"cast": [
+"Ethan Hawke",
+"Julie Delpy",
+"Wiley Wiggins",
+"Bill Wise",
+"Alex E. Jones",
+"Steven Soderbergh"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0243017",
+"original_title": "Waking Life",
+"overview": "En mann prøver iherdig å forstå forskjellen mellom drømmer og virkelighet. På sin vei møter han mennesker som engasjerer i eksistensiell debatt, og noen ganger svarer han mens det andre ganger blir med lyttingen. De kommer fra forskjellige lag i samfunnet og med forskjellig trosbakgrunn, men kanskje prøver de å fortelle ham det samme? Regissør Richard Linklater står bak, og selv om han bruker ekte skuespillere benytter han seg også av tegninger over selve billedmaterialet. Resultatet er et helt spesielt og unikt uttrykk.",
+"poster": "https://image.tmdb.org/t/p/w342/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+"runtime": 101,
+"title": "Waking Life",
+"tmdb_id": 9081,
+"year": 2001
+},
+"9087": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hMc2fw8J56H6u4VRWHwLfeXnUCU.jpg",
+"cast": [
+"Michael Douglas",
+"Annette Bening",
+"Martin Sheen",
+"Michael J. Fox",
+"Anna Deavere Smith",
+"Samantha Mathis"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt0112346",
+"original_title": "The American President",
+"overview": "USAs president forelsker seg i miljøforkjemperen Sydney Wade. Hvordan skal han oppføre seg i forhold til den utvalgte, for ikke å snakke om i forhold til befolkningen? Vil media, velgerne og hans rådgivere tillate presidenten av USA å leve ut sine private lyster som singel mann. Politiske kriser er svært forskjellig fra de personlige, og spørsmålet som dukker opp er om media, velgerne og hans rådgivere kan tillate presidenten av USA å leve ut sine private lyster som singel mann.",
+"poster": "https://image.tmdb.org/t/p/w342/hudVVQa0jCspRPYGLJwUVsteKsk.jpg",
+"runtime": 113,
+"title": "The American President",
+"tmdb_id": 9087,
+"year": 1995
 },
 "912804": {
 "backdrop": null,
@@ -65232,6 +89011,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mansion on the Hill",
 "tmdb_id": 913045,
 "year": 2008
+},
+"91314": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+"cast": [
+"Mark Wahlberg",
+"Peter Cullen",
+"Stanley Tucci",
+"Kelsey Grammer",
+"Nicola Peltz",
+"Jack Reynor"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt2109248",
+"original_title": "Transformers: Age of Extinction",
+"overview": "Bilmekanikeren Cade Yerager går til anskaffelse av et gammelt trailervrak han vil sette i stand. Det han ikke vet er at den rustne doningen egentlig er Autobotenes leder, Optimus Prime. Myndighetene har, med hjelp av den mystiske utenomjordiske skapningen Lockdown, satt i gang en aksjon for å utrydde alle Transformers fra jordens overflate. Snart er Cade og datteren hans, Tessa, jaktet på av både Lockdown, myndighetene og farlige Decepticons. Hvis Autobotene skal ha en sjanse til å overleve, må de alliere seg med de mest fryktede av alle Transformers-robotene: De gigantiske Dinobotene.",
+"poster": "https://image.tmdb.org/t/p/w342/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+"runtime": 165,
+"title": "Transformers: Age of Extinction",
+"tmdb_id": 91314,
+"year": 2014
 },
 "913429": {
 "backdrop": null,
@@ -65416,6 +89220,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 91815,
 "year": 1934
 },
+"91873": {
+"backdrop": "https://image.tmdb.org/t/p/w780/q6pL6RcedkFmMoHQ4CzRUQDxhCU.jpg",
+"cast": [
+"Thommy Berggren",
+"Mona Seilitz",
+"Willie Andréason",
+"Lars-Levi Læstadius",
+"Henry Olhans",
+"Rainer Mieth"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0073045",
+"original_title": "Giliap",
+"overview": "In a minor town the morose manager is primarily responsible for the bad atmosphere of a restaurant. But central for the plot are three persons: a male waiter who is never named (here called W), the female waiter Anna, and \"the count\", a self-invented nickname by a man cleaning plates. The count is skilled in making others do what he wants. Half a dozen of the personnel assist in a poorly planned and failed attempt to liberate a man whom the police move from one arrest to another. The event involves stealing a motorcycle and threatening policemen with a gun. Anna strongly tries to make contact with W. Finally it turns out that she need his help to break her sexual relation to the count, a relation that from her part is not motivated by positive feelings. W rejects her attempts. And then Anna has suddenly gone. She has got a pleasant job in another town. And then W's feelings awaken.",
+"poster": "https://image.tmdb.org/t/p/w342/3h1pjVCkPgHRTZJ4FxlZrc4gd6.jpg",
+"runtime": 130,
+"title": "Giliap",
+"tmdb_id": 91873,
+"year": 1975
+},
 "91881": {
 "backdrop": "https://image.tmdb.org/t/p/w780/21WA3JS2YXU4rFLVlUP6JYzKkgM.jpg",
 "cast": [
@@ -65490,6 +89319,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Michael Jackson's Thriller",
 "tmdb_id": 92060,
 "year": 1983
+},
+"9208": {
+"backdrop": "https://image.tmdb.org/t/p/w780/446lXnrT0vSIkeClW8bCN8KrnxN.jpg",
+"cast": [
+"John Travolta",
+"Christian Slater",
+"Samantha Mathis",
+"Delroy Lindo",
+"Frank Whaley",
+"Bob Gunton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0115759",
+"original_title": "Broken Arrow",
+"overview": "Thriller om en Air Force pilot som planlegger å presse regjeringen for penger med stjålne atombomber, men som går på trynet når partneren hans prøver å stoppe ham.",
+"poster": "https://image.tmdb.org/t/p/w342/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+"runtime": 108,
+"title": "Broken Arrow",
+"tmdb_id": 9208,
+"year": 1996
 },
 "921008": {
 "backdrop": null,
@@ -65667,6 +89521,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 92378,
 "year": 1969
 },
+"923939": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+"cast": [
+"Ralph Fiennes",
+"Benedict Cumberbatch",
+"Dev Patel",
+"Ben Kingsley",
+"Richard Ayoade",
+"Jarvis Cocker"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt16968450",
+"original_title": "The Wonderful Story of Henry Sugar",
+"overview": "Wes Anderson har regissert denne Oscar-berømte filmatiseringen av Roald Dahls novelle om en rik gambler med en usedvanlig evne til å jukse i kortspill.",
+"poster": "https://image.tmdb.org/t/p/w342/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+"runtime": 39,
+"title": "The Wonderful Story of Henry Sugar",
+"tmdb_id": 923939,
+"year": 2023
+},
 "924878": {
 "backdrop": null,
 "cast": [
@@ -65687,6 +89566,57 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Un po' di Giappone",
 "tmdb_id": 924878,
 "year": 1990
+},
+"925508": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iIGkr3i4YsbF4F3kjaVwTuDIRAQ.jpg",
+"cast": [
+"Tab Hunter",
+"Basil Rathbone",
+"Dick Button",
+"Luke Halpin",
+"Peggy King",
+"Carmen Mathews"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sidney Lumet",
+"George Schaefer"
+],
+"imdb_id": "tt0394610",
+"original_title": "Hans Brinker or the Silver Skates",
+"overview": "In Holland, poor but industrious and honorable 15-year-old Hans Brinker and his younger sister yearn to participate in December's great ice skating race on the canal.",
+"poster": "https://image.tmdb.org/t/p/w342/efvJx5ni5RiLfQZ2y3RA1c7nTKr.jpg",
+"runtime": 90,
+"title": "Hans Brinker or the Silver Skates",
+"tmdb_id": 925508,
+"year": 1958
+},
+"92591": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gLr8DBGveOCJAS469GnWTRSXsP9.jpg",
+"cast": [
+"Jack Black",
+"Shirley MacLaine",
+"Matthew McConaughey",
+"Brady Coleman",
+"Richard Robichaux",
+"Rick Dial"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt1704573",
+"original_title": "Bernie",
+"overview": "I Carthage, et liten landsby i Texas, var begravelsesassistenten Bernie Tiede en av de mest avholdte borgerne. Han var lærer i søndagsskolen, sang i kirkekoret og var alltid på pletten med en hjelpende hånd. Overraskelsen var derfor stor da han ble nær venn med Marjorie Nugent, en rik enke som var kjent for å være ganske meggete. Byens borgere blir sjokkerte da de får vite at Marjorie er død - og Bernie anklaget for mord.",
+"poster": "https://image.tmdb.org/t/p/w342/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+"runtime": 99,
+"title": "Bernie",
+"tmdb_id": 92591,
+"year": 2012
 },
 "9276": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oJRlYxfG10h4sxk2A7fpeOZnaFi.jpg",
@@ -65712,6 +89642,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Faculty",
 "tmdb_id": 9276,
 "year": 1998
+},
+"9280": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rc0n0PItBZK4ptPNEuSRv83Noee.jpg",
+"cast": [
+"Rebecca Romijn",
+"Antonio Banderas",
+"Peter Coyote",
+"Ériq Ebouaney",
+"Édouard Montoute",
+"Rie Rasmussen"
+],
+"countries": [
+"CH",
+"FR"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0280665",
+"original_title": "Femme Fatale",
+"overview": "A $10-million diamond rip-off, a stolen identity, a new life married to a diplomat. Laure Ash has risked big, won big. But then a tabloid shutterbug snaps her picture in Paris, and suddenly, enemies from Laure's secret past know who and where she is. And they all want their share of the diamond heist. Or her life. Or both.",
+"poster": "https://image.tmdb.org/t/p/w342/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg",
+"runtime": 114,
+"title": "Femme Fatale",
+"tmdb_id": 9280,
+"year": 2002
 },
 "9281": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aDn3wL0ObbA5TCn5ZLri9xI2kUZ.jpg",
@@ -65757,6 +89713,83 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Aja baja, Alfons Åberg",
 "tmdb_id": 928697,
 "year": 2022
+},
+"9322": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
+"cast": [
+"Anne Parillaud",
+"Jean-Hugues Anglade",
+"Tchéky Karyo",
+"Jean Reno",
+"Marc Duret",
+"Jeanne Moreau"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0100263",
+"original_title": "Nikita",
+"overview": "En narkoman i Paris hjernevaskes til å bli en snikmorder.",
+"poster": "https://image.tmdb.org/t/p/w342/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg",
+"runtime": 117,
+"title": "Nikita",
+"tmdb_id": 9322,
+"year": 1990
+},
+"9326": {
+"backdrop": "https://image.tmdb.org/t/p/w780/t2JVeiLvv3k7KlHFUou8tkrMZTN.jpg",
+"cast": [
+"Michael Douglas",
+"Kathleen Turner",
+"Danny DeVito",
+"Zack Norman",
+"Alfonso Arau",
+"Manuel Ojeda"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0088011",
+"original_title": "Romancing the Stone",
+"overview": "Forfatteren Joan Wilder lever et heller kjedelig liv, helt til hun en dag mottar en mystisk pakke. Det viser seg at pakken inneholder løsepengene hun trenger for å løslate søsteren sin, som har blitt kidnappet i Colombia. Helt på egenhånd reiser hun av gårde for å redde søsteren sin fra kidnappernes klør. Langs veien møter hun en kjekk lykkejeger som overtaler henne til å kjempe mot bandittene som vokter skatten. På veien møter hun en kjekk lykkejeger (Douglas) som overtaler henne til å kjempe mot bandittene som vokter skatten.",
+"poster": "https://image.tmdb.org/t/p/w342/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg",
+"runtime": 106,
+"title": "Romancing the Stone",
+"tmdb_id": 9326,
+"year": 1984
+},
+"93313": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9aiwz7W64ngTBf7v3pSs6lSEj0I.jpg",
+"cast": [
+"Edward Arnold",
+"Joel McCrea",
+"Frances Farmer",
+"Walter Brennan",
+"Mady Christians",
+"Mary Nash"
+],
+"countries": [
+"US"
+],
+"directors": [
+"William Wyler",
+"Howard Hawks"
+],
+"imdb_id": "tt0027459",
+"original_title": "Come and Get It",
+"overview": "An ambitious lumberjack abandons his saloon girl lover so that he can marry into wealth, but years later becomes infatuated with the woman's daughter.",
+"poster": "https://image.tmdb.org/t/p/w342/4w65AMsJ0RZVkxGfxw4DVWWSTyq.jpg",
+"runtime": 99,
+"title": "Come and Get It",
+"tmdb_id": 93313,
+"year": 1936
 },
 "934395": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5xrpzKEGgTwhxAYfgeiEnwj2uJ3.jpg",
@@ -65900,6 +89933,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 93718,
 "year": 1957
 },
+"9374": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vDFhaKEMKPIUePtQH2nOwSHfgPy.jpg",
+"cast": [
+"Meryl Streep",
+"Goldie Hawn",
+"Bruce Willis",
+"Isabella Rossellini",
+"Ian Ogilvy",
+"Adam Storke"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt0104070",
+"original_title": "Death Becomes Her",
+"overview": "Mange år senere møter vi igjen Ashton, nå som utvasket kone til en alkoholisert kirurg i et sterilt hjem. For å bedre på forholdet til sin rival, møter hun opp i et selskap for forfatteren, og oppdager til sin fortvilelse at hun ser bedre og sunnere ut enn noensinne. I ren desperasjon oppsøker hun en skjønnhetsguru for å sikre sin egen skjønnhet og et evig liv.",
+"poster": "https://image.tmdb.org/t/p/w342/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",
+"runtime": 104,
+"title": "Death Becomes Her",
+"tmdb_id": 9374,
+"year": 1992
+},
+"9383": {
+"backdrop": "https://image.tmdb.org/t/p/w780/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+"cast": [
+"Kevin Bacon",
+"Elisabeth Shue",
+"Josh Brolin",
+"Kim Dickens",
+"Greg Grunberg",
+"Joey Slotnick"
+],
+"countries": [
+"DE",
+"US"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0164052",
+"original_title": "Hollow Man",
+"overview": "Den enestående vitenskapsmannen Sebastian Caine (Kevin Bacon) har en besettelse: å avsløre usynlighetens hemmeligheter. Caine, som jobber med forskningsteamet sitt i et topphemmelig regjeringsanlegg, vil ikke vike unna for noe for å nå sitt mål, selv om det betyr å bruke seg selv som det første forsøksdyret i prosjektet. Men Caine og teamet hans finner raskt ut at det å gjøre noen usynlig, er den lette delen - det er å forhindre ham i å bli gal som er vanskelig. Caine er nå en morder og temaet hans, anført av hans tidligere kjæreste Linda (Elisabeth Shue) og hennes nye venn Matt (Josh Brolin), må ødelegge ham. Men hvordan kan du stoppe noe – eller noen – som du ikke kan se?",
+"poster": "https://image.tmdb.org/t/p/w342/sd3qUIv5uoP2oTbqv66CzXSPjKG.jpg",
+"runtime": 112,
+"title": "Hollow Man",
+"tmdb_id": 9383,
+"year": 2000
+},
 "93863": {
 "backdrop": "https://image.tmdb.org/t/p/w780/f04ZvLvWxmmWOQO9toPn9Hu5H2y.jpg",
 "cast": [
@@ -65924,6 +90008,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Lady Without Camelias",
 "tmdb_id": 93863,
 "year": 1953
+},
+"93907": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aqgULFMPDURnqVQTWAzzLKJ2SMU.jpg",
+"cast": [
+"José Luis García",
+"Joaquín Cascales Zarzo",
+"Alberto Jiménez",
+"José Sierra",
+"Mari Carmen Aymat",
+"Ana María Vidal"
+],
+"countries": [
+"ES"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0053710",
+"original_title": "Los chicos",
+"overview": "Four young men are cited in a kiosk during a rainy afternoon. One has to study and the other three go to the cinema, although they are not allowed to entry because their young age. The group consists of Andrés, who works as bellboy in a hotel and dreams of becoming a bullfighter; Chispa, who follows the orders of an old grumpy man; Carlos, a student; and Negro, a shy boy. All they want is to have fun; but reality forces them to confront the problems of the adult world.",
+"poster": "https://image.tmdb.org/t/p/w342/c4s9ty9cNt5ZHTx2lqcB9oLfJYy.jpg",
+"runtime": 90,
+"title": "Los chicos",
+"tmdb_id": 93907,
+"year": 1959
 },
 "939359": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wwJ9OSvgpG5mnVuxdws5UZ16Xsz.jpg",
@@ -65990,6 +90099,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 940122,
 "year": 2022
 },
+"940139": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zrms2WPltCxTPoiNFNPtTih6NMf.jpg",
+"cast": [
+"Tom Hanks",
+"Robin Wright",
+"Paul Bettany",
+"Kelly Reilly",
+"Finn Guegan",
+"Callum Macreadie"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Robert Zemeckis"
+],
+"imdb_id": "tt18272208",
+"original_title": "Here",
+"overview": "An odyssey through time and memory, centered on a place in New Jersey where—from wilderness, and then, later, from a home—love, loss, struggle, hope and legacy play out between couples and families over generations.",
+"poster": "https://image.tmdb.org/t/p/w342/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+"runtime": 104,
+"title": "Here",
+"tmdb_id": 940139,
+"year": 2024
+},
 "940765": {
 "backdrop": null,
 "cast": [
@@ -66029,6 +90163,49 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 940976,
 "year": 2013
 },
+"9410": {
+"backdrop": "https://image.tmdb.org/t/p/w780/laXkVCU5DE8Dib0QVHUUUsE7FM6.jpg",
+"cast": [
+"Ethan Hawke",
+"Gwyneth Paltrow",
+"Hank Azaria",
+"Chris Cooper",
+"Anne Bancroft",
+"Robert De Niro"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alfonso Cuarón"
+],
+"imdb_id": "tt0119223",
+"original_title": "Great Expectations",
+"overview": "Filmen er en moderne vri på Charles Dickens' roman \"Store forventinger\". Ethan Hawke spiller fattiggutten Finn, en kunstner som har hatt uflaks når det gjelder kjærlighet. I ung alder møter Finn den eksentriske Estella, niesen til Floridas rikeste dame, fru Dinsmoor. Fru Dinsmoor ble forlatt ved alteret mange år tilbake, og hun har siden hatet menn og jobbet aktivt for å knuse dem. Sin livsvisdom har hun overført til Estella, som er den fødte hjerteknuser, noe Finn smertelig får erfare.",
+"poster": "https://image.tmdb.org/t/p/w342/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg",
+"runtime": 111,
+"title": "Great Expectations",
+"tmdb_id": 9410,
+"year": 1998
+},
+"943810": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt0414089",
+"original_title": "Heads I Win/Tails You Lose",
+"overview": "This videotape was edited together by Richard Linklater in 1991 from film countdowns and tail leaders from films submitted to the Austin Film Society in Austin, Texas from 1987 to 1990. It is Linklater's tribute to the film countdown, used by many projectionists over the years to cue one reel of film after another when switching to another reel on another projector during projection. Includes reel excerpts from films by Chantal Ackerman, Ingmar Bergman, Rainer Werner Fassbinder, Cuban filmmaker Humberto Solas, Nagisa Ōshima, Monte Hellman, and Jean-Luc Godard, among many others.",
+"poster": "https://image.tmdb.org/t/p/w342/oVpM0MtzpY8fcMN1NuHQi8pf3pz.jpg",
+"runtime": 243,
+"title": "Heads I Win/Tails You Lose",
+"tmdb_id": 943810,
+"year": 1991
+},
 "944234": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3K91XbePXbxLqN6d4Ntq4AvJTxg.jpg",
 "cast": [
@@ -66048,6 +90225,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Jerry Brown: The Shape of Things to Come",
 "tmdb_id": 944234,
 "year": 1980
+},
+"944401": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+"cast": [
+"Caleb Landry Jones",
+"Jojo T. Gibbs",
+"Christopher Denham",
+"Clemens Schick",
+"John Charles Aguilar",
+"Grace Palma"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt17009348",
+"original_title": "Dogman",
+"overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+"poster": "https://image.tmdb.org/t/p/w342/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+"runtime": 115,
+"title": "Dogman",
+"tmdb_id": 944401,
+"year": 2023
 },
 "9465": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oRJDlTmdYToqJotGsehhdfejVy.jpg",
@@ -66244,6 +90447,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 9488,
 "year": 2002
 },
+"9491": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3ZohISQDjkS0PtjCJss72MFaBEj.jpg",
+"cast": [
+"Jamie Lee Curtis",
+"Ron Silver",
+"Clancy Brown",
+"Elizabeth Peña",
+"Louise Fletcher",
+"Philip Bosco"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt0099160",
+"original_title": "Blue Steel",
+"overview": "Megan Turner er nybakt politibetjent. Hun får uniformen, skiltet og pistolen. Så eksploderer Manhattan i vold. På sin første jobb skyter og dreper hun en bevæpnet raner. Det redder flere liv, men gjør hennes eget til et mareritt. Ranerens pistol ble aldri funnet, og nå blir den samme pistolen brukt i en rekke brutale mord. Ved siden av hvert offer ligger et blodig patronhylster med Megans navn på...",
+"poster": "https://image.tmdb.org/t/p/w342/mPUrodB3k8NYcvr4WPwtjSe1Mv9.jpg",
+"runtime": 102,
+"title": "Blue Steel",
+"tmdb_id": 9491,
+"year": 1990
+},
 "949501": {
 "backdrop": null,
 "cast": [
@@ -66383,6 +90611,57 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 95399,
 "year": 1957
 },
+"955": {
+"backdrop": "https://image.tmdb.org/t/p/w780/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+"cast": [
+"Tom Cruise",
+"Dougray Scott",
+"Thandiwe Newton",
+"Ving Rhames",
+"Richard Roxburgh",
+"John Polson"
+],
+"countries": [
+"US",
+"DE"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0120755",
+"original_title": "Mission: Impossible II",
+"overview": "Ethan Hunt og den vakre Nyah Hall jobber sammen for å forhindre at overløperen Sean Ambrose utløser en ny form for terror på en verden som aner fred og ingen fare. Men før oppdraget er utført, reiser de over hele verden og må velge mellom alt de elsker og alt de tror på.",
+"poster": "https://image.tmdb.org/t/p/w342/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+"runtime": 123,
+"title": "Mission: Impossible II",
+"tmdb_id": 955,
+"year": 2000
+},
+"957": {
+"backdrop": "https://image.tmdb.org/t/p/w780/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
+"cast": [
+"Bill Pullman",
+"Rick Moranis",
+"Mel Brooks",
+"John Candy",
+"Daphne Zuniga",
+"Dick Van Patten"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Mel Brooks"
+],
+"imdb_id": "tt0094012",
+"original_title": "Spaceballs",
+"overview": "Måtte farsen være med deg i dette hysterisk morsomme romvåset, som er skapt av det komiske geniet Mel Brooks. Du vil le deg rett ut i hyperrommet! Den gjør narr av alt fra Star Wars til Star Trek og er en parodi på storslagne science fiction-filmer, full av kosmisk galskap som gir minst åtte billioner på lattermåleren. De fryktløse (og håpløse) romheltene Lone Starr (Bill Pullman) og hans assistent Barf (John Candy) som er halvt menneske og halvt hund, går til interstellar krig for å befri prinsesse Vespa (Daphne Zuniga) fra den onde Dark Helmet (Rick Moranis). I dette redningsoppdraget -i en Winnebago bobil - må de møte den store, klisne Pizza the Hut (med Dom DE Luises stemme), den frekke roboten Dot Matrix (med Joan Rivers' stemme) og en klok liten skapning som heter Yoghurt (Mel Brooks). Han lærer dem den mystiske kraften i \"The Schwarts\" for å skape fred - og fremme salget av filmeffekter - i hele galaksen.",
+"poster": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+"runtime": 96,
+"title": "Spaceballs",
+"tmdb_id": 957,
+"year": 1987
+},
 "95727": {
 "backdrop": "https://image.tmdb.org/t/p/w780/t3HqMkyvtv4rENQHATXXmAlFtGE.jpg",
 "cast": [
@@ -66435,6 +90714,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 957304,
 "year": 2024
 },
+"9586": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uSInqX82oDeEHSDUwekneCJ2HLc.jpg",
+"cast": [
+"Tom Hanks",
+"Bruce Willis",
+"Melanie Griffith",
+"Kim Cattrall",
+"Saul Rubinek",
+"Morgan Freeman"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0099165",
+"original_title": "The Bonfire of the Vanities",
+"overview": "McCoy er en meget vellykket og rik, hvit forretningsmann. Han har fått utlevert alt, inklusive en solid sosial plattform og et forhold til sexbomben Maria Ruskin. En kveld i Bronx hender imidlertid noe som snur livet totalt for McCoy. Maria føler seg truet av to fargede ungdommer og rygger McCoys Mercedes inn i den ene. Når gutten faller i koma utløser dette et ras av begivenheter. Presse, påtalemyndigheter og politikere kaster seg over den delikate saken. Oponionen hisser seg opp over at en av samfunnets støtter kanskje skal karre seg ut av en pinlig situasjon. Loven og politikerne må ta affære, særlig når pastor Bacon, en farget politiker, kaster seg inn i saken og roper \"rasist\" så snart anledningen byr seg.",
+"poster": "https://image.tmdb.org/t/p/w342/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg",
+"runtime": 125,
+"title": "The Bonfire of the Vanities",
+"tmdb_id": 9586,
+"year": 1990
+},
 "9602": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
 "cast": [
@@ -66485,6 +90789,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 96067,
 "year": 1946
 },
+"9620": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rdlXnumaarKFHQ4rB8YBWINEeuE.jpg",
+"cast": [
+"Ben Affleck",
+"Aaron Eckhart",
+"Uma Thurman",
+"Paul Giamatti",
+"Colm Feore",
+"Joe Morton"
+],
+"countries": [
+"CA",
+"US",
+"HK"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt0338337",
+"original_title": "Paycheck",
+"overview": "Michael Jennings er en dyktig dataekspert som leies inn til topphemmelige prosjekter. Etter hver jobb slettes korttidshukommelsen, slik at han ikke skal kunne avsløre fortrolig informasjon. Nå har Jennings fullført et oppdrag for en gammel venn, en treårskontrakt som skulle gitt ham en åttesifret utbetaling. Men i stedet får han den sjokkerende beskjeden om at han skal ha gitt avkall på all betaling rett før jobben var ferdig. Jennings er rådløs - inntil han mottar en mystisk konvolutt som inneholder ledetråder til hans glemte fortid. Med hjelp fra den vakre forskeren han en gang elsket, men ikke lenger kan huske, tar Jennings opp den heseblesende jakten på fortiden sin. Men i fremtiden venter en uhyggelig oppdagelse ...",
+"poster": "https://image.tmdb.org/t/p/w342/h0BWaPnWYXwbCXF69DxS0YWcVy2.jpg",
+"runtime": 119,
+"title": "Paycheck",
+"tmdb_id": 9620,
+"year": 2003
+},
 "962537": {
 "backdrop": "https://image.tmdb.org/t/p/w780/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
 "cast": [
@@ -66504,6 +90835,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Jerry Lee Lewis: Trouble in Mind",
 "tmdb_id": 962537,
 "year": 2022
+},
+"966": {
+"backdrop": "https://image.tmdb.org/t/p/w780/x0JQBBfK68gHm8rmyKk60bnnyw9.jpg",
+"cast": [
+"Yul Brynner",
+"Eli Wallach",
+"Steve McQueen",
+"Charles Bronson",
+"Robert Vaughn",
+"Brad Dexter"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Sturges"
+],
+"imdb_id": "tt0054047",
+"original_title": "The Magnificent Seven",
+"overview": "Western-versjon av Akira Kurosawas De syv samuraier som handler om amerikanske revolvermenn som blir ansatt for å beskytte bøndene av en meksikansk landsby fra en gruppe banditter.",
+"poster": "https://image.tmdb.org/t/p/w342/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+"runtime": 128,
+"title": "The Magnificent Seven",
+"tmdb_id": 966,
+"year": 1960
 },
 "9660": {
 "backdrop": "https://image.tmdb.org/t/p/w780/omMa8BHw4S5da4D69GjvVZ9oObG.jpg",
@@ -66547,6 +90903,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Production Assistant",
 "tmdb_id": 966259,
 "year": 1992
+},
+"9676": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kkNO9F5siCFpCAiXnq2t68Kl8go.jpg",
+"cast": [
+"Josh Hartnett",
+"Scarlett Johansson",
+"Aaron Eckhart",
+"Hilary Swank",
+"Mia Kirshner",
+"Mike Starr"
+],
+"countries": [
+"US",
+"FR",
+"DE"
+],
+"directors": [
+"Brian De Palma"
+],
+"imdb_id": "tt0387877",
+"original_title": "The Black Dahlia",
+"overview": "Brian De Palma har instruert denne stilfulle men innviklede tilpasningen til James Ellroys roman om to L.A.-politifolk som er besatt av et mord fra 1947 på en kommende stjerne.",
+"poster": "https://image.tmdb.org/t/p/w342/su7yuXqGUHICfoijtcSaxWLE34Y.jpg",
+"runtime": 121,
+"title": "The Black Dahlia",
+"tmdb_id": 9676,
+"year": 2006
 },
 "9684": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8D4in0vUmyzjMQHcIdQ8wyEmUca.jpg",
@@ -66599,6 +90982,25 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "New York Stories",
 "tmdb_id": 9686,
 "year": 1989
+},
+"96872": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xavj22o8kwDibmGzViUVy1aWrt4.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Jack Kinney",
+"Wolfgang Reitherman"
+],
+"imdb_id": "tt0213268",
+"original_title": "Superstar Goofy",
+"overview": "Goofy participates in several Olympic events. This re-edited, expanded, and colorized version of the 1956 \"Disneyland\" TV episode \"The Goofy Sports Story\" was released theatrically in Europe in 1972 to capitalize on that year's Olympic Games, and aired in the US four years later as an episode of \"The Magical World of Disney\" to coincide with the 1976 Games.",
+"poster": "https://image.tmdb.org/t/p/w342/A89txFQZENy5xRNnUxierBt7iLu.jpg",
+"runtime": 74,
+"title": "Superstar Goofy",
+"tmdb_id": 96872,
+"year": 1972
 },
 "9688": {
 "backdrop": "https://image.tmdb.org/t/p/w780/Nez4mwFX2Y0QSpgyrDKzsskpnB.jpg",
@@ -66675,6 +91077,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Plumber",
 "tmdb_id": 96909,
 "year": 1979
+},
+"96958": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i5ezunMCeFSGseeQQGeOtPfk9Q3.jpg",
+"cast": [
+"Klas-Gösta Olsson",
+"Anne Tubin",
+"Lennart Björklund",
+"Sandy Mansson"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt0316342",
+"original_title": "Någonting har hänt",
+"overview": "As the AIDS epidemic was spreading in 1987, the Swedish government commissioned Roy Andersson to make an educational film about the disease. In these twenty or so monotone scenes, Andersson criticizes the medical community for its dehumanizing and racist tendencies when researching HIV and AIDS.",
+"poster": "https://image.tmdb.org/t/p/w342/tfCmcAaluvvXGMS8sNvAnDpSTQP.jpg",
+"runtime": 24,
+"title": "Something Has Happened",
+"tmdb_id": 96958,
+"year": 1987
+},
+"970347": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+"cast": [
+"Nathalie Emmanuel",
+"Omar Sy",
+"Sam Worthington",
+"Diana Silvers",
+"Saïd Taghmaoui",
+"Angeles Woo"
+],
+"countries": [
+"CA",
+"US"
+],
+"directors": [
+"John Woo"
+],
+"imdb_id": "tt1121948",
+"original_title": "The Killer",
+"overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+"poster": "https://image.tmdb.org/t/p/w342/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+"runtime": 126,
+"title": "The Killer",
+"tmdb_id": 970347,
+"year": 2024
+},
+"970947": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kpzMKQyKbtaxf9OpJo0fiosSCMK.jpg",
+"cast": [
+"Vincent Cassel",
+"Diane Kruger",
+"Guy Pearce",
+"Sandrine Holt",
+"Elizabeth Saunders",
+"Jennifer Dale"
+],
+"countries": [
+"CA",
+"FR"
+],
+"directors": [
+"David Cronenberg"
+],
+"imdb_id": "tt20212786",
+"original_title": "The Shrouds",
+"overview": "Inconsolable since the death of his wife, prominent businessman Karsh Relikh invents a revolutionary and controversial technology that enables the living to monitor their dear departed in their shrouds. One night, multiple graves, including that of Karsh’s wife, are desecrated, and he sets out to track down the perpetrators.",
+"poster": "https://image.tmdb.org/t/p/w342/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
+"runtime": 120,
+"title": "The Shrouds",
+"tmdb_id": 970947,
+"year": 2025
 },
 "97105": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zbgBfigzYTbgFugbhIWMRWgQM4L.jpg",
@@ -66795,6 +91272,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 973337,
 "year": 2022
 },
+"9737": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+"cast": [
+"Will Smith",
+"Martin Lawrence",
+"Téa Leoni",
+"Tchéky Karyo",
+"Joe Pantoliano",
+"Theresa Randle"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Bay"
+],
+"imdb_id": "tt0112442",
+"original_title": "Bad Boys",
+"overview": "Fra regissøren av (The Rock, Armageddon) og produserteamet Dan Simpson og Jerry Bruckheimer (Beverly Hills Cop, Top Gun) Kommer det her et heseblesende actionbrak, full av spenning og adrenalin fra begynnelse til slutt. Will Smith og Martin Lawrence utgjør det nye paret innen forbryterbekjempelse i denne hardtslående filmen, et par flinke fyrer som også kan være ordentlig slemme gutter. Konfiskert heroin for over 100 millioner dollar er forsvunnet fra politiets varetekt. Før var det karrierens største sak for kriminaldetektivene Mike Lawry (Will Smith) og Marcus Burnett (Martin Lawrence), men nå truer de manglende stoffene med å få nedlagt hele narkotikaavdelingen til Miamis politi. Da etterforskningen av de forsvunne stoffene plutselig blir dødbringende, kidnapper morderen det eneste vitnet, en vakker tyster (Tèa Leoni) og nær venn av Guttene, og så blir tingene personlige! Raske biler, en kjempelekker kvinne og non-stop action gjør Bad Boys til garantert underholdning hele veien.",
+"poster": "https://image.tmdb.org/t/p/w342/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+"runtime": 119,
+"title": "Bad Boys",
+"tmdb_id": 9737,
+"year": 1995
+},
 "9740": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3Nb9AQaq3elLNCUBxG8VprmqfhZ.jpg",
 "cast": [
@@ -66845,6 +91347,81 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Kundun",
 "tmdb_id": 9746,
 "year": 1997
+},
+"974635": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"cast": [
+"Glen Powell",
+"Adria Arjona",
+"Austin Amelio",
+"Retta",
+"Sanjay Rao",
+"Molly Bernard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Richard Linklater"
+],
+"imdb_id": "tt20215968",
+"original_title": "Hit Man",
+"overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"poster": "https://image.tmdb.org/t/p/w342/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+"runtime": 116,
+"title": "Hit Man",
+"tmdb_id": 974635,
+"year": 2024
+},
+"975225": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
+"cast": [
+"Christopher Guest",
+"Michael McKean",
+"Harry Shearer",
+"Rob Reiner",
+"Valerie Franco",
+"CJ Vanston"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Rob Reiner"
+],
+"imdb_id": "tt20222166",
+"original_title": "Spinal Tap II: The End Continues",
+"overview": "Dokumentarskaperen Marty DiBergi følger Spinal tap medlemmene David St. Hubbins, Nigel Tufnel og Derek Smalls når de gjenforenes for én siste konsert. Sammen med Paul McCartney og Elton John konfronterer Spinal Tap sin fargerike fortid for å levere et show som kan sikre dem en plass i rock ’n’ roll-historiens hall of fame.",
+"poster": "https://image.tmdb.org/t/p/w342/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+"runtime": 83,
+"title": "Spinal Tap II: The End Continues",
+"tmdb_id": 975225,
+"year": 2025
+},
+"97630": {
+"backdrop": "https://image.tmdb.org/t/p/w780/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+"cast": [
+"Jessica Chastain",
+"Jason Clarke",
+"Joel Edgerton",
+"Jennifer Ehle",
+"Mark Strong",
+"Kyle Chandler"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kathryn Bigelow"
+],
+"imdb_id": "tt1790885",
+"original_title": "Zero Dark Thirty",
+"overview": "Filmen tar for seg den ti år lange jakten på terroristlederen Osama bin Laden.",
+"poster": "https://image.tmdb.org/t/p/w342/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+"runtime": 157,
+"title": "Zero Dark Thirty",
+"tmdb_id": 97630,
+"year": 2012
 },
 "97707": {
 "backdrop": "https://image.tmdb.org/t/p/w780/he6Ei0Qu5Hpwv8nRELiIumoSXw4.jpg",
@@ -66972,6 +91549,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 98,
 "year": 2000
 },
+"98048": {
+"backdrop": "https://image.tmdb.org/t/p/w780/11hgHCRzu6UOw9Q9idvto6A4t44.jpg",
+"cast": [
+"William Finley",
+"Joan MacIntosh",
+"Patrick McDermott",
+"William Shephard"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Brian De Palma",
+"Robert Fiore",
+"Bruce Joel Rubin"
+],
+"imdb_id": "tt0065641",
+"original_title": "Dionysus in '69",
+"overview": "Filmed stageplay based on the ancient greek play The Bacchae written by Euripides. This play is performed by members of The Performance Group, an NYC experimental theater group who has made their own personal adaptation of this ancient text.",
+"poster": "https://image.tmdb.org/t/p/w342/jVVf5dFkkzQg3xXqlblWlMIxGd7.jpg",
+"runtime": 85,
+"title": "Dionysus in '69",
+"tmdb_id": 98048,
+"year": 1970
+},
+"98050": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kxFOEavIUCezztjUSgnlrww21wA.jpg",
+"cast": [
+"Ronny Bierman",
+"Sylvia de Leur",
+"Piet Römer",
+"Jules Hamel",
+"Bernhard Droog",
+"Eric van Ingen"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Paul Verhoeven"
+],
+"imdb_id": "tt0067963",
+"original_title": "Wat zien ik",
+"overview": "Dutch prostitutes Greta and Nel cruise the Amsterdam red light district, seeking clients to involve in their elaborately staged fetish fantasies, be it disciplinarian headmistresses, surgeons cutting open a willing patient, or even dressing up as chickens, the duo show their expertise in role-playing again and again and again. In reality, Nel is trapped in an abusive marriage and Greta is forever in the middle of their confrontations but her life takes a positive upturn when she becomes involved with a client.",
+"poster": "https://image.tmdb.org/t/p/w342/8qDnAYnKg0nRRtOAIDrsMQXkeFs.jpg",
+"runtime": 90,
+"title": "Business Is Business",
+"tmdb_id": 98050,
+"year": 1971
+},
 "980649": {
 "backdrop": null,
 "cast": [
@@ -66993,6 +91620,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Psycho Shampoo",
 "tmdb_id": 980649,
 "year": 1979
+},
+"98248": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4H950Hx2SHoytAaW5fAiUY1E4nt.jpg",
+"cast": [
+"Anjelica Huston",
+"Assi Dayan",
+"Anthony Higgins",
+"John Hallam",
+"Robert Lang",
+"Guy Deghy"
+],
+"countries": [
+"US"
+],
+"directors": [
+"John Huston"
+],
+"imdb_id": "tt0065195",
+"original_title": "A Walk with Love and Death",
+"overview": "During France’s Hundred Years’ War, a Parisian student seeks refuge by the sea and falls in love with an aristocrat. As they find shelter in a monastery, their romance is overshadowed by the ongoing conflict between peasants and noblemen.",
+"poster": "https://image.tmdb.org/t/p/w342/c8bXRancCsnw0ubjhJI0lYPnkJv.jpg",
+"runtime": 90,
+"title": "A Walk with Love and Death",
+"tmdb_id": 98248,
+"year": 1969
 },
 "982771": {
 "backdrop": null,
@@ -67038,6 +91690,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "To Live and Die in L.A.",
 "tmdb_id": 9846,
 "year": 1985
+},
+"984706": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"SE"
+],
+"directors": [
+"Roy Andersson"
+],
+"imdb_id": "tt2642482",
+"original_title": "Så fruktansvärt onödigt",
+"overview": "Documentary about children and accidents focusing on a family who lost their son who fell down a well.",
+"poster": null,
+"runtime": 58,
+"title": "So Terribly Unnecessary",
+"tmdb_id": 984706,
+"year": 1979
 },
 "98635": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tZzJ8J4QMXjlgepG6pvCOZsVI5.jpg",
@@ -67116,6 +91786,60 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 989207,
 "year": 1962
 },
+"9896": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vian6RN3bC4QdBQzY1wTmBkhxVQ.jpg",
+"cast": [
+"Gloria Allred",
+"Breckin Meyer",
+"Cuba Gooding Jr.",
+"Lanei Chapman",
+"Amy Smart",
+"Seth Green"
+],
+"countries": [
+"CA",
+"US"
+],
+"directors": [
+"Jerry Zucker"
+],
+"imdb_id": "tt0250687",
+"original_title": "Rat Race",
+"overview": "Donald Sinclair (John Cleese) eier det største og flotteste kasinoet i Las Vegas. For å underholde seg og sine milliardær-venner, har han plukket ut seks tilfeldige fremmede og lager den mest originale konkurransen byen noen sinne har vært med på, et kappløp mellom Las Vegas til Silver City, New Mexico, hvor det gjelder å være den første til å finne det skjulte skapet med to millioner dollar i. Vinneren får pengene...",
+"poster": "https://image.tmdb.org/t/p/w342/8ghNCfFbCJjcNSz2K5jOC3eO6ZD.jpg",
+"runtime": 112,
+"title": "Rat Race",
+"tmdb_id": 9896,
+"year": 2001
+},
+"99095": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gcUK6xDC2v6CMZpdXoWS2MFnFzW.jpg",
+"cast": [
+"Marcello Mastroianni",
+"Catherine Spaak",
+"Virna Lisi",
+"Luciano Salce",
+"Pamela Tiffin",
+"Marco Ferreri"
+],
+"countries": [
+"FR",
+"IT"
+],
+"directors": [
+"Eduardo De Filippo",
+"Marco Ferreri",
+"Luciano Salce"
+],
+"imdb_id": "tt0059535",
+"original_title": "Oggi, domani, dopodomani",
+"overview": "Italian comedy film in three segments",
+"poster": "https://image.tmdb.org/t/p/w342/hyoPTG6Nndqit8Md9gcKvnr2Jfs.jpg",
+"runtime": 95,
+"title": "Kiss the Other Sheik",
+"tmdb_id": 99095,
+"year": 1965
+},
 "993107": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6aeS8BAGkXDNosuVpUv1KsqQSpd.jpg",
 "cast": [
@@ -67162,6 +91886,91 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Next Floor",
 "tmdb_id": 99343,
 "year": 2008
+},
+"993716": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ix3qcVapHwEjLxwaLyCCD0LqJbi.jpg",
+"cast": [
+"Leslie Carlson",
+"Leslie Bais",
+"Bill Chan",
+"Marcel Sabourin",
+"Tom Butler",
+"Andy Jones"
+],
+"countries": [
+"CA"
+],
+"directors": [
+"David Cronenberg",
+"Michael Jones",
+"Don McKellar",
+"Jeremy Podeswa",
+"Anne Wheeler",
+"Michael Snow",
+"Patricia Rozema",
+"Atom Egoyan",
+"Guy Maddin",
+"Jean Pierre Lefebvre"
+],
+"imdb_id": null,
+"original_title": "Preludes",
+"overview": "Commissioned by the Toronto International Film Festival to mark the event's 25th anniversary in September 2000, the \"Preludes\" program consisted of ten short films by Canadian directors which were inspired in some way by the festival. Each film screened as a prelude to a feature film in the 2000 Toronto International Film Festival program. The full \"Preludes\" anthology was screened on the web in November 2000, and was given theatrical retrospectives at the TIFF Lightbox in the subsequent years.",
+"poster": "https://image.tmdb.org/t/p/w342/g8VVnPW9lH4yZH7YUut3lIXQtkM.jpg",
+"runtime": 58,
+"title": "Preludes",
+"tmdb_id": 993716,
+"year": 2000
+},
+"9944": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dMFVSGbgtVTedpewA4PHykQuEEK.jpg",
+"cast": [
+"Julia Roberts",
+"Denzel Washington",
+"Sam Shepard",
+"John Heard",
+"Tony Goldwyn",
+"James B. Sikking"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alan J. Pakula"
+],
+"imdb_id": "tt0107798",
+"original_title": "The Pelican Brief",
+"overview": "Når to høyesterettsdommere blir myrdet skriver en jusstudent en spekulativ rapport om sine mistanker rundt drapene, og informasjonen sender sjokkbølger opp til øverste hold i regjeringen. Sammen med en pågående journalist forsøker hun å fortelle verden hva de har avdekket - men snart dreier alt seg om å overleve. Jakten er i gang, og de er ikke bare på flukt, de er levende målskiver.",
+"poster": "https://image.tmdb.org/t/p/w342/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+"runtime": 141,
+"title": "The Pelican Brief",
+"tmdb_id": 9944,
+"year": 1993
+},
+"9950": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4aAmGZrR15CnVU0VjVuzMHNQ2eZ.jpg",
+"cast": [
+"Vin Diesel",
+"Alex Rocco",
+"Ron Silver",
+"Peter Dinklage",
+"Linus Roache",
+"Frank Pietrangolare"
+],
+"countries": [
+"DE",
+"US"
+],
+"directors": [
+"Sidney Lumet"
+],
+"imdb_id": "tt0419749",
+"original_title": "Find Me Guilty",
+"overview": "Based on the true story of Jack DiNorscio, a mobster who defended himself in court for what would be the longest mafia trial in U.S. history.",
+"poster": "https://image.tmdb.org/t/p/w342/8M0dkX7jOor7exKor1txoUl9Ynu.jpg",
+"runtime": 125,
+"title": "Find Me Guilty",
+"tmdb_id": 9950,
+"year": 2006
 },
 "9952": {
 "backdrop": "https://image.tmdb.org/t/p/w780/q4RamDqx4kXCrUvk49o4FmVBbb.jpg",
@@ -67261,6 +92070,58 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Rampage",
 "tmdb_id": 99749,
 "year": 1987
+},
+"99883": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mJ6SbrfWwviKF1NGp2z89Px7Zij.jpg",
+"cast": [
+"José Isbert",
+"Pedro Porcel",
+"José Luis López Vázquez",
+"María Luisa Ponte",
+"Antonio Gavilán",
+"José 'Lepe' Álvarez"
+],
+"countries": [
+"ES"
+],
+"directors": [
+"Marco Ferreri"
+],
+"imdb_id": "tt0053724",
+"original_title": "El cochecito",
+"overview": "Don Anselmo, a retired old man, decides to buy a motorized disabled stroller since all his pensioner friends own one. His family strongly refuses him to purchase the vehicle, so don Anselmo decides to take extreme measures to achieve his goal…",
+"poster": "https://image.tmdb.org/t/p/w342/jDh5pJ4EnIEwR9JS7DU0Mt47p6P.jpg",
+"runtime": 86,
+"title": "The Wheelchair",
+"tmdb_id": 99883,
+"year": 1960
+},
+"9992": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zwV8u4kq6ClZ3IDylLGF3DprKDv.jpg",
+"cast": [
+"Freddie Highmore",
+"Madonna",
+"Mia Farrow",
+"Adam LeFevre",
+"Doug Rand",
+"Penny Balfour"
+],
+"countries": [
+"FR",
+"GB",
+"US"
+],
+"directors": [
+"Luc Besson"
+],
+"imdb_id": "tt0344854",
+"original_title": "Arthur et les Minimoys",
+"overview": "Arthur er 10 år og veldig fascinert av bestemorens godnatthistorier. Drømmene hans er fulle av Afrikanske stammer og utrolige oppfinnelser han har lest om i bestefarens gamle magiske bok. Bestefar forsvant på mystisk vis for fire år siden.  En dag han sitter og studerer denne boken oppdager Arthur at bestefaren har laget gåter som skal lede til en skjult rubinskatt i bakhagen. Og utrolig nok skal det visstnok finnes en verden bebodd av skapninger som er for små til at man kan se dem med det blotte øyet, disse kalles Minimoyer.  Den skatten hadde virkelig hjulpet bestemoren som har store problemer med en skruppelløs eiendomsmagnat som truer med å rive huset hennes! Arthur tar en modig avgjørelse og drar for å finne Minimoyenes verden og innta deres land med Syv Kongedømmer. Men det er bare èn måte å få det til på: Arthur må selv krympe og bli til en Minimoy!  ARTHUR OG MINIMOYENE er et praktfullt og rørende eventyr basert på en av mesterregissøren Luc Besson sine populære barnebøker.",
+"poster": "https://image.tmdb.org/t/p/w342/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg",
+"runtime": 94,
+"title": "Arthur and the Invisibles",
+"tmdb_id": 9992,
+"year": 2006
 }
 }
 };

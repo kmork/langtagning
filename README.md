@@ -168,6 +168,22 @@ Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten 
 ved statusknappene. Lenkene (`data/filmoteket.js`) kan publiseres.
 Kjør kommandoen av og til, for utvalget på Filmoteket endrer seg.
 
+## Roger Ebert og Criterion Collection
+
+```sh
+python3 tools/langtagning.py wikidata
+python3 tools/langtagning.py lists
+```
+
+rogerebert.com og criterion.com blokkerer skript, så ID-ene hentes fra Wikidata (én spørring). `wikidata` skriver
+`data/wikidata-lenker.js` (kan publiseres) og lager Criterion Collection som en liste med spine-nummer
+(`tools/lister/criterion/criterion.txt`, `# nummer: spine`). `lists` bygger den inn i nettsiden.
+
+I detaljvisningen får alle filmer en «Roger Ebert»-lenke: direkte til anmeldelsen når Wikidata kjenner adressen,
+ellers et søk. «Criterion»-lenken vises bare for filmer Criterion har gitt ut. Filmer i samlingen får merket
+«Criterion #spine», og hele samlingen finnes under «Vis». Lim inn en adresse i `links.ebert` /
+`links.criterion` for å overstyre.
+
 ## Regissører: hele filmografien
 
 ```sh
@@ -217,7 +233,7 @@ Felt du eier selv, og som skriptet **aldri** overskriver: `status`, `tags`, `des
 Til `awards` legger skriptet bare til nye priser. Priser du har skrevet inn selv blir stående.
 
 - **BFI / Rotten Tomatoes:** Uten egen lenke viser siden en søkelenke (merket «søk»).
-  Lim inn den eksakte adressen i `links.bfi` / `links.rt` for direktelenke.
+  Lim inn den eksakte adressen i `links.bfi` / `links.rt` (eller `links.ebert` / `links.criterion`) for direktelenke.
   Du kan også legge til egne lenker, f.eks. `"letterboxd": "https://letterboxd.com/film/stalker/"`.
 - **Ny film for hånd:** Det holder å skrive `{ "title": "Stalker", "year": 1979 }` og så kjøre `sync`.
 - **Husk gyldig JSON:** doble anførselstegn, komma mellom elementer men ikke etter det siste.

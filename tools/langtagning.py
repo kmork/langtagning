@@ -13,6 +13,7 @@ Eksempler:
   python3 tools/langtagning.py queue           # behandle køen du har lagd på nettsiden
   python3 tools/langtagning.py cinemateket     # hent omtaler fra cinemateket.no
   python3 tools/langtagning.py filmoteket      # finn filmer som kan lånes på filmoteket.no
+  python3 tools/langtagning.py wikidata        # Roger Ebert- og Criterion-lenker + Criterion-lista (kjør lists etterpå)
   python3 tools/langtagning.py directors       # hent filmografier (regissører du har minst 2 filmer av)
   python3 tools/langtagning.py directors "Agnès Varda"   # … og/eller en bestemt regissør
   python3 tools/langtagning.py check           # sjekk at movies.js er gyldig
@@ -1033,6 +1034,79 @@ def cmd_filmoteket(a):
             print("  -", u)
 
 
+# ---------------------------------------------------------------- Roger Ebert og Criterion (via Wikidata)
+# Begge nettstedene blokkerer skript, men Wikidata har ID-ene: P6932 (RogerEbert.com), P9584 (Criterion-film),
+# P12279 (Criterion spine-nummer) og P4947 (TMDB-film-ID).
+
+WIKI_LINKS = os.path.join(ROOT, "data", "wikidata-lenker.js")
+CRIT_LIST = os.path.join(ROOT, "tools", "lister", "criterion", "criterion.txt")
+
+
+def cmd_wikidata(a):
+    # Uten GROUP BY/SAMPLE – det er tregt på serveren; radene slås sammen her i stedet
+    query = """SELECT ?tmdb ?e ?c ?s ?t ?d WHERE {
+      { ?film wdt:P6932 ?e } UNION { ?film wdt:P9584 ?c }
+      UNION { ?film wdt:P12279 ?s . OPTIONAL { ?film rdfs:label ?t FILTER(LANG(?t) = "en") } OPTIONAL { ?film wdt:P577 ?d } }
+      ?film wdt:P4947 ?tmdb .
+    }"""
+    url = f"{WIKIDATA}?{urllib.parse.urlencode({'query': query, 'format': 'json'})}"
+    print("Henter Roger Ebert- og Criterion-ID-er fra Wikidata …")
+    try:
+        data = http_get(url, {"Accept": "application/sparql-results+json",
+                              "User-Agent": "Langtagning/1.0 (personlig filmdatabase)"}) or {}
+    except Fail as e:
+        if "429" in str(e):
+            raise Fail("Wikidata begrenser antall spørringer akkurat nå (429). Vent et par minutter og prøv igjen.")
+        raise
+    links, crit = {}, {}  # crit: tmdb → [spine, tittel, år]
+    for row in data.get("results", {}).get("bindings", []):
+        v = {k: row[k]["value"] for k in row}
+        tid = v.get("tmdb", "")
+        if not tid.isdigit():
+            continue
+        if v.get("e"):
+            links.setdefault(tid, {})["ebert"] = v["e"]
+        if v.get("c"):
+            links.setdefault(tid, {})["criterion"] = v["c"]
+        num = re.match(r"\d+", v.get("s", ""))
+        if num:
+            c = crit.setdefault(tid, [int(num[0]), None, None])
+            c[0] = min(c[0], int(num[0]))
+            c[1] = c[1] or v.get("t")
+            yr = re.match(r"\d{4}", v.get("d", ""))
+            if yr and (not c[2] or int(yr[0]) < c[2]):
+                c[2] = int(yr[0])
+    spines = [(c[0], c[1], c[2], int(tid)) for tid, c in crit.items() if c[1] and c[2]]
+    if not links:
+        raise Fail("Fikk ingen treff fra Wikidata – prøv igjen senere.")
+    write_js(WIKI_LINKS, "LANGTAGNING_WIKILINKS", links,
+             "Lenker til Roger Ebert og Criterion (tmdb-id → ID). Genereres av: python3 tools/langtagning.py wikidata")
+
+    # Criterion Collection som usortert samling, med spine-nummeret som nummer
+    spines.sort()
+    count = {}
+    for s, *_ in spines:
+        count[s] = count.get(s, 0) + 1
+    os.makedirs(os.path.dirname(CRIT_LIST), exist_ok=True)
+    with open(CRIT_LIST, "w", encoding="utf-8") as f:
+        f.write("# navn: The Criterion Collection\n# kort: Criterion\n# serie: Criterion Collection\n"
+                f"# år: {dt.date.today().year}\n# type: samling\n# nummer: spine\n"
+                "# kilde: https://www.criterion.com/shop/browse/list\n"
+                "# Genereres av: python3 tools/langtagning.py wikidata (spine-nummer fra Wikidata) – ikke rediger.\n\n")
+        for s, title, year, tid in spines:
+            title = re.sub(r"[|()]", " ", title).strip()
+            f.write(f"{'=' if count[s] > 1 else ''}{s} | {title} ({year}) | tmdb:{tid}\n")
+
+    _, movies = load_db()
+    mine = {m["tmdb_id"] for m in movies if m.get("tmdb_id")}
+    n_eb = sum(1 for k, v in links.items() if "ebert" in v and int(k) in mine)
+    n_cc = sum(1 for k, v in links.items() if "criterion" in v and int(k) in mine)
+    n_sp = sum(1 for *_, tid in spines if tid in mine)
+    print(f"Ferdig: {len(links)} filmer med lenker – i databasen din: {n_eb} Roger Ebert, {n_cc} Criterion.")
+    print(f"Criterion Collection: {len(spines)} filmer med spine-nummer ({n_sp} i databasen din) → {os.path.relpath(CRIT_LIST, ROOT)}")
+    print("Kjør nå «python3 tools/langtagning.py lists» for å bygge Criterion-lista inn i nettsiden.")
+
+
 # ---------------------------------------------------------------- regissører (hele filmografien fra TMDB)
 
 DIR_JS = os.path.join(ROOT, "data", "directors.js")
@@ -1144,7 +1218,7 @@ def cmd_directors(a):
 LISTS_DIR = os.path.join(ROOT, "tools", "lister")
 LISTS_PATH = os.path.join(ROOT, "data", "lists.js")
 LISTS_PREFIX = "window.LANGTAGNING_LISTS = "
-LIST_LINE = re.compile(r"^(=?)\s*(\d+)\s*=?\s*\|\s*(.*?)\s*\((\d{4})\)\s*(?:\|\s*(?!tmdb:)([^|]*?))?\s*(?:\|\s*tmdb:(\d+))?\s*$")
+LIST_LINE = re.compile(r"^(=?)\s*(\d+)\s*=?\s*\|\s*(.*?)\s*\((\d{4})\)\s*(?:\|(?!\s*tmdb:)\s*([^|]*?))?\s*(?:\|\s*tmdb:(\d+))?\s*$")
 CATALOG_FIELDS = ["tmdb_id", "imdb_id", "title", "original_title", "year", "directors", "countries",
                   "runtime", "cast", "overview", "poster", "backdrop"]
 
@@ -1158,9 +1232,9 @@ def parse_list_file(path):
             if not line:
                 continue
             if line.startswith("#"):
-                m = re.match(r"#\s*(navn|kort|serie|år|størrelse|type|kilde):\s*(.+)$", line)
+                m = re.match(r"#\s*(navn|kort|serie|år|størrelse|type|kilde|nummer):\s*(.+)$", line)
                 if m:
-                    meta[{"navn": "name", "kort": "short", "serie": "series", "år": "year", "størrelse": "size", "type": "kind", "kilde": "source"}[m.group(1)]] = m.group(2).strip()
+                    meta[{"navn": "name", "kort": "short", "serie": "series", "år": "year", "størrelse": "size", "type": "kind", "kilde": "source", "nummer": "numbered"}[m.group(1)]] = m.group(2).strip()
                 continue
             m = LIST_LINE.match(line)
             if not m:
@@ -1473,6 +1547,9 @@ def main():
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_filmoteket)
 
+    s = sub.add_parser("wikidata", help="hent Roger Ebert- og Criterion-lenker og Criterion-lista fra Wikidata")
+    s.set_defaults(fn=cmd_wikidata)
+
     s = sub.add_parser("directors", help="hent hele filmografien til regissørene dine fra TMDB")
     s.add_argument("names", nargs="*", help="ekstra regissører (huskes i tools/regissorer.txt)")
     s.add_argument("--min", type=int, default=2, help="ta med regissører du har minst så mange filmer av (standard 2)")
@@ -1483,7 +1560,7 @@ def main():
 
     a = p.parse_args()
     try:
-        if a.cmd not in ("check", "awards", "cinemateket"):
+        if a.cmd not in ("check", "awards", "cinemateket", "wikidata"):
             api_key()  # stopp tidlig hvis nøkkelen mangler
         a.fn(a)
     except Fail as e:

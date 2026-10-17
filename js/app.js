@@ -93,6 +93,8 @@
   const listShort = (id) => id.startsWith("series:") ? (lists.some((l) => l.series === id.slice(7) && l.kind === "collection") ? id.slice(7) : `${id.slice(7)} – topp 10 (alle år)`) : (listById.get(id) || {}).short || id;
   // Plassering(er) i en årsliste-serie, nyeste først
   const annualRanks = (f, s) => seriesLists(s).filter((l) => f._ranks[l.id]).map((l) => ({ list: l, e: f._ranks[l.id] }));
+  // Merke for usorterte samlinger: nummererte (Criterion: spine-nummer) viser nummeret, ellers «Kult»
+  const collLabel = (ar) => ar[0].list.numbered ? `${ar[0].list.short} #${ar[0].e.rank}` : "Kult";
 
   const byTmdb = new Map(movies.filter((m) => m.tmdb_id).map((m) => [m.tmdb_id, m]));
   // Filmer fra kåringene som ikke er i databasen din («katalogfilmer»)
@@ -370,13 +372,16 @@
 
   // ---------- Utvalg: Mitt utvalg eller en liste ----------
 
+  // Filmografien viser spillefilmer – og alltid filmer du selv har registrert (f.eks. TV-filmen «Duel»)
+  const inFilmography = (x) => x.kind === "feature" || byTmdb.has(x.id);
+
   function sourceOf(id, st = state) {
     if (!id) return null;
     if (id.startsWith("dir:")) {  // regissør: hele filmografien
       const d = dirByName.get(id.slice(4));
       if (!d) return null;
       const all = d.films.filter((x) => filmFor(x.id));
-      const pick = all.filter((x) => st.shorts || x.kind === "feature");
+      const pick = all.filter((x) => st.shorts || inFilmography(x));
       const years = pick.map((x) => x.year);
       return {
         id, kind: "director", name: d.name, person: d.person_id, source: `https://www.themoviedb.org/person/${d.person_id}`,
@@ -389,7 +394,7 @@
       if (!ls.length) return null;
       const coll = isColl(s);
       return {
-        id, kind: "group", coll, series: s, name: coll ? s : `${s} – årets topp 10, alle år`, source: ls[0].source, size: ls.length,
+        id, kind: "group", coll, numbered: ls.every((x) => x.numbered), series: s, name: coll ? s : `${s} – årets topp 10, alle år`, source: ls[0].source, size: ls.length,
         entries: (coll ? ls.slice().reverse() : ls).flatMap((x) => x.entries.map((e) => ({ ...e, _group: coll ? x.short : x.year }))),
       };
     }
@@ -470,7 +475,7 @@
     }
     for (const s of annualSeries) {
       const ar = annualRanks(m, s);
-      if (ar.length && isColl(s)) b.push(`<span class="badge annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">Kult</span>`);
+      if (ar.length && isColl(s)) b.push(`<span class="badge annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">${esc(collLabel(ar))}</span>`);
       else if (ar.length) b.push(`<span class="badge annual" title="${esc(ar.map((r) => `${s} ${r.list.year}: #${rankText(r.e)}`).join("\n"))}">${esc(s.split(" ")[0])} ’${String(ar[0].list.year).slice(2)}</span>`);
     }
     if (m.status.owned) b.push('<span class="badge own">Eier</span>');
@@ -511,10 +516,14 @@
       html += '<option disabled>──── Kuratert av andre ────</option>';
       for (const s of seriesNames) {
         let o = "";
-        if (annualSeries.includes(s)) {
+        if (annualSeries.includes(s) && seriesLists(s).length === 1) {
+          // bare én liste i serien (f.eks. Criterion): ingen egen «Alle»-oppføring
+          const x = seriesLists(s)[0];
+          o += opt(x.id, `${x.short} (${x.entries.length} filmer)`);
+        } else if (annualSeries.includes(s)) {
           const coll = isColl(s);
           o += opt(`series:${s}`, coll ? `Alle (${seriesLists(s).reduce((a, x) => a + x.entries.length, 0)} filmer)` : `Alle år (${seriesLists(s).length} årganger)`);
-          o += (coll ? seriesLists(s).slice().reverse() : seriesLists(s)).map((x) => opt(x.id, coll ? `${x.short} (${x.year})` : `${x.year}`)).join("");
+          o += (coll ? seriesLists(s).slice().reverse() : seriesLists(s)).map((x) => opt(x.id, coll ? (x.numbered ? x.short : `${x.short} (${x.year})`) : `${x.year}`)).join("");
         } else {
           o += seriesLists(s).map((x) => opt(x.id, `${x.short} – topp ${x.size}`)).join("");
         }
@@ -602,7 +611,7 @@
       html += `<label class="field"><span>${f.label}</span><select data-facet="${f.key}" class="${state[f.key] ? "active" : ""}">` +
         `<option value="">Alle</option>${opts}</select></label>`;
       if (f.key === "director" && state.director && dirByName.has(state.director) && state.src !== `dir:${state.director}`) {
-        const n = dirByName.get(state.director).films.filter((x) => x.kind === "feature" && filmFor(x.id)).length;
+        const n = dirByName.get(state.director).films.filter((x) => inFilmography(x) && filmFor(x.id)).length;
         html += `<button class="facet-link" data-goto="dir:${esc(state.director)}">→ Se hele filmografien (${n} spillefilmer)</button>`;
       }
     }
@@ -662,8 +671,9 @@
       t.push(`<span class="mt rank" title="${esc(l.name)}">${esc(l.short.replace(/ \d{4}$/, ""))} #${rankText(e)}</span>`);
     }
     for (const s of annualSeries) {
+      if (src && src.numbered && src.series === s) continue;  // nummeret står allerede i rangkolonnen
       const ar = annualRanks(f, s);
-      if (ar.length) t.push(`<span class="mt annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">${isColl(s) ? "Kult" : `${esc(s.split(" ")[0])} ’${String(ar[0].list.year).slice(2)}`}</span>`);
+      if (ar.length) t.push(`<span class="mt annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">${isColl(s) ? esc(collLabel(ar)) : `${esc(s.split(" ")[0])} ’${String(ar[0].list.year).slice(2)}`}</span>`);
     }
     if (f.awards.length) t.push(`<span class="mt award" title="${esc(f.awards.join("\n"))}">${LAUREL}${f.awards.length}</span>`);
     if (fmtUrl(f)) t.push('<span class="mt stream">▶ Filmoteket</span>');
@@ -676,7 +686,7 @@
     const showGroup = src && src.kind === "group" && sortKey() === "list" && x.group !== lastGroup;
     if (showGroup) lastGroup = x.group;
     const rank = src && isRanked(src) && e ? `${e.tied ? "<small>=</small>" : ""}${e.rank}`
-      : src && src.kind === "group" && !src.coll && e && sortKey() === "list" ? `${e.tied ? "<small>=</small>" : ""}${e.rank}` : "";
+      : src && (src.kind === "group" && !src.coll || src.numbered) && e && sortKey() === "list" ? `${e.tied ? "<small>=</small>" : ""}${e.rank}` : "";
     const orig = f.original_title && f.original_title !== f.title ? `<span class="lv-orig">${esc(f.original_title)}</span>` : "";
     return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${LOCAL && f.tmdb_id ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._catalog && !f._queued ? " is-missing" : ""}${f.status.seen ? " is-seen" : ""}" data-id="${esc(f.id)}">
         <span class="lv-rank">${rank}</span>
@@ -710,7 +720,7 @@
     $("#empty").hidden = n > 0;
     grid.hidden = rows;
     $("#rows").hidden = !rows;
-    $("#rows").classList.toggle("no-rank", !(src && (isRanked(src) || (src.kind === "group" && !src.coll && sortKey() === "list"))));
+    $("#rows").classList.toggle("no-rank", !(src && (isRanked(src) || ((src.kind === "group" && !src.coll || src.numbered) && sortKey() === "list"))));
     grid.innerHTML = "";
     $("#rows").innerHTML = "";
     shown = 0;
@@ -726,7 +736,7 @@
     const hits = qq.length >= 3 ? directorsData.filter((d) => fold(d.name).includes(qq)).slice(0, 3) : [];
     box.hidden = !hits.length;
     box.innerHTML = hits.map((d) => {
-      const n = d.films.filter((x) => x.kind === "feature" && filmFor(x.id)).length;
+      const n = d.films.filter((x) => inFilmography(x) && filmFor(x.id)).length;
       return `<button data-goto="dir:${esc(d.name)}">▸ Regissør: <b>${esc(d.name)}</b> – hele filmografien <small>(${n} spillefilmer)</small></button>`;
     }).join("");
   }
@@ -769,12 +779,18 @@
       url: m.links.bfi || `https://www.bfi.org.uk/search?q=${q(t)}`, search: !m.links.bfi });
     L.push({ cls: "rt", tag: "RT", name: "Rotten Tomatoes",
       url: m.links.rt || `https://www.rottentomatoes.com/search?search=${q(t)}`, search: !m.links.rt });
+    const wl = (m.tmdb_id && WIKILINKS[m.tmdb_id]) || {};
+    const ebert = m.links.ebert || (wl.ebert && `https://www.rogerebert.com/reviews/${wl.ebert}`);
+    L.push({ cls: "ebert", tag: "RE", name: "Roger Ebert",
+      url: ebert || `https://www.rogerebert.com/search?q=${q(`${t} ${m.year || ""}`)}`, search: !ebert });
+    const crit = m.links.criterion || (wl.criterion && `https://www.criterion.com/films/${wl.criterion}`);
+    if (crit) L.push({ cls: "crit", tag: "CC", name: "Criterion", url: crit });
     if (m.tmdb_id) L.push({ cls: "tmdb", tag: "TMDB", name: "TMDB", url: `https://www.themoviedb.org/movie/${m.tmdb_id}` });
     if (fmtUrl(m)) L.push({ cls: "fmt", tag: "▶", name: "Filmoteket", url: fmtUrl(m) });
     const cine = m.tmdb_id && CINE_LINKS[m.tmdb_id];
     if (cine) L.push({ cls: "cine", tag: "C", name: "Cinemateket", url: cine });
     for (const [k, url] of Object.entries(m.links)) {
-      if (!url || ["imdb", "bfi", "rt"].includes(k)) continue;
+      if (!url || ["imdb", "bfi", "rt", "ebert", "criterion"].includes(k)) continue;
       L.push({ cls: "", tag: "↗", name: k, url });
     }
     return L.map((l) => `<a class="extlink" href="${esc(l.url)}" target="_blank" rel="noopener"><i class="${l.cls}">${esc(l.tag)}</i>${esc(l.name)}${l.search ? " <small>søk</small>" : ""}</a>`).join("");
@@ -782,6 +798,8 @@
 
   // Omtaler fra cinemateket.no – teksten bare lokalt (se index.html), ellers bare lenke
   const CINE_LINKS = window.LANGTAGNING_CINEMATEKET_LINKS || {};
+  // Roger Ebert- og Criterion-ID-er fra Wikidata (tmdb-id → {ebert, criterion})
+  const WIKILINKS = window.LANGTAGNING_WIKILINKS || {};
   const CINE = (LOCAL && window.LANGTAGNING_CINEMATEKET) || {};
   function cineHTML(m) {
     const c = m.tmdb_id && CINE[m.tmdb_id];
@@ -800,7 +818,7 @@
     if (!m._listVals.length) return "";
     const annual = annualSeries.map((s) => [s, annualRanks(m, s)]).filter(([, r]) => r.length).map(([s, r]) => `
       <div class="rk-row"><span class="rk-key annual"><i></i>${esc(s)}</span><div class="rk-cells">${r.map(({ list, e }) => isColl(s)
-        ? `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis lista"><small>${list.year}</small>${esc(list.short)}</button>`
+        ? `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis lista"><small>${list.numbered ? esc(list.short) : list.year}</small>${list.numbered ? `#${e.rank}` : esc(list.short)}</button>`
         : `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis ${esc(list.short)}"><small>topp 10 ${list.year}</small>#${rankText(e)}</button>`).join("")}</div></div>`).join("");
     const ranked = rankLists.some((l) => m._ranks[l.id]);
     if (!ranked) return `<section class="rankings"><div class="rk-table">${annual}</div></section>`;
