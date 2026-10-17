@@ -751,7 +751,7 @@
     renderFacets();
     renderChips();
     renderResults();
-    if ($("#search").value !== state.q) $("#search").value = state.q;
+    if ($("#search").value.trim() !== state.q) $("#search").value = state.q;
   }
 
   // Tegn neste bolk når man nærmer seg bunnen

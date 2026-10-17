@@ -11761,5 +11761,26 @@ window.LANGTAGNING = [
     "description": "",
     "links": {"bfi": "", "rt": ""},
     "added": "2026-10-17"
+  },
+  {
+    "id": "the-lobster-2015",
+    "tmdb_id": 254320,
+    "imdb_id": "tt3464902",
+    "title": "The Lobster",
+    "original_title": "The Lobster",
+    "year": 2015,
+    "directors": ["Yorgos Lanthimos"],
+    "countries": ["FR", "GR", "IE", "NL", "GB"],
+    "runtime": 119,
+    "cast": ["Colin Farrell", "Rachel Weisz", "Olivia Colman", "Léa Seydoux", "Michael Smiley", "Ariane Labed"],
+    "awards": [],
+    "overview": "I fremtiden drives det en intens jakt på single mennesker. De har 45 dager på seg til å finne en partner, ellers forvandles de til dyr og tvinges ut i villmarken.",
+    "poster": "posters/254320.jpg",
+    "backdrop": "posters/254320-bg.jpg",
+    "status": {"seen": true, "want": false, "owned": false},
+    "tags": [],
+    "description": "",
+    "links": {"bfi": "", "rt": ""},
+    "added": "2026-10-17"
   }
 ];
