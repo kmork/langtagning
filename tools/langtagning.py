@@ -1355,27 +1355,55 @@ STREAM_LINKS = os.path.join(ROOT, "data", "streaming.js")
 
 
 def cmd_streaming(a):
+    # 1) Hele katalogen til hver tjeneste i Norge hentes (20 filmer per side) og sammenlignes med alle filmene
+    #    siden kjenner – det går raskere enn å slå opp film for film, og venner får data for alt de kan markere.
+    # 2) Treffene kontrolleres film for film: /discover blander typene, så en film som kan *leies* på TV 2 Play
+    #    og strømmes et annet sted, kommer med i TV 2 Play-katalogen.
     _, movies = load_db()
-    films = [m for m in movies if m.get("tmdb_id")]
-    print(f"Sjekker {len(films)} filmer mot {', '.join(STREAM_SERVICES)} i Norge …")
+    known = {int(m["tmdb_id"]) for m in all_known_films(movies)}
+    for path in (CINE_PROGRAM, VEGA_PROGRAM):  # kinoprogrammene
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                text = f.read()
+            prog = json.loads(text[text.index("=") + 1:].strip().rstrip(";"))
+            known |= {int(k) for part in ("catalog", "films") for k in prog.get(part, {})}
+    print(f"Henter katalogene til {', '.join(STREAM_SERVICES)} i Norge, og sammenligner med {len(known)} filmer …")
+    cands = set()
+    for name, pids in STREAM_SERVICES.items():
+        page, pages, total = 1, 1, 0
+        while page <= min(pages, 500):  # TMDB gir maks 500 sider (10 000 treff)
+            d = tmdb("/discover/movie", watch_region="NO", with_watch_providers="|".join(map(str, sorted(pids))),
+                     with_watch_monetization_types="flatrate|free|ads",  # abonnement, gratis (NRK) og reklame – ikke leie/kjøp
+                     sort_by="popularity.desc", page=page) or {}
+            pages, total = d.get("total_pages") or 0, d.get("total_results") or 0
+            hits = {r["id"] for r in d.get("results", [])} & known
+            cands |= hits
+            page += 1
+        if total > 10000:
+            print(f"  ! {name}: {total} titler, bare de 10 000 første kom med")
+        print(f"  {name}: {total} titler i katalogen")
+    print(f"{len(cands)} av filmene på siden er kandidater – kontrollerer dem …")
     out, fails = {}, 0
-    for n, m in enumerate(films, 1):
+    for n, tid in enumerate(sorted(cands), 1):
         try:
-            no = ((tmdb(f"/movie/{m['tmdb_id']}/watch/providers") or {}).get("results") or {}).get("NO") or {}
+            no = ((tmdb(f"/movie/{tid}/watch/providers") or {}).get("results") or {}).get("NO") or {}
         except Fail:
             fails += 1
             continue
-        # abonnement, gratis (NRK) og med reklame – ikke leie/kjøp
-        ids = {p["provider_id"] for t in ("flatrate", "free", "ads") for p in no.get(t, [])}
+        ids = {p["provider_id"] for t in ("flatrate", "free", "ads") for p in no.get(t, [])}  # ikke leie/kjøp
         hits = [name for name, pids in STREAM_SERVICES.items() if ids & pids]
         if hits:
-            out[str(m["tmdb_id"])] = {"s": hits, "url": no.get("link", "")}
-        if n % 100 == 0:
-            print(f"  … {n}/{len(films)}")
+            out[str(tid)] = {"s": hits, "url": no.get("link", "")}
+        if n % 200 == 0:
+            print(f"  … {n}/{len(cands)}")
+    for name in STREAM_SERVICES:
+        print(f"  {name}: {sum(name in x['s'] for x in out.values())} filmer")
     write_js(STREAM_LINKS, "LANGTAGNING_STREAMING", out,
              "Filmer i strømmetjenestene i Norge (tmdb-id → tjenester). Strømmedata fra JustWatch via TMDB.")
-    want = [m for m in films if str(m["tmdb_id"]) in out and m["status"].get("want") and not m["status"].get("seen")]
-    print(f"\nFerdig: {len(out)} av filmene dine kan strømmes" + (f" ({fails} oppslag feilet)" if fails else "") + ".")
+    mine = {str(m["tmdb_id"]): m for m in movies if m.get("tmdb_id")}
+    want = [m for k, m in mine.items() if k in out and m["status"].get("want") and not m["status"].get("seen")]
+    print(f"\nFerdig: {len(out)} filmer kan strømmes – {sum(k in out for k in mine)} av dem i databasen din"
+          + (f" ({fails} oppslag feilet)" if fails else "") + ".")
     if want:
         print(f"Vil se – og kan strømmes nå ({len(want)}):")
         for m in sorted(want, key=lambda m: m["title"]):

@@ -259,10 +259,11 @@ Kjør kommandoen av og til, for utvalget på Filmoteket endrer seg.
 python3 tools/langtagning.py streaming
 ```
 
-Sjekker hvilke av filmene dine som kan sees på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play **i Norge**
-(abonnement eller gratis, ikke leie/kjøp; TMDB-nøkkelen holder, og dataene kommer fra JustWatch). Tar et halvt minutt, og skriver til slutt ut
-«vil se»-filmene som kan strømmes nå. Siden viser tjenesten som merke på plakaten og i lista, lenke i
-detaljvisningen, og filmene kommer med under «▶ Strømming». Flere tjenester (Prime Video, Viaplay, MUBI …)
+Sjekker hvilke filmer på siden – dine, kåringene, regissørenes filmografier og kinoprogrammene – som kan sees
+på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play **i Norge** (abonnement eller gratis, ikke leie/kjøp; TMDB-nøkkelen
+holder, og dataene kommer fra JustWatch). Den henter hele katalogen til hver tjeneste og kontrollerer treffene film
+for film. Det tar 3–4 minutter, og til slutt skrives «vil se»-filmene dine som kan strømmes nå. Siden viser tjenesten
+som merke på plakaten og i lista, lenke i detaljvisningen, og filmene kommer med under «▶ Strømming». Flere tjenester (Prime Video, Viaplay, MUBI …)
 legger du til i `STREAM_SERVICES` i `tools/langtagning.py`. Katalogene endrer seg ofte, så kjør den jevnlig.
 
 Under **Mine data → Strømmetjenester** krysser du av for tjenestene du har (Filmoteket er med i lista).
