@@ -806,7 +806,7 @@
         <span class="lv-thumb">${posterHTML(f)}</span>
         <span class="lv-text"><b>${esc(f.title)}</b>${orig}
           <span class="lv-meta">${esc(f.year || (e && e.year) || "")}${f.directors.length ? " · " + esc(f.directors.join(", ")) : ""}${f.countries.length ? " · " + esc(f.countries.map(countryName).join(", ")) : ""}</span>${miniTags(f)}</span>
-        <span class="lv-status">${statusPills(f)}</span>
+        <span class="lv-status">${canEdit(f) ? queuedPill(f) : statusPills(f)}</span>
         <span class="lv-mv">${src && e ? movement(src, e) : ""}</span>
       </button>${canEdit(f) ? `<div class="lv-act">${actionsHTML(f)}</div>` : ""}</li>`;
   }
@@ -1024,6 +1024,7 @@
     ].filter(Boolean).join("");
 
     // Kan du endre filmen, viser knappene statusen – da står bare «i kø» igjen her
+    // Status vises med knappene; merkene bare for filmer som ikke kan redigeres (som i listevisningen)
     const pills = canEdit(m) ? [queuedPill(m)].filter(Boolean) : [statusPills(m)].filter(Boolean);
 
     const rows = [];
@@ -1045,7 +1046,7 @@
             <h1 id="d-title">${esc(m.title)}</h1>
             ${showOrig ? `<p class="orig">${esc(m.original_title)}</p>` : ""}
             <div class="facts">${facts}</div>
-            ${pills.length || streamable(m) ? `<div class="statusrow">${pills.join("")}${fmtUrl(m) ? `<a class="pill stream" href="${esc(fmtUrl(m))}" target="_blank" rel="noopener">▶ Lån på Filmoteket</a>` : ""}${(streams(m) ? streams(m).s : []).map((n) =>
+            ${pills.length || fmtUrl(m) || streams(m) ? `<div class="statusrow">${pills.join("")}${fmtUrl(m) ? `<a class="pill stream" href="${esc(fmtUrl(m))}" target="_blank" rel="noopener">▶ Lån på Filmoteket</a>` : ""}${(streams(m) ? streams(m).s : []).map((n) =>
               `<a class="pill stream" href="${esc(streams(m).url)}" target="_blank" rel="noopener" title="Strømmedata fra JustWatch">▶ ${esc(n)}</a>`).join("")}</div>` : ""}
             ${m.awards.length ? `<ul class="awards">${m.awards.map((a) =>
               `<li><button data-filter="award" data-v="${esc(a)}">${LAUREL}<span>${a.includes(" – ") ? `<small>${esc(awardGroup(a))}</small>${esc(a.split(" – ").slice(1).join(" – "))}` : esc(a)}</span></button></li>`).join("")}</ul>` : ""}
