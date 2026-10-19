@@ -164,7 +164,7 @@
 
   function clear() {
     films = new Map();
-    meta = { schema: SCHEMA, created: now(), changesSinceExport: 0, name: meta.name };
+    meta = { schema: SCHEMA, created: now(), changesSinceExport: 0, name: meta.name, services: meta.services };  // innstillinger beholdes
     if (backend === "idb") return (pending = pending.then(idbClear));
     if (backend === "local") lsWrite();
     return pending;

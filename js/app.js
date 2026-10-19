@@ -149,6 +149,19 @@
   // Filmer som kan lånes på filmoteket.no (bibliotekenes strømmetjeneste)
   const FMT = window.LANGTAGNING_FILMOTEKET || {};
   const fmtUrl = (m) => (m.tmdb_id && FMT[m.tmdb_id]) || "";
+  // Filmer i strømmetjenestene (Netflix, Disney+, HBO Max) i Norge – data fra JustWatch via TMDB
+  const STREAM = window.LANGTAGNING_STREAMING || {};
+  const streams = (m) => (m.tmdb_id && STREAM[m.tmdb_id]) || null;
+  const streamNames = [...new Set(Object.values(STREAM).flatMap((x) => x.s))].sort((a, b) => collator.compare(a, b));
+  // Tjenestene du har valgt under Mine data. Styrer «▶ Strømming» og merkene.
+  // Standard er det alle har: Filmoteket (bibliotekkort) og NRK TV.
+  const SERVICES = [...(Object.keys(FMT).length ? ["Filmoteket"] : []), ...streamNames];
+  const DEFAULT_SERVICES = SERVICES.filter((n) => n === "Filmoteket" || n === "NRK TV");
+  const myServices = () => { const v = Store.getMeta("services"); return Array.isArray(v) ? v : DEFAULT_SERVICES; };
+  const hasService = (n) => myServices().includes(n);
+  const myFmt = (m) => (hasService("Filmoteket") && fmtUrl(m)) || "";
+  const myStreams = (m) => (streams(m) ? streams(m).s.filter(hasService) : []);
+  const streamable = (m) => !!(myFmt(m) || myStreams(m).length);
 
   // Kommende visninger per kino (tmdb-id → { url, shows }). Visninger som har vært, tas bort her –
   // programfilene er bare så ferske som siste «langtagning.py kino».
@@ -388,11 +401,6 @@
     { key: "decade", label: "Tiår", values: (m) => (m.decade ? [m.decade] : []), name: (v) => `${v}-tallet`, numeric: true },
     { key: "actor", label: "Skuespiller", values: (m) => m.cast, name: (v) => v },
   ];
-  if (CINEMAS.length) {
-    FACETS.push({ key: "kino", label: "På kino", order: (v) => CINEMAS.findIndex((c) => c.key === v),
-      values: (m) => { const k = playingAt(m).map((c) => c.key); return k.length ? ["*", ...k] : []; },
-      name: (v) => (v === "*" ? "Alle kinoene" : (cinemaBy.get(v) || {}).name || v) });
-  }
   if (lists.length) {
     FACETS.splice(3, 0, { key: "list", label: "Også på liste", values: (m) => m._listVals, name: listShort,
       order: (v) => v.startsWith("series:") ? 9999 : lists.indexOf(listById.get(v)) });
@@ -418,7 +426,8 @@
     if (rf === "stream") s.stream = "1";
     else if (rf && rf !== "all") s.status = rf;
     if (p.get("stream") === "Filmoteket") s.stream = "1";
-    if (p.get("cine") === "snart") s.kino = "cinemateket";
+    if (p.get("cine") === "snart") s.kino = "1";
+    if (s.kino) s.kino = "1";  // gamle bokmerker: kino=cinemateket / vega / * gjelder nå alle kinoene
     if (s.src === "cine") s.src = "kino:cinemateket";
     if (p.get("sort") === "rank") s.sort = "list";
     if (s.src && !sourceOf(s.src, s)) s.src = "";
@@ -490,7 +499,8 @@
 
   function passes(f, skip) {
     if (skip !== "status" && !matchStatus(f, state.status)) return false;
-    if (skip !== "stream" && state.stream && !fmtUrl(f)) return false;
+    if (skip !== "stream" && state.stream && !streamable(f)) return false;
+    if (skip !== "kino" && state.kino && !playingAt(f).length) return false;
     for (const fc of FACETS) {
       if (skip !== fc.key && state[fc.key] && !fc.values(f).includes(state[fc.key])) return false;
     }
@@ -564,7 +574,8 @@
     if (!OWNER && anyStatus(m.knut.status)) b.push(`<span class="badge knut" title="Knuts status">Knut: ${esc(statusWords(m.knut.status))}</span>`);
     if (m.status.owned) b.push('<span class="badge own">Eier</span>');
     if (m.status.want && !m.status.seen) b.push('<span class="badge want">Vil se</span>');
-    if (fmtUrl(m)) b.push('<span class="badge stream" title="Kan lånes på filmoteket.no">Filmoteket</span>');
+    if (myFmt(m)) b.push('<span class="badge stream" title="Kan lånes på filmoteket.no">Filmoteket</span>');
+    if (myStreams(m).length) b.push(`<span class="badge stream" title="Kan strømmes i Norge">${esc(myStreams(m).join(" · "))}</span>`);
     b.push(...kinoBadges(m, "badge", '<span class="badge cine-was" title="Vist på Cinemateket">C</span>'));
     if (m.awards.length) b.push(`<span class="badge award" title="${esc(m.awards.join("\n"))}">${LAUREL}${m.awards.length > 1 ? m.awards.length : ""}</span>`);
     return b.length ? `<div class="badges">${b.join("")}</div>` : "";
@@ -621,7 +632,7 @@
     $("#src-clear").hidden = !state.src;
   }
 
-  // Status-knapper (tall følger filtrene) + «Kan lånes»
+  // Status-knapper (tall følger filtrene) + «Strømming»
   function renderStatus() {
     const base = baseFilms.filter((f) => passes(f, "status"));
     // I «Knuts utvalg»: velg om statusfilteret gjelder dine eller Knuts statuser
@@ -629,14 +640,15 @@
       ? `<span class="whose" role="group" aria-label="Filtrer på"><span>Filtrer på</span><button data-st="" aria-pressed="${!state.st}">Mine</button><button data-st="knut" aria-pressed="${state.st === "knut"}">Knuts</button></span>` : "";
     html += STATUSES.filter((s) => !s.listsOnly || (src && !state.st)).map((s) =>
       `<button class="tab" data-status="${s.key}" aria-pressed="${state.status === s.key}">${s.label}<span class="n">${base.filter((f) => matchStatus(f, s.key)).length}</span></button>`).join("");
-    if (Object.keys(FMT).length) {
-      const n = baseFilms.filter((f) => passes(f, "stream") && fmtUrl(f)).length;
-      html += `<button class="tab stream-toggle" data-stream aria-pressed="${!!state.stream}" title="Bare filmer som kan lånes med bibliotekkortet på filmoteket.no">▶ Kan lånes<span class="n">${n}</span></button>`;
+    if (myServices().length) {
+      const n = baseFilms.filter((f) => passes(f, "stream") && streamable(f)).length;
+      const where = myServices().map((s) => (s === "Filmoteket" ? "Filmoteket (lån med bibliotekkortet)" : s)).join(", ");
+      html += `<button class="tab stream-toggle" data-stream aria-pressed="${!!state.stream}" title="Bare filmer som kan sees på ${esc(where)}">▶ Strømming<span class="n">${n}</span></button>`;
     }
-    for (const c of CINEMAS) {
-      if (!c.prog.size || (src && src.cinema === c)) continue;
-      const n = baseFilms.filter((f) => passes(f, "kino") && kinoShows(f, c).length).length;
-      html += `<button class="tab kino-toggle k-${c.key}" data-kino="${c.key}" aria-pressed="${state.kino === c.key}" title="Bare filmer som går på ${esc(c.place)} de neste ukene">${esc(c.name.split(" ")[0])}<span class="n">${n}</span></button>`;
+    const kinos = CINEMAS.filter((c) => c.prog.size);
+    if (kinos.length && !(src && src.kind === "kino")) {  // i et kinoprogram går alle filmene på kino
+      const n = baseFilms.filter((f) => passes(f, "kino") && playingAt(f).length).length;
+      html += `<button class="tab kino-toggle" data-kino aria-pressed="${!!state.kino}" title="Bare filmer som går på ${esc(kinos.map((c) => c.name).join(" eller "))} de neste ukene">🎬 På kino<span class="n">${n}</span></button>`;
     }
     $("#tabs").innerHTML = html;
     for (const b of document.querySelectorAll("#layoutpick [data-layout]")) b.setAttribute("aria-pressed", String(b.dataset.layout === layoutKey()));
@@ -734,7 +746,8 @@
   function renderChips() {
     const chips = [];
     if (state.q) chips.push({ k: "q", label: `«${state.q}»` });
-    if (state.stream) chips.push({ k: "stream", label: "Kan lånes" });
+    if (state.stream) chips.push({ k: "stream", label: "Strømming" });
+    if (state.kino) chips.push({ k: "kino", label: "På kino" });
     for (const f of FACETS) if (state[f.key]) chips.push({ k: f.key, label: `${f.label}: ${f.name(state[f.key])}` });
     for (const t of state.tags) chips.push({ k: "tag", v: t, label: `#${t}` });
     $("#chips").innerHTML = chips.map((c) =>
@@ -773,7 +786,8 @@
       if (ar.length) t.push(`<span class="mt annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">${isColl(s) ? esc(collLabel(ar)) : `${esc(s.split(" ")[0])} ’${String(ar[0].list.year).slice(2)}`}</span>`);
     }
     if (f.awards.length) t.push(`<span class="mt award" title="${esc(f.awards.join("\n"))}">${LAUREL}${f.awards.length}</span>`);
-    if (fmtUrl(f)) t.push('<span class="mt stream">▶ Filmoteket</span>');
+    if (myFmt(f)) t.push('<span class="mt stream">▶ Filmoteket</span>');
+    if (myStreams(f).length) t.push(`<span class="mt stream">▶ ${esc(myStreams(f).join(" · "))}</span>`);
     t.push(...kinoBadges(f, "mt", '<span class="mt cine-was" title="Vist på Cinemateket">Vist på Cinemateket</span>'));
     if (!OWNER && anyStatus(f.knut.status)) t.push(`<span class="mt knut" title="Knuts status">Knut: ${esc(statusWords(f.knut.status))}</span>`);
     return t.length ? `<span class="lv-tags">${t.join("")}</span>` : "";
@@ -887,7 +901,6 @@
     const crit = m.links.criterion || (wl.criterion && `https://www.criterion.com/films/${wl.criterion}`);
     if (crit) L.push({ cls: "crit", tag: "CC", name: "Criterion", url: crit });
     if (m.tmdb_id) L.push({ cls: "tmdb", tag: "TMDB", name: "TMDB", url: `https://www.themoviedb.org/movie/${m.tmdb_id}` });
-    if (fmtUrl(m)) L.push({ cls: "fmt", tag: "▶", name: "Filmoteket", url: fmtUrl(m) });
     const cine = cineUrl(m);
     if (cine) L.push({ cls: "cinemateket", tag: "C", name: "Cinemateket", url: cine });
     const vega = cinemaBy.has("vega") && kinoUrl(m, cinemaBy.get("vega"));
@@ -1032,7 +1045,8 @@
             <h1 id="d-title">${esc(m.title)}</h1>
             ${showOrig ? `<p class="orig">${esc(m.original_title)}</p>` : ""}
             <div class="facts">${facts}</div>
-            ${pills.length || fmtUrl(m) ? `<div class="statusrow">${pills.join("")}${fmtUrl(m) ? `<a class="pill stream" href="${esc(fmtUrl(m))}" target="_blank" rel="noopener">▶ Lån på Filmoteket</a>` : ""}</div>` : ""}
+            ${pills.length || streamable(m) ? `<div class="statusrow">${pills.join("")}${fmtUrl(m) ? `<a class="pill stream" href="${esc(fmtUrl(m))}" target="_blank" rel="noopener">▶ Lån på Filmoteket</a>` : ""}${(streams(m) ? streams(m).s : []).map((n) =>
+              `<a class="pill stream" href="${esc(streams(m).url)}" target="_blank" rel="noopener" title="Strømmedata fra JustWatch">▶ ${esc(n)}</a>`).join("")}</div>` : ""}
             ${m.awards.length ? `<ul class="awards">${m.awards.map((a) =>
               `<li><button data-filter="award" data-v="${esc(a)}">${LAUREL}<span>${a.includes(" – ") ? `<small>${esc(awardGroup(a))}</small>${esc(a.split(" – ").slice(1).join(" – "))}` : esc(a)}</span></button></li>`).join("")}</ul>` : ""}
             ${kinoShowsHTML(m)}
@@ -1195,8 +1209,7 @@
       return update();
     }
     if (e.target.closest("[data-stream]")) { state.stream = state.stream ? "" : "1"; return update(); }
-    const k = e.target.closest("[data-kino]");
-    if (k) { state.kino = state.kino === k.dataset.kino ? "" : k.dataset.kino; update(); }
+    if (e.target.closest("[data-kino]")) { state.kino = state.kino ? "" : "1"; update(); }
   });
 
   $("#layoutpick").addEventListener("click", (e) => {
@@ -1412,6 +1425,13 @@
         </div>
         ${OWNER && s.films ? pendingHTML() : ""}
       </section>
+      ${SERVICES.length ? `<section class="md-sec">
+        <h2>Strømmetjenester</h2>
+        <p>Kryss av for dem du har. Bare disse tas med under «▶ Strømming» og som merker på plakatene.
+          Detaljvisningen viser fortsatt alle. Standard er det alle har: Filmoteket og NRK TV.</p>
+        <div class="md-services">${SERVICES.map((n) =>
+          `<label class="md-check"><input type="checkbox" data-service="${esc(n)}"${hasService(n) ? " checked" : ""}> <span>${esc(n)}${n === "Filmoteket" ? " <small>(bibliotekkort)</small>" : ""}</span></label>`).join("")}</div>
+      </section>` : ""}
       <section class="md-sec">
         <h2>Importer</h2>
         <p>Henter inn en eksportfil. Du velger om den skal slås sammen med det du har, eller erstatte alt.</p>
@@ -1478,6 +1498,11 @@
       return setOwner(e.target.checked);
     }
     if (e.target.id === "md-name") Store.setMeta("name", e.target.value.trim());
+    if (e.target.dataset.service != null) {
+      const on = [...mydata.querySelectorAll("[data-service]")].filter((x) => x.checked).map((x) => x.dataset.service);
+      Store.setMeta("services", on);
+      return render();
+    }
     if (e.target.id !== "md-file" || !e.target.files.length) return;
     const file = e.target.files[0];
     const reader = new FileReader();

@@ -209,8 +209,7 @@ ca. 45 minutter (én side i sekundet). Senere henter kommandoen bare nye sider. 
 - `data/cinemateket-lenker.js`: bare lenkene. Kan publiseres. På nett viser detaljvisningen en «Cinemateket»-lenke.
 - `tools/cinemateket-cache.json`: sider som allerede er hentet.
 
-Filmer med en side på cinemateket.no får et lite «C»-merke («Vist på Cinemateket») og kan filtreres under
-**Filtre → Cinemateket**.
+Filmer med en side på cinemateket.no får et lite «C»-merke («Vist på Cinemateket»).
 
 ## Kinoprogram: Cinemateket og Vega Scene
 
@@ -232,9 +231,9 @@ Kjør det gjerne én gang i uka. Vega legger ut visningene fortløpende, ofte ba
 
 På siden:
 - **Vis → Cinemateket – programmet** / **Vega Scene – programmet**: alle filmene på programmet, sortert etter neste visning.
-- Knappene **Cinemateket** og **Vega** ved statusknappene viser bare filmer som går der. Sammen med **Vil se** får du
+- Knappen **🎬 På kino** ved statusknappene viser bare filmer som går på en av kinoene. Sammen med **Vil se** får du
   filmene du vil se og som går på kino nå. Det virker også for venner med sin egen vil-se-liste.
-- **Filtre → På kino → Alle kinoene** viser det som går på en av kinoene. Velg sorteringen **Neste kinovisning**.
+  Velg sorteringen **Neste kinovisning**; merkene på plakatene viser hvilken kino.
 - Plakatene får merker som «Cinemateket 25. okt.» og «Vega 17. nov.», og detaljvisningen viser alle visningene
   med billettlenke.
 - Visninger som har vært, skjules automatisk. Programmet er likevel bare så ferskt som siste kjøring.
@@ -250,9 +249,25 @@ bibliotekkortet). Første gang tar det ca. 45 minutter, og senere hentes bare ny
 regissør og år (±1) stemmer. Filmoteket bruker ofte norske titler («Dagdriverne» = *I Vitelloni*), så
 tittelen kontrolleres også mot TMDBs norske og alternative titler.
 
-Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten og på/av-knappen «▶ Kan lånes»
+Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten og på/av-knappen «▶ Strømming»
 ved statusknappene. Lenkene (`data/filmoteket.js`) kan publiseres.
 Kjør kommandoen av og til, for utvalget på Filmoteket endrer seg.
+
+## Netflix, Disney+, HBO Max, NRK TV og TV 2 Play
+
+```sh
+python3 tools/langtagning.py streaming
+```
+
+Sjekker hvilke av filmene dine som kan sees på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play **i Norge**
+(abonnement eller gratis, ikke leie/kjøp; TMDB-nøkkelen holder, og dataene kommer fra JustWatch). Tar et halvt minutt, og skriver til slutt ut
+«vil se»-filmene som kan strømmes nå. Siden viser tjenesten som merke på plakaten og i lista, lenke i
+detaljvisningen, og filmene kommer med under «▶ Strømming». Flere tjenester (Prime Video, Viaplay, MUBI …)
+legger du til i `STREAM_SERVICES` i `tools/langtagning.py`. Katalogene endrer seg ofte, så kjør den jevnlig.
+
+Under **Mine data → Strømmetjenester** krysser du av for tjenestene du har (Filmoteket er med i lista).
+Da tar «▶ Strømming» og merkene på plakatene bare med dem. Detaljvisningen viser fortsatt alle.
+Valget lagres i nettleseren, på samme måte som statusene dine. Før du har valgt, gjelder det alle har: Filmoteket og NRK TV.
 
 ## Roger Ebert og Criterion Collection
 
@@ -332,7 +347,7 @@ Navigasjonen har tre nivåer, og alle kan kombineres:
 1. **Vis:** *Mitt utvalg* (filmene du har tatt stilling til) eller en liste kuratert av andre
    (Sight and Sound, TSPDT, Cahiers, Kultfilmer …). I en liste ser du alle filmene på lista, også dem du ikke har registrert.
 2. **Status:** Alle · Sett · Ikke sett · Vil se · Eier (og *Ikke registrert* i lister), pluss på/av-knappen
-   **▶ Kan lånes** (Filmoteket).
+   **▶ Strømming** (Filmoteket, Netflix, Disney+, HBO Max, NRK TV, TV 2 Play) og **🎬 På kino** (Cinemateket og Vega Scene).
 3. **Filtre** i sidepanelet: regissør, land, priser, «også på liste», tiår, skuespiller, tagger og søk.
 
 Eksempel: *Vis: TSPDT* + *Ikke sett* + *Regissør: Fellini* gir Fellini-klassikerne du mangler.

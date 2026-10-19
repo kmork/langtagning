@@ -1347,6 +1347,41 @@ def cmd_filmoteket(a):
             print("  -", u)
 
 
+# ---------------------------------------------------------------- Strømmetjenester (TMDB, data fra JustWatch)
+# Tjenestenavn → TMDB-ids for Norge (se /watch/providers/movie?watch_region=NO). Legg til flere ved behov,
+# f.eks. "Prime Video": {119}, "Viaplay": {76}, "SkyShowtime": {1773}, "MUBI": {11}.
+STREAM_SERVICES = {"Netflix": {8, 175, 1796}, "Disney+": {337}, "HBO Max": {1899, 384}, "NRK TV": {442}, "TV 2 Play": {431}}
+STREAM_LINKS = os.path.join(ROOT, "data", "streaming.js")
+
+
+def cmd_streaming(a):
+    _, movies = load_db()
+    films = [m for m in movies if m.get("tmdb_id")]
+    print(f"Sjekker {len(films)} filmer mot {', '.join(STREAM_SERVICES)} i Norge …")
+    out, fails = {}, 0
+    for n, m in enumerate(films, 1):
+        try:
+            no = ((tmdb(f"/movie/{m['tmdb_id']}/watch/providers") or {}).get("results") or {}).get("NO") or {}
+        except Fail:
+            fails += 1
+            continue
+        # abonnement, gratis (NRK) og med reklame – ikke leie/kjøp
+        ids = {p["provider_id"] for t in ("flatrate", "free", "ads") for p in no.get(t, [])}
+        hits = [name for name, pids in STREAM_SERVICES.items() if ids & pids]
+        if hits:
+            out[str(m["tmdb_id"])] = {"s": hits, "url": no.get("link", "")}
+        if n % 100 == 0:
+            print(f"  … {n}/{len(films)}")
+    write_js(STREAM_LINKS, "LANGTAGNING_STREAMING", out,
+             "Filmer i strømmetjenestene i Norge (tmdb-id → tjenester). Strømmedata fra JustWatch via TMDB.")
+    want = [m for m in films if str(m["tmdb_id"]) in out and m["status"].get("want") and not m["status"].get("seen")]
+    print(f"\nFerdig: {len(out)} av filmene dine kan strømmes" + (f" ({fails} oppslag feilet)" if fails else "") + ".")
+    if want:
+        print(f"Vil se – og kan strømmes nå ({len(want)}):")
+        for m in sorted(want, key=lambda m: m["title"]):
+            print(f"  - {m['title']} ({m.get('year')}): {', '.join(out[str(m['tmdb_id'])]['s'])}")
+
+
 # ---------------------------------------------------------------- Roger Ebert og Criterion (via Wikidata)
 # Begge nettstedene blokkerer skript, men Wikidata har ID-ene: P6932 (RogerEbert.com), P9584 (Criterion-film),
 # P12279 (Criterion spine-nummer) og P4947 (TMDB-film-ID).
@@ -1874,6 +1909,9 @@ def main():
     s.add_argument("--refresh", action="store_true", help="hent alle filmsidene på nytt")
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_filmoteket)
+
+    s = sub.add_parser("streaming", aliases=["strømming"], help="finn filmene dine på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play (Norge)")
+    s.set_defaults(fn=cmd_streaming)
 
     s = sub.add_parser("wikidata", help="hent Roger Ebert- og Criterion-lenker og Criterion-lista fra Wikidata")
     s.set_defaults(fn=cmd_wikidata)
