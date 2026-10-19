@@ -12,6 +12,7 @@ Eksempler:
   python3 tools/langtagning.py lists           # bygg kåringene i tools/lister/ inn i data/lists.js
   python3 tools/langtagning.py queue           # behandle køen du har lagd på nettsiden
   python3 tools/langtagning.py cinemateket     # hent omtaler fra cinemateket.no
+  python3 tools/langtagning.py kino            # hent kinoprogrammet (Cinemateket og Vega Scene)
   python3 tools/langtagning.py filmoteket      # finn filmer som kan lånes på filmoteket.no
   python3 tools/langtagning.py wikidata        # Roger Ebert- og Criterion-lenker + Criterion-lista (kjør lists etterpå)
   python3 tools/langtagning.py directors       # hent filmografier (regissører du har minst 2 filmer av)
@@ -611,35 +612,90 @@ QUEUE_OLD = [os.path.join(ROOT, "tools", "ko.txt"), os.path.join(ROOT, "ko.txt")
 QUEUE_DOWNLOADS = os.path.join(os.path.expanduser("~"), "Downloads")
 OWNED_LIST = os.path.join(ROOT, "tools", "eide-filmer.txt")
 QUEUE_HEADER = ("# Langtagning – kø fra nettsiden. Behandles med: python3 tools/langtagning.py queue\n"
-                "# Format: Tittel (år) | status | tmdb:ID   (status: sett, vil-se, samling – eller «ingen»)\n")
+                "# Format: Tittel (år) | status | tmdb:ID [| tagger: a, b] [| tanker: \"tekst\"]   "
+                "(status: sett, vil-se, samling – eller «ingen»)\n")
+QUEUE_DONE = os.path.join(ROOT, "todo", "behandlet")  # behandlede JSON-eksporter flyttes hit
 
 
 def queue_files():
-    """tools/ko.txt og nedlastede langtagning-ko*.txt, eldste først (nyeste vinner ved konflikt)."""
+    """todo/ko.txt, nedlastede langtagning-ko*.txt og JSON-eksporter (langtagning-*.json), eldste først."""
     files = [p for p in [QUEUE_FILE] + QUEUE_OLD if os.path.exists(p)]
     if os.path.isdir(QUEUE_DOWNLOADS):
         files += [os.path.join(QUEUE_DOWNLOADS, f) for f in os.listdir(QUEUE_DOWNLOADS)
-                  if f.startswith("langtagning-ko") and f.endswith(".txt")]
+                  if f.startswith("langtagning-") and (
+                      (f.startswith("langtagning-ko") and f.endswith(".txt")) or f.endswith(".json"))]
     return sorted(files, key=os.path.getmtime)
 
 
+def iso_mtime(path):
+    return dt.datetime.fromtimestamp(os.path.getmtime(path), dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+
+
 def parse_queue(path):
+    """Linjene i en kø-fil. Status gjelder alltid; tagger og tanker bare når de står på linjen."""
     items = []
+    updated = iso_mtime(path)  # linjene har ikke egen tid – fila sin endringstid brukes
     with open(path, encoding="utf-8") as f:
         for raw in f:
             line = raw.strip()
             if not line or line.startswith("#"):
                 continue
+            note = None
+            m = re.search(r"\|\s*tanker:\s*", line)
+            if m:  # tankene står sist, og kan inneholde «|»
+                rest = line[m.end():].strip()
+                try:
+                    note = json.loads(rest)
+                except ValueError:
+                    note = rest
+                line = line[:m.start()]
             parts = [p.strip() for p in line.split("|")]
             tid = next((int(p[5:]) for p in parts if re.fullmatch(r"tmdb:\d+", p)), None)
-            parts = [p for p in parts if not re.fullmatch(r"tmdb:\d+", p)]
+            fid = next((p[3:].strip() for p in parts if p.startswith("id:")), None)
+            tags = next(([t.strip() for t in p[7:].split(",") if t.strip()] for p in parts if p.startswith("tagger:")), None)
+            parts = [p for p in parts if not (re.fullmatch(r"tmdb:\d+", p) or p.startswith(("id:", "tagger:")))]
             mt = LINE_RE.match(parts[0])
             words = re.split(r"[,\s]+", (parts[1] if len(parts) > 1 else "").lower().replace("vil se", "vil-se"))
             words = [w for w in words if w and w != "ingen"]
             status = {"seen": False, "want": False, "owned": False}
             status.update(parse_status(words))
-            items.append({"title": mt.group(1).strip(), "year": int(mt.group(2)) if mt.group(2) else None,
-                          "tmdb": tid, "status": status})
+            it = {"title": mt.group(1).strip(), "year": int(mt.group(2)) if mt.group(2) else None,
+                  "tmdb": tid, "id": fid, "status": status, "updated": updated}
+            if tags is not None:
+                it["tags"] = tags
+            if note is not None:
+                it["note"] = note
+            items.append(it)
+    return items
+
+
+def parse_export(path):
+    """JSON-eksport fra «Mine data». Bare eierens filer (owner: true) brukes – en venns fil hoppes over."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except (ValueError, OSError) as e:
+        print(f"✗ {os.path.basename(path)}: kunne ikke lese fila ({e})")
+        return None
+    if not isinstance(data, dict) or data.get("format") != "langtagning-user":
+        return None  # en annen fil som tilfeldigvis heter langtagning-*.json
+    if not data.get("owner"):
+        print(f"• {os.path.basename(path)}: eksport uten eierflagg (fra en venn?) – hoppes over")
+        return None
+    items = []
+    for r in data.get("films") or []:
+        rid = str(r.get("id") or "")
+        it = {"title": r.get("title") or rid, "year": r.get("year"),
+              "tmdb": r.get("tmdb_id") or (int(rid[5:]) if re.fullmatch(r"tmdb:\d+", rid) else None),
+              "id": None if rid.startswith("tmdb:") else rid or None,
+              "updated": r.get("updated") or data.get("exported") or iso_mtime(path)}
+        if isinstance(r.get("status"), dict):
+            it["status"] = {k: bool(r["status"].get(k)) for k in ("seen", "want", "owned")}
+        if isinstance(r.get("note"), str):
+            it["note"] = r["note"]
+        if isinstance(r.get("tags"), list):
+            it["tags"] = [str(t) for t in r["tags"] if t]
+        items.append(it)
     return items
 
 
@@ -675,35 +731,58 @@ def sync_owned_list(changed):
 
 
 def cmd_queue(a):
-    files = queue_files()
+    files, raw = [], []
+    for path in queue_files():
+        its = parse_export(path) if path.endswith(".json") else parse_queue(path)
+        if its is not None:
+            files.append(path)
+            raw += its
+    # Slå sammen per film: nyeste vinner, felt for felt (en JSON-post har bare feltene som er endret)
     items = {}
-    for path in files:
-        for it in parse_queue(path):
-            items[it["tmdb"] or (norm(it["title"]), it["year"])] = it  # nyeste fil vinner
+    for it in sorted(raw, key=lambda x: x.get("updated") or ""):
+        k = it["tmdb"] or (("id", it["id"]) if it.get("id") else (norm(it["title"]), it["year"]))
+        items.setdefault(k, {}).update(it)
     if not items:
-        print("Køen er tom. (Ser i todo/ko.txt og ~/Downloads/langtagning-ko*.txt)")
+        print("Køen er tom. (Ser i todo/ko.txt, ~/Downloads/langtagning-ko*.txt og ~/Downloads/langtagning-*.json)")
         return
     header, movies = load_db()
     changed, added = [], []
     for it in items.values():
-        existing = next((m for m in movies if it["tmdb"] and m.get("tmdb_id") == it["tmdb"]), None)
+        existing = next((m for m in movies if (it["tmdb"] and m.get("tmdb_id") == it["tmdb"]) or
+                         (it.get("id") and m.get("id") == it["id"])), None)
         if existing:
-            if existing["status"] == it["status"]:
+            what = []
+            if "status" in it:
+                old = {k: bool((existing.get("status") or {}).get(k)) for k in ("seen", "want", "owned")}
+                if old != it["status"]:
+                    existing["status"] = dict(it["status"])
+                    what.append(f"status: {status_words(it['status'])}")
+            if "tags" in it and (existing.get("tags") or []) != it["tags"]:
+                existing["tags"] = list(it["tags"])
+                what.append("tagger: " + (", ".join(it["tags"]) or "ingen"))
+            if "note" in it and (existing.get("description") or "") != it["note"]:
+                existing["description"] = it["note"]
+                what.append("tanker")
+            if not what:
                 print(f"• {label(existing)} – uendret")
                 continue
-            existing["status"] = dict(it["status"])
             changed.append(existing)
-            print(f"✓ {label(existing)} – status: {status_words(it['status'])}")
+            print(f"✓ {label(existing)} – {'; '.join(what)}")
             continue
-        if not any(it["status"].values()):
-            continue  # ingen status og ikke i databasen: ingenting å gjøre
+        st = it.get("status") or {}
+        if not (any(st.values()) or it.get("note") or it.get("tags")):
+            continue  # ingenting å legge inn, og ikke i databasen: ingenting å gjøre
         try:
-            m, msg = add_one(movies, it["title"], it["year"], it["status"], interactive=False, tmdb_id=it["tmdb"])
+            m, msg = add_one(movies, it["title"], it["year"], st, interactive=False, tmdb_id=it["tmdb"])
         except Fail as e:
             print(f"✗ {it['title']}: {e}")
             continue
         if m:
-            m["status"] = dict(it["status"])
+            m["status"] = {k: bool(st.get(k)) for k in ("seen", "want", "owned")}
+            if "tags" in it:
+                m["tags"] = list(it["tags"])
+            if "note" in it:
+                m["description"] = it["note"]
             changed.append(m)
             added.append(m)
         print(msg.replace("✓", "✓ Lagt til:"))
@@ -716,9 +795,15 @@ def cmd_queue(a):
     with open(QUEUE_FILE, "w", encoding="utf-8") as f:
         f.write(QUEUE_HEADER)
     for path in files:
-        if path != QUEUE_FILE:
+        if path == QUEUE_FILE:
+            continue
+        if path.endswith(".json"):  # eksporter flyttes, så de ikke leses to ganger
+            os.makedirs(QUEUE_DONE, exist_ok=True)
+            os.replace(path, os.path.join(QUEUE_DONE, os.path.basename(path)))
+        else:
             os.remove(path)
-    print(f"\nFerdig: {len(added)} nye, {len(changed) - len(added)} endret. Køen er tømt.")
+    print(f"\nFerdig: {len(added)} nye, {len(changed) - len(added)} endret. Køen er tømt"
+          + (f", og {sum(p.endswith('.json') for p in files)} eksportfil(er) er flyttet til todo/behandlet/." if any(p.endswith(".json") for p in files) else "."))
     if added and os.path.exists(LISTS_PATH):
         import contextlib, io
         with contextlib.redirect_stdout(io.StringIO()):
@@ -894,6 +979,234 @@ def cmd_cinemateket(a):
              "Omtaler fra cinemateket.no (© Cinemateket/Norsk filminstitutt). Bare for lokal bruk – ikke publiser denne fila.")
     write_js(CINE_LINKS, "LANGTAGNING_CINEMATEKET_LINKS", links, "Lenker til filmsider på cinemateket.no (tmdb-id → adresse).")
     print(f"\nFerdig: {len(links)} filmer koblet til Cinemateket – {mine} i databasen din, {len(links) - mine} andre (kåringer/filmografier).")
+
+
+# ---------------------------------------------------------------- Cinemateket-programmet (kommende visninger)
+
+CINE_PROGRAM = os.path.join(ROOT, "data", "cinemateket-program.js")  # bare tidspunkter og lenker – kan publiseres
+CINE_TMDB = os.path.join(ROOT, "tools", "cinemateket-tmdb.json")     # filmside → tmdb-id (null = ikke funnet)
+
+
+def parse_cine_shows(page):
+    """Visningene på én side av /forestillinger: film, tidspunkt, sal, serie og billettlenke."""
+    shows = []
+    for url, body in re.findall(r'<a href="(https://www\.cinemateket\.no/filmer/[^"]+)" class="shows-(?:list|grid)__link">(.*?)</a>', page, re.S):
+        t = re.search(r'datetime="(\d{4}-\d\d-\d\dT\d\d:\d\d):\d\d([+-]\d\d)(\d\d)"', body)
+        if not t:
+            continue
+        get = lambda cls: (lambda x: _text(x.group(1)) if x else "")(re.search(rf'info-{cls}">(.*?)</', body, re.S))
+        ticket = re.search(r'data-ticket-url="([^"]+)"', body)
+        shows.append({"url": url, "t": f"{t.group(1)}{t.group(2)}:{t.group(3)}", "screen": get("screen"),
+                      "series": get("concept"), "ticket": _text(ticket.group(1)) if ticket else ""})
+    return shows
+
+
+def cine_program(delay):
+    """Hent alle sidene i programmet. Etter siste side gir nettstedet bare siste side på nytt."""
+    shows, seen = [], set()
+    for n in range(1, 40):
+        page = http_get(f"{CINE_BASE}/forestillinger" + (f"/side-{n}" if n > 1 else ""), CINE_UA, binary=True)
+        new = [s for s in parse_cine_shows((page or b"").decode("utf-8", errors="replace")) if (s["url"], s["t"]) not in seen]
+        if not new:
+            break
+        seen |= {(s["url"], s["t"]) for s in new}
+        shows += new
+        time.sleep(delay)
+    return shows
+
+
+def cine_tmdb_lookup(p):
+    """Finn TMDB-id for en filmside som ikke er koblet fra før. Regissøren må stemme."""
+    if not p or not p.get("year"):
+        return None
+    for t in dict.fromkeys(x for x in (p["original_title"], p["title"], p["norwegian_title"]) if x):
+        tid, unsure = resolve_row({"title": t, "year": p["year"], "director": " / ".join(p["directors"]), "tmdb": None})
+        if tid and not unsure:
+            return tid
+    return None
+
+
+def load_json(path, default):
+    if not os.path.exists(path):
+        return default
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_program(name, path, var, source, shows, by_url, titles, movies):
+    """Felles for kinoene: skriv programfila (tmdb-id → visninger) og vis hva som går av «Vil se»-filmene.
+    shows: [{url, t, screen, series, ticket}], by_url: filmside → tmdb-id, titles: filmside → tittel."""
+    known = {m["tmdb_id"] for m in all_known_films(movies)}
+    films, catalog = {}, {}
+    for s in sorted(shows, key=lambda s: s["t"]):
+        tid = by_url.get(s["url"])
+        if not tid:
+            continue
+        f = films.setdefault(str(tid), {"url": s["url"], "shows": []})
+        f["shows"].append({k: s[k] for k in ("t", "screen", "series", "ticket") if s.get(k)})
+        if tid not in known and str(tid) not in catalog:  # ikke i databasen, kåringene eller filmografiene
+            d = details_cached(tid)
+            c = {k: d.get(k) for k in CATALOG_FIELDS if k in d}
+            c["poster"] = f"{IMG}/w342{d['_poster_path']}" if d.get("_poster_path") else None
+            c["backdrop"] = f"{IMG}/w780{d['_backdrop_path']}" if d.get("_backdrop_path") else None
+            catalog[str(tid)] = c
+    write_js(path, var, {"updated": time.strftime("%Y-%m-%dT%H:%M"), "films": films, "catalog": catalog},
+             f"Programmet på {source}: kommende visninger (tmdb-id → visninger). Lages med «langtagning.py kino».")
+
+    urls = {s["url"] for s in shows}
+    in_db = {m["tmdb_id"]: m for m in movies if m.get("tmdb_id")}
+    mine = [in_db[int(k)] for k in films if int(k) in in_db]
+    print(f"{name}: {len(films)} av {len(urls)} filmer koblet til TMDB ({len(catalog)} nye i katalogen), {len(mine)} i databasen din.")
+    for m in sorted(mine, key=lambda m: films[str(m["tmdb_id"])]["shows"][0]["t"]):
+        if (m.get("status") or {}).get("want"):
+            first = films[str(m["tmdb_id"])]["shows"][0]
+            series = f" ({first['series']})" if first.get("series") else ""
+            print(f"  ★ Vil se: {label(m)} – {first['t'][:16].replace('T', ' kl. ')}{series}")
+    missing = sorted(titles.get(u) or u for u in urls if u not in by_url)
+    if missing:
+        print(f"  Ikke funnet i TMDB ({len(missing)}): {', '.join(missing)}")
+
+
+def cmd_cinemateket_program(a):
+    shows = cine_program(a.delay)
+    if not shows:
+        raise Fail("Fant ingen visninger på cinemateket.no/forestillinger – har siden endret seg?")
+    urls = sorted({s["url"] for s in shows})
+    print(f"Cinemateket: {len(shows)} visninger av {len(urls)} filmer ({shows[0]['t'][:10]} – {max(s['t'] for s in shows)[:10]})")
+
+    # Filmsidene (tittel, år, regissør) – samme mellomlager som «cinemateket»
+    cache = load_json(CINE_CACHE, {})
+    todo = [u for u in urls if u not in cache]
+    for u in todo:
+        page = http_get(u, CINE_UA, binary=True)
+        cache[u] = parse_cine_page(page.decode("utf-8", errors="replace")) if page else None
+        time.sleep(a.delay)
+    if todo:
+        print(f"  hentet {len(todo)} nye filmsider")
+        with open(CINE_CACHE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False)
+
+    # Kobling til TMDB: først lenkene fra «cinemateket», ellers et oppslag (huskes i tools/cinemateket-tmdb.json)
+    known_links = {}
+    if os.path.exists(CINE_LINKS):
+        with open(CINE_LINKS, encoding="utf-8") as f:
+            text = f.read()
+        known_links = {u: int(k) for k, u in json.loads(text[text.index("=") + 1:].strip().rstrip(";")).items()}
+    looked = load_json(CINE_TMDB, {})
+    by_url = {}
+    for u in urls:
+        tid = known_links.get(u)
+        if tid is None and (u not in looked or a.refresh):
+            looked[u] = cine_tmdb_lookup(cache.get(u))
+        if tid or looked.get(u):
+            by_url[u] = tid or looked[u]
+    with open(CINE_TMDB, "w", encoding="utf-8") as f:
+        json.dump(looked, f, ensure_ascii=False, indent=0, sort_keys=True)
+
+    _, movies = load_db()
+    save_program("Cinemateket", CINE_PROGRAM, "LANGTAGNING_CINEMATEKET_PROGRAM", "cinemateket.no", shows, by_url,
+                 {u: (cache.get(u) or {}).get("title") for u in urls}, movies)
+
+
+# ---------------------------------------------------------------- Vega Scene (kinoprogrammet på vegascene.no)
+
+VEGA_BASE = "https://www.vegascene.no"
+VEGA_PROGRAM = os.path.join(ROOT, "data", "vega-program.js")      # bare tidspunkter og lenker – kan publiseres
+VEGA_CACHE = os.path.join(ROOT, "tools", "vega-cache.json")       # filmside → fakta (originaltittel, regi …)
+VEGA_TMDB = os.path.join(ROOT, "tools", "vega-tmdb.json")         # filmside → tmdb-id (null = ikke funnet)
+
+
+def next_payload(page):
+    """Next.js-sider sender dataene som tekstbiter i self.__next_f.push([1, "…"]) – sett dem sammen."""
+    return "".join(json.loads(f'"{c}"') for c in re.findall(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', page, re.S))
+
+
+def vega_program():
+    from zoneinfo import ZoneInfo
+    page = http_get(f"{VEGA_BASE}/kino", CINE_UA, binary=True).decode("utf-8", errors="replace")
+    p = next_payload(page)
+    i = p.find('{"movies":[')
+    if i < 0:
+        raise Fail("Fant ikke kinoprogrammet på vegascene.no/kino – har siden endret seg?")
+    shows, titles = [], {}
+    for m in json.JSONDecoder().raw_decode(p, i)[0]["movies"]:
+        url = f"{VEGA_BASE}/film/{m['mainVersionId']}"
+        titles[url] = m["title"]
+        for s in m["shows"]:
+            # showStart er norsk tid uten tidssone
+            t = dt.datetime.fromisoformat(s["showStart"]).replace(tzinfo=ZoneInfo("Europe/Oslo"))
+            shows.append({"url": url, "t": t.isoformat(timespec="minutes"), "screen": s.get("screenName", "").replace("Vega Kino ", "Sal "),
+                          "series": s.get("showType", ""), "ticket": s.get("ticketSaleUrl", "")})
+    return shows, titles
+
+
+def parse_vega_film(page):
+    facts = dict(re.findall(r'SFactLabel","children":"([^"]+)"\}\],\["\$","dd",null,\{"className":"[^"]+","children":"?([^"}]*)"?\}', next_payload(page)))
+    rt = re.match(r"(?:(\d+) t\.)?\s*(?:(\d+) min)?", facts.get("Spilletid", ""))
+    return {"original_title": facts.get("OriginalTittel", ""), "directors": [d.strip() for d in re.split(r",| og ", facts.get("Regi", "")) if d.strip()],
+            "year": int(facts["Produksjonsår"]) if facts.get("Produksjonsår", "").isdigit() else None,
+            "runtime": int(rt.group(1) or 0) * 60 + int(rt.group(2) or 0) or None, "countries": facts.get("Nasjonalitet", "")}
+
+
+def vega_tmdb_lookup(title, f):
+    """Vega oppgir sjelden produksjonsår. Regissøren må stemme – eller, uten regissør, eksakt tittel, år (±1)
+    og spilletid (±10 min). Årstall i tittelen («Speed Racer (2008)») brukes."""
+    if not f:
+        return None
+    y = re.search(r"\((\d{4})\)\s*$", title)
+    year = f.get("year") or (int(y.group(1)) if y else None)
+    if not f["directors"] and not year:
+        return None
+    clean = re.sub(r"\s*\(\d{4}\)\s*$|\s+-\s+Filmklubben$", "", title)
+    for t in dict.fromkeys(x for x in (f["original_title"], clean) if x):
+        # «Produksjonsår» hos Vega er ofte norsk premiereår – med regissør søkes det også uten år
+        results = search(t, year) if year else []
+        results += [r for r in (search(t) if f["directors"] or not year else []) if r not in results]
+        exact = [r for r in results if norm(t) in (norm(r.get("title")), norm(r.get("original_title")))]
+        if f["directors"]:
+            for r in (exact + [r for r in results if r not in exact])[:6]:
+                if director_ok(" / ".join(f["directors"]), details_cached(r["id"])):
+                    return r["id"]
+        else:
+            ok = [r for r in exact if year_of(r) and abs(year_of(r) - year) <= 1 and
+                  (not f.get("runtime") or abs((details_cached(r["id"])["runtime"] or 0) - f["runtime"]) <= 10)]
+            if len(ok) == 1:
+                return ok[0]["id"]
+    return None
+
+
+def cmd_vega_program(a):
+    shows, titles = vega_program()
+    if not shows:
+        raise Fail("Fant ingen visninger på vegascene.no/kino.")
+    urls = sorted({s["url"] for s in shows})
+    print(f"Vega Scene: {len(shows)} visninger av {len(urls)} filmer ({min(s['t'] for s in shows)[:10]} – {max(s['t'] for s in shows)[:10]})")
+    cache, looked = load_json(VEGA_CACHE, {}), load_json(VEGA_TMDB, {})
+    todo = [u for u in urls if u not in cache]
+    for u in todo:
+        page = http_get(u, CINE_UA, binary=True)
+        cache[u] = parse_vega_film(page.decode("utf-8", errors="replace")) if page else None
+        time.sleep(a.delay)
+    if todo:
+        print(f"  hentet {len(todo)} nye filmsider")
+        with open(VEGA_CACHE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=0, sort_keys=True)
+    by_url = {}
+    for u in urls:
+        if u not in looked or (a.refresh and not looked[u]):
+            looked[u] = vega_tmdb_lookup(titles[u], cache.get(u))
+        if looked[u]:
+            by_url[u] = looked[u]
+    with open(VEGA_TMDB, "w", encoding="utf-8") as f:
+        json.dump(looked, f, ensure_ascii=False, indent=0, sort_keys=True)
+    _, movies = load_db()
+    save_program("Vega Scene", VEGA_PROGRAM, "LANGTAGNING_VEGA_PROGRAM", "vegascene.no", shows, by_url, titles, movies)
+
+
+def cmd_kino(a):
+    for fn in (cmd_cinemateket_program, cmd_vega_program):
+        fn(a)
+        print()
 
 
 # ---------------------------------------------------------------- Filmoteket (bibliotekenes strømmetjeneste)
@@ -1534,13 +1847,28 @@ def main():
     s.add_argument("--local-images", action="store_true", help="last ned bilder også for filmer du ikke har (mer plass)")
     s.set_defaults(fn=cmd_lists)
 
-    s = sub.add_parser("queue", aliases=["ko"], help="behandle køen fra nettsiden (todo/ko.txt / Nedlastinger)")
+    s = sub.add_parser("queue", aliases=["ko"], help="behandle køen fra nettsiden (todo/ko.txt, Nedlastinger og JSON-eksport)")
     s.set_defaults(fn=cmd_queue)
 
     s = sub.add_parser("cinemateket", help="hent omtaler fra cinemateket.no og koble dem til filmene")
     s.add_argument("--refresh", action="store_true", help="hent alle sidene på nytt")
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_cinemateket)
+
+    s = sub.add_parser("cinemateket-program", help="hent kommende visninger fra cinemateket.no/forestillinger")
+    s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt")
+    s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
+    s.set_defaults(fn=cmd_cinemateket_program)
+
+    s = sub.add_parser("vega-program", help="hent kinoprogrammet fra vegascene.no/kino")
+    s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt")
+    s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
+    s.set_defaults(fn=cmd_vega_program)
+
+    s = sub.add_parser("kino", help="hent programmet fra alle kinoene (Cinemateket og Vega Scene)")
+    s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt")
+    s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
+    s.set_defaults(fn=cmd_kino)
 
     s = sub.add_parser("filmoteket", help="finn filmer som kan lånes på filmoteket.no")
     s.add_argument("--refresh", action="store_true", help="hent alle filmsidene på nytt")

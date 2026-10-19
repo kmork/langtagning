@@ -1,6 +1,6 @@
 # Plan: Langtagning for filmvenner
 
-*Laget 2026-10-17. Oppdatert 2026-10-17 med eierflagg. Status: forslag, ikke påbegynt.*
+*Laget 2026-10-17. Oppdatert 2026-10-17 med eierflagg. Status: fase 1–4 implementert 2026-10-18, fase 5–6 gjenstår.*
 
 ## Mål
 

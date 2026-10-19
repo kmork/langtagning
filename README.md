@@ -7,6 +7,7 @@ Ren HTML/CSS/JavaScript – åpne `index.html` direkte i nettleseren (dobbeltkli
 index.html            nettsiden
 css/style.css         utseende
 js/app.js             filtrering, søk og detaljvisning
+js/store.js           lagring av personlige data i nettleseren (status, tanker, tagger)
 data/movies.js        DATABASEN (redigeres for hånd eller med skriptet)
 posters/              plakater og bakgrunnsbilder (lastes ned automatisk)
 tools/langtagning.py   hjelpeskript som henter data fra TMDB
@@ -118,25 +119,80 @@ ved å lage en ny fil og kjøre `lists`.
 Filmer du ikke har, viser bilder rett fra TMDB (krever nett) for å spare plass.
 Vil du ha dem lokalt: `python3 tools/langtagning.py lists --local-images` (rundt 200 MB ekstra).
 
-## Endre status fra nettsiden (bare lokalt)
+## Endre status, tanker og tagger fra nettsiden
 
-Når siden er åpnet fra disk (eller `localhost`), har filmene i kåringslista og detaljvisningen tre knapper:
-**Sett**, **Vil se** og **Eier**. Klikkene legges i en kø, som vises nederst på siden.
+Filmene har tre knapper: **Sett**, **Vil se** og **Eier**. Detaljvisningen har i tillegg et felt for
+**Mine tanker** (lagres automatisk) og **tagger** (skriv og trykk Enter). Alt lagres i nettleseren
+(`js/store.js`, IndexedDB med localStorage som reserve). Butikken holder bare *endringer* oppå et grunnlag:
 
-1. **Lagre køen**
-   - **Chrome/Edge:** klikk «Velg kø-fil …» og velg `todo/ko.txt` én gang. Etter det lagres køen automatisk ved hver endring.
-   - **Safari/Firefox:** klikk «Last ned kø-fil». Fila havner i Nedlastinger som `langtagning-ko.txt`.
+| Modus | Når | Grunnlag | Endringene havner |
+|---|---|---|---|
+| Lokal | `file://` eller `localhost` | `movies.js` | eksportfil → `queue` → `movies.js` |
+| Eier online | på nett, med eierflagg | `movies.js` | eksportfil → `queue` → `movies.js` → opplasting |
+| Venn online | på nett, uten flagg | tomt | eksportfil (backup og flytting) |
+
+### Lokalt (som før)
+
+Har du endringer som ikke er lagt inn i `movies.js`, står det «3 endringer ikke lagt inn» nede til høyre.
+Klikk der, eller på **Mine data** øverst, for å se lista. Der kan du også fjerne enkeltendringer.
+
+1. **Mine data → Eksporter.** Fila havner i Nedlastinger som `langtagning-knut-<dato>.json`.
 2. Kjør:
    ```sh
    python3 tools/langtagning.py queue
    ```
-   Skriptet leser `todo/ko.txt` og `~/Downloads/langtagning-ko*.txt`, og så:
-   - legger det til nye filmer (med plakat og priser) og oppdaterer status på filmer du har
+   Skriptet leser `~/Downloads/langtagning-*.json` (og eldre kø-filer: `todo/ko.txt`, `~/Downloads/langtagning-ko*.txt`), og så:
+   - legger det til nye filmer (med plakat og priser) og oppdaterer status, `tags` og `description` (tankene)
+   - slår sammen filene: nyeste endring vinner, felt for felt
    - holder `tools/eide-filmer.txt` i takt for filmer du eier
-   - tømmer køen
-3. Last siden på nytt. Behandlede filmer forsvinner fra køen av seg selv.
+   - flytter behandlede JSON-filer til `todo/behandlet/`, og tømmer `todo/ko.txt`
+3. Last siden på nytt. Endringer som nå står likt i `movies.js`, forsvinner av seg selv.
 
-Knappene, køen og «Ikke i databasen din ennå» vises **ikke** når siden ligger ute på nett.
+Nettsiden skriver ikke lenger `todo/ko.txt`, men skriptet leser den fortsatt. Du kan skrive linjer der for hånd
+(tagger og tanker bare når de er endret, tankene alltid sist):
+
+```
+Persona (1966) | sett, samling | tmdb:797 | tagger: favoritt, bergman | tanker: "Linjeskift skrives som \n"
+```
+
+### Eier online (f.eks. på mobilen)
+
+Åpne den publiserte siden én gang med `#eier` på slutten av adressen, eller kryss av for «Dette er min samling»
+under **Mine data** (arkivskuffen øverst). Da er Mitt utvalg hele `movies.js`, og endringene samles i en stripe
+nederst: «3 endringer ikke lagt inn». Klikk **Eksporter**, få fila over i `~/Downloads` på Mac-en, og kjør
+`queue` som over. Etter opplasting forsvinner endringene fra mobilen ved neste besøk.
+Flagget er bare et visningsvalg i nettleseren, ikke sikkerhet. `movies.js` er uansett publisert.
+`queue` bruker bare eksportfiler laget med eierflagg (`"owner": true`). En venns fil hoppes over.
+
+### Venner
+
+Uten eierflagg starter Mitt utvalg tomt, og en velkomstboks forklarer siden. Knuts filmer er en egen kilde
+under «Vis»: **Knuts utvalg**. Den oppfører seg som en kåring: statusfilteret gjelder vennens egne statuser
+(«Knuts utvalg + Ikke sett» = filmer Knut har som du ikke har sett), og Knuts status vises som et eget merke.
+Med «Filtrer på: Knuts» gjelder statusfilteret Knuts statuser i stedet (`&st=knut` i adressen).
+I detaljvisningen står vennens egne felt øverst, og «Knuts tanker» under.
+
+**Mine data** har eksport og import (slå sammen eller erstatt), sletting og eierflagget.
+Etter 25 endringer, eller 14 dager uten eksport, minner en stripe nederst om å ta backup.
+
+### Eksportformat
+
+`langtagning-<navn>-2026-10-18.json`:
+
+```json
+{ "format": "langtagning-user", "schema": 1, "exported": "…", "name": "ola", "owner": false,
+  "films": [ { "id": "tmdb:797", "tmdb_id": 797, "title": "Persona", "year": 1966,
+               "status": {"seen": true, "want": false, "owned": false},
+               "note": "…", "tags": ["favoritt"], "updated": "…" } ] }
+```
+
+Hver post har bare feltene som er endret. Et felt som mangler, betyr «som i grunnlaget». Film-id-en er
+`tmdb:<id>` når filmen har TMDB-id, ellers film-id-en fra `movies.js`. Ved import matches filmene på TMDB-id,
+så id, så tittel og år. Ukjente filmer beholdes, og listes under «Ukjente filmer» i Mine data.
+
+### Opplasting
+
+Last opp som før, pluss `js/store.js`. Last **aldri** opp `data/cinemateket.js`, `tools/`, `todo/` eller `filmer/`.
 
 ## Omtaler fra Cinemateket
 
@@ -152,6 +208,36 @@ ca. 45 minutter (én side i sekundet). Senere henter kommandoen bare nye sider. 
   opp denne fila** når siden legges ut på nett. Siden laster den uansett bare når den kjøres lokalt.
 - `data/cinemateket-lenker.js`: bare lenkene. Kan publiseres. På nett viser detaljvisningen en «Cinemateket»-lenke.
 - `tools/cinemateket-cache.json`: sider som allerede er hentet.
+
+Filmer med en side på cinemateket.no får et lite «C»-merke («Vist på Cinemateket») og kan filtreres under
+**Filtre → Cinemateket**.
+
+## Kinoprogram: Cinemateket og Vega Scene
+
+```sh
+python3 tools/langtagning.py kino                  # begge kinoene (ca. 10 sekunder, første gang ca. 2 minutter)
+python3 tools/langtagning.py cinemateket-program   # bare Cinemateket
+python3 tools/langtagning.py vega-program          # bare Vega Scene
+```
+
+Henter alle kommende visninger fra [cinemateket.no/forestillinger](https://www.cinemateket.no/forestillinger) og
+[vegascene.no/kino](https://www.vegascene.no/kino) og kobler filmene til TMDB. Regissøren må stemme. Vega oppgir
+sjelden produksjonsår, så uten regissør kreves eksakt tittel, år og spilletid. Filmer som ikke finnes i databasen
+eller kåringene, legges inn som katalogfilmer. Skriptet viser hvilke av «Vil se»-filmene dine som går.
+Kjør det gjerne én gang i uka. Vega legger ut visningene fortløpende, ofte bare én–to uker frem.
+
+- `data/cinemateket-program.js`, `data/vega-program.js`: tidspunkter, sal, serie og billettlenker. Kan publiseres.
+- `tools/cinemateket-tmdb.json`, `tools/vega-tmdb.json`: TMDB-oppslag som er gjort (`--refresh` prøver de som ikke
+  ble funnet på nytt). `tools/vega-cache.json`: fakta fra filmsidene på vegascene.no.
+
+På siden:
+- **Vis → Cinemateket – programmet** / **Vega Scene – programmet**: alle filmene på programmet, sortert etter neste visning.
+- Knappene **Cinemateket** og **Vega** ved statusknappene viser bare filmer som går der. Sammen med **Vil se** får du
+  filmene du vil se og som går på kino nå. Det virker også for venner med sin egen vil-se-liste.
+- **Filtre → På kino → Alle kinoene** viser det som går på en av kinoene. Velg sorteringen **Neste kinovisning**.
+- Plakatene får merker som «Cinemateket 25. okt.» og «Vega 17. nov.», og detaljvisningen viser alle visningene
+  med billettlenke.
+- Visninger som har vært, skjules automatisk. Programmet er likevel bare så ferskt som siste kjøring.
 
 ## Lån på Filmoteket
 
@@ -252,7 +338,7 @@ Navigasjonen har tre nivåer, og alle kan kombineres:
 Eksempel: *Vis: TSPDT* + *Ikke sett* + *Regissør: Fellini* gir Fellini-klassikerne du mangler.
 
 - **Plakater eller liste** (knappene til høyre). Lister vises som standard med plassering og bevegelse siden
-  forrige kåring, og lokalt med knappene Sett / Vil se / Eier.
+  forrige kåring, og med knappene Sett / Vil se / Eier.
 - Når en liste er valgt, viser toppen fremdriften («65 av 264 sett»). Den følger filtrene.
 - Fritekstsøk (`/` hopper til søkefeltet), sortering (også «Plassering i lista» og «Flest priser»), terning for tilfeldig film.
 - Klikk regissør/land/skuespiller/tagg i detaljvisningen for å filtrere på det innenfor utvalget du står i.

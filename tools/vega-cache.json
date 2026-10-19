@@ -1,0 +1,528 @@
+{
+"https://www.vegascene.no/film/CIT20150068": {
+"countries": "USA",
+"directors": [
+"William Friedkin"
+],
+"original_title": "",
+"runtime": 121,
+"year": 1977
+},
+"https://www.vegascene.no/film/EDI20240140": {
+"countries": "Spania",
+"directors": [
+"Albert Serra"
+],
+"original_title": "Tardes de soledad",
+"runtime": 115,
+"year": 2024
+},
+"https://www.vegascene.no/film/EDI20240786": {
+"countries": "Norge",
+"directors": [
+"Rikke Gregersen"
+],
+"original_title": "",
+"runtime": 105,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20250432": {
+"countries": "Spania",
+"directors": [],
+"original_title": "",
+"runtime": 95,
+"year": 2024
+},
+"https://www.vegascene.no/film/EDI20250509": {
+"countries": "Norge",
+"directors": [
+"Eivind Landsvik"
+],
+"original_title": "",
+"runtime": 105,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20250794": {
+"countries": "Storbritannia",
+"directors": [
+"Steve Cox",
+"Matthew Walker"
+],
+"original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+"runtime": 81,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20250867": {
+"countries": "Spania, Frankrike",
+"directors": [
+"Oliver Laxe"
+],
+"original_title": "Sirat",
+"runtime": 115,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20251026": {
+"countries": "USA",
+"directors": [
+"Denis Villeneuve"
+],
+"original_title": "Dune: Part Three",
+"runtime": null,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20251252": {
+"countries": "Norge",
+"directors": [
+"Peter Gupta"
+],
+"original_title": "",
+"runtime": 78,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20251399": {
+"countries": "Norge",
+"directors": [
+"Hans Petter Moland"
+],
+"original_title": "Markens grøde",
+"runtime": 155,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20251744": {
+"countries": "Tsjekkia, Tyrkia, Polen, Frankrike",
+"directors": [
+"Agnieszka Holland"
+],
+"original_title": "Franz",
+"runtime": 127,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20260203": {
+"countries": "USA",
+"directors": [
+"David Ayer"
+],
+"original_title": "Heart of the Beast",
+"runtime": 101,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260224": {
+"countries": "Chile, Frankrike",
+"directors": [],
+"original_title": "",
+"runtime": 109,
+"year": null
+},
+"https://www.vegascene.no/film/EDI20260293": {
+"countries": "Argentina",
+"directors": [
+"Dolores Fonzi"
+],
+"original_title": "Belén",
+"runtime": 105,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20260514": {
+"countries": "Spania",
+"directors": [
+"Pedro Alodóvar"
+],
+"original_title": "Amarga Navidad",
+"runtime": 111,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260563": {
+"countries": "Frankrike",
+"directors": [
+"Vincent Munier"
+],
+"original_title": "Le chant des forêts",
+"runtime": 93,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20260564": {
+"countries": "Tyskland, Østerrike",
+"directors": [
+"Markus Schleinzer"
+],
+"original_title": "Rose",
+"runtime": 93,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260606": {
+"countries": "Norge",
+"directors": [
+"Nefise Özkal Lorentzen"
+],
+"original_title": "",
+"runtime": 87,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260709": {
+"countries": "Sverige",
+"directors": [
+"Nils Petter Löfstedt"
+],
+"original_title": "Det omätbara",
+"runtime": 92,
+"year": 2024
+},
+"https://www.vegascene.no/film/EDI20260850": {
+"countries": "USA, Norge",
+"directors": [
+"Dara Van Dusen"
+],
+"original_title": "A Prayer for the Dying",
+"runtime": 95,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260853": {
+"countries": "Spania",
+"directors": [
+"Rodrigo Sorogoyen"
+],
+"original_title": "El ser querido",
+"runtime": 135,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260873": {
+"countries": "USA",
+"directors": [
+"Jane Schoenbrun"
+],
+"original_title": "Teenage Sex and Death at Camp Miasma",
+"runtime": 106,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260889": {
+"countries": "Storbritannia, USA",
+"directors": [
+"Lance Hammer"
+],
+"original_title": "Queen at Sea",
+"runtime": 121,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260920": {
+"countries": "USA",
+"directors": [
+"Matt Johnson"
+],
+"original_title": "",
+"runtime": 106,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260963": {
+"countries": "Tyskland",
+"directors": [
+"Paweł Pawlikowski"
+],
+"original_title": "Fatherland",
+"runtime": 82,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20260995": {
+"countries": "Belgia, Tyskland, Sverige, Nederland",
+"directors": [
+"Pieter-Jan De Pue"
+],
+"original_title": "",
+"runtime": 94,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261027": {
+"countries": "Japan",
+"directors": [
+"Takashi Yamazaki"
+],
+"original_title": "Gojira-0.0",
+"runtime": 136,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261100": {
+"countries": "Danmark",
+"directors": [
+"May el-Toukhy"
+],
+"original_title": "Kvinde ukendt",
+"runtime": 127,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261155": {
+"countries": "Storbritannia",
+"directors": [],
+"original_title": "",
+"runtime": 136,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261192": {
+"countries": "Storbritannia",
+"directors": [
+"Ken Russell"
+],
+"original_title": "The Devils",
+"runtime": null,
+"year": 1971
+},
+"https://www.vegascene.no/film/EDI20261289": {
+"countries": "USA",
+"directors": [
+"Gregg Araki"
+],
+"original_title": "",
+"runtime": 90,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261402": {
+"countries": "Senegal, Nigeria, Ghana",
+"directors": [
+"Alune Wade",
+"Vincent le Gal"
+],
+"original_title": "Tukki, From the Roots to the Bayou",
+"runtime": 92,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261407": {
+"countries": "Norge, USA, Spania, Polen",
+"directors": [],
+"original_title": "",
+"runtime": 70,
+"year": null
+},
+"https://www.vegascene.no/film/EDI20261408": {
+"countries": "Norge, Danmark",
+"directors": [],
+"original_title": "",
+"runtime": 44,
+"year": null
+},
+"https://www.vegascene.no/film/EDI20261463": {
+"countries": "Canada, USA",
+"directors": [],
+"original_title": "",
+"runtime": 94,
+"year": 2016
+},
+"https://www.vegascene.no/film/EDI20261464": {
+"countries": "India",
+"directors": [],
+"original_title": "",
+"runtime": 125,
+"year": 1955
+},
+"https://www.vegascene.no/film/EDI20261468": {
+"countries": "Italia, Spania",
+"directors": [],
+"original_title": "",
+"runtime": 103,
+"year": 1995
+},
+"https://www.vegascene.no/film/EDI20261469": {
+"countries": "USA",
+"directors": [
+"Lana Wachowski",
+"Lilly Wachowski"
+],
+"original_title": "",
+"runtime": 135,
+"year": 2008
+},
+"https://www.vegascene.no/film/EDI20261476": {
+"countries": "USA, Japan",
+"directors": [
+"Sam Raimi"
+],
+"original_title": "",
+"runtime": 108,
+"year": 1995
+},
+"https://www.vegascene.no/film/EDI20261518": {
+"countries": "Storbritannia",
+"directors": [
+"Yuval Abraham",
+"Rachel Szor"
+],
+"original_title": "NAZA",
+"runtime": 80,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261608": {
+"countries": "Norge",
+"directors": [],
+"original_title": "",
+"runtime": 95,
+"year": 2000
+},
+"https://www.vegascene.no/film/EDI20261609": {
+"countries": "USA",
+"directors": [
+"Mia Lambson Brady"
+],
+"original_title": "Wayward: How Women Changed Snowboarding",
+"runtime": 104,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261628": {
+"countries": "Russland, Mexico",
+"directors": [
+"Sergei Eisenstein",
+"Grigori Aleksandrov"
+],
+"original_title": "",
+"runtime": 90,
+"year": 1979
+},
+"https://www.vegascene.no/film/EDI20261629": {
+"countries": "Mexico, Danmark, Brasil",
+"directors": [
+"Bruno Santamaría Razo"
+],
+"original_title": "Seis Meses en el Edificio Rosa con Azul",
+"runtime": 105,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261630": {
+"countries": "Spania",
+"directors": [
+"Alauda Ruiz de Azúa"
+],
+"original_title": "",
+"runtime": 116,
+"year": 2026
+},
+"https://www.vegascene.no/film/EDI20261631": {
+"countries": "Spania, Portugal",
+"directors": [],
+"original_title": "Anoche conquisté Tebas",
+"runtime": null,
+"year": null
+},
+"https://www.vegascene.no/film/EDI20261632": {
+"countries": "Ecuador, Brasil",
+"directors": [
+"Manolo Sarmiento"
+],
+"original_title": "Toroboro: El nombre de las plantas",
+"runtime": 103,
+"year": 2024
+},
+"https://www.vegascene.no/film/EDI20261633": {
+"countries": "Portugal, Frankrike",
+"directors": [
+"Pedro Cabeleira"
+],
+"original_title": "Entroncamento",
+"runtime": 131,
+"year": 2025
+},
+"https://www.vegascene.no/film/EDI20261634": {
+"countries": "Argentina",
+"directors": [
+"Juan José Campanella"
+],
+"original_title": "El hijo de la novia",
+"runtime": 123,
+"year": 2001
+},
+"https://www.vegascene.no/film/EDI20261636": {
+"countries": "Mexico",
+"directors": [
+"Alfonso Cuarón"
+],
+"original_title": "",
+"runtime": 106,
+"year": 2001
+},
+"https://www.vegascene.no/film/EDI20261652": {
+"countries": "USA",
+"directors": [
+"Guillermo del Toro"
+],
+"original_title": "Blade II",
+"runtime": 117,
+"year": 2002
+},
+"https://www.vegascene.no/film/EDI20261662": {
+"countries": "USA",
+"directors": [
+"Dody Dorn"
+],
+"original_title": "",
+"runtime": 90,
+"year": null
+},
+"https://www.vegascene.no/film/EDI20261671": {
+"countries": "Storbritannia",
+"directors": [
+"Phil Grabsky",
+"Shoaib Sharifi"
+],
+"original_title": "",
+"runtime": 99,
+"year": 2026
+},
+"https://www.vegascene.no/film/FOP20210164": {
+"countries": "Frankrike",
+"directors": [
+"Vincent Munier",
+"Marie Amiguet"
+],
+"original_title": "La panthère des neiges",
+"runtime": 80,
+"year": 2021
+},
+"https://www.vegascene.no/film/MER20240096": {
+"countries": "Norge, Spania",
+"directors": [
+"Itonje Søimer Guttormsen"
+],
+"original_title": "Butterfly",
+"runtime": 117,
+"year": 2026
+},
+"https://www.vegascene.no/film/NOR20230682": {
+"countries": "Norge",
+"directors": [
+"Ingvild Søderlind"
+],
+"original_title": "",
+"runtime": 96,
+"year": 2026
+},
+"https://www.vegascene.no/film/POM20230023": {
+"countries": "Japan",
+"directors": [],
+"original_title": "",
+"runtime": 124,
+"year": null
+},
+"https://www.vegascene.no/film/SFN20231642": {
+"countries": "Norge",
+"directors": [
+"Ida Sagmo Tvedte"
+],
+"original_title": "Stargate - en julefortelling",
+"runtime": 91,
+"year": 2025
+},
+"https://www.vegascene.no/film/UAV20214278": {
+"countries": "Norge",
+"directors": [
+"Fabien Greenberg",
+"Bård Kjøge Rønning"
+],
+"original_title": "Lille Axel",
+"runtime": null,
+"year": null
+},
+"https://www.vegascene.no/film/WAB20240252": {
+"countries": "USA",
+"directors": [
+"Alejandro G. Iñárritu"
+],
+"original_title": "Digger",
+"runtime": 129,
+"year": 2026
+}
+}

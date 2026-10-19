@@ -26,6 +26,9 @@
         <button class="icon-btn" id="random" title="Tilfeldig film" aria-label="Tilfeldig film">
           <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="8.5" cy="8.5" r="1.4" fill="currentColor"/><circle cx="15.5" cy="15.5" r="1.4" fill="currentColor"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/></svg>
         </button>
+        <button class="icon-btn" id="mydata-open" title="Mine data – eksport og import" aria-label="Mine data">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="4" width="17" height="5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M5 9v9.5A1.5 1.5 0 0 0 6.5 20h11a1.5 1.5 0 0 0 1.5-1.5V9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10 13h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
         <button class="icon-btn" id="about-open" title="Om Langtagning" aria-label="Om Langtagning">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="7.8" r="1.2" fill="currentColor"/></svg>
         </button>
@@ -43,8 +46,8 @@
         <button class="src-clear" id="src-clear" type="button" title="Tilbake til Mitt utvalg" aria-label="Tilbake til Mitt utvalg" hidden>×</button></label>
       <nav class="tabs" id="tabs" aria-label="Status"></nav>
       <div class="layoutpick" id="layoutpick" role="group" aria-label="Visning">
-        <button data-layout="grid" title="Plakater" aria-label="Plakater"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></button>
-        <button data-layout="rows" title="Liste" aria-label="Liste"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="4.8" cy="6" r="1.3" fill="currentColor"/><circle cx="4.8" cy="12" r="1.3" fill="currentColor"/><circle cx="4.8" cy="18" r="1.3" fill="currentColor"/></svg></button>
+        <button data-layout="grid" title="Vis som plakater"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span>Plakater</span></button>
+        <button data-layout="rows" title="Vis som liste"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="4.8" cy="6" r="1.3" fill="currentColor"/><circle cx="4.8" cy="12" r="1.3" fill="currentColor"/><circle cx="4.8" cy="18" r="1.3" fill="currentColor"/></svg><span>Liste</span></button>
       </div>
     </div>
   </header>
@@ -68,6 +71,7 @@
           <option value="added">Sist lagt til</option>
           <option value="runtime">Lengde</option>
           <option value="awards">Flest priser</option>
+          <option value="kino">Neste kinovisning</option>
         </select>
       </label>
       <div id="facets"></div>
@@ -77,6 +81,7 @@
     <div class="scrim" id="scrim" hidden></div>
 
     <main class="content">
+      <section id="welcome" class="welcome" hidden aria-label="Velkommen"></section>
       <div id="suggest" class="suggest" hidden></div>
       <section id="src-head" class="lv-head" hidden></section>
       <div class="resultbar">
@@ -113,7 +118,20 @@
       <p>Redaksjonen har koblet på kritikernes kåringer og kuraterte lister. De hjelper med å finne igjen filmer han har likt, og kjente og ukjente perler. Prisvinnere fra Cannes, Berlin, Venezia, Sundance og andre festivaler er merket og søkbare. Oscar-prisene skulle vært fjernet, men kom med ved en glipp. Redaksjonen beklager.</p>
       <p>Verdens cinemateker viser sjeldne og skjøre filmskatter. Som helnorsk redaksjon lenker vi derfor til Cinemateket i Oslo, som beskriver godt hva filmene bringer og hvorfor de er interessante. Ofte er filmene vanskelig å oppdrive, men her hjelper vi bl.a. med med å vise om de kan lånes med bibliotekkortet på Filmoteket.</p>
       <p>Lista er på ingen måte komplett, her mangler mange filmer vi setter høyt, f.eks. kultfilmer kritikerne aldri nevner. Slik vil det nok alltid være.</p>
+      <h2>Dine data</h2>
+      <p>Siden kan også brukes som ditt eget kartotek. Åpne en film og marker den som sett, vil se eller eier, og skriv gjerne egne tanker og tagger. Redaksjonen ser ingenting av dette. Det lagres bare i nettleseren du bruker nå, på denne maskinen eller telefonen.</p>
+      <p>Det er greit så lenge det varer. Nettlesere rydder, og telefoner byttes. Last derfor ned en kopi av og til under «Mine data» (arkivskuffen øverst). Fila kan hentes inn igjen i hvilken som helst nettleser.</p>
+      <p>Safari er ekstra ivrig: den kan slette data for sider du ikke har besøkt på sju dager. Legg siden til på Hjem-skjermen (Del → Legg til på Hjem-skjerm), så får dataene være i fred.</p>
       <p class="about-end">God filmopplevelse!</p>
+    </div>
+  </dialog>
+
+  <dialog id="mydata" class="about mydata" aria-labelledby="mydata-title">
+    <div class="about-scroll">
+      <button class="icon-btn close" data-close-mydata aria-label="Lukk">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
+      <div id="mydata-body"></div>
     </div>
   </dialog>
 
@@ -123,6 +141,8 @@
   <script src="data/lists.js"></script>
   <script src="data/directors.js"></script>
   <script src="data/cinemateket-lenker.js"></script>
+  <script src="data/cinemateket-program.js"></script>
+  <script src="data/vega-program.js"></script>
   <script src="data/filmoteket.js"></script>
   <script src="data/wikidata-lenker.js"></script>
   <script>
@@ -130,6 +150,7 @@
     if (location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname))
       document.write('<script src="data/cinemateket.js"><\/script>');
   </script>
+  <script src="js/store.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

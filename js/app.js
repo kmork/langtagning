@@ -68,6 +68,8 @@
       decade: m.year ? `${Math.floor(m.year / 10) * 10}` : "",
       _order: i,
     };
+    // Knuts egne data fra movies.js – grunnlaget for eieren, egen kilde («Knuts utvalg») for venner
+    movie.knut = { status: { ...movie.status }, description: m.description || "", tags: [...movie.tags] };
     movie._awardVals = movie.awards.length
       ? [...new Set(["*", ...movie.awards, ...movie.awards.map(awardGroup)])] : [];
     return movie;
@@ -101,6 +103,7 @@
   const catalogFilm = (c, id) => ({
     ...c, id: id || `tmdb-${c.tmdb_id}`, directors: arr(c.directors), countries: arr(c.countries), cast: arr(c.cast),
     awards: [], tags: [], links: {}, status: { seen: false, want: false, owned: false }, _awardVals: [], _catalog: true,
+    knut: { status: { seen: false, want: false, owned: false }, description: "", tags: [] },
   });
   const catalog = new Map();
   for (const [k, c] of Object.entries(LD.catalog || {})) if (!byTmdb.has(+k)) catalog.set(+k, catalogFilm(c));
@@ -109,6 +112,15 @@
   const directorsData = Array.isArray(DD.directors) ? DD.directors : [];
   const dirByName = new Map(directorsData.map((d) => [d.name, d]));
   for (const [k, c] of Object.entries(DD.films || {})) if (!byTmdb.has(+k) && !catalog.has(+k)) catalog.set(+k, catalogFilm(c));
+  // Kinoprogrammer (data/<kino>-program.js – valgfrie, lages med «langtagning.py kino»).
+  // Filmer på programmet som ikke finnes andre steder, blir katalogfilmer.
+  const CINEMAS = [
+    { key: "cinemateket", name: "Cinemateket", place: "Cinemateket i Oslo", data: window.LANGTAGNING_CINEMATEKET_PROGRAM,
+      list: "https://www.cinemateket.no/forestillinger", site: "cinemateket.no" },
+    { key: "vega", name: "Vega Scene", place: "Vega Scene", data: window.LANGTAGNING_VEGA_PROGRAM,
+      list: "https://www.vegascene.no/kino", site: "vegascene.no" },
+  ].filter((c) => c.data && c.data.films);
+  for (const c of CINEMAS) for (const [k, x] of Object.entries(c.data.catalog || {})) if (!byTmdb.has(+k) && !catalog.has(+k)) catalog.set(+k, catalogFilm(x));
   const filmFor = (id) => byTmdb.get(id) || catalog.get(id);
   const extras = [];
   for (const l of lists) {
@@ -127,9 +139,9 @@
     f._ranks = f._ranks || {};
     f._listVals = [...rankLists.filter((l) => f._ranks[l.id]).map((l) => l.id),
       ...annualSeries.filter((s) => annualRanks(f, s).length).map((s) => `series:${s}`)];
-    f._search = [
-      f.title, f.original_title, f.year, ...f.directors, ...f.cast,
-      ...f.tags, ...f.awards, ...f.countries.map(countryName), f.description,
+    // fast del av søketeksten – tanker og tagger legges til i applyChanges()
+    f._searchBase = [
+      f.title, f.original_title, f.year, ...f.directors, ...f.cast, ...f.awards, ...f.countries.map(countryName),
     ].join(" ").toLowerCase();
   }
   const byId = new Map(allFilms.map((m) => [m.id, m]));
@@ -137,6 +149,45 @@
   // Filmer som kan lånes på filmoteket.no (bibliotekenes strømmetjeneste)
   const FMT = window.LANGTAGNING_FILMOTEKET || {};
   const fmtUrl = (m) => (m.tmdb_id && FMT[m.tmdb_id]) || "";
+
+  // Kommende visninger per kino (tmdb-id → { url, shows }). Visninger som har vært, tas bort her –
+  // programfilene er bare så ferske som siste «langtagning.py kino».
+  for (const c of CINEMAS) {
+    c.prog = new Map();
+    for (const [k, p] of Object.entries(c.data.films)) {
+      const shows = p.shows.filter((x) => Date.parse(x.t) > Date.now() - 2 * 3600e3);  // to timer: kan fortsatt gå
+      if (shows.length) c.prog.set(+k, { url: p.url, shows });
+    }
+  }
+  const cinemaBy = new Map(CINEMAS.map((c) => [c.key, c]));
+  const kinoShows = (m, c) => (m.tmdb_id && (c.prog.get(m.tmdb_id) || {}).shows) || [];
+  const kinoUrl = (m, c) => (m.tmdb_id && (c.prog.get(m.tmdb_id) || {}).url) || "";
+  const playingAt = (m) => CINEMAS.filter((c) => kinoShows(m, c).length);
+  // Første visning – på én kino, eller på den kinoen som viser filmen først
+  const firstShow = (m, key) => (key && cinemaBy.has(key) ? kinoShows(m, cinemaBy.get(key)) : playingAt(m).map((c) => kinoShows(m, c)[0]))
+    .map((x) => x.t).sort()[0] || "";
+  // Cinemateket-arkivet: filmen har en side på cinemateket.no
+  const CINE_LINKS = window.LANGTAGNING_CINEMATEKET_LINKS || {};
+  const cineUrl = (m) => (m.tmdb_id && (CINE_LINKS[m.tmdb_id] || (cinemaBy.has("cinemateket") && kinoUrl(m, cinemaBy.get("cinemateket"))))) || "";
+  // Dato og klokkeslett tas rett fra teksten (norsk tid), så de stemmer uansett tidssonen til den som ser på
+  const MONTHS = ["jan.", "feb.", "mars", "april", "mai", "juni", "juli", "aug.", "sep.", "okt.", "nov.", "des."];
+  const DAYS = ["søn.", "man.", "tir.", "ons.", "tor.", "fre.", "lør."];
+  const showParts = (t) => { const [y, mo, d] = t.slice(0, 10).split("-").map(Number); return { y, mo, d }; };
+  const todayKey = (off = 0) => { const n = new Date(Date.now() + off * 864e5); return `${n.getFullYear()}-${String(n.getMonth() + 1).padStart(2, "0")}-${String(n.getDate()).padStart(2, "0")}`; };
+  function showDay(t, weekday) {
+    if (t.startsWith(todayKey())) return "i dag";
+    if (t.startsWith(todayKey(1))) return "i morgen";
+    const { y, mo, d } = showParts(t);
+    return `${weekday ? DAYS[new Date(Date.UTC(y, mo - 1, d)).getUTCDay()] + " " : ""}${d}. ${MONTHS[mo - 1]}`;
+  }
+  const showTime = (t) => t.slice(11, 16);
+  const kinoTitle = (m, c) => `${c.name}:\n` + kinoShows(m, c).map((x) => `${showDay(x.t, true)} kl. ${showTime(x.t)}${x.series ? ` · ${x.series}` : ""}`).join("\n");
+  // Merke per kino filmen går på; ellers «Vist på Cinemateket» hvis den har en side der
+  function kinoBadges(m, cls, was) {
+    const k = playingAt(m).map((c) => `<span class="${cls} kino k-${c.key}" title="${esc(kinoTitle(m, c))}">${esc(c.name.split(" ")[0])} ${esc(showDay(kinoShows(m, c)[0].t))}</span>`);
+    if (!k.length && cineUrl(m)) k.push(was);
+    return k;
+  }
 
   // Beste plassering: hovedlista først, ellers beste plass i en annen liste
   function bestRank(m) {
@@ -150,162 +201,165 @@
   }
   const rankText = (e) => `${e.rank}${e.tied ? "=" : ""}`;
 
-  // ---------- Lokal redigering: kø som skrives til todo/ko.txt ----------
-  // Vises bare når siden åpnes fra disk eller localhost – ikke når den ligger ute på nett.
+  // ---------- Personlige data: grunnlag + endringer (js/store.js) ----------
+  // Eier (lokalt, eller eierflagg online): grunnlaget er movies.js, og butikken holder det som ikke er lagt inn ennå.
+  // Venn: grunnlaget er tomt, og butikken holder alt vennen har markert. Knuts data ligger i f.knut.
 
   const LOCAL = location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
-  const QKEY = "langtagning-queue";
-  let queue = {};
-  try { queue = JSON.parse(localStorage.getItem(QKEY) || "{}") || {}; } catch (e) { queue = {}; }
-  for (const f of allFilms) f._orig = { ...f.status };
+  const Store = window.LangtagningStore;
+  const lsGet = (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+  const lsSet = (k, v) => { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) { /* ikke tilgjengelig */ } };
+
+  // Eierflagget («dette er Knut») – et visningsvalg, ikke sikkerhet: movies.js er uansett publisert
+  const OWNER_KEY = "langtagning-eier";
+  const ownerInHash = /(^|&)eier(=1)?(&|$)/.test(location.hash.slice(1));
+  if (ownerInHash) lsSet(OWNER_KEY, "1");
+  const OWNER_FLAG = lsGet(OWNER_KEY) === "1";
+  // ?venn i adressen: test vennemodus lokalt (egen database, ingen kø-fil)
+  const FRIEND_TEST = LOCAL && /[?&]venn(=|&|$)/.test(location.search);
+  const LOCAL_OWNER = LOCAL && !FRIEND_TEST;
+  const OWNER = LOCAL_OWNER || OWNER_FLAG;
+
+  const NONE = { seen: false, want: false, owned: false };
   const sameStatus = (a, b) => !!a.seen === !!b.seen && !!a.want === !!b.want && !!a.owned === !!b.owned;
-  const filmByTmdb = new Map(allFilms.filter((f) => f.tmdb_id).map((f) => [String(f.tmdb_id), f]));
+  const sameTags = (a, b) => a.length === b.length && a.every((t, i) => t === b[i]);
+  const anyStatus = (s) => !!(s.seen || s.want || s.owned);
+  const statusWords = (s) => [s.seen && "sett", s.want && !s.seen && "vil se", s.owned && "eier"].filter(Boolean).join(" · ");
 
-  // Fjern det skriptet allerede har behandlet (filmen finnes i databasen med samme status)
-  for (const [k, q] of Object.entries(queue)) {
-    const f = filmByTmdb.get(k);
-    if (!f || (!f._catalog && sameStatus(f._orig, q.status)) || (f._catalog && !Object.values(q.status).some(Boolean))) delete queue[k];
-  }
-  const saveQueueLocal = () => { try { localStorage.setItem(QKEY, JSON.stringify(queue)); } catch (e) { /* ikke tilgjengelig */ } };
-  saveQueueLocal();
+  // Filmer som kan markeres: alt med TMDB-id, og filmene i movies.js
+  const canEdit = (f) => !!f.tmdb_id || !f._catalog;
+  const keyOf = (f) => (f.tmdb_id ? `tmdb:${f.tmdb_id}` : f.id);
+  const baseOf = (f) => OWNER ? { status: f.knut.status, note: f.knut.description, tags: f.knut.tags } : { status: NONE, note: "", tags: [] };
+  const filmByKey = new Map(allFilms.filter(canEdit).map((f) => [keyOf(f), f]));
 
-  function applyQueue() {
-    for (const f of allFilms) {
-      const q = f.tmdb_id && queue[String(f.tmdb_id)];
-      f.status = q ? { ...q.status } : { ...f._orig };
-      f._queued = !!q;
+  // Finn filmen en lagret post gjelder: tmdb-id, så film-id, så tittel og år
+  let byTitle = null;
+  function findFilm(r) {
+    if (r.tmdb_id && filmByKey.has(`tmdb:${r.tmdb_id}`)) return filmByKey.get(`tmdb:${r.tmdb_id}`);
+    if (filmByKey.has(r.id)) return filmByKey.get(r.id);
+    const f = byId.get(r.id);
+    if (f && canEdit(f)) return f;
+    if (!r.title) return null;
+    if (!byTitle) {
+      byTitle = new Map();
+      for (const x of filmByKey.values()) for (const t of [x.title, x.original_title]) if (t) byTitle.set(`${fold(t)}|${x.year || ""}`, x);
     }
+    return byTitle.get(`${fold(r.title)}|${r.year || ""}`) || null;
   }
-  applyQueue();
+  const storeKey = (r) => { const f = findFilm(r); return f ? (f._rec ? f._rec.id : keyOf(f)) : null; };
+  const pruneStore = () => Store.prune((r) => { const f = findFilm(r); return f ? baseOf(f) : null; });
+
+  let myFilms = [];      // Mitt utvalg: filmer med minst én status, tanke eller tagg (eier: hele movies.js)
+  let unknownRecs = [];  // lagrede poster som ikke finnes i katalogen
+  function applyChanges() {
+    for (const f of allFilms) f._rec = null;
+    unknownRecs = [];
+    for (const r of Store.all()) {
+      const f = findFilm(r);
+      if (f) f._rec = r; else unknownRecs.push(r);
+    }
+    for (const f of allFilms) {
+      const b = baseOf(f), r = f._rec || {};
+      f.status = { ...(r.status || b.status) };
+      f.note = "note" in r ? r.note : b.note;
+      f.tags = r.tags ? [...r.tags] : [...b.tags];
+      f._queued = OWNER && !!f._rec;  // endring som ikke er lagt inn i movies.js ennå
+      f._mine = (OWNER && !f._catalog) || anyStatus(f.status) || !!f.note || f.tags.length > 0;
+      f._addedKey = OWNER ? f.added || (f._rec && f._rec.updated) || "" : (f._rec && f._rec.updated) || "";
+      f._search = `${f._searchBase} ${f.tags.join(" ")} ${f.note} ${OWNER ? "" : f.knut.description}`.toLowerCase();
+    }
+    myFilms = allFilms.filter((f) => f._mine);
+  }
+
+  // patch: { status?, note?, tags? } – det som er likt grunnlaget, lagres ikke
+  function saveChange(f, patch) {
+    const b = baseOf(f), out = {};
+    if ("status" in patch) out.status = sameStatus(patch.status, b.status) ? undefined : patch.status;
+    if ("note" in patch) out.note = patch.note === b.note ? undefined : patch.note;
+    if ("tags" in patch) out.tags = sameTags(patch.tags, b.tags) ? undefined : patch.tags;
+    Store.set(f._rec ? f._rec.id : keyOf(f), out, { tmdb_id: f.tmdb_id || undefined, title: f.title, year: f.year || undefined });
+    applyChanges();
+    renderQueueBar();
+  }
 
   function toggleStatus(f, key) {
+    if (!f) return;
     const st = { ...f.status };
     st[key] = !st[key];
     if (key === "seen" && st.seen) st.want = false;
     if (key === "want" && st.want) st.seen = false;
-    const k = String(f.tmdb_id);
-    if (sameStatus(st, f._orig)) delete queue[k];
-    else queue[k] = { title: f.title, year: f.year || null, status: st, ts: Date.now() };
-    saveQueueLocal();
-    applyQueue();
-    writeQueueFile("auto");
+    saveChange(f, { status: st });
   }
 
-  function queueText() {
-    const words = (s) => [s.seen && "sett", s.want && "vil-se", s.owned && "samling"].filter(Boolean).join(", ") || "ingen";
-    const lines = Object.entries(queue).sort((a, b) => a[1].ts - b[1].ts)
-      .map(([k, q]) => `${q.title}${q.year ? ` (${q.year})` : ""} | ${words(q.status)} | tmdb:${k}`);
-    return "# Langtagning – kø fra nettsiden. Behandles med: python3 tools/langtagning.py queue\n" +
-      "# Format: Tittel (år) | status | tmdb:ID   (status: sett, vil-se, samling – eller «ingen»)\n" + lines.join("\n") + "\n";
+  // Dagens kø (langtagning-queue i localStorage) flyttes inn i butikken én gang
+  function migrateOldQueue() {
+    let q = null;
+    try { q = JSON.parse(lsGet("langtagning-queue") || "null"); } catch (e) { q = null; }
+    if (!q || typeof q !== "object") return;
+    const films = Object.entries(q).filter(([, v]) => v && v.status).map(([k, v]) => ({
+      id: `tmdb:${k}`, tmdb_id: +k, title: v.title, year: v.year || undefined, status: v.status,
+      updated: new Date(v.ts || Date.now()).toISOString(),
+    }));
+    try { Store.importJSON({ format: "langtagning-user", schema: 1, films }, "merge", storeKey); } catch (e) { console.warn(e); }
+    lsSet("langtagning-queue", null);
   }
 
-  // Fil: Chrome/Edge kan skrive direkte til todo/ko.txt (valgt én gang). Ellers: last ned til Nedlastinger.
-  const canPickFile = typeof window.showSaveFilePicker === "function";
-  let fileHandle = null, fileState = "none";  // none | saved | unsaved | error
-  function idb(mode, fn) {
-    return new Promise((resolve) => {
-      try {
-        const r = indexedDB.open("langtagning", 1);
-        r.onupgradeneeded = () => r.result.createObjectStore("kv");
-        r.onsuccess = () => {
-          const tx = r.result.transaction("kv", mode), st = tx.objectStore("kv"), req = fn(st);
-          tx.oncomplete = () => resolve(req && req.result);
-          tx.onerror = () => resolve(null);
-        };
-        r.onerror = () => resolve(null);
-      } catch (e) { resolve(null); }
-    });
-  }
-  // mode: "auto" (etter et klikk på en statusknapp), "save" («Lagre nå»), "pick" (velg ny fil), "download"
-  let lastError = "";
-  function downloadQueue() {
+  // ---------- Eksport ----------
+
+  function download(name, text, type) {
     const a = document.createElement("a");
-    a.href = URL.createObjectURL(new Blob([queueText()], { type: "text/plain" }));
-    a.download = "langtagning-ko.txt";
+    a.href = URL.createObjectURL(new Blob([text], { type }));
+    a.download = name;
     document.body.appendChild(a); a.click(); a.remove();
     setTimeout(() => URL.revokeObjectURL(a.href), 2000);
-    fileState = "downloaded";
   }
-  async function writeHandle() {
-    const w = await fileHandle.createWritable();
-    await w.write(queueText());
-    await w.close();
-    fileState = "saved";
-    lastError = "";
-  }
-  async function writeQueueFile(mode) {
-    if (!LOCAL) return;
-    if (mode === "download" || (!canPickFile && mode !== "auto")) {
-      downloadQueue();
-      return renderQueueBar();
-    }
-    if (!canPickFile) {
-      fileState = Object.keys(queue).length ? "unsaved" : "none";
-      return renderQueueBar();
-    }
-    try {
-      if (mode === "pick" || (mode === "save" && !fileHandle)) {
-        fileHandle = await window.showSaveFilePicker({ suggestedName: "ko.txt", types: [{ description: "Tekstfil", accept: { "text/plain": [".txt"] } }] });
-        idb("readwrite", (st) => st.put(fileHandle, "queueFile"));
-      }
-      if (!fileHandle) {
-        fileState = Object.keys(queue).length ? "unsaved" : "none";
-      } else if (mode === "auto") {
-        // Automatisk lagring bare når tilgangen allerede er gitt – ingen spørsmål midt i klikkingen
-        if ((await fileHandle.queryPermission({ mode: "readwrite" })) === "granted") await writeHandle();
-        else fileState = "unsaved";
-      } else {
-        // Spør om tilgang direkte i klikket (nettleseren krever at det skjer i en brukerhandling)
-        const perm = await fileHandle.requestPermission({ mode: "readwrite" });
-        if (perm !== "granted") throw new Error("Nettleseren ga ikke skrivetilgang til fila");
-        await writeHandle();
-      }
-    } catch (e) {
-      if (e && e.name === "AbortError") return renderQueueBar();  // brukeren avbrøt filvelgeren
-      lastError = (e && (e.message || e.name)) || String(e);
-      console.warn("Kunne ikke skrive kø-fila:", e);
-      if (mode !== "auto") downloadQueue();  // reserve: skriptet leser også ~/Downloads/langtagning-ko*.txt
-      else fileState = "unsaved";
-    }
+  function exportData() {
+    const name = Store.getMeta("name") || (OWNER ? "knut" : "");
+    const obj = Store.exportJSON({ name, owner: OWNER });
+    download(`langtagning-${slug(name) || "mine"}-${obj.exported.slice(0, 10)}.json`, JSON.stringify(obj, null, 1), "application/json");
     renderQueueBar();
   }
-  if (LOCAL && canPickFile) idb("readonly", (st) => st.get("queueFile")).then((h) => { if (h) { fileHandle = h; renderQueueBar(); } });
+  const daysSince = (iso) => iso ? Math.floor((Date.now() - Date.parse(iso)) / 864e5) : Infinity;
+  const agoText = (iso) => { const d = daysSince(iso); return d === Infinity ? "" : d <= 0 ? "i dag" : d === 1 ? "i går" : `for ${d} dager siden`; };
 
   function actionsHTML(f) {
-    if (!LOCAL || !f.tmdb_id) return "";
-    const b = (key, label, icon) => `<button class="act ${key}" data-act="${key}" data-tmdb="${f.tmdb_id}" aria-pressed="${!!f.status[key]}" title="${label}">${icon}<span>${label}</span></button>`;
+    if (!canEdit(f)) return "";
+    const b = (key, label, icon) => `<button class="act ${key}" data-act="${key}" data-film="${esc(f.id)}" aria-pressed="${!!f.status[key]}" title="${label}">${icon}<span>${label}</span></button>`;
     return b("seen", "Sett", "✓") + b("want", "Vil se", "+") + b("owned", "Eier", "◉");
   }
 
+  // Påminnelse om backup (venner): etter 25 endringer eller 14 dager uten eksport
+  function reminderDue() {
+    if (OWNER) return false;
+    const s = Store.stats();
+    if (!s.changes || !myFilms.length) return false;
+    const snooze = Store.getMeta("snoozeUntil");
+    if (snooze && snooze > new Date().toISOString()) return false;
+    return s.changes >= 25 || daysSince(s.lastExport || s.created) >= 14;
+  }
+
+  // Stripen nederst: køen (eier) eller påminnelse om backup (venn)
   function renderQueueBar() {
     const bar = $("#qbar");
     if (!bar) return;
-    const items = Object.entries(queue).sort((a, b) => a[1].ts - b[1].ts);
-    bar.hidden = !LOCAL || !items.length;
-    if (bar.hidden) return;
-    const words = (s) => [s.seen && "sett", s.want && "vil se", s.owned && "eier"].filter(Boolean).join(", ") || "fjern status";
-    const err = lastError ? ` <span class="qbar-err" title="${esc(lastError)}">(kunne ikke skrive til ${fileHandle ? esc(fileHandle.name) : "fila"}: ${esc(lastError)})</span>` : "";
-    const fileInfo =
-      fileState === "saved" ? `Lagret i <b>${esc(fileHandle.name)}</b> ✓` :
-      fileState === "downloaded" ? `Lastet ned til Nedlastinger som <b>langtagning-ko.txt</b> ✓${err}` :
-      !canPickFile ? "Last ned køen – skriptet finner den i Nedlastinger" :
-      fileHandle ? `Ikke lagret ennå i ${esc(fileHandle.name)}${err}` :
-      "Velg <b>todo/ko.txt</b> én gang, så lagres køen automatisk";
-    const btn = canPickFile
-      ? `<button class="btn-primary" data-q="save">${fileHandle ? "Lagre nå" : "Velg kø-fil …"}</button>`
-        + (fileHandle ? '<button class="btn-ghost" data-q="pick" title="Velg todo/ko.txt på nytt">Velg annen fil</button>' : "")
-        + '<button class="btn-ghost" data-q="download" title="Last ned til Nedlastinger – skriptet finner den der">Last ned</button>'
-      : `<button class="btn-primary" data-q="download">Last ned kø-fil</button>`;
-    bar.innerHTML = `
-      <div class="qbar-inner">
-        <button class="qbar-count" data-q="toggle" aria-expanded="${bar.classList.contains("open")}"><strong>${items.length}</strong> ${items.length === 1 ? "endring" : "endringer"} i kø <span>▾</span></button>
-        <span class="qbar-file">${fileInfo}</span>
-        <div class="qbar-actions">${btn}<button class="btn-ghost" data-q="clear">Tøm</button></div>
-      </div>
-      <div class="qbar-list">
-        <ul>${items.map(([k, q]) => `<li><span>${esc(q.title)}${q.year ? ` <small>${q.year}</small>` : ""}</span><em>${words(q.status)}</em><button class="icon-btn" data-q="remove" data-tmdb="${k}" aria-label="Fjern">${ICON_X}</button></li>`).join("")}</ul>
-        <div class="cmd"><span>Kjør så i Terminal:</span><code>python3 tools/langtagning.py queue</code><button class="copy" data-copy="python3 tools/langtagning.py queue">Kopier</button></div>
-      </div>`;
+    if (!OWNER) {
+      bar.classList.remove("mini");
+      bar.hidden = !reminderDue();
+      if (bar.hidden) return;
+      const n = Store.stats().changes;
+      bar.innerHTML = `
+        <div class="qbar-inner">
+          <span class="qbar-count">Du har <strong>${n}</strong> ${n === 1 ? "endring" : "endringer"} siden siste backup</span>
+          <span class="qbar-file">Dataene ligger bare i denne nettleseren. Last ned en kopi, så kan du hente dem inn igjen senere.</span>
+          <div class="qbar-actions"><button class="btn-primary" data-q="export">Last ned</button><button class="btn-ghost" data-q="snooze">Senere</button></div>
+        </div>`;
+      return;
+    }
+    // Eier: lite merke om endringer som ikke er lagt inn i movies.js – detaljene ligger i «Mine data»
+    const n = Store.all().length;
+    bar.hidden = !n;
+    bar.classList.add("mini");
+    if (n) bar.innerHTML = `<button class="qbar-count" data-q="mydata" title="Eksporter under Mine data, og kjør python3 tools/langtagning.py queue"><strong>${n}</strong> ${n === 1 ? "endring" : "endringer"} ikke lagt inn <span>→ Mine data</span></button>`;
   }
 
   // ---------- Tilstand (lagres i URL-en, så lenker og tilbake-knapp virker) ----------
@@ -319,8 +373,13 @@
     { key: "owned", label: "Eier" },
     { key: "missing", label: "Ikke registrert", listsOnly: true },
   ];
-  const matchStatus = (f, s) =>
-    s === "all" ? true : s === "unseen" ? !f.status.seen : s === "missing" ? f._catalog && !f._queued : !!f.status[s];
+  // «Knuts utvalg» kan filtreres på Knuts statuser i stedet for dine egne (&st=knut)
+  const knutFilter = () => state.st === "knut" && src && src.kind === "knut";
+  const statusOf = (f) => (knutFilter() ? f.knut.status : f.status);
+  const matchStatus = (f, s) => {
+    const st = statusOf(f);
+    return s === "all" ? true : s === "unseen" ? !st.seen : s === "missing" ? !f._mine : !!st[s];
+  };
 
   const FACETS = [
     { key: "director", label: "Regissør", values: (m) => m.directors, name: (v) => v },
@@ -329,6 +388,11 @@
     { key: "decade", label: "Tiår", values: (m) => (m.decade ? [m.decade] : []), name: (v) => `${v}-tallet`, numeric: true },
     { key: "actor", label: "Skuespiller", values: (m) => m.cast, name: (v) => v },
   ];
+  if (CINEMAS.length) {
+    FACETS.push({ key: "kino", label: "På kino", order: (v) => CINEMAS.findIndex((c) => c.key === v),
+      values: (m) => { const k = playingAt(m).map((c) => c.key); return k.length ? ["*", ...k] : []; },
+      name: (v) => (v === "*" ? "Alle kinoene" : (cinemaBy.get(v) || {}).name || v) });
+  }
   if (lists.length) {
     FACETS.splice(3, 0, { key: "list", label: "Også på liste", values: (m) => m._listVals, name: listShort,
       order: (v) => v.startsWith("series:") ? 9999 : lists.indexOf(listById.get(v)) });
@@ -336,7 +400,7 @@
   for (const f of allFilms) f.decade = f.decade || (f.year ? `${Math.floor(f.year / 10) * 10}` : "");
 
   const blank = () => ({
-    src: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "",
+    src: "", st: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "", kino: "",
     tags: [], sort: "", layout: "", film: "",
   });
   let state = blank();
@@ -354,9 +418,12 @@
     if (rf === "stream") s.stream = "1";
     else if (rf && rf !== "all") s.status = rf;
     if (p.get("stream") === "Filmoteket") s.stream = "1";
+    if (p.get("cine") === "snart") s.kino = "cinemateket";
+    if (s.src === "cine") s.src = "kino:cinemateket";
     if (p.get("sort") === "rank") s.sort = "list";
     if (s.src && !sourceOf(s.src, s)) s.src = "";
-    if (!STATUSES.some((x) => x.key === s.status) || (s.status === "missing" && !s.src)) s.status = "all";
+    if (s.st !== "knut" || s.src !== "knut") s.st = "";
+    if (!STATUSES.some((x) => x.key === s.status) || (s.status === "missing" && (!s.src || s.st))) s.status = "all";
     return s;
   }
 
@@ -373,10 +440,22 @@
   // ---------- Utvalg: Mitt utvalg eller en liste ----------
 
   // Filmografien viser spillefilmer – og alltid filmer du selv har registrert (f.eks. TV-filmen «Duel»)
-  const inFilmography = (x) => x.kind === "feature" || byTmdb.has(x.id);
+  const inFilmography = (x) => x.kind === "feature" || !!(filmFor(x.id) || {})._mine;
 
   function sourceOf(id, st = state) {
     if (!id) return null;
+    if (id === "knut") {  // Knuts filmer for venner – oppfører seg som en kåring
+      if (OWNER) return null;
+      return { id, kind: "knut", name: "Knuts utvalg", size: movies.length, entries: movies.map((m) => ({ _film: m })) };
+    }
+    if (id.startsWith("kino:")) {  // programmet på én kino, etter neste visning
+      const c = cinemaBy.get(id.slice(5));
+      if (!c || !c.prog.size) return null;
+      const films = [...c.prog.keys()].map(filmFor).filter(Boolean).sort((a, b) => firstShow(a, c.key).localeCompare(firstShow(b, c.key)));
+      const last = films.flatMap((f) => kinoShows(f, c)).map((x) => x.t).sort().pop();
+      return { id, kind: "kino", cinema: c, name: `${c.name} – programmet`, source: c.list,
+        last, size: films.length, entries: films.map((f) => ({ _film: f })) };
+    }
     if (id.startsWith("dir:")) {  // regissør: hele filmografien
       const d = dirByName.get(id.slice(4));
       if (!d) return null;
@@ -400,9 +479,12 @@
     }
     return listById.get(id) || null;
   }
-  const isRanked = (src) => src && !["group", "collection", "director"].includes(src.kind);
+  const isRanked = (src) => src && !["group", "collection", "director", "knut", "kino"].includes(src.kind);
   const sortKey = () => state.sort || (state.src ? "list" : "title");
-  const layoutKey = () => state.layout || (state.src ? "rows" : "grid");
+  // Rangerte kåringer vises som liste (plassering, bevegelse, knapper). Utvalg uten rekkefølge – Mitt utvalg,
+  // Knuts utvalg, regissører og usorterte samlinger – vises som plakater.
+  const defaultLayout = () => src && (isRanked(src) || (src.kind === "group" && !src.coll)) ? "rows" : "grid";
+  const layoutKey = () => state.layout || defaultLayout();
 
   // ---------- Filtrering ----------
 
@@ -428,9 +510,10 @@
       const last = (m) => (m.directors[0] || "~").split(" ").slice(-1)[0];
       return collator.compare(last(a), last(b)) || (a.year || 0) - (b.year || 0);
     },
-    "added": (a, b) => collator.compare(b.added || "", a.added || "") || (b._order || 0) - (a._order || 0),
+    "added": (a, b) => collator.compare(b._addedKey || "", a._addedKey || "") || (b._order || 0) - (a._order || 0),
     "runtime": (a, b) => (b.runtime || 0) - (a.runtime || 0),
     "awards": (a, b) => b.awards.length - a.awards.length || SORTS["year-asc"](a, b),
+    "kino": (a, b) => (firstShow(a, state.kino) || "~").localeCompare(firstShow(b, state.kino) || "~") || SORTS.title(a, b),
   };
 
   let src = null;        // valgt liste (null = Mitt utvalg)
@@ -441,7 +524,7 @@
 
   function computeBase() {
     src = sourceOf(state.src);
-    baseItems = src ? src.entries.map((e) => ({ f: e._film, e, group: e._group })) : movies.map((m) => ({ f: m }));
+    baseItems = src ? src.entries.map((e) => ({ f: e._film, e, group: e._group })) : myFilms.map((m) => ({ f: m }));
     baseFilms = [...new Set(baseItems.map((x) => x.f))];
   }
 
@@ -478,18 +561,19 @@
       if (ar.length && isColl(s)) b.push(`<span class="badge annual" title="${esc(ar.map((r) => r.list.name).join("\n"))}">${esc(collLabel(ar))}</span>`);
       else if (ar.length) b.push(`<span class="badge annual" title="${esc(ar.map((r) => `${s} ${r.list.year}: #${rankText(r.e)}`).join("\n"))}">${esc(s.split(" ")[0])} ’${String(ar[0].list.year).slice(2)}</span>`);
     }
+    if (!OWNER && anyStatus(m.knut.status)) b.push(`<span class="badge knut" title="Knuts status">Knut: ${esc(statusWords(m.knut.status))}</span>`);
     if (m.status.owned) b.push('<span class="badge own">Eier</span>');
     if (m.status.want && !m.status.seen) b.push('<span class="badge want">Vil se</span>');
     if (fmtUrl(m)) b.push('<span class="badge stream" title="Kan lånes på filmoteket.no">Filmoteket</span>');
+    b.push(...kinoBadges(m, "badge", '<span class="badge cine-was" title="Vist på Cinemateket">C</span>'));
     if (m.awards.length) b.push(`<span class="badge award" title="${esc(m.awards.join("\n"))}">${LAUREL}${m.awards.length > 1 ? m.awards.length : ""}</span>`);
     return b.length ? `<div class="badges">${b.join("")}</div>` : "";
   }
 
+  const queuedPill = (f) => f._queued ? '<span class="pill queued" title="Endringen er ikke lagt inn i movies.js ennå – eksporter under Mine data, og kjør python3 tools/langtagning.py queue">i kø</span>' : "";
   function statusPills(f) {
-    const any = f.status.seen || f.status.want || f.status.owned;
-    if (f._catalog && !any) return `<span class="pill ghost">${f._queued ? "Fjernes fra kø" : "Ikke registrert"}</span>`;
-    const p = [];
-    if (f._queued) p.push('<span class="pill queued" title="Endringen ligger i køen – kjør python3 tools/langtagning.py queue">i kø</span>');
+    if (!f._mine) return '<span class="pill ghost">Ikke registrert</span>';
+    const p = [queuedPill(f)];
     if (f.status.seen) p.push('<span class="pill seen">✓ Sett</span>');
     if (f.status.want) p.push('<span class="pill want">Vil se</span>');
     if (f.status.owned) p.push('<span class="pill own">Eier</span>');
@@ -511,7 +595,9 @@
   function renderSource() {
     const opt = (v, label) => `<option value="${esc(v)}"${state.src === v ? " selected" : ""}>${esc(label)}</option>`;
     let html = state.src.startsWith("dir:") ? opt(state.src, `Regissør: ${state.src.slice(4)}`) : "";
-    html += opt("", `Mitt utvalg (${movies.length})`);
+    html += opt("", `Mitt utvalg (${myFilms.length})`);
+    if (!OWNER) html += opt("knut", `Knuts utvalg (${movies.length})`);
+    for (const c of CINEMAS) if (c.prog.size) html += opt(`kino:${c.key}`, `${c.name} – programmet (${sourceOf(`kino:${c.key}`).size})`);
     if (lists.length) {
       html += '<option disabled>──── Kuratert av andre ────</option>';
       for (const s of seriesNames) {
@@ -538,11 +624,19 @@
   // Status-knapper (tall følger filtrene) + «Kan lånes»
   function renderStatus() {
     const base = baseFilms.filter((f) => passes(f, "status"));
-    let html = STATUSES.filter((s) => !s.listsOnly || src).map((s) =>
+    // I «Knuts utvalg»: velg om statusfilteret gjelder dine eller Knuts statuser
+    let html = src && src.kind === "knut"
+      ? `<span class="whose" role="group" aria-label="Filtrer på"><span>Filtrer på</span><button data-st="" aria-pressed="${!state.st}">Mine</button><button data-st="knut" aria-pressed="${state.st === "knut"}">Knuts</button></span>` : "";
+    html += STATUSES.filter((s) => !s.listsOnly || (src && !state.st)).map((s) =>
       `<button class="tab" data-status="${s.key}" aria-pressed="${state.status === s.key}">${s.label}<span class="n">${base.filter((f) => matchStatus(f, s.key)).length}</span></button>`).join("");
     if (Object.keys(FMT).length) {
       const n = baseFilms.filter((f) => passes(f, "stream") && fmtUrl(f)).length;
       html += `<button class="tab stream-toggle" data-stream aria-pressed="${!!state.stream}" title="Bare filmer som kan lånes med bibliotekkortet på filmoteket.no">▶ Kan lånes<span class="n">${n}</span></button>`;
+    }
+    for (const c of CINEMAS) {
+      if (!c.prog.size || (src && src.cinema === c)) continue;
+      const n = baseFilms.filter((f) => passes(f, "kino") && kinoShows(f, c).length).length;
+      html += `<button class="tab kino-toggle k-${c.key}" data-kino="${c.key}" aria-pressed="${state.kino === c.key}" title="Bare filmer som går på ${esc(c.place)} de neste ukene">${esc(c.name.split(" ")[0])}<span class="n">${n}</span></button>`;
     }
     $("#tabs").innerHTML = html;
     for (const b of document.querySelectorAll("#layoutpick [data-layout]")) b.setAttribute("aria-pressed", String(b.dataset.layout === layoutKey()));
@@ -556,26 +650,28 @@
     const films = baseFilms.filter((f) => passes(f, "status"));  // følger filtrene, men ikke status
     const n = films.length, total = baseFilms.length;
     const cnt = (fn) => films.filter(fn).length;
-    const seen = cnt((f) => f.status.seen), owned = cnt((f) => f.status.owned),
-      want = cnt((f) => f.status.want && !f.status.seen), missing = cnt((f) => f._catalog && !f._queued);
+    const seen = cnt((f) => statusOf(f).seen), owned = cnt((f) => statusOf(f).owned),
+      want = cnt((f) => statusOf(f).want && !statusOf(f).seen), missing = cnt((f) => !f._mine);
     const pct = (x) => n ? Math.round((x / n) * 1000) / 10 : 0;
-    const desc = src.kind === "director"
+    const desc = src.kind === "knut" ? `${total} filmer Knut har sett, vil se eller eier`
+      : src.kind === "kino" ? `${total} filmer frem til ${esc(showDay(src.last))}${src.cinema.data.updated ? ` · hentet ${esc(showDay(src.cinema.data.updated))}` : ""}`
+      : src.kind === "director"
       ? `${total} ${state.shorts ? "filmer" : "spillefilmer"}${src.span ? ` (${src.span})` : ""}${src.extra ? ` · <button class="linklike" data-shorts>ta med ${src.extra} kortfilmer, TV-filmer og dokumentarer</button>` : state.shorts ? ' · <button class="linklike" data-shorts>bare spillefilmer</button>' : ""}`
       : src.coll ? `${total} filmer fra ${src.size} lister` : src.kind === "group" ? `${total} filmer fra ${src.size} årganger`
       : src.kind === "collection" ? `${total} filmer` : `${total} filmer${total !== src.size ? ` (topp ${src.size} med delte plasseringer)` : ""}`;
     head.innerHTML = `
       <div>
         <h2>${esc(src.name)}</h2>
-        <p class="lv-source">${desc} · <a href="${esc(src.source || "#")}" target="_blank" rel="noopener">${src.kind === "director" ? "TMDB" : "Kilde"}</a></p>
+        <p class="lv-source">${desc}${src.source ? ` · <a href="${esc(src.source)}" target="_blank" rel="noopener">${src.kind === "director" ? "TMDB" : src.kind === "kino" ? src.cinema.site : "Kilde"}</a>` : ""}</p>
       </div>
-      <div class="lv-progress" role="img" aria-label="Sett ${seen} av ${n}">
-        <div class="lv-big"><strong>${seen}</strong> av ${n}${n !== total ? " (filtrert)" : ""} sett <span>${pct(seen)} %</span></div>
+      <div class="lv-progress" role="img" aria-label="${state.st ? "Knut har sett" : "Sett"} ${seen} av ${n}">
+        <div class="lv-big"><strong>${seen}</strong> av ${n}${n !== total ? " (filtrert)" : ""} ${state.st ? "sett av Knut" : "sett"} <span>${pct(seen)} %</span></div>
         <div class="lv-bar"><i class="b-seen" style="width:${pct(seen)}%"></i><i class="b-want" style="width:${pct(want)}%"></i></div>
         <div class="lv-stats">
           <span><i class="d-seen"></i>Sett ${seen}</span>
           <span><i class="d-want"></i>Vil se ${want}</span>
           <span><i class="d-own"></i>Eier ${owned}</span>
-          <span><i class="d-miss"></i>Ikke registrert ${missing}</span>
+          ${state.st ? "" : `<span><i class="d-miss"></i>Ikke registrert ${missing}</span>`}
         </div>
       </div>`;
   }
@@ -628,9 +724,10 @@
     $("#facets").innerHTML = html;
     const sortSel = $("#sort");
     sortSel.querySelector('option[value="list"]').hidden = !src;
-    sortSel.querySelector('option[value="list"]').textContent = src && src.kind === "director" ? "Kronologisk" : "Plassering i lista";
+    sortSel.querySelector('option[value="list"]').textContent = src && src.kind === "director" ? "Kronologisk" : src && src.kind === "knut" ? "Knuts rekkefølge" : src && src.kind === "kino" ? "Neste visning" : "Plassering i lista";
     sortSel.querySelector('option[value="list"]').disabled = !src;
     sortSel.querySelector('option[value="added"]').hidden = !!src;
+    sortSel.querySelector('option[value="kino"]').hidden = !CINEMAS.length || (src && src.kind === "kino");
     sortSel.value = sortKey();
   }
 
@@ -677,6 +774,8 @@
     }
     if (f.awards.length) t.push(`<span class="mt award" title="${esc(f.awards.join("\n"))}">${LAUREL}${f.awards.length}</span>`);
     if (fmtUrl(f)) t.push('<span class="mt stream">▶ Filmoteket</span>');
+    t.push(...kinoBadges(f, "mt", '<span class="mt cine-was" title="Vist på Cinemateket">Vist på Cinemateket</span>'));
+    if (!OWNER && anyStatus(f.knut.status)) t.push(`<span class="mt knut" title="Knuts status">Knut: ${esc(statusWords(f.knut.status))}</span>`);
     return t.length ? `<span class="lv-tags">${t.join("")}</span>` : "";
   }
 
@@ -688,14 +787,14 @@
     const rank = src && isRanked(src) && e ? `${e.tied ? "<small>=</small>" : ""}${e.rank}`
       : src && (src.kind === "group" && !src.coll || src.numbered) && e && sortKey() === "list" ? `${e.tied ? "<small>=</small>" : ""}${e.rank}` : "";
     const orig = f.original_title && f.original_title !== f.title ? `<span class="lv-orig">${esc(f.original_title)}</span>` : "";
-    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${LOCAL && f.tmdb_id ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._catalog && !f._queued ? " is-missing" : ""}${f.status.seen ? " is-seen" : ""}" data-id="${esc(f.id)}">
+    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${canEdit(f) ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._mine ? "" : " is-missing"}${f.status.seen ? " is-seen" : ""}" data-id="${esc(f.id)}">
         <span class="lv-rank">${rank}</span>
         <span class="lv-thumb">${posterHTML(f)}</span>
         <span class="lv-text"><b>${esc(f.title)}</b>${orig}
           <span class="lv-meta">${esc(f.year || (e && e.year) || "")}${f.directors.length ? " · " + esc(f.directors.join(", ")) : ""}${f.countries.length ? " · " + esc(f.countries.map(countryName).join(", ")) : ""}</span>${miniTags(f)}</span>
         <span class="lv-status">${statusPills(f)}</span>
         <span class="lv-mv">${src && e ? movement(src, e) : ""}</span>
-      </button>${LOCAL && f.tmdb_id ? `<div class="lv-act">${actionsHTML(f)}</div>` : ""}</li>`;
+      </button>${canEdit(f) ? `<div class="lv-act">${actionsHTML(f)}</div>` : ""}</li>`;
   }
 
   // Resultater tegnes i bolker – store lister (TSPDT 1000) blir ikke trege
@@ -718,6 +817,7 @@
       ? `<strong>${total}</strong> ${total === 1 ? "film" : "filmer"}`
       : `<strong>${n}</strong> av ${total} filmer`;
     $("#empty").hidden = n > 0;
+    if (!n) $("#empty").innerHTML = emptyHTML();
     grid.hidden = rows;
     $("#rows").hidden = !rows;
     $("#rows").classList.toggle("no-rank", !(src && (isRanked(src) || ((src.kind === "group" && !src.coll || src.numbered) && sortKey() === "list"))));
@@ -742,6 +842,7 @@
   }
 
   function render() {
+    renderWelcome();
     renderSuggest();
     computeBase();
     computeItems();
@@ -787,8 +888,10 @@
     if (crit) L.push({ cls: "crit", tag: "CC", name: "Criterion", url: crit });
     if (m.tmdb_id) L.push({ cls: "tmdb", tag: "TMDB", name: "TMDB", url: `https://www.themoviedb.org/movie/${m.tmdb_id}` });
     if (fmtUrl(m)) L.push({ cls: "fmt", tag: "▶", name: "Filmoteket", url: fmtUrl(m) });
-    const cine = m.tmdb_id && CINE_LINKS[m.tmdb_id];
+    const cine = cineUrl(m);
     if (cine) L.push({ cls: "cinemateket", tag: "C", name: "Cinemateket", url: cine });
+    const vega = cinemaBy.has("vega") && kinoUrl(m, cinemaBy.get("vega"));
+    if (vega) L.push({ cls: "vega", tag: "V", name: "Vega Scene", url: vega });
     for (const [k, url] of Object.entries(m.links)) {
       if (!url || ["imdb", "bfi", "rt", "ebert", "criterion"].includes(k)) continue;
       L.push({ cls: "", tag: "↗", name: k, url });
@@ -797,7 +900,6 @@
   }
 
   // Omtaler fra cinemateket.no – teksten bare lokalt (se index.html), ellers bare lenke
-  const CINE_LINKS = window.LANGTAGNING_CINEMATEKET_LINKS || {};
   // Roger Ebert- og Criterion-ID-er fra Wikidata (tmdb-id → {ebert, criterion})
   const WIKILINKS = window.LANGTAGNING_WIKILINKS || {};
   const CINE = (LOCAL && window.LANGTAGNING_CINEMATEKET) || {};
@@ -811,6 +913,18 @@
       ${c.quotes.map((q) => `<blockquote>${esc(q.text)}${q.cite ? `<cite>${esc(q.cite)}</cite>` : ""}</blockquote>`).join("")}
       <p class="cine-src">Tekst: <a href="${esc(c.url)}" target="_blank" rel="noopener">Cinemateket</a> · vises bare lokalt</p>
     </section>`;
+  }
+
+  // Kommende visninger per kino, med billettlenke (ellers filmsiden – der ligger kjøpsknappene)
+  function kinoShowsHTML(m) {
+    return playingAt(m).map((c) => `<section class="cine-shows k-${c.key}">
+      <h2 class="sec-label">På ${esc(c.place)}</h2>
+      <ul>${kinoShows(m, c).map((x) => `<li>
+        <span class="cs-when"><b>${esc(showDay(x.t, true))}</b> kl. ${esc(showTime(x.t))}</span>
+        <span class="cs-where">${esc([x.screen, x.series].filter(Boolean).join(" · "))}</span>
+        <a class="cs-buy" href="${esc(x.ticket || kinoUrl(m, c))}" target="_blank" rel="noopener">${x.ticket ? "Kjøp billett" : "Billetter"}</a>
+      </li>`).join("")}</ul>
+    </section>`).join("");
   }
 
   // Plassering i kåringene over tid: tabell per serie + liten graf
@@ -860,14 +974,26 @@
   }
 
   // Kommandoer for å legge en katalogfilm inn i databasen
-  // Bare lokalt: status-knapper som legger endringen i køen
-  function addBoxHTML(m) {
-    if (!LOCAL || !m.tmdb_id) return "";
-    return `<section class="addbox">
-      <h2 class="sec-label">${m._catalog && !m._queued ? "Ikke i databasen din ennå" : "Endre status"}</h2>
+  // Dine egne felt: statusknapper, «Mine tanker» (lagres automatisk) og tagger (skriv og trykk Enter)
+  function mineHTML(m) {
+    if (!canEdit(m)) return "";
+    const tags = m.tags.map((t) => `<span class="tagchip"><button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button><button class="tag-x" data-untag="${esc(t)}" aria-label="Fjern taggen ${esc(t)}">×</button></span>`).join("");
+    const known = [...new Set(myFilms.flatMap((f) => f.tags))].sort(collator.compare);
+    return `<section class="mine">
       <div class="act-row">${actionsHTML(m)}</div>
-      <p>Endringen legges i køen nederst på siden. Lagre køen, og kjør <code>python3 tools/langtagning.py queue</code>.</p>
+      <label class="note note-edit"><span class="note-label">Mine tanker</span>
+        <textarea id="d-note" rows="2" placeholder="Hva gjorde filmen med deg? Lagres automatisk.">${esc(m.note)}</textarea></label>
+      <div class="tagedit"><span class="tagedit-label">Tagger</span>${tags}<input id="d-tag" type="text" list="d-taglist" placeholder="${m.tags.length ? "Ny tagg" : "Legg til tagg"} + Enter" enterkeyhint="done" autocomplete="off" aria-label="Ny tagg"><datalist id="d-taglist">${known.map((t) => `<option value="${esc(t)}">`).join("")}</datalist></div>
+      ${OWNER ? `<p class="mine-hint">${m._queued ? "Endringen er ikke lagt inn i movies.js ennå." : "Endringer lagres i nettleseren."} Eksporter under <b>Mine data</b>, og kjør <code>python3 tools/langtagning.py queue</code>.</p>` : ""}
     </section>`;
+  }
+
+  // Knuts status og tanker – vises for venner, under deres egne
+  function knutHTML(m) {
+    if (OWNER) return "";
+    const st = statusWords(m.knut.status);
+    if (!st && !m.knut.description) return "";
+    return `<div class="note knut-note"><span class="note-label">${m.knut.description ? "Knuts tanker" : "Knut"}${st ? ` · ${esc(st)}` : ""}</span>${esc(m.knut.description)}</div>`;
   }
 
   const filterBtns = (facet, values, name = (v) => v) =>
@@ -884,14 +1010,15 @@
       m.runtime && `<span>${Math.floor(m.runtime / 60)} t ${m.runtime % 60} min</span>`,
     ].filter(Boolean).join("");
 
-    const pills = statusPills(m) ? [statusPills(m)] : [];
+    // Kan du endre filmen, viser knappene statusen – da står bare «i kø» igjen her
+    const pills = canEdit(m) ? [queuedPill(m)].filter(Boolean) : [statusPills(m)].filter(Boolean);
 
     const rows = [];
     if (m.directors.length) rows.push(["Regi", m.directors.map((d) => filterBtns("director", [d]) +
       (dirByName.has(d) ? ` <button class="filmo" data-goto="dir:${esc(d)}">Hele filmografien →</button>` : "")).join(", ")]);
     if (m.countries.length) rows.push(["Land", filterBtns("country", m.countries, countryName)]);
     if (m.cast.length) rows.push(["Medvirkende", filterBtns("actor", m.cast)]);
-    if (m.tags.length) rows.push(["Tagger", m.tags.map((t) => `<button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button>`).join(" ")]);
+    if (m.tags.length && !canEdit(m)) rows.push(["Tagger", m.tags.map((t) => `<button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button>`).join(" ")]);
 
     const showOrig = m.original_title && m.original_title !== m.title;
     dialog.innerHTML = `
@@ -908,9 +1035,10 @@
             ${pills.length || fmtUrl(m) ? `<div class="statusrow">${pills.join("")}${fmtUrl(m) ? `<a class="pill stream" href="${esc(fmtUrl(m))}" target="_blank" rel="noopener">▶ Lån på Filmoteket</a>` : ""}</div>` : ""}
             ${m.awards.length ? `<ul class="awards">${m.awards.map((a) =>
               `<li><button data-filter="award" data-v="${esc(a)}">${LAUREL}<span>${a.includes(" – ") ? `<small>${esc(awardGroup(a))}</small>${esc(a.split(" – ").slice(1).join(" – "))}` : esc(a)}</span></button></li>`).join("")}</ul>` : ""}
-            ${m.description ? `<div class="note"><span class="note-label">Mine tanker</span>${esc(m.description)}</div>` : ""}
+            ${kinoShowsHTML(m)}
+            ${mineHTML(m)}
+            ${knutHTML(m)}
             ${cineHTML(m) || (m.overview ? `<p class="overview">${esc(m.overview)}</p>` : "")}
-            ${addBoxHTML(m)}
             <dl class="meta">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("")}</dl>
             <div class="links">${linksFor(m)}</div>
             ${rankingsHTML(m)}
@@ -919,6 +1047,36 @@
       </div>`;
     if (!dialog.open) dialog.showModal();
     $(".detail-scroll", dialog).scrollTop = 0;
+    growNote();
+  }
+
+  // Tegn detaljvisningen på nytt (etter en endring) uten å miste rulleposisjonen
+  function refreshDetail(focus) {
+    const sc = $(".detail-scroll", dialog).scrollTop;
+    openDetail(state.film, false);
+    $(".detail-scroll", dialog).scrollTop = sc;
+    if (focus) { const el = $(focus, dialog); if (el) el.focus({ preventScroll: true }); }
+  }
+
+  // «Mine tanker»: feltet vokser med teksten, og lagres litt etter at du slutter å skrive
+  function growNote() {
+    const ta = $("#d-note", dialog);
+    if (ta) { ta.style.height = "auto"; ta.style.height = `${ta.scrollHeight + 2}px`; }
+  }
+  let noteTimer = null, listDirty = false;
+  function flushNote() {
+    clearTimeout(noteTimer);
+    noteTimer = null;
+    const ta = $("#d-note", dialog), f = byId.get(state.film);
+    if (!ta || !f || ta.value === f.note) return;
+    saveChange(f, { note: ta.value });
+    listDirty = true;
+  }
+  function addTags(f, text) {
+    const add = text.split(",").map((t) => t.trim().replace(/^#/, "")).filter(Boolean);
+    const tags = [...f.tags];
+    for (const t of add) if (!tags.includes(t)) tags.push(t);
+    if (tags.length !== f.tags.length) saveChange(f, { tags });
   }
 
   function closeDetail(fromHistory) {
@@ -939,7 +1097,28 @@
     try { navigator.clipboard.writeText(c.dataset.copy).then(done, fallback); } catch (err) { fallback(); }
   }
 
-  dialog.addEventListener("close", () => { if (state.film) { state.film = ""; writeHash(false); } });
+  dialog.addEventListener("close", () => {
+    flushNote();
+    if (listDirty) { listDirty = false; render(); }
+    if (state.film) { state.film = ""; writeHash(false); }
+  });
+  dialog.addEventListener("input", (e) => {
+    if (e.target.id !== "d-note") return;
+    growNote();
+    clearTimeout(noteTimer);
+    noteTimer = setTimeout(flushNote, 600);
+  });
+  dialog.addEventListener("focusout", (e) => { if (e.target.id === "d-note") flushNote(); });
+  dialog.addEventListener("keydown", (e) => {
+    if (e.target.id !== "d-tag" || e.key !== "Enter" || e.isComposing) return;
+    e.preventDefault();
+    const f = byId.get(state.film);
+    if (!f || !e.target.value.trim()) return;
+    flushNote();
+    addTags(f, e.target.value);
+    refreshDetail("#d-tag");
+    listDirty = true;
+  });
   dialog.addEventListener("click", (e) => {
     if (e.target === dialog || e.target.closest("[data-close]")) return closeDetail();
     const c = e.target.closest("[data-copy]");
@@ -952,11 +1131,19 @@
     }
     const act = e.target.closest("[data-act]");
     if (act) {
-      const sc = $(".detail-scroll", dialog).scrollTop;
-      toggleStatus(filmByTmdb.get(act.dataset.tmdb), act.dataset.act);
-      openDetail(state.film, false);
-      $(".detail-scroll", dialog).scrollTop = sc;
+      flushNote();
+      toggleStatus(byId.get(act.dataset.film), act.dataset.act);
+      refreshDetail();
       render();
+      return;
+    }
+    const untag = e.target.closest("[data-untag]");
+    if (untag) {
+      const f = byId.get(state.film);
+      flushNote();
+      saveChange(f, { tags: f.tags.filter((t) => t !== untag.dataset.untag) });
+      refreshDetail("#d-tag");
+      listDirty = true;
       return;
     }
     const f = e.target.closest("[data-filter]");
@@ -980,6 +1167,7 @@
   $("#src").addEventListener("change", (e) => {
     state.src = e.target.value;
     if (!state.src && state.status === "missing") state.status = "all";
+    if (state.src !== "knut") state.st = "";
     if (state.sort === "list" && !state.src) state.sort = "";
     if (state.list === state.src) state.list = "";
     writeHash(true);
@@ -1000,14 +1188,22 @@
   $("#tabs").addEventListener("click", (e) => {
     const b = e.target.closest("[data-status]");
     if (b) { state.status = b.dataset.status; return update(); }
-    if (e.target.closest("[data-stream]")) { state.stream = state.stream ? "" : "1"; update(); }
+    const w = e.target.closest("[data-st]");
+    if (w) {
+      state.st = w.dataset.st;
+      if (state.st && state.status === "missing") state.status = "all";
+      return update();
+    }
+    if (e.target.closest("[data-stream]")) { state.stream = state.stream ? "" : "1"; return update(); }
+    const k = e.target.closest("[data-kino]");
+    if (k) { state.kino = state.kino === k.dataset.kino ? "" : k.dataset.kino; update(); }
   });
 
   $("#layoutpick").addEventListener("click", (e) => {
     const b = e.target.closest("[data-layout]");
     if (!b) return;
     // lagre bare et valg som avviker fra standarden for utvalget
-    state.layout = b.dataset.layout === (state.src ? "rows" : "grid") ? "" : b.dataset.layout;
+    state.layout = b.dataset.layout === defaultLayout() ? "" : b.dataset.layout;
     update();
   });
 
@@ -1066,7 +1262,7 @@
     if (act) {
       // behold rullepos.: tegn på nytt og bla til samme sted
       const y = window.scrollY, had = shown;
-      toggleStatus(filmByTmdb.get(act.dataset.tmdb), act.dataset.act);
+      toggleStatus(byId.get(act.dataset.film), act.dataset.act);
       render();
       while (shown < had && shown < items.length) renderMore();
       window.scrollTo({ top: y });
@@ -1081,19 +1277,221 @@
     if (pool.length) openDetail(pool[Math.floor(Math.random() * pool.length)].id, true);
   });
 
-  // Købaren nederst (bare lokalt)
+  // Stripen nederst: køen (eier) eller påminnelse om backup (venn)
+  const changed = () => { applyChanges(); renderQueueBar(); render(); };
   $("#qbar").addEventListener("click", (e) => {
-    const b = e.target.closest("[data-q], [data-copy]");
+    const b = e.target.closest("[data-q]");
     if (!b) return;
-    if (b.dataset.copy) return copyButton(b);
-    const bar = $("#qbar");
-    if (b.dataset.q === "toggle") { bar.classList.toggle("open"); renderQueueBar(); }
-    else if (["save", "pick", "download"].includes(b.dataset.q)) writeQueueFile(b.dataset.q);
-    else if (b.dataset.q === "remove") { delete queue[b.dataset.tmdb]; saveQueueLocal(); applyQueue(); writeQueueFile("auto"); render(); }
-    else if (b.dataset.q === "clear") {
-      if (b.dataset.confirm) { queue = {}; saveQueueLocal(); applyQueue(); writeQueueFile("auto"); render(); }
-      else { b.dataset.confirm = "1"; b.textContent = "Sikker? Klikk igjen"; setTimeout(() => renderQueueBar(), 3000); }
+    if (b.dataset.q === "mydata") openMyData();
+    else if (b.dataset.q === "export") exportData();
+    else if (b.dataset.q === "snooze") { Store.setMeta("snoozeUntil", new Date(Date.now() + 3 * 864e5).toISOString()); renderQueueBar(); }
+  });
+
+  // ---------- Velkomst (venner, første besøk) ----------
+
+  const WELCOME_KEY = "langtagning-velkommen";
+  const isSafari = /^((?!chrome|android|crios|fxios|edg).)*safari/i.test(navigator.userAgent);
+  const safariTip = "Safari kan slette data for sider du ikke har besøkt på sju dager. Legg siden til på Hjem-skjermen (Del → Legg til på Hjem-skjerm), så får dataene være i fred.";
+  // Forslag til hvor man kan starte: Knuts utvalg, hovedlista (S&S) og nyeste TSPDT
+  const tspdtList = rankLists.filter((l) => /^tspdt/i.test(l.id)).sort((a, b) => b.year - a.year)[0] || null;
+  const startLinks = () => `<button class="btn-primary" data-goto="knut">Se Knuts utvalg</button>` +
+    [primaryList, tspdtList].filter((l, i, a) => l && a.indexOf(l) === i)
+      .map((l) => `<button class="btn-ghost" data-goto="${esc(l.id)}">${esc(l.short)}</button>`).join("");
+
+  function renderWelcome() {
+    const box = $("#welcome");
+    box.hidden = OWNER || !!state.src || lsGet(WELCOME_KEY) === "skjult";
+    if (box.hidden) return;
+    box.innerHTML = `
+      <button class="icon-btn close" data-welcome="hide" aria-label="Skjul">${ICON_X}</button>
+      <h2>Velkommen til Langtagning</h2>
+      <p>Dette er Knuts filmkartotek, med kritikernes kåringer og regissørenes filmografier. Du kan bruke det som ditt eget:
+        åpne en film og trykk <b>Sett</b>, <b>Vil se</b> eller <b>Eier</b>, og skriv gjerne egne tanker og tagger.
+        Filmene du markerer, samles i <b>Mitt utvalg</b>.</p>
+      <p>Alle utvalg kan vises som plakater eller som liste: bytt med knappene øverst til høyre (<b>▦ Plakater</b> og <b>☰ Liste</b>).
+        Listevisningen viser plasseringen i kåringene, og har knappene for å markere rett i lista.</p>
+      <p>Alt lagres bare i denne nettleseren. Ingen konto, og ingenting sendes noe sted. Last derfor ned en kopi av og til under
+        <button class="linklike" data-welcome="mydata">Mine data</button>, særlig før du bytter nettleser eller telefon.</p>
+      ${isSafari ? `<p class="welcome-tip">${safariTip}</p>` : ""}
+      <div class="welcome-actions">${startLinks()}<button class="btn-ghost" data-welcome="hide">Skjul</button></div>`;
+  }
+  $("#welcome").addEventListener("click", (e) => {
+    const g = e.target.closest("[data-goto]");
+    if (g) return gotoSrc(g.dataset.goto);
+    const w = e.target.closest("[data-welcome]");
+    if (!w) return;
+    if (w.dataset.welcome === "hide") { lsSet(WELCOME_KEY, "skjult"); renderWelcome(); }
+    else openMyData();
+  });
+
+  function emptyHTML() {
+    if (!src && !myFilms.length) {
+      return `<p class="empty-title">Du har ikke markert noen filmer ennå</p>
+        <p>Åpne en film og trykk <b>Sett</b>, <b>Vil se</b> eller <b>Eier</b>, så havner den her. Start gjerne her:</p>
+        <div class="welcome-actions">${startLinks()}</div>`;
     }
+    return '<p class="empty-title">Ingen filmer her</p><p>Prøv å fjerne et filter eller endre søket.</p>';
+  }
+  $("#empty").addEventListener("click", (e) => { const g = e.target.closest("[data-goto]"); if (g) gotoSrc(g.dataset.goto); });
+
+  // ---------- Mine data: eksport, import, sletting og eierflagg ----------
+
+  const mydata = $("#mydata");
+  let mdMsg = null;        // { kind: "ok" | "err", html }
+  let mdImport = null;     // fil som venter på valg: { obj, file }
+  let mdConfirm = "";      // "delete" | "owner"
+
+  function mdSummary() {
+    const s = Store.stats();
+    const last = s.lastExport ? `sist eksportert ${agoText(s.lastExport)}` : "aldri eksportert";
+    if (OWNER) {
+      return `${movies.length} filmer i movies.js · ${s.films ? `<b>${s.films}</b> ${s.films === 1 ? "endring" : "endringer"} ikke lagt inn` : "ingen endringer som venter"} · ${last}`;
+    }
+    return `${myFilms.length} ${myFilms.length === 1 ? "film" : "filmer"} i Mitt utvalg · ${last}`;
+  }
+
+  // Eier: endringene som ikke er lagt inn i movies.js, og kommandoen som legger dem inn
+  function pendingHTML() {
+    const what = (r) => [r.status && (statusWords(r.status) || "fjern status"), "note" in r && "tanker", r.tags && "tagger"].filter(Boolean).join(" · ");
+    const items = Store.all().sort((a, b) => (a.updated || "").localeCompare(b.updated || ""));
+    return `<ul class="md-pending">${items.map((r) => `<li><span>${esc(r.title || r.id)}${r.year ? ` <small>${r.year}</small>` : ""}</span><em>${esc(what(r))}</em><button class="icon-btn" data-md="remove" data-key="${esc(r.id)}" aria-label="Fjern endringen" title="Fjern endringen">${ICON_X}</button></li>`).join("")}</ul>
+      <div class="cmd"><span>Kjør så i Terminal:</span><code>python3 tools/langtagning.py queue</code><button class="copy" data-copy="python3 tools/langtagning.py queue">Kopier</button></div>`;
+  }
+
+  function renderMyData() {
+    const s = Store.stats();
+    const storeWarn = s.backend === "memory"
+      ? `<div class="md-msg err">Nettleseren tillater ikke lagring her (privat modus?). Det du markerer, forsvinner når fanen lukkes. Last ned en kopi før du går.</div>`
+      : s.backend === "local" ? `<div class="md-msg">Lagres i nettleserens enkle lager (localStorage), siden IndexedDB ikke er tilgjengelig.</div>` : "";
+    const imp = mdImport ? (() => {
+      const n = mdImport.obj.films.length, o = mdImport.obj;
+      const other = !!o.owner !== OWNER;
+      return `<div class="md-choice">
+        <p><b>${esc(mdImport.file)}</b>: ${n} ${n === 1 ? "film" : "filmer"}${o.name ? ` fra ${esc(o.name)}` : ""}${o.exported ? `, eksportert ${esc(o.exported.slice(0, 10))}` : ""}.</p>
+        ${other ? `<p class="md-note">Fila er laget ${o.owner ? "med" : "uten"} eierflagg, altså mot et annet grunnlag enn du bruker nå.</p>` : ""}
+        <div class="md-row">
+          <button class="btn-primary" data-md="merge">Slå sammen (nyeste vinner)</button>
+          <button class="btn-ghost" data-md="replace">Erstatt alt</button>
+          <button class="btn-ghost" data-md="cancel">Avbryt</button>
+        </div></div>`;
+    })() : "";
+    const unknown = unknownRecs.length ? `
+      <section class="md-sec">
+        <h2>Ukjente filmer</h2>
+        <p>Disse ${unknownRecs.length} filmene finnes ikke i katalogen lenger (eller ennå). De beholdes, og blir med i eksporten.</p>
+        <ul class="md-list">${unknownRecs.map((r) => `<li>${esc(r.title || r.id)}${r.year ? ` <small>${r.year}</small>` : ""}${r.status && statusWords(r.status) ? ` <em>${esc(statusWords(r.status))}</em>` : ""}</li>`).join("")}</ul>
+      </section>` : "";
+    const ownerSec = LOCAL_OWNER
+      ? `<p>Siden kjører lokalt og bruker alltid <code>movies.js</code> som grunnlag.</p>`
+      : FRIEND_TEST && !OWNER ? `<p>Testmodus (<code>?venn</code>): siden later som den ligger på nett, uten eierflagg, med egen database. Fjern <code>?venn</code> fra adressen for å gå tilbake.</p>`
+      : mdConfirm === "owner" ? `
+        <div class="md-choice">
+          <p>Du har ${s.films} ${s.films === 1 ? "endring" : "endringer"} gjort mot ${OWNER ? "movies.js" : "et tomt grunnlag"}. Hva skal skje med dem?</p>
+          <div class="md-row">
+            <button class="btn-primary" data-md="owner-export">Last ned, og bytt</button>
+            <button class="btn-ghost" data-md="owner-keep">Behold dem, og bytt</button>
+            <button class="btn-ghost" data-md="owner-delete">Slett dem, og bytt</button>
+            <button class="btn-ghost" data-md="cancel">Avbryt</button>
+          </div></div>`
+      : `<label class="md-switch"><input type="checkbox" data-md="owner"${OWNER ? " checked" : ""}> <span>Dette er min samling</span></label>
+        <p class="md-note">Bare for Knut: viser hele <code>movies.js</code> som Mitt utvalg, og samler endringene til <code>langtagning.py queue</code>.
+          Det er bare et visningsvalg i denne nettleseren.</p>`;
+    $("#mydata-body").innerHTML = `
+      <h1 id="mydata-title">Mine data</h1>
+      <p class="about-byline">${mdSummary()}</p>
+      ${storeWarn}
+      ${mdMsg ? `<div class="md-msg ${mdMsg.kind}" role="status">${mdMsg.html}</div>` : ""}
+      <section class="md-sec">
+        <h2>Eksporter</h2>
+        <p>${OWNER
+          ? "Laster ned endringene som ikke er lagt inn i movies.js. Fila havner i Nedlastinger, og <code>python3 tools/langtagning.py queue</code> finner den der."
+          : "Laster ned alt du har markert, som en fil. Den kan hentes inn igjen her, i hvilken som helst nettleser."}</p>
+        <div class="md-row">
+          ${OWNER ? "" : `<label class="md-name"><span>Navn i filnavnet</span><input id="md-name" type="text" value="${esc(Store.getMeta("name") || "")}" placeholder="f.eks. ola" autocomplete="off"></label>`}
+          <button class="btn-primary" data-md="export"${s.films ? "" : " disabled"}>Eksporter</button>
+        </div>
+        ${OWNER && s.films ? pendingHTML() : ""}
+      </section>
+      <section class="md-sec">
+        <h2>Importer</h2>
+        <p>Henter inn en eksportfil. Du velger om den skal slås sammen med det du har, eller erstatte alt.</p>
+        <input type="file" id="md-file" accept=".json,application/json" hidden>
+        ${imp || '<button class="btn-ghost" data-md="pick">Velg fil …</button>'}
+      </section>
+      ${unknown}
+      <section class="md-sec">
+        <h2>Slett alle mine data</h2>
+        ${mdConfirm === "delete" ? `
+          <div class="md-choice danger">
+            <p>Alt du har markert i denne nettleseren slettes${OWNER ? " (movies.js berøres ikke)" : ""}. Det kan ikke angres.</p>
+            <div class="md-row"><button class="btn-danger" data-md="delete-yes">Ja, slett alt</button><button class="btn-ghost" data-md="cancel">Avbryt</button></div>
+          </div>` : `<p>Fjerner status, tanker og tagger fra denne nettleseren.</p>
+          <button class="btn-ghost" data-md="delete"${s.films ? "" : " disabled"}>Slett …</button>`}
+      </section>
+      <section class="md-sec">
+        <h2>Eier</h2>
+        ${ownerSec}
+      </section>`;
+  }
+
+  function openMyData() {
+    mdMsg = null; mdImport = null; mdConfirm = "";
+    renderMyData();
+    if (!mydata.open) mydata.showModal();
+    $(".about-scroll", mydata).scrollTop = 0;
+  }
+  const mdChanged = () => { pruneStore(); changed(); renderMyData(); };
+  const setOwner = (on) => { lsSet(OWNER_KEY, on ? "1" : null); location.hash = ""; location.reload(); };
+
+  $("#mydata-open").addEventListener("click", openMyData);
+  mydata.addEventListener("click", (e) => {
+    if (e.target === mydata || e.target.closest("[data-close-mydata]")) return mydata.close();
+    const c = e.target.closest("[data-copy]");
+    if (c) return copyButton(c);
+    const b = e.target.closest("[data-md]");
+    if (!b || b.tagName === "INPUT") return;
+    const a = b.dataset.md;
+    if (a === "remove") { Store.remove(b.dataset.key); return mdChanged(); }
+    if (a === "export") { exportData(); mdMsg = { kind: "ok", html: "Fila er lastet ned ✓" }; renderMyData(); }
+    else if (a === "pick") $("#md-file").click();
+    else if (a === "merge" || a === "replace") {
+      try {
+        const r = Store.importJSON(mdImport.obj, a, storeKey);
+        const parts = [`${r.total} ${r.total === 1 ? "film" : "filmer"}`, `${r.added} nye`, `${r.updated} oppdatert`];
+        if (r.unknown) parts.push(`${r.unknown} ukjente`);
+        if (r.skipped) parts.push(`${r.skipped} hoppet over`);
+        mdMsg = { kind: "ok", html: `Importert: ${parts.join(", ")}.` };
+      } catch (err) { mdMsg = { kind: "err", html: esc(err.message) }; }
+      mdImport = null;
+      mdChanged();
+    }
+    else if (a === "cancel") { mdImport = null; mdConfirm = ""; renderMyData(); }
+    else if (a === "delete") { mdConfirm = "delete"; renderMyData(); }
+    else if (a === "delete-yes") { Store.clear(); mdConfirm = ""; mdMsg = { kind: "ok", html: "Alle dine data er slettet." }; mdChanged(); }
+    else if (a === "owner-export") { exportData(); Store.flush().then(() => setOwner(!OWNER)); }
+    else if (a === "owner-keep") setOwner(!OWNER);
+    else if (a === "owner-delete") { Store.clear(); Store.flush().then(() => setOwner(!OWNER)); }
+  });
+  mydata.addEventListener("change", (e) => {
+    if (e.target.dataset.md === "owner") {
+      if (Store.stats().films) { e.target.checked = OWNER; mdConfirm = "owner"; return renderMyData(); }
+      return setOwner(e.target.checked);
+    }
+    if (e.target.id === "md-name") Store.setMeta("name", e.target.value.trim());
+    if (e.target.id !== "md-file" || !e.target.files.length) return;
+    const file = e.target.files[0];
+    const reader = new FileReader();
+    reader.onload = () => {
+      let obj = null;
+      try { obj = JSON.parse(reader.result); } catch (err) { obj = null; }
+      if (!obj) mdMsg = { kind: "err", html: `«${esc(file.name)}» kunne ikke leses. Fila er ikke gyldig JSON – kanskje den er ødelagt eller ikke lastet ned helt.` };
+      else if (obj.format !== "langtagning-user" || !Array.isArray(obj.films)) mdMsg = { kind: "err", html: `«${esc(file.name)}» er ikke en eksportfil fra Langtagning.` };
+      else if ((obj.schema || 1) > 1) mdMsg = { kind: "err", html: `«${esc(file.name)}» er laget av en nyere versjon av Langtagning. Last siden på nytt og prøv igjen.` };
+      else { mdMsg = null; mdImport = { obj, file: file.name }; }
+      renderMyData();
+    };
+    reader.onerror = () => { mdMsg = { kind: "err", html: `Kunne ikke lese «${esc(file.name)}».` }; renderMyData(); };
+    reader.readAsText(file);
   });
 
   // «Om»-vinduet
@@ -1141,8 +1539,15 @@
   $("#theme").addEventListener("click", () => setTheme(root.dataset.theme === "light" ? "dark" : "light"));
 
   // ---------- Start ----------
-  state = readHash();
-  render();
-  renderQueueBar();
-  if (state.film) openDetail(state.film, false);
+  // Butikken (IndexedDB) leses asynkront – siden tegnes når endringene er lagt over grunnlaget
+  Store.init(FRIEND_TEST ? "-venn" : "").then(() => {
+    migrateOldQueue();
+    pruneStore();  // det som nå står likt i movies.js (eier), eller som er tomt, ryddes bort
+    applyChanges();
+    state = readHash();
+    if (ownerInHash) writeHash(false);
+    render();
+    renderQueueBar();
+    if (state.film) openDetail(state.film, false);
+  });
 })();

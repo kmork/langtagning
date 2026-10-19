@@ -804,6 +804,13 @@ button { cursor: pointer; }
 /* Detaljvisning: legg til i databasen */
 .addbox { margin-top: 24px; padding: 18px; border: 1px dashed var(--line-strong); border-radius: 12px; }
 .addbox p { margin: 0 0 12px; color: var(--text-dim); font-size: .9rem; }
+.md-pending { list-style: none; margin: 14px 0 4px; padding: 0; max-height: 40vh; overflow-y: auto; border-top: 1px solid var(--line); }
+.md-pending li { display: flex; align-items: center; gap: 12px; padding: 4px 0; border-bottom: 1px solid var(--line); font-size: .9rem; }
+.md-pending li span { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.md-pending li small { color: var(--text-faint); }
+.md-pending li em { font-style: normal; font-size: .8rem; color: var(--accent); }
+.md-pending .icon-btn { width: 30px; height: 30px; }
+.md-pending .icon-btn svg { width: 14px; height: 14px; }
 .cmd { display: grid; grid-template-columns: 9.5rem minmax(0, 1fr) auto; gap: 10px; align-items: center; margin-top: 8px; }
 .cmd span { font-size: .82rem; font-weight: 600; color: var(--text-dim); }
 .cmd code {
@@ -873,7 +880,7 @@ button { cursor: pointer; }
 
 .pill.queued { color: var(--accent); border-style: dashed; font-weight: 500; }
 
-/* Købaren */
+/* Stripen nederst: backup-påminnelse (venn) eller merke om endringer (eier) */
 .qbar {
   position: fixed;
   left: 50%;
@@ -890,22 +897,15 @@ button { cursor: pointer; }
 .qbar-inner { display: flex; align-items: center; gap: 12px 16px; padding: 10px 12px 10px 16px; flex-wrap: wrap; }
 .qbar-count { border: 0; background: none; padding: 0; font-family: var(--font-display); font-size: 1.05rem; color: var(--text); }
 .qbar-count strong { color: var(--accent); font-weight: 800; }
-.qbar-count span { font-size: .8rem; color: var(--text-faint); display: inline-block; transition: transform .2s; }
-.qbar.open .qbar-count span { transform: rotate(180deg); }
+.qbar-count span { font-size: .8rem; color: var(--text-faint); }
 .qbar-file { font-size: .8rem; color: var(--text-dim); flex: 1; min-width: 12rem; }
-.qbar-actions { display: flex; gap: 8px; margin-left: auto; }
+.qbar-actions { display: flex; gap: 8px; margin-left: auto; flex-wrap: wrap; }
 .qbar-actions button { padding: 7px 12px; font-size: .85rem; }
-.qbar-list { display: none; padding: 0 16px 14px; border-top: 1px solid var(--line); }
-.qbar.open .qbar-list { display: block; }
-.qbar-list ul { list-style: none; margin: 8px 0 4px; padding: 0; max-height: 40vh; overflow-y: auto; }
-.qbar-list li { display: flex; align-items: center; gap: 12px; padding: 4px 0; border-bottom: 1px solid var(--line); font-size: .9rem; }
-.qbar-list li span { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.qbar-list li small { color: var(--text-faint); }
-.qbar-list li em { font-style: normal; font-size: .8rem; color: var(--accent); }
-.qbar-list .icon-btn { width: 30px; height: 30px; }
-.qbar-list .icon-btn svg { width: 14px; height: 14px; }
-.qbar-list .cmd { grid-template-columns: auto minmax(0, 1fr) auto; }
-body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
+/* Eier: bare et lite merke nede til høyre, som åpner «Mine data» */
+.qbar.mini { left: auto; right: 16px; transform: none; width: auto; border-radius: 999px; }
+.qbar.mini .qbar-count { padding: 9px 16px; font-size: .95rem; cursor: pointer; }
+.qbar.mini .qbar-count:hover span { color: var(--accent); }
+body:has(.qbar:not([hidden]):not(.mini)) .layout { padding-bottom: 120px; }
 
 @media (max-width: 640px) {
   .lv-item.has-act { flex-wrap: wrap; }
@@ -936,8 +936,6 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
 .rk-key.annual { color: #d99ac4; }
 .rk-link { border: 0; background: none; padding: 0; color: inherit; text-align: left; cursor: pointer; }
 .rk-link:hover { color: var(--accent); }
-.qbar-err { color: #d0705f; }
-.qbar-actions { flex-wrap: wrap; }
 
 /* ---------- Omtale fra Cinemateket ---------- */
 .cine { margin-top: 22px; }
@@ -957,6 +955,38 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
 .cine .cine-src { font-size: .78rem; color: var(--text-faint); }
 .cine .cine-src a { color: var(--text-dim); }
 .extlink .cinemateket { background: #e2312c; color: #fff; }
+
+/* ---------- Cinemateket: vist der, og kommende visninger ---------- */
+/* Hver kino har sin farge: --kino (tekst), --kino-badge (merke på plakat), --kino-bg (valgt knapp) */
+:root { --cine: #f07a72; }
+:root[data-theme="light"] { --cine: #c4251f; }
+.k-cinemateket { --kino: var(--cine); --kino-badge: #ffb0a9; --kino-bg: #c4251f; }
+.k-vega { --kino: #b9a2f2; --kino-badge: #cdbcff; --kino-bg: #6a4bc4; }
+:root[data-theme="light"] .k-vega { --kino: #5b3db5; }
+.badge.kino { color: var(--kino-badge); border-color: color-mix(in srgb, var(--kino-bg) 75%, transparent); text-transform: none; letter-spacing: 0; }
+.badge.cine-was { color: #ffb0a9; padding: 2px 5px; }
+.mt.kino { color: var(--kino); border-color: color-mix(in srgb, var(--kino) 55%, transparent); }
+.mt.cine-was { color: var(--cine); }
+.tab.kino-toggle[aria-pressed="true"] { background: var(--kino-bg); border-color: var(--kino-bg); color: #fff; }
+.extlink .vega { background: #6a4bc4; color: #fff; }
+.cine-shows { margin: 18px 0 4px; }
+.cine-shows ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.cine-shows li {
+  display: grid; grid-template-columns: minmax(150px, auto) 1fr auto; align-items: center; gap: 4px 14px;
+  padding: 8px 0; border-bottom: 1px solid var(--line); font-size: .92rem;
+}
+.cine-shows .cs-when b { font-weight: 600; }
+.cine-shows .cs-where { color: var(--text-dim); font-size: .86rem; }
+.cine-shows .cs-buy {
+  padding: 4px 11px; border-radius: 999px; border: 1px solid var(--kino); color: var(--kino);
+  font-size: .8rem; font-weight: 600; text-decoration: none; white-space: nowrap;
+}
+.cine-shows .cs-buy:hover { background: var(--kino-bg); border-color: var(--kino-bg); color: #fff; }
+@media (max-width: 520px) {
+  .cine-shows li { grid-template-columns: 1fr auto; }
+  .cine-shows .cs-where { grid-column: 1; grid-row: 2; }
+  .cine-shows .cs-buy { grid-column: 2; grid-row: 1 / span 2; }
+}
 
 /* ---------- Filmoteket (strømming via biblioteket) ---------- */
 .badge.stream { color: #9fd3e0; }
@@ -1020,7 +1050,7 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
   max-width: 1600px;
   margin: 0 auto;
 }
-.toolbar .tabs { flex: 1; min-width: 0; padding: 0; margin: 0; max-width: none; }
+.toolbar .tabs { flex: 1; min-width: 0; padding: 0; margin: 0; max-width: none; flex-wrap: wrap; row-gap: 6px; }
 .srcpick { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .srcpick > span {
   font: 600 .72rem/1 var(--font-body);
@@ -1056,7 +1086,13 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
   background: none;
   color: var(--text-dim);
 }
-.layoutpick button svg { width: 17px; height: 17px; }
+.layoutpick button svg { width: 17px; height: 17px; flex-shrink: 0; }
+/* Tekst på knappene, så det er tydelig at visningen kan byttes (bare ikoner på smale skjermer) */
+.layoutpick button:has(span) { display: inline-flex; align-items: center; gap: 6px; width: auto; padding: 0 12px 0 9px; font-size: .84rem; font-weight: 500; }
+@media (max-width: 640px) {
+  .layoutpick button:has(span) { width: 34px; padding: 0; justify-content: center; }
+  .layoutpick button span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+}
 .layoutpick button[aria-pressed="true"] { background: var(--text); color: var(--bg); }
 .tab.stream-toggle[aria-pressed="true"] { background: #2b7a8c; border-color: #2b7a8c; color: #fff; }
 
@@ -1068,7 +1104,7 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
 
 @media (max-width: 640px) {
   .toolbar { flex-wrap: wrap; }
-  .toolbar .tabs { order: 3; flex-basis: 100%; }
+  .toolbar .tabs { order: 3; flex-basis: 100%; flex-wrap: nowrap; }  /* mobil: sveip sidelengs */
   .srcpick { flex: 1; min-width: 0; }
   .srcpick select { max-width: none; width: 100%; }
   .lv-list.no-rank .lv-row { grid-template-columns: 38px minmax(0, 1fr) 2.6rem; }
@@ -1127,3 +1163,132 @@ body:has(.qbar:not([hidden])) .layout { padding-bottom: 120px; }
 .mt.award { color: var(--accent); }
 .mt.award svg { width: 12px; height: 12px; }
 .mt.stream { color: #7cc4d6; }
+
+/* ==========================================================================
+   Personlige data: egne tanker og tagger, Knuts utvalg, Mine data, velkomst
+   ========================================================================== */
+
+/* Detaljvisning: dine egne felt */
+.mine { margin-top: 22px; }
+.mine .act-row { margin-bottom: 14px; }
+.mine .act { padding: 8px 14px; font-size: .88rem; }
+.note-edit { display: block; margin-top: 0; cursor: text; white-space: normal; }
+.note-edit:focus-within { background: color-mix(in srgb, var(--accent) 20%, transparent); }
+.note-edit textarea {
+  display: block;
+  width: 100%;
+  min-height: 2.2em;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--text);
+  font: inherit;
+  line-height: inherit;
+  resize: none;
+  overflow: hidden;
+  outline: none;
+}
+.note-edit textarea::placeholder { color: var(--text-faint); font-style: italic; }
+.tagedit { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 12px; }
+.tagedit-label { font: 600 .7rem/1 var(--font-body); letter-spacing: .12em; text-transform: uppercase; color: var(--text-faint); margin-right: 4px; }
+.tagchip {
+  display: inline-flex; align-items: center; gap: 2px;
+  padding: 2px 4px 2px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  font-size: .85rem;
+}
+.tag-x {
+  width: 22px; height: 22px;
+  border: 0; border-radius: 50%;
+  background: none;
+  color: var(--text-faint);
+  font-size: 1rem; line-height: 1;
+}
+.tag-x:hover { color: var(--text); background: var(--bg-elev-2); }
+.tagedit input {
+  flex: 1; min-width: 9rem; max-width: 16rem;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px dashed var(--line-strong);
+  background: transparent;
+  color: var(--text);
+  font: inherit; font-size: .85rem;
+}
+.tagedit input:focus { outline: none; border-style: solid; border-color: var(--accent); }
+.mine-hint { margin: 12px 0 0; font-size: .82rem; color: var(--text-faint); }
+.mine-hint code { font: .76rem ui-monospace, "SF Mono", Menlo, monospace; background: var(--bg-elev-2); padding: 1px 6px; border-radius: 4px; }
+
+/* Knuts status og tanker (for venner) */
+.knut-note { border-left-color: var(--line-strong); background: var(--bg-elev-2); }
+.knut-note .note-label { color: var(--text-dim); }
+.badge.knut { color: #d8cbb8; text-transform: none; letter-spacing: 0; }
+.mt.knut { color: var(--text); border-style: dashed; }
+
+/* «Filtrer på: Mine / Knuts» i Knuts utvalg */
+.whose { display: inline-flex; align-items: center; gap: 2px; padding: 3px; border-radius: 999px; border: 1px solid var(--line-strong); flex-shrink: 0; }
+.whose > span { padding: 0 6px 0 8px; font-size: .78rem; color: var(--text-faint); white-space: nowrap; }
+.whose button { padding: 4px 11px; border: 0; border-radius: 999px; background: none; color: var(--text-dim); font-size: .85rem; font-weight: 500; }
+.whose button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+
+/* Velkomst (venner, første besøk) */
+.welcome {
+  position: relative;
+  max-width: 760px;
+  margin: 0 0 22px;
+  padding: 22px 24px 20px;
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--line-strong));
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--accent-soft), transparent 70%);
+}
+.welcome h2 { margin: 0 0 10px; padding-right: 36px; font-family: var(--font-display); font-weight: 800; font-size: 1.45rem; }
+.welcome p { margin: 0 0 12px; font-family: var(--font-read); font-size: 1.02rem; line-height: 1.65; }
+.welcome .linklike { font: inherit; }
+.welcome .close { position: absolute; top: 10px; right: 10px; width: 32px; height: 32px; color: var(--text-dim); }
+.welcome .close svg { width: 15px; height: 15px; }
+.welcome-tip { font-size: .92rem !important; color: var(--text-dim); }
+.welcome-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.empty .welcome-actions { justify-content: center; margin-top: 18px; }
+
+/* Mine data */
+.mydata h2 {
+  margin: 0 0 6px;
+  font: 600 .72rem/1 var(--font-body);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.mydata .about-byline { font-style: normal; }
+.mydata p { font-family: var(--font-body); font-size: .95rem; line-height: 1.6; margin: 0 0 12px; color: var(--text-dim); }
+.mydata .about-byline { color: var(--text-dim); }
+.mydata code { font: .8rem ui-monospace, "SF Mono", Menlo, monospace; background: var(--bg-elev-2); padding: 1px 6px; border-radius: 4px; }
+.md-sec { padding: 20px 0; border-top: 1px solid var(--line); }
+.md-row { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 8px; }
+.md-row button[disabled], .md-sec > button[disabled] { opacity: .45; cursor: not-allowed; }
+.md-name { display: flex; flex-direction: column; gap: 4px; font-size: .78rem; color: var(--text-faint); }
+.md-name input {
+  width: 12rem;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--line-strong);
+  background: var(--bg);
+  color: var(--text);
+  font: inherit; font-size: .9rem;
+}
+.md-msg { margin: 0 0 16px; padding: 10px 14px; border-radius: 8px; background: var(--bg-elev-2); font-size: .9rem; }
+.md-msg.ok { border-left: 3px solid var(--seen); }
+.md-msg.err { border-left: 3px solid var(--red); }
+.md-choice { padding: 14px 16px; border-radius: 10px; border: 1px dashed var(--line-strong); }
+.md-choice p { color: var(--text); }
+.md-choice.danger { border-color: var(--red); }
+.md-note { font-size: .85rem !important; }
+.md-list { margin: 0; padding: 0; list-style: none; max-height: 30vh; overflow-y: auto; font-size: .9rem; }
+.md-list li { padding: 4px 0; border-bottom: 1px solid var(--line); }
+.md-list small { color: var(--text-faint); }
+.md-list em { font-style: normal; font-size: .8rem; color: var(--accent); }
+.md-switch { display: inline-flex; align-items: center; gap: 10px; font-weight: 600; cursor: pointer; margin-bottom: 8px; }
+.md-switch input { width: 18px; height: 18px; accent-color: var(--accent); }
+.btn-danger { padding: 9px 14px; border-radius: 8px; border: 0; background: var(--red); color: #fff; font-weight: 600; font-size: .9rem; }
+
+/* Om: «Dine data» */
+.about:not(.mydata) h2 { margin: 30px 0 12px; font-family: var(--font-display); font-weight: 800; font-size: 1.3rem; }
