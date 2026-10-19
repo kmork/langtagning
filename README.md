@@ -253,17 +253,17 @@ Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten 
 ved statusknappene. Lenkene (`data/filmoteket.js`) kan publiseres.
 Kjør kommandoen av og til, for utvalget på Filmoteket endrer seg.
 
-## Netflix, Disney+, HBO Max, NRK TV og TV 2 Play
+## Netflix, Disney+, HBO Max, NRK TV, TV 2 Play og Viaplay
 
 ```sh
 python3 tools/langtagning.py streaming
 ```
 
 Sjekker hvilke filmer på siden – dine, kåringene, regissørenes filmografier og kinoprogrammene – som kan sees
-på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play **i Norge** (abonnement eller gratis, ikke leie/kjøp; TMDB-nøkkelen
+på Netflix, Disney+, HBO Max, NRK TV, TV 2 Play og Viaplay **i Norge** (abonnement eller gratis, ikke leie/kjøp; TMDB-nøkkelen
 holder, og dataene kommer fra JustWatch). Den henter hele katalogen til hver tjeneste og kontrollerer treffene film
-for film. Det tar 3–4 minutter, og til slutt skrives «vil se»-filmene dine som kan strømmes nå. Siden viser tjenesten
-som merke på plakaten og i lista, lenke i detaljvisningen, og filmene kommer med under «▶ Strømming». Flere tjenester (Prime Video, Viaplay, MUBI …)
+for film. Det tar 4–5 minutter, og til slutt skrives «vil se»-filmene dine som kan strømmes nå. Siden viser tjenesten
+som merke på plakaten og i lista, lenke i detaljvisningen, og filmene kommer med under «▶ Strømming». Flere tjenester (Prime Video, Strim, MUBI …)
 legger du til i `STREAM_SERVICES` i `tools/langtagning.py`. Katalogene endrer seg ofte, så kjør den jevnlig.
 
 Under **Mine data → Strømmetjenester** krysser du av for tjenestene du har (Filmoteket er med i lista).
@@ -348,7 +348,7 @@ Navigasjonen har tre nivåer, og alle kan kombineres:
 1. **Vis:** *Mitt utvalg* (filmene du har tatt stilling til) eller en liste kuratert av andre
    (Sight and Sound, TSPDT, Cahiers, Kultfilmer …). I en liste ser du alle filmene på lista, også dem du ikke har registrert.
 2. **Status:** Alle · Sett · Ikke sett · Vil se · Eier (og *Ikke registrert* i lister), pluss på/av-knappen
-   **▶ Strømming** (Filmoteket, Netflix, Disney+, HBO Max, NRK TV, TV 2 Play) og **🎬 På kino** (Cinemateket og Vega Scene).
+   **▶ Strømming** (Filmoteket, Netflix, Disney+, HBO Max, NRK TV, TV 2 Play, Viaplay) og **🎬 På kino** (Cinemateket og Vega Scene).
 3. **Filtre** i sidepanelet: regissør, land, priser, «også på liste», tiår, skuespiller, tagger og søk.
 
 Eksempel: *Vis: TSPDT* + *Ikke sett* + *Regissør: Fellini* gir Fellini-klassikerne du mangler.

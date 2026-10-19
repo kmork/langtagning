@@ -12,11 +12,29 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1004663-all-the-beauty-and-the-bloodshed/watch?locale=NO"
 },
+"10047": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/10047-joan-of-arc/watch?locale=NO"
+},
+"101": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/101-leon/watch?locale=NO"
+},
 "10144": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/10144-the-little-mermaid/watch?locale=NO"
+},
+"1018": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/1018-mulholland-drive/watch?locale=NO"
 },
 "10193": {
 "s": [
@@ -54,11 +72,29 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/10340-lady-and-the-tramp/watch?locale=NO"
 },
+"103663": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/103663-jagten/watch?locale=NO"
+},
+"105": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/105-back-to-the-future/watch?locale=NO"
+},
 "1051": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/1051-the-french-connection/watch?locale=NO"
+},
+"10528": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/10528-sherlock-holmes/watch?locale=NO"
 },
 "1054867": {
 "s": [
@@ -81,9 +117,16 @@ window.LANGTAGNING_STREAMING = {
 "1064307": {
 "s": [
 "HBO Max",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/1064307-spermageddon/watch?locale=NO"
+},
+"106646": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/106646-the-wolf-of-wall-street/watch?locale=NO"
 },
 "10681": {
 "s": [
@@ -115,6 +158,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/10882-sleeping-beauty/watch?locale=NO"
 },
+"1089": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/1089-point-break/watch?locale=NO"
+},
 "10895": {
 "s": [
 "Disney+"
@@ -126,6 +175,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/109091-the-counselor/watch?locale=NO"
+},
+"109099": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/109099-passion/watch?locale=NO"
 },
 "10910": {
 "s": [
@@ -144,6 +199,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/109333-toby-tortoise-returns/watch?locale=NO"
+},
+"109421": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/109421-side-effects/watch?locale=NO"
 },
 "109485": {
 "s": [
@@ -175,6 +236,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1117051-rekorden/watch?locale=NO"
 },
+"112205": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/112205-the-family/watch?locale=NO"
+},
 "11224": {
 "s": [
 "Disney+"
@@ -193,6 +260,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1124566-affeksjonsverdi/watch?locale=NO"
 },
+"11286": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/11286-the-cannonball-run/watch?locale=NO"
+},
 "11360": {
 "s": [
 "Disney+"
@@ -204,6 +277,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/11475-leningrad-cowboys-go-america/watch?locale=NO"
+},
+"115": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/115-the-big-lebowski/watch?locale=NO"
 },
 "11506": {
 "s": [
@@ -345,7 +424,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "122917": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/122917-the-hobbit-the-battle-of-the-five-armies/watch?locale=NO"
 },
@@ -354,6 +434,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/12477/watch?locale=NO"
+},
+"126250": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/126250-den-skaldede-frisor/watch?locale=NO"
 },
 "126889": {
 "s": [
@@ -392,6 +478,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1290159-a-house-of-dynamite/watch?locale=NO"
 },
+"1299655": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/1299655-blue-moon/watch?locale=NO"
+},
 "13": {
 "s": [
 "TV 2 Play"
@@ -401,7 +493,8 @@ window.LANGTAGNING_STREAMING = {
 "13310": {
 "s": [
 "Netflix",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/13310-lat-den-ratte-komma-in/watch?locale=NO"
 },
@@ -483,6 +576,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1451867-ghost-elephants/watch?locale=NO"
 },
+"146233": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/146233-prisoners/watch?locale=NO"
+},
 "147441": {
 "s": [
 "Disney+"
@@ -531,6 +630,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/15121-the-sound-of-music/watch?locale=NO"
 },
+"153": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/153-lost-in-translation/watch?locale=NO"
+},
 "1541": {
 "s": [
 "TV 2 Play"
@@ -545,7 +650,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "155": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=NO"
 },
@@ -563,7 +669,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "157336": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/157336-interstellar/watch?locale=NO"
 },
@@ -604,6 +711,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/1665-last-days/watch?locale=NO"
 },
+"16869": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=NO"
+},
 "17077": {
 "s": [
 "TV 2 Play"
@@ -622,11 +735,23 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/174274-camping-out/watch?locale=NO"
 },
+"17578": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/17578-the-adventures-of-tintin/watch?locale=NO"
+},
 "17979": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/17979-a-christmas-carol/watch?locale=NO"
+},
+"18": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/18-le-cinquieme-element/watch?locale=NO"
 },
 "1807": {
 "s": [
@@ -648,7 +773,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "184": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/184-jackie-brown/watch?locale=NO"
 },
@@ -666,7 +792,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "18908": {
 "s": [
-"Netflix"
+"Netflix",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/18908-den-eneste-ene/watch?locale=NO"
 },
@@ -684,7 +811,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "194": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/194-le-fabuleux-destin-d-amelie-poulain/watch?locale=NO"
 },
@@ -693,6 +821,18 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/1949-zodiac/watch?locale=NO"
+},
+"1991": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/1991-death-proof/watch?locale=NO"
+},
+"1992": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/1992-planet-terror/watch?locale=NO"
 },
 "19995": {
 "s": [
@@ -712,9 +852,16 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/20213-the-manxman/watch?locale=NO"
 },
+"203801": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/203801-the-man-from-u-n-c-l-e/watch?locale=NO"
+},
 "20662": {
 "s": [
-"Netflix"
+"Netflix",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/20662-robin-hood/watch?locale=NO"
 },
@@ -763,7 +910,8 @@ window.LANGTAGNING_STREAMING = {
 "24": {
 "s": [
 "Netflix",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/24-kill-bill-vol-1/watch?locale=NO"
 },
@@ -773,9 +921,16 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/24328-tokyo-mater/watch?locale=NO"
 },
+"245891": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=NO"
+},
 "2493": {
 "s": [
-"Disney+"
+"Disney+",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/2493-the-princess-bride/watch?locale=NO"
 },
@@ -815,11 +970,23 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/26372-skammen/watch?locale=NO"
 },
+"2649": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/2649-the-game/watch?locale=NO"
+},
 "2655": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/2655-what-lies-beneath/watch?locale=NO"
+},
+"267935": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/267935-the-bfg/watch?locale=NO"
 },
 "268": {
 "s": [
@@ -835,22 +1002,31 @@ window.LANGTAGNING_STREAMING = {
 },
 "272": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=NO"
 },
 "273248": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NO"
 },
 "273481": {
 "s": [
 "Netflix",
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/273481-sicario/watch?locale=NO"
+},
+"274": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/274-the-silence-of-the-lambs/watch?locale=NO"
 },
 "27419": {
 "s": [
@@ -869,6 +1045,18 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/2756-the-abyss/watch?locale=NO"
+},
+"278": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/278-the-shawshank-redemption/watch?locale=NO"
+},
+"28": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/28-apocalypse-now/watch?locale=NO"
 },
 "2800": {
 "s": [
@@ -969,7 +1157,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "3131": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/3131-gangs-of-new-york/watch?locale=NO"
 },
@@ -993,7 +1182,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "329": {
 "s": [
-"Disney+"
+"Disney+",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/329-jurassic-park/watch?locale=NO"
 },
@@ -1005,7 +1195,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "330": {
 "s": [
-"Disney+"
+"Disney+",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/330-the-lost-world-jurassic-park/watch?locale=NO"
 },
@@ -1045,6 +1236,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/34866-mafioso/watch?locale=NO"
+},
+"3549": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/3549-efter-brylluppet/watch?locale=NO"
 },
 "35832": {
 "s": [
@@ -1142,6 +1339,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/372782/watch?locale=NO"
 },
+"374331": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/374331-solan-og-ludvig-herfra-til-flaklypa/watch?locale=NO"
+},
 "374720": {
 "s": [
 "Netflix"
@@ -1175,7 +1378,8 @@ window.LANGTAGNING_STREAMING = {
 "393": {
 "s": [
 "Netflix",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/393-kill-bill-vol-2/watch?locale=NO"
 },
@@ -1203,6 +1407,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/399055-the-shape-of-water/watch?locale=NO"
+},
+"399057": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/399057-the-killing-of-a-sacred-deer/watch?locale=NO"
 },
 "399174": {
 "s": [
@@ -1283,6 +1493,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/422791-snekker-andersen-og-julenissen/watch?locale=NO"
 },
+"423": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/423-the-pianist/watch?locale=NO"
+},
 "42488": {
 "s": [
 "TV 2 Play"
@@ -1301,9 +1517,16 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/429199-toivon-tuolla-puolen/watch?locale=NO"
 },
+"429200": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/429200-good-time/watch?locale=NO"
+},
 "429458": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/429458-dyrene-i-hakkebakkeskogen/watch?locale=NO"
 },
@@ -1333,21 +1556,41 @@ window.LANGTAGNING_STREAMING = {
 },
 "4421": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/4421-g-i-jane/watch?locale=NO"
 },
+"444101": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/444101-manelyst-i-flaklypa/watch?locale=NO"
+},
 "446354": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/446354-the-post/watch?locale=NO"
+},
+"44716": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/44716-haevnen/watch?locale=NO"
 },
 "4538": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/4538-the-darjeeling-limited/watch?locale=NO"
+},
+"4547": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/4547-panic-room/watch?locale=NO"
 },
 "46096": {
 "s": [
@@ -1363,7 +1606,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "466272": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/466272-once-upon-a-time-in-hollywood/watch?locale=NO"
 },
@@ -1391,6 +1635,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/47473-sommarlek/watch?locale=NO"
 },
+"475303": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/475303-a-rainy-day-in-new-york/watch?locale=NO"
+},
 "475557": {
 "s": [
 "HBO Max"
@@ -1402,6 +1652,12 @@ window.LANGTAGNING_STREAMING = {
 "TV 2 Play"
 ],
 "url": "https://www.themoviedb.org/movie/47735-sommaren-med-monika/watch?locale=NO"
+},
+"484641": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/484641-anna/watch?locale=NO"
 },
 "48500": {
 "s": [
@@ -1429,13 +1685,21 @@ window.LANGTAGNING_STREAMING = {
 },
 "49026": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=NO"
 },
+"49047": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/49047-gravity/watch?locale=NO"
+},
 "49051": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/watch?locale=NO"
 },
@@ -1450,6 +1714,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/4922-the-curious-case-of-benjamin-button/watch?locale=NO"
+},
+"4944": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/4944-burn-after-reading/watch?locale=NO"
 },
 "49529": {
 "s": [
@@ -1479,7 +1749,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "500": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=NO"
 },
@@ -1537,11 +1808,29 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/517909-the-laundromat/watch?locale=NO"
 },
+"522627": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/522627-the-gentlemen/watch?locale=NO"
+},
 "52482": {
 "s": [
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/52482-elmer-elephant/watch?locale=NO"
+},
+"525": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/525-the-blues-brothers/watch?locale=NO"
+},
+"5255": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/5255-the-polar-express/watch?locale=NO"
 },
 "52705": {
 "s": [
@@ -1597,6 +1886,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/542178-the-french-dispatch-of-the-liberty-kansas-evening-sun/watch?locale=NO"
 },
+"545611": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once/watch?locale=NO"
+},
 "54663": {
 "s": [
 "NRK TV"
@@ -1642,7 +1937,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "57158": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/57158-the-hobbit-the-desolation-of-smaug/watch?locale=NO"
 },
@@ -1658,10 +1954,17 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/574638-rolling-thunder-revue-a-bob-dylan-story-by-martin-scorsese/watch?locale=NO"
 },
+"578": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NO"
+},
 "580175": {
 "s": [
 "Netflix",
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/580175-druk/watch?locale=NO"
 },
@@ -1694,6 +1997,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/58527-the-olympic-champ/watch?locale=NO"
+},
+"58574": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/58574-sherlock-holmes-a-game-of-shadows/watch?locale=NO"
 },
 "59336": {
 "s": [
@@ -1732,17 +2041,41 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=NO"
 },
+"600": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=NO"
+},
 "600583": {
 "s": [
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/600583-the-power-of-the-dog/watch?locale=NO"
 },
+"601": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/601-e-t-the-extra-terrestrial/watch?locale=NO"
+},
+"606149": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/606149-kaptein-sabeltann-og-den-magiske-diamant/watch?locale=NO"
+},
 "610120": {
 "s": [
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/610120-anima/watch?locale=NO"
+},
+"6114": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/6114-bram-stoker-s-dracula/watch?locale=NO"
 },
 "614560": {
 "s": [
@@ -1761,6 +2094,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/617653-the-last-duel/watch?locale=NO"
+},
+"620": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/620-ghostbusters/watch?locale=NO"
 },
 "621749": {
 "s": [
@@ -1836,7 +2175,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "65754": {
 "s": [
-"HBO Max"
+"HBO Max",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo/watch?locale=NO"
 },
@@ -2005,6 +2345,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/679-aliens/watch?locale=NO"
 },
+"680": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/680-pulp-fiction/watch?locale=NO"
+},
 "68489": {
 "s": [
 "Disney+"
@@ -2025,7 +2371,8 @@ window.LANGTAGNING_STREAMING = {
 },
 "68718": {
 "s": [
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/68718-django-unchained/watch?locale=NO"
 },
@@ -2034,6 +2381,12 @@ window.LANGTAGNING_STREAMING = {
 "HBO Max"
 ],
 "url": "https://www.themoviedb.org/movie/693134-dune-part-two/watch?locale=NO"
+},
+"694": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=NO"
 },
 "6947": {
 "s": [
@@ -2052,6 +2405,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/696506-mickey-17/watch?locale=NO"
+},
+"70435": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/70435-haywire/watch?locale=NO"
 },
 "705996": {
 "s": [
@@ -2117,7 +2476,8 @@ window.LANGTAGNING_STREAMING = {
 "739405": {
 "s": [
 "HBO Max",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/739405-operation-fortune-ruse-de-guerre/watch?locale=NO"
 },
@@ -2133,6 +2493,12 @@ window.LANGTAGNING_STREAMING = {
 "NRK TV"
 ],
 "url": "https://www.themoviedb.org/movie/74295-rikos-ja-rangaistus/watch?locale=NO"
+},
+"747": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/747-shaun-of-the-dead/watch?locale=NO"
 },
 "754": {
 "s": [
@@ -2164,6 +2530,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/76600-avatar-the-way-of-water/watch?locale=NO"
 },
+"769": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=NO"
+},
 "790493": {
 "s": [
 "Netflix"
@@ -2194,6 +2566,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/7975-i-hired-a-contract-killer/watch?locale=NO"
 },
+"799583": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/799583-the-ministry-of-ungentlemanly-warfare/watch?locale=NO"
+},
 "800158": {
 "s": [
 "Netflix"
@@ -2212,6 +2590,18 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=NO"
 },
+"804095": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/804095-the-fabelmans/watch?locale=NO"
+},
+"8051": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/8051-punch-drunk-love/watch?locale=NO"
+},
 "8054": {
 "s": [
 "Netflix"
@@ -2223,6 +2613,12 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/8068-desperado/watch?locale=NO"
+},
+"807": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/807-se7en/watch?locale=NO"
 },
 "8077": {
 "s": [
@@ -2275,6 +2671,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/826-the-bridge-on-the-river-kwai/watch?locale=NO"
 },
+"8293": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/8293-howards-end/watch?locale=NO"
+},
 "83533": {
 "s": [
 "Disney+"
@@ -2305,6 +2707,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/853088-happier-than-ever-a-love-letter-to-los-angeles/watch?locale=NO"
 },
+"855": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/855-black-hawk-down/watch?locale=NO"
+},
 "856": {
 "s": [
 "Disney+"
@@ -2328,6 +2736,12 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/863-toy-story-2/watch?locale=NO"
+},
+"8665": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/8665-k-19-the-widowmaker/watch?locale=NO"
 },
 "86825": {
 "s": [
@@ -2382,7 +2796,8 @@ window.LANGTAGNING_STREAMING = {
 "882569": {
 "s": [
 "HBO Max",
-"TV 2 Play"
+"TV 2 Play",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/882569-guy-ritchie-s-the-covenant/watch?locale=NO"
 },
@@ -2401,7 +2816,8 @@ window.LANGTAGNING_STREAMING = {
 "8961": {
 "s": [
 "Netflix",
-"Disney+"
+"Disney+",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/8961-bad-boys-ii/watch?locale=NO"
 },
@@ -2483,6 +2899,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/9383-hollow-man/watch?locale=NO"
 },
+"940139": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/940139-here/watch?locale=NO"
+},
 "9410": {
 "s": [
 "Disney+"
@@ -2500,6 +2922,18 @@ window.LANGTAGNING_STREAMING = {
 "Disney+"
 ],
 "url": "https://www.themoviedb.org/movie/9428-the-royal-tenenbaums/watch?locale=NO"
+},
+"944401": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/944401-dogman/watch?locale=NO"
+},
+"947507": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/947507-helt-super/watch?locale=NO"
 },
 "9479": {
 "s": [
@@ -2537,6 +2971,12 @@ window.LANGTAGNING_STREAMING = {
 ],
 "url": "https://www.themoviedb.org/movie/955-mission-impossible-ii/watch?locale=NO"
 },
+"957304": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/957304-drive-away-dolls/watch?locale=NO"
+},
 "9646": {
 "s": [
 "TV 2 Play"
@@ -2564,9 +3004,16 @@ window.LANGTAGNING_STREAMING = {
 "9737": {
 "s": [
 "Netflix",
-"Disney+"
+"Disney+",
+"Viaplay"
 ],
 "url": "https://www.themoviedb.org/movie/9737-bad-boys/watch?locale=NO"
+},
+"975225": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/975225-spinal-tap-ii-the-end-continues/watch?locale=NO"
 },
 "9802": {
 "s": [
@@ -2585,5 +3032,11 @@ window.LANGTAGNING_STREAMING = {
 "Netflix"
 ],
 "url": "https://www.themoviedb.org/movie/9944-the-pelican-brief/watch?locale=NO"
+},
+"9952": {
+"s": [
+"Viaplay"
+],
+"url": "https://www.themoviedb.org/movie/9952-rescue-dawn/watch?locale=NO"
 }
 };

@@ -1349,8 +1349,9 @@ def cmd_filmoteket(a):
 
 # ---------------------------------------------------------------- Strømmetjenester (TMDB, data fra JustWatch)
 # Tjenestenavn → TMDB-ids for Norge (se /watch/providers/movie?watch_region=NO). Legg til flere ved behov,
-# f.eks. "Prime Video": {119}, "Viaplay": {76}, "SkyShowtime": {1773}, "MUBI": {11}.
-STREAM_SERVICES = {"Netflix": {8, 175, 1796}, "Disney+": {337}, "HBO Max": {1899, 384}, "NRK TV": {442}, "TV 2 Play": {431}}
+# f.eks. "Prime Video": {119}, "Strim": {578}, "SkyShowtime": {1773}, "MUBI": {11}.
+STREAM_SERVICES = {"Netflix": {8, 175, 1796}, "Disney+": {337}, "HBO Max": {1899, 384}, "NRK TV": {442}, "TV 2 Play": {431},
+                   "Viaplay": {76}}
 STREAM_LINKS = os.path.join(ROOT, "data", "streaming.js")
 
 
@@ -1938,7 +1939,7 @@ def main():
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_filmoteket)
 
-    s = sub.add_parser("streaming", aliases=["strømming"], help="finn filmene dine på Netflix, Disney+, HBO Max, NRK TV og TV 2 Play (Norge)")
+    s = sub.add_parser("streaming", aliases=["strømming"], help="finn filmene dine på Netflix, Disney+, HBO Max, NRK TV, TV 2 Play og Viaplay (Norge)")
     s.set_defaults(fn=cmd_streaming)
 
     s = sub.add_parser("wikidata", help="hent Roger Ebert- og Criterion-lenker og Criterion-lista fra Wikidata")
