@@ -9,7 +9,7 @@ css/style.css         utseende
 js/app.js             filtrering, søk og detaljvisning
 js/store.js           lagring av personlige data i nettleseren (status, tanker, tagger)
 data/movies.js        DATABASEN (redigeres for hånd eller med skriptet)
-posters/              plakater og bakgrunnsbilder (lastes ned automatisk)
+posters/              plakater og bakgrunnsbilder (lastes ned automatisk, brukes bare lokalt)
 tools/langtagning.py   hjelpeskript som henter data fra TMDB
 ```
 
@@ -193,6 +193,9 @@ så id, så tittel og år. Ukjente filmer beholdes, og listes under «Ukjente fi
 ### Opplasting
 
 Last opp som før, pluss `js/store.js`. Last **aldri** opp `data/cinemateket.js`, `tools/`, `todo/` eller `filmer/`.
+
+`posters/` trenger ikke lastes opp. På nett henter siden plakatene rett fra TMDB (`poster_url`/`backdrop_url` i
+`movies.js`, som `add`, `import`, `queue` og `sync` fyller ut), mens lokalt brukes filene i `posters/`.
 
 ## Omtaler fra Cinemateket
 

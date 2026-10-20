@@ -53,10 +53,15 @@
   // ---------- Normaliser data ----------
 
   const arr = (v) => (Array.isArray(v) ? v.filter(Boolean) : v ? [v] : []);
+  // Kjøres siden lokalt (fil eller localhost)? Da brukes plakatene i posters/, på nett hentes de fra TMDB.
+  const LOCAL = location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
+
   const movies = window.LANGTAGNING.map((m, i) => {
     const status = m.status || {};
     const movie = {
       ...m,
+      poster: (!LOCAL && m.poster_url) || m.poster,
+      backdrop: (!LOCAL && m.backdrop_url) || m.backdrop,
       id: m.id || slug(`${m.title}-${m.year || ""}`) || `film-${i}`,
       directors: arr(m.directors),
       countries: arr(m.countries),
@@ -218,7 +223,6 @@
   // Eier (lokalt, eller eierflagg online): grunnlaget er movies.js, og butikken holder det som ikke er lagt inn ennå.
   // Venn: grunnlaget er tomt, og butikken holder alt vennen har markert. Knuts data ligger i f.knut.
 
-  const LOCAL = location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
   const Store = window.LangtagningStore;
   const lsGet = (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } };
   const lsSet = (k, v) => { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) { /* ikke tilgjengelig */ } };

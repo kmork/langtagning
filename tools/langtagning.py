@@ -52,7 +52,7 @@ DEFAULT_HEADER = """// Langtagning – databasen.
 # Rekkefølgen feltene skrives i
 FIELDS = [
     "id", "tmdb_id", "imdb_id", "title", "original_title", "year", "directors", "countries",
-    "runtime", "cast", "awards", "overview", "poster", "backdrop", "status", "tags",
+    "runtime", "cast", "awards", "overview", "poster", "backdrop", "poster_url", "backdrop_url", "status", "tags",
     "description", "links", "added",
 ]
 PERSONAL = {"id", "status", "tags", "description", "links", "added", "awards"}
@@ -297,6 +297,13 @@ def apply_details(movie, d, force_images=False):
     tid = d["tmdb_id"]
     movie["poster"] = download(d["_poster_path"], "w500", f"{tid}.jpg", force_images) or movie.get("poster")
     movie["backdrop"] = download(d["_backdrop_path"], "w1280", f"{tid}-bg.jpg", force_images) or movie.get("backdrop")
+    set_image_urls(movie, d)
+
+
+def set_image_urls(movie, d):
+    # Samme bilder rett fra TMDB: nettversjonen bruker disse, så posters/ aldri må lastes opp (lokalt brukes filene)
+    movie["poster_url"] = f"{IMG}/w500{d['_poster_path']}" if d.get("_poster_path") else None
+    movie["backdrop_url"] = f"{IMG}/w1280{d['_backdrop_path']}" if d.get("_backdrop_path") else None
 
 
 def find_by_imdb(imdb_id):
@@ -573,6 +580,16 @@ def cmd_sync(a):
         tid = m.get("tmdb_id")
         missing_img = not m.get("poster") or not os.path.exists(os.path.join(ROOT, m["poster"]))
         if tid and not a.all and not missing_img:
+            if "poster_url" not in m:  # eldre filmer: hent bare bildeadressene, resten står urørt
+                try:
+                    r = tmdb(f"/movie/{tid}") or {}
+                    set_image_urls(m, {"_poster_path": r.get("poster_path"), "_backdrop_path": r.get("backdrop_path")})
+                    changed += 1
+                    print(f"✓ {label(m)} (bildeadresser)")
+                except Fail as e:
+                    print(f"✗ {label(m)}: {e}")
+                if changed and changed % 50 == 0:
+                    save_db(header, movies)
             continue
         try:
             if not tid:

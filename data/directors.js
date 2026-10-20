@@ -2852,6 +2852,77 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 27067,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 65296,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 26636,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 36143,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 72852,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 89456,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 110428,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 371865,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 399049,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 540111,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 602334,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 929831,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1265831,
+"kind": "feature",
+"year": 2026
+}
+],
+"name": "Bruno Dumont",
+"person_id": 95901
+},
+{
+"films": [
+{
 "id": 51355,
 "kind": "short",
 "year": 1917
@@ -9031,6 +9102,62 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 813,
+"kind": "feature",
+"year": 1980
+},
+{
+"id": 8764,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 12151,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 12710,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 31923,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 9595,
+"kind": "feature",
+"year": 1991
+},
+{
+"id": 9255,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 912387,
+"kind": "doc",
+"year": 1994
+},
+{
+"id": 26716,
+"kind": "tv",
+"year": 1997
+},
+{
+"id": 9835,
+"kind": "feature",
+"year": 1998
+}
+],
+"name": "Jim Abrahams",
+"person_id": 12936
+},
+{
+"films": [
+{
 "id": 37997,
 "kind": "feature",
 "year": 1981
@@ -9163,6 +9290,57 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Jim Jarmusch",
 "person_id": 4429
+},
+{
+"films": [
+{
+"id": 396634,
+"kind": "short",
+"year": 2000
+},
+{
+"id": 513637,
+"kind": "short",
+"year": 2001
+},
+{
+"id": 162394,
+"kind": "short",
+"year": 2002
+},
+{
+"id": 12197,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 75233,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 157827,
+"kind": "feature",
+"year": 2015
+},
+{
+"id": 401898,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 660120,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 1124566,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Joachim Trier",
+"person_id": 71609
 },
 {
 "films": [
@@ -12575,6 +12753,92 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 442666,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 712522,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 57537,
+"kind": "tv",
+"year": 1980
+},
+{
+"id": 11524,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 26198,
+"kind": "feature",
+"year": 1983
+},
+{
+"id": 11454,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 25964,
+"kind": "tv",
+"year": 1989
+},
+{
+"id": 9361,
+"kind": "feature",
+"year": 1992
+},
+{
+"id": 949,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 9008,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 8489,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 1538,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 82,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 11322,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 201088,
+"kind": "feature",
+"year": 2015
+},
+{
+"id": 365620,
+"kind": "feature",
+"year": 2023
+}
+],
+"name": "Michael Mann",
+"person_id": 638
+},
+{
+"films": [
+{
 "id": 159220,
 "kind": "doc",
 "year": 1947
@@ -12973,7 +13237,7 @@ window.LANGTAGNING_DIRECTORS = {
 },
 {
 "id": 48860,
-"kind": "short",
+"kind": "doc",
 "year": 1971
 },
 {
@@ -18074,23 +18338,18 @@ window.LANGTAGNING_DIRECTORS = {
 "year": 2023
 },
 {
-"id": 1799933,
-"kind": "feature",
-"year": 2023
-},
-{
 "id": 1259365,
-"kind": "feature",
-"year": 2024
-},
-{
-"id": 1800083,
 "kind": "feature",
 "year": 2024
 },
 {
 "id": 1137350,
 "kind": "feature",
+"year": 2025
+},
+{
+"id": 1801208,
+"kind": "short",
 "year": 2025
 }
 ],
@@ -19180,6 +19439,132 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Wim Wenders",
 "person_id": 2303
+},
+{
+"films": [
+{
+"id": 24163,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 18311,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 522824,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 11104,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 40751,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 11220,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 259463,
+"kind": "short",
+"year": 1996
+},
+{
+"id": 18329,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 802342,
+"kind": "short",
+"year": 1998
+},
+{
+"id": 843,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 38189,
+"kind": "short",
+"year": 2001
+},
+{
+"id": 187548,
+"kind": "short",
+"year": 2001
+},
+{
+"id": 654086,
+"kind": "doc",
+"year": 2001
+},
+{
+"id": 844,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 39850,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 1989,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 36108,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 1610150,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 1188842,
+"kind": "doc",
+"year": 2012
+},
+{
+"id": 44865,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 813401,
+"kind": "doc",
+"year": 2021
+},
+{
+"id": 846716,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 1759201,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1430370,
+"kind": "short",
+"year": 2025
+}
+],
+"name": "Wong Kar-Wai",
+"person_id": 12453
 },
 {
 "films": [
@@ -21407,32 +21792,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Oldest Profession",
 "tmdb_id": 103613,
 "year": 1967
-},
-"103663": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jmVWlCZ8hRtmrQGbKXXFHsrSohp.jpg",
-"cast": [
-"Mads Mikkelsen",
-"Thomas Bo Larsen",
-"Annika",
-"Lasse Fogelstrøm",
-"Susse Wold",
-"Anne Louise Hassing"
-],
-"countries": [
-"DK",
-"SE"
-],
-"directors": [
-"Thomas Vinterberg"
-],
-"imdb_id": "tt2106476",
-"original_title": "Jagten",
-"overview": "JAKTEN er en foruroligende skildring av hvordan løgn blir til sannhet - en moderne fortelling om heksejakt, urettferdighet, skyld og tilgivelse. En beretning om hvor skrøpelig fellesskapet er, når sladder, tvil og ondskap får lov til å spre om seg.",
-"poster": "https://image.tmdb.org/t/p/w342/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
-"runtime": 116,
-"title": "The Hunt",
-"tmdb_id": 103663,
-"year": 2012
 },
 "103717": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8NI5t1Ps7ODeJnNSMXqwW2ASicj.jpg",
@@ -23811,31 +24170,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1095145,
 "year": 1969
 },
-"10970": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
-"cast": [
-"Mel Brooks",
-"Marty Feldman",
-"Dom DeLuise",
-"Sid Caesar",
-"Harold Gould",
-"Ron Carey"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Mel Brooks"
-],
-"imdb_id": "tt0075222",
-"original_title": "Silent Movie",
-"overview": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
-"poster": "https://image.tmdb.org/t/p/w342/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
-"runtime": 87,
-"title": "Silent Movie",
-"tmdb_id": 10970,
-"year": 1976
-},
 "1098006": {
 "backdrop": "https://image.tmdb.org/t/p/w780/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg",
 "cast": [
@@ -23887,35 +24221,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11016,
 "year": 1948
 },
-"110390": {
-"backdrop": "https://image.tmdb.org/t/p/w780/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
-"cast": [
-"Holger Andersson",
-"Nisse Vestblom",
-"Viktor Gyllenberg",
-"Lotti Törnros",
-"Jonas Gerholm",
-"Ola Stensson"
-],
-"countries": [
-"FR",
-"DE",
-"NO",
-"SE",
-"DK"
-],
-"directors": [
-"Roy Andersson"
-],
-"imdb_id": "tt1883180",
-"original_title": "En duva satt på en gren och funderade på tillvaron",
-"overview": "An absurdist, surrealistic and shocking pitch-black comedy, which moves freely from nightmare to fantasy to hilariously deadpan humour as it muses on man’s perpetual inhumanity to man.",
-"poster": "https://image.tmdb.org/t/p/w342/h2uRIr0fNpZbTGH5youi7MDRL2T.jpg",
-"runtime": 101,
-"title": "A Pigeon Sat on a Branch Reflecting on Existence",
-"tmdb_id": 110390,
-"year": 2014
-},
 "110415": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vz45GHSnBNYRcyoZe3UCQ4HD4D4.jpg",
 "cast": [
@@ -23939,6 +24244,31 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 127,
 "title": "Snowpiercer",
 "tmdb_id": 110415,
+"year": 2013
+},
+"110428": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8uhoQGtmfDQzjPH7XsUcDZ0TT8e.jpg",
+"cast": [
+"Juliette Binoche",
+"Jean-Luc Vincent",
+"Robert Leroy",
+"Armelle Leroy-Rolland",
+"Emmanuel Kauffman",
+"Marion Keller"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Bruno Dumont"
+],
+"imdb_id": "tt2018086",
+"original_title": "Camille Claudel 1915",
+"overview": "Winter, 1915. Confined by her family to an asylum in the South of France - where she will never sculpt again - the chronicle of Camille Claudel's reclusive life, as she waits for a visit from her brother, Paul Claudel.",
+"poster": "https://image.tmdb.org/t/p/w342/eR17us7fSvuleDSW7Hi0AXP8Gwv.jpg",
+"runtime": 95,
+"title": "Camille Claudel 1915",
+"tmdb_id": 110428,
 "year": 2013
 },
 "11044": {
@@ -23966,31 +24296,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Arizona Dream",
 "tmdb_id": 11044,
 "year": 1993
-},
-"11072": {
-"backdrop": "https://image.tmdb.org/t/p/w780/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
-"cast": [
-"Cleavon Little",
-"Gene Wilder",
-"Slim Pickens",
-"Harvey Korman",
-"Madeline Kahn",
-"Mel Brooks"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Mel Brooks"
-],
-"imdb_id": "tt0071230",
-"original_title": "Blazing Saddles",
-"overview": "Crafty railroad worker Bart becomes the first Black sheriff of Rock Ridge, a frontier town about to be destroyed in order to make way for a new railroad. Initially, the citizens of Rock Ridge harbor a racial bias toward their new protector. However, they warm to him after realizing that Bart and his perpetually drunk gunfighter friend Jim are their only defense against a wave of thugs sent to rid the town of its population.",
-"poster": "https://image.tmdb.org/t/p/w342/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
-"runtime": 93,
-"title": "Blazing Saddles",
-"tmdb_id": 11072,
-"year": 1974
 },
 "110747": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yl73Eb3Hvu5zYAFGv0wN5agW6Mh.jpg",
@@ -24828,6 +25133,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11307,
 "year": 1982
 },
+"11322": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rlKB2moKVOPasy4Dr19QluzbJgA.jpg",
+"cast": [
+"Johnny Depp",
+"Christian Bale",
+"Marion Cotillard",
+"Jason Clarke",
+"Rory Cochrane",
+"Billy Crudup"
+],
+"countries": [
+"US",
+"JP"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt1152836",
+"original_title": "Public Enemies",
+"overview": "En av USAs mest fengslende og beryktede lovbrytere, John Dillinger, er en karismatisk bankraner som unnslipper med letthet. Han kalles for \"Public Enemy Number One\" av FBI. Jaget av FBI-agenten Melvin Purvis starter Dillinger en eskalerende lek som bare kan slutte i et eksplosivt og legendarisk oppgjør.",
+"poster": "https://image.tmdb.org/t/p/w342/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+"runtime": 140,
+"title": "Public Enemies",
+"tmdb_id": 11322,
+"year": 2009
+},
 "11323": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gDgSTQfkDG4y3SyGE2XVRBX80gy.jpg",
 "cast": [
@@ -25398,6 +25729,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mighty Aphrodite",
 "tmdb_id": 11448,
 "year": 1995
+},
+"11454": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zOO8GRa02x9o1iGOIIAJD50YcMW.jpg",
+"cast": [
+"William L. Petersen",
+"Tom Noonan",
+"Dennis Farina",
+"Brian Cox",
+"Kim Greist",
+"Joan Allen"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0091474",
+"original_title": "Manhunter",
+"overview": "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+"poster": "https://image.tmdb.org/t/p/w342/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+"runtime": 120,
+"title": "Manhunter",
+"tmdb_id": 11454,
+"year": 1986
 },
 "11460": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1uRkvEDPvZUIGtGnJz895ajvb7Y.jpg",
@@ -27446,6 +27802,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Skattesmitaren",
 "tmdb_id": 1187264,
 "year": 2008
+},
+"1188842": {
+"backdrop": null,
+"cast": [
+"Wong Kar-wai",
+"Tony Leung Chiu-wai",
+"Zhang Ziyi",
+"Chang Chen"
+],
+"countries": [
+"CN"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": null,
+"original_title": "宗师之路",
+"overview": "This is not a documentary describing the filming process of \"The Grandmaster\", but a record of Wong Kar-wai and Chen Xunqi's personal visits to martial artists all over the mainland to collect valuable martial arts information. It is divided into two episodes.",
+"poster": "https://image.tmdb.org/t/p/w342/f04CCeFpOZQPKK3XJRNypXumKcL.jpg",
+"runtime": 31,
+"title": "The Road to \"The Grandmaster\"",
+"tmdb_id": 1188842,
+"year": 2012
 },
 "11890": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6fAIKXVzkIil9NEyYuwvSivWvV9.jpg",
@@ -29734,6 +30113,36 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1264525,
 "year": 2010
 },
+"1265831": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wVJPuSrEsSWWTMzYH1xLClAWSkb.jpg",
+"cast": [
+"Kaylon Lancel",
+"Kelsie Verdeilles",
+"Louise Podolski",
+"Mohamed Coly",
+"Alessandro Piquera",
+"Meryl Pires"
+],
+"countries": [
+"BE",
+"FR",
+"IT",
+"PT",
+"ES",
+"CH"
+],
+"directors": [
+"Bruno Dumont"
+],
+"imdb_id": "tt31383175",
+"original_title": "Les Roches Rouges",
+"overview": "On the French Riviera, two gangs of kids compete in the perilous game of cliff jumping. Géo, barely five years old, discovers over the course of a summer a world where friendship blends with rivalry, and where the first stirrings of the heart emerge against the dazzling Mediterranean landscape.",
+"poster": "https://image.tmdb.org/t/p/w342/dM3lVIOIz9KEfigAkiBqez2BXzg.jpg",
+"runtime": 91,
+"title": "Red Rocks",
+"tmdb_id": 1265831,
+"year": 2026
+},
 "1266659": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sn0oVrbHTX51HzPBWqtS4GEjXtv.jpg",
 "cast": [
@@ -29983,6 +30392,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Baby's Laxative",
 "tmdb_id": 127082,
 "year": 1931
+},
+"12710": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fH08Brcs0QmunZJ2JoyLI9e4KLe.jpg",
+"cast": [
+"Bette Midler",
+"Lily Tomlin",
+"Fred Ward",
+"Edward Herrmann",
+"Michele Placido",
+"Daniel Gerroll"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0094739",
+"original_title": "Big Business",
+"overview": "In the 1940s in the small town of Jupiter Hollow, two sets of identical twins are born in the same hospital on the same night. One set to a poor local family and the other to a rich family just passing through. The dizzy nurse on duty accidentally mixes the twins unbeknown to the parents. Our story flashes forward to the 1980s where the mismatched sets of twins are about to cross paths.",
+"poster": "https://image.tmdb.org/t/p/w342/dxbXbR1P44caMUKtBdq7sX6aSgw.jpg",
+"runtime": 97,
+"title": "Big Business",
+"tmdb_id": 12710,
+"year": 1988
 },
 "1272365": {
 "backdrop": null,
@@ -32890,6 +33324,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1429713,
 "year": 2026
 },
+"1430370": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cn9QJAwtsSadTszwNdaVbqEoxkc.jpg",
+"cast": [
+"Maggie Cheung",
+"Tony Leung Chiu-wai"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt20833922",
+"original_title": "花樣年華2001",
+"overview": "Set in a convenience store, this short film was originally intended as the third segment of Wong Kar-wai’s unrealized anthology film Three Stories About Food. It is now considered the prototype for My Blueberry Nights (2007).",
+"poster": "https://image.tmdb.org/t/p/w342/9veh00OKZ68ZZmh3EfkvmYvzzss.jpg",
+"runtime": 9,
+"title": "In the Mood for Love 2001",
+"tmdb_id": 1430370,
+"year": 2025
+},
 "143437": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1JUNdM9g3C08OUnYARRoNWc5MBq.jpg",
 "cast": [
@@ -35006,6 +35461,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1537970,
 "year": 1978
 },
+"1538": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+"cast": [
+"Tom Cruise",
+"Jamie Foxx",
+"Jada Pinkett Smith",
+"Mark Ruffalo",
+"Peter Berg",
+"Javier Bardem"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0369339",
+"original_title": "Collateral",
+"overview": "Drosjesjåføren Max plukker opp en mann som tilbyr ham 600 dollar for å kjøre ham rundt. Men tilbudet om lettjente penger blir etterhvert til et mareritt når Max innser at passasjeren hans er en leiemorder.",
+"poster": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+"runtime": 120,
+"title": "Collateral",
+"tmdb_id": 1538,
+"year": 2004
+},
 "15384": {
 "backdrop": "https://image.tmdb.org/t/p/w780/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
 "cast": [
@@ -35662,6 +36142,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1577130,
 "year": 2022
 },
+"157827": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9tdXnZ2iM2KXrlID0RMSUnrynsA.jpg",
+"cast": [
+"Gabriel Byrne",
+"Isabelle Huppert",
+"Jesse Eisenberg",
+"Devin Druid",
+"Amy Ryan",
+"Ruby Jerins"
+],
+"countries": [
+"NO",
+"US",
+"FR",
+"DK"
+],
+"directors": [
+"Joachim Trier"
+],
+"imdb_id": "tt2217859",
+"original_title": "Louder Than Bombs",
+"overview": "Three years after his wife, acclaimed photographer Isabelle Reed, dies in a car crash, Gene keeps everyday life going with his shy teenage son, Conrad. A planned exhibition of Isabelle’s photographs prompts Gene's elder son, Jonah, to return to the house he grew up in — and for the first time in a very long time, the father and the two brothers are living under the same roof.",
+"poster": "https://image.tmdb.org/t/p/w342/26hoecTKEAXswDwk4nUE4SEcPg2.jpg",
+"runtime": 109,
+"title": "Louder Than Bombs",
+"tmdb_id": 157827,
+"year": 2015
+},
 "157834": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6RcWkHz1LT8wJBlAwYRoq2nOzG6.jpg",
 "cast": [
@@ -36200,31 +36708,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1595,
 "year": 2004
 },
-"1598": {
-"backdrop": "https://image.tmdb.org/t/p/w780/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
-"cast": [
-"Nick Nolte",
-"Robert De Niro",
-"Jessica Lange",
-"Juliette Lewis",
-"Joe Don Baker",
-"Robert Mitchum"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Martin Scorsese"
-],
-"imdb_id": "tt0101540",
-"original_title": "Cape Fear",
-"overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-"poster": "https://image.tmdb.org/t/p/w342/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
-"runtime": 128,
-"title": "Cape Fear",
-"tmdb_id": 1598,
-"year": 1991
-},
 "1598720": {
 "backdrop": null,
 "cast": [
@@ -36472,6 +36955,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Ocean's Eleven",
 "tmdb_id": 161,
 "year": 2001
+},
+"1610150": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xQeOEWUScqWu7X7FtA2DH9QfZtZ.jpg",
+"cast": [
+"Wong Kar-wai",
+"Leslie Cheung",
+"Brigitte Lin",
+"Tony Leung Chiu-wai",
+"Jacky Cheung Hok-Yau",
+"Maggie Cheung"
+],
+"countries": [],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": null,
+"original_title": "東邪西毒：終極版",
+"overview": "Ouyang Feng is a heartbroken and cynical man who spends his days in the desert, connecting expert swordsmen with those seeking revenge and willing to pay for it. Throughout five seasons in exile, Ouyang spins tales of his clients' unrequited loves and unusual acts of bravery.",
+"poster": "https://image.tmdb.org/t/p/w342/8TybMvKGkbhlmUEv7tZkQzpbkTE.jpg",
+"runtime": null,
+"title": "Ashes of Time Redux",
+"tmdb_id": 1610150,
+"year": 2008
 },
 "1610750": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9k2FW3nlOeRdUnfz1poJIcmLPXh.jpg",
@@ -36802,6 +37308,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Van Gogh",
 "tmdb_id": 162366,
 "year": 1948
+},
+"162394": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2osHlaJP90Ri9jHJcNXTwILOd5B.jpg",
+"cast": [
+"John Joyce",
+"Maggie Holland",
+"Zoe Thorne",
+"Ray Eves",
+"Derek Hutchinson",
+"Michael Hucks"
+],
+"countries": [
+"NO",
+"GB"
+],
+"directors": [
+"Joachim Trier"
+],
+"imdb_id": "tt0335363",
+"original_title": "Procter",
+"overview": "When Charles Procter witnesses a stranger burn to death he doesn’t expect to become part of the gruesome event. Then he discovers a video camera has captured him at the scene. What he discovers on the tape is more disturbing than the stranger’s death.",
+"poster": "https://image.tmdb.org/t/p/w342/7dECTHB0or1EyZ0VunZ6NHaMvdy.jpg",
+"runtime": 18,
+"title": "Procter",
+"tmdb_id": 162394,
+"year": 2002
 },
 "162451": {
 "backdrop": "https://image.tmdb.org/t/p/w780/t4DOvBKUTcUFjkDtVfxjrRPEPwJ.jpg",
@@ -38504,6 +39036,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 17590,
 "year": 1982
 },
+"1759201": {
+"backdrop": "https://image.tmdb.org/t/p/w780/si8k5C2f0KlmBFJ2FJEivh8Iph4.jpg",
+"cast": [
+"Hu Ge",
+"Tang Yan",
+"Ma Yili",
+"Xin Zhilei",
+"Tong Chenjie"
+],
+"countries": [],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt35238108",
+"original_title": "Hao Jiu Bu Jian",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/FiRg2dwzJWarpUsVJozJrcodM3.jpg",
+"runtime": null,
+"title": "Hao Jiu Bu Jian",
+"tmdb_id": 1759201,
+"year": 2024
+},
 "1759352": {
 "backdrop": null,
 "cast": [],
@@ -39257,20 +39811,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 17988,
 "year": 1944
 },
-"1799933": {
-"backdrop": null,
-"cast": [],
-"countries": [],
-"directors": [],
-"imdb_id": "tt28259927",
-"original_title": "Asteroid City: Location Featurette",
-"overview": "",
-"poster": null,
-"runtime": null,
-"title": "Asteroid City: Location Featurette",
-"tmdb_id": 1799933,
-"year": null
-},
 "18": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
 "cast": [
@@ -39321,20 +39861,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 180,
 "year": 2002
 },
-"1800083": {
-"backdrop": null,
-"cast": [],
-"countries": [],
-"directors": [],
-"imdb_id": "tt32264446",
-"original_title": "Montblanc: 100 Years of Meisterstück",
-"overview": "",
-"poster": null,
-"runtime": null,
-"title": "Montblanc: 100 Years of Meisterstück",
-"tmdb_id": 1800083,
-"year": null
-},
 "180091": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9jQgc2KBe9PYEPHTLLVTSiTZViW.jpg",
 "cast": [
@@ -39357,6 +39883,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mickey's Service Station",
 "tmdb_id": 180091,
 "year": 1935
+},
+"1801208": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xok1hSrE8HvT3uZrVhHmwHFP9ur.jpg",
+"cast": [
+"Rupert Friend",
+"Michael Cera",
+"Wes Anderson",
+"Waris Ahluwalia",
+"Esther McGregor"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Wes Anderson"
+],
+"imdb_id": "tt37373632",
+"original_title": "Montblanc: Let's Write",
+"overview": "A poetic and metaphorical journey back to the Montblanc Observatory High-Mountain Library, celebrating writing, creativity, and Montblanc's timeless spirit of storytelling.",
+"poster": "https://image.tmdb.org/t/p/w342/Arqq1hXYBZMTFUL6KSTTxjdXPwQ.jpg",
+"runtime": 4,
+"title": "Montblanc: Let's Write",
+"tmdb_id": 1801208,
+"year": 2025
 },
 "181886": {
 "backdrop": "https://image.tmdb.org/t/p/w780/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
@@ -40262,6 +40812,25 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Stalk of the Celery Monster",
 "tmdb_id": 187478,
 "year": 1979
+},
+"187548": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lME9VbC6YdMZt9u6weL5WgnBSne.jpg",
+"cast": [],
+"countries": [
+"CN",
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0286704",
+"original_title": "花樣的年華",
+"overview": "A montage of scenes from vintage Chinese films—most of which were considered lost until some nitrate prints were discovered in a California warehouse in the 1990s—set to the song \"Hua yang de nian hua\" (\"Age of Bloom\") by Zhou Xuan.",
+"poster": "https://image.tmdb.org/t/p/w342/7Vijm6LezZvQXqiAritLOang81p.jpg",
+"runtime": 3,
+"title": "Age of Bloom",
+"tmdb_id": 187548,
+"year": 2001
 },
 "187565": {
 "backdrop": null,
@@ -41689,6 +42258,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 198466,
 "year": 1986
 },
+"1989": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tj8T9OIM0E51Jf61RJbRbG6vnIJ.jpg",
+"cast": [
+"Norah Jones",
+"Jude Law",
+"David Strathairn",
+"Rachel Weisz",
+"Natalie Portman",
+"Cat Power"
+],
+"countries": [
+"FR",
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0765120",
+"original_title": "藍莓之夜",
+"overview": "Elizabeth blir vraket av kjæresten, og dette setter i sving en sjelegranskende tur gjennom USA for å finne tilbake til seg selv og troen på kjærligheten. Hun møter en rekke mennesker som hver på sin måte er skadeskutt av Amors piler. Og kanskje har hun selv blitt truffet igjen.",
+"poster": "https://image.tmdb.org/t/p/w342/w9w3m2IB9QRZXxi6R51ZamKv3HS.jpg",
+"runtime": 95,
+"title": "My Blueberry Nights",
+"tmdb_id": 1989,
+"year": 2007
+},
 "2": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
 "cast": [
@@ -41862,6 +42457,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Winston",
 "tmdb_id": 201048,
 "year": 1987
+},
+"201088": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg",
+"cast": [
+"Chris Hemsworth",
+"Tang Wei",
+"Leehom Wang",
+"Viola Davis",
+"Holt McCallany",
+"Andy On Chi-Kit"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt2717822",
+"original_title": "Blackhat",
+"overview": "En mann løslates fra fengselet for å hjelpe amerikanske og kinesiske myndigheter med å finne en mystisk cyberkriminell. Det farlige søket fører dem fra Chicago til Hong Kong.",
+"poster": "https://image.tmdb.org/t/p/w342/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+"runtime": 133,
+"title": "Blackhat",
+"tmdb_id": 201088,
+"year": 2015
 },
 "20128": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oYdNnmgFybqL4z76B0tnG2XNYsY.jpg",
@@ -44961,6 +45581,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 240832,
 "year": 2014
 },
+"24163": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tEqeyPPBJfyDJl0lO08YiqefYqd.jpg",
+"cast": [
+"Andy Lau",
+"Maggie Cheung",
+"Jacky Cheung Hok-Yau",
+"Alex Man Chi-Leung",
+"Wong Aau",
+"Ronald Wong"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0096461",
+"original_title": "旺角卡門",
+"overview": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+"poster": "https://image.tmdb.org/t/p/w342/5xMtbxqRXOMO0ovvhAyU4y4JI1E.jpg",
+"runtime": 98,
+"title": "As Tears Go By",
+"tmdb_id": 24163,
+"year": 1988
+},
 "24167": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3TcUsPiVU0fSLX0Mk7lc3DDuzkY.jpg",
 "cast": [
@@ -45724,31 +46369,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 250734,
 "year": 2015
 },
-"251": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
-"cast": [
-"Patrick Swayze",
-"Demi Moore",
-"Whoopi Goldberg",
-"Tony Goldwyn",
-"Vincent Schiavelli",
-"Rick Aviles"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Jerry Zucker"
-],
-"imdb_id": "tt0099653",
-"original_title": "Ghost",
-"overview": "Molly og Sam er et lykkelig par som akkurat har satt sin nye leilighet i stand da Sam blir skutt ned og drept av en ransmann. Sams sjel blir imidlertid igjen her på jorden som spøkelse. Sams ånd oppererer som den rene detektiv og finner ut at Mollys liv også er i fare. Sams problem er imidlertid hvordan han skal greie å kommunisere med henne. Oda Mae Brown har hele sitt liv vært en humbugmaker i form av et medium som har spådd folks framtid og satt seg i forbindelse med deres avdøde slektninger. Gjennom Sam oppdager hun at hun virkelig har den evnen hun alltid har ønsket - nå ønsker hun den seg ikke lenger. Sam tvinger henne til å kontakte Molly for å redde dennes liv - men å overbevise Molly om at Sam fremdeles 'eksisterer' er slett ikke lett.",
-"poster": "https://image.tmdb.org/t/p/w342/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
-"runtime": 127,
-"title": "Ghost",
-"tmdb_id": 251,
-"year": 1990
-},
 "251004": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
 "cast": [
@@ -45958,35 +46578,6 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 103,
 "title": "A Second Chance",
 "tmdb_id": 254200,
-"year": 2015
-},
-"254320": {
-"backdrop": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
-"cast": [
-"Colin Farrell",
-"Rachel Weisz",
-"Olivia Colman",
-"Léa Seydoux",
-"Michael Smiley",
-"Ariane Labed"
-],
-"countries": [
-"FR",
-"GR",
-"IE",
-"NL",
-"GB"
-],
-"directors": [
-"Yorgos Lanthimos"
-],
-"imdb_id": "tt3464902",
-"original_title": "The Lobster",
-"overview": "I fremtiden drives det en intens jakt på single mennesker. De har 45 dager på seg til å finne en partner, ellers forvandles de til dyr og tvinges ut i villmarken.",
-"poster": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
-"runtime": 119,
-"title": "The Lobster",
-"tmdb_id": 254320,
 "year": 2015
 },
 "254741": {
@@ -46691,6 +47282,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 259284,
 "year": 1985
 },
+"259463": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lA60DOewoUwcm6F4zZmWYQP1cUt.jpg",
+"cast": [
+"Tadanobu Asano",
+"Karen Mok Man-Wai"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0379067",
+"original_title": "wkw/tk/1996@7'55''hk.net",
+"overview": "A Japanese-Chinese couple hangs out and shoots each other.",
+"poster": "https://image.tmdb.org/t/p/w342/1MXWVOKyPmS7lEduHhyrDJxBcAY.jpg",
+"runtime": 10,
+"title": "wkw/tk/1996@7'55''hk.net",
+"tmdb_id": 259463,
+"year": 1996
+},
+"25964": {
+"backdrop": "https://image.tmdb.org/t/p/w780/giVwDcKUrmOqVHUi94TXgGZ1ZM7.jpg",
+"cast": [
+"Scott Plank",
+"Alex McArthur",
+"Michael Rooker",
+"Ely Pouget",
+"Vincent Guastaferro",
+"Richard Chaves"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0097700",
+"original_title": "L.A. Takedown",
+"overview": "The tale of two skilled professionals--one a cop, the other a criminal--who aren't as different as they think. Vincent Hanna is an intense cop on the trail of ruthless armed robber Patrick McLaren. After a botched heist, the two men confront each via a full scale battle on the seedy streets of Los Angeles.",
+"poster": "https://image.tmdb.org/t/p/w342/tzPBYA8CR2m9ChptqiR1Puob04N.jpg",
+"runtime": 94,
+"title": "L.A. Takedown",
+"tmdb_id": 25964,
+"year": 1989
+},
 "260331": {
 "backdrop": "https://image.tmdb.org/t/p/w780/plP1gKOEN1QuV3IhCT6LnWGRldQ.jpg",
 "cast": [
@@ -46803,6 +47440,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "McQ",
 "tmdb_id": 26185,
 "year": 1974
+},
+"26198": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yqDKFfyMnhmiXJgLHYeykU0iKqC.jpg",
+"cast": [
+"Scott Glenn",
+"Alberta Watson",
+"Jürgen Prochnow",
+"Robert Prosky",
+"Gabriel Byrne",
+"Ian McKellen"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0085780",
+"original_title": "The Keep",
+"overview": "Under andre verdenskrig vekker nazistiske soldater onde overnaturlige krefter når de slår leir i en mystisk gammel steinfestning i Romania.",
+"poster": "https://image.tmdb.org/t/p/w342/yd9wU3oajNxwaFHQ02rtTBuSFJD.jpg",
+"runtime": 96,
+"title": "The Keep",
+"tmdb_id": 26198,
+"year": 1983
 },
 "262097": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xWTnk8SgJjCrTksZn9tznkRPCm1.jpg",
@@ -47298,6 +47961,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 266084,
 "year": 2015
 },
+"26636": {
+"backdrop": "https://image.tmdb.org/t/p/w780/25TagjkrkQnpmziQkuTEzZ5mo4a.jpg",
+"cast": [
+"Yekaterina Golubeva",
+"David Wissak"
+],
+"countries": [
+"FR",
+"DE",
+"US"
+],
+"directors": [
+"Bruno Dumont"
+],
+"imdb_id": "tt0315110",
+"original_title": "Twentynine Palms",
+"overview": "A photographer and an unemployed woman embark on a chaotic trip to the California desert for a photo shoot, filled with passionate encounters and frequent fights. Their seemingly empty relationship takes a dark turn when a brutal incident abruptly ends their journey.",
+"poster": "https://image.tmdb.org/t/p/w342/y5JeGg69UPpgwakBeKrA7uaAoaf.jpg",
+"runtime": 114,
+"title": "Twentynine Palms",
+"tmdb_id": 26636,
+"year": 2003
+},
 "266463": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bwxCv3WqG2ikA06xd6KqUL7oOPF.jpg",
 "cast": [
@@ -47372,6 +48058,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Roadracers",
 "tmdb_id": 26682,
 "year": 1994
+},
+"26716": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1TIHPWCFMmdpLSFBeghYdoD2FgP.jpg",
+"cast": [
+"Meryl Streep",
+"Fred Ward",
+"Allison Janney",
+"Seth Adkins",
+"Margo Martindale",
+"Tom Butler"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0118526",
+"original_title": "...First Do No Harm",
+"overview": "When Lori Reimuller learns that her young son Robbie has epilepsy, she first trusts the judgment of the hospital staff in how best to bring it under control. As Robbie's health slides radically downhill, however, she becomes frustrated and desperate, and so does her own research into the existing literature on treatments. When she decides to try an alternative treatment called the Ketogenic Diet, devised long ago by a doctor from Johns Hopkins, she is met with narrow-minded resistance from Robbie's doctor, who is prepared to take legal action to prevent Lori from removing him from the hospital.",
+"poster": "https://image.tmdb.org/t/p/w342/iHR3DgBK7rVI1cQZX1DEck33qPC.jpg",
+"runtime": 90,
+"title": "...First Do No Harm",
+"tmdb_id": 26716,
+"year": 1997
 },
 "267246": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8IQb7JHS8yrFPO2SEeISGydWwNY.jpg",
@@ -48053,31 +48764,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "David Bowie: Best of Bowie",
 "tmdb_id": 273085,
 "year": 2002
-},
-"273248": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
-"cast": [
-"Samuel L. Jackson",
-"Kurt Russell",
-"Jennifer Jason Leigh",
-"Walton Goggins",
-"Demián Bichir",
-"Tim Roth"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Quentin Tarantino"
-],
-"imdb_id": "tt3460252",
-"original_title": "The Hateful Eight",
-"overview": "Quentin Tarantino er endelig tilbake! Åtte personer må søke tilflukt for vinterstormene og stues sammen for én natt i en jernvarehandel på en fjellovergang: Dusørjegeren John Ruth og hans flyktning Daisy Domergue, eks-soldat Major Marquis Warren, byens nye sheriff Chris Mannix Bob, Oswaldo Mobray, bøddelen fra Red Rock Joe Gage og sørstatsgeneral Sanford Smithers. Når stormen raser som verst i fjellødet innser våre åtte reisende at kanskje ikke alle vil komme seg til Red Rock i live.",
-"poster": "https://image.tmdb.org/t/p/w342/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
-"runtime": 188,
-"title": "The Hateful Eight",
-"tmdb_id": 273248,
-"year": 2015
 },
 "273303": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1ACTpjVmJqYYc91iOtOQnxKGiuc.jpg",
@@ -49539,34 +50225,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Lost Weekend",
 "tmdb_id": 28580,
 "year": 1945
-},
-"285923": {
-"backdrop": "https://image.tmdb.org/t/p/w780/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
-"cast": [
-"Kurt Russell",
-"Rose McGowan",
-"Zoë Bell",
-"Freddy Rodríguez",
-"Rosario Dawson",
-"Marley Shelton"
-],
-"countries": [
-"US",
-"CA",
-"GB"
-],
-"directors": [
-"Robert Rodriguez",
-"Quentin Tarantino"
-],
-"imdb_id": "tt0462322",
-"original_title": "Grindhouse",
-"overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
-"poster": "https://image.tmdb.org/t/p/w342/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
-"runtime": 191,
-"title": "Grindhouse",
-"tmdb_id": 285923,
-"year": 2007
 },
 "286217": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
@@ -51787,31 +52445,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 31293,
 "year": 1953
 },
-"31304": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
-"cast": [
-"Rolf Sohlman",
-"Ann-Sofie Kylin",
-"Bertil Norström",
-"Lennart Tellfelt",
-"Anita Lindblom",
-"Margreth Weivers"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Roy Andersson"
-],
-"imdb_id": "tt0065955",
-"original_title": "En kärlekshistoria",
-"overview": "The puppy love of two teenagers is set against a backdrop of adults struggling with their own lives. As a couple in love, they don't care about anything but themselves and seem totally unaware about everything that surrounds them.",
-"poster": "https://image.tmdb.org/t/p/w342/bSIkQ7Yu8LEcZ8g85GkzSpHJRZ.jpg",
-"runtime": 119,
-"title": "A Swedish Love Story",
-"tmdb_id": 31304,
-"year": 1970
-},
 "3131": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
 "cast": [
@@ -52431,6 +53064,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Ghosts of Mississippi",
 "tmdb_id": 31908,
 "year": 1996
+},
+"31923": {
+"backdrop": "https://image.tmdb.org/t/p/w780/snNj2CZeaBHkP5xT5ep1efxa6rY.jpg",
+"cast": [
+"Winona Ryder",
+"Jeff Daniels",
+"Stephen Tobolowsky",
+"Dinah Manoff",
+"Laila Robins",
+"Thomas Wilson Brown"
+],
+"countries": [
+"GB",
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0100911",
+"original_title": "Welcome Home, Roxy Carmichael",
+"overview": "Movie star Roxy Carmichael is abandoning the bright lights of Hollywood, Calif. and returning to her small Ohio hometown -- at least long enough to dedicate a city building. And now the whole town of Clyde is bracing for Carmichael's return, most of all her now-married old flame Denton Webb and troubled teen Dinky Bossetti. An orphan with few friends, Dinky is convinced that Carmichael is her birth mother, and that the actress will reclaim her when she returns.",
+"poster": "https://image.tmdb.org/t/p/w342/7ygtZksyPjzkjdFL036YfnSTc1F.jpg",
+"runtime": 95,
+"title": "Welcome Home, Roxy Carmichael",
+"tmdb_id": 31923,
+"year": 1990
 },
 "31924": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zC9SVUUQ2RNWplLoeeXByyJDY1U.jpg",
@@ -55608,6 +56267,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 36141,
 "year": 1995
 },
+"36143": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tpQDKZkEPHejcuvQl3KHQGZPP9F.jpg",
+"cast": [
+"Adélaïde Leroux",
+"Samuel Boidin",
+"Henri Cretel",
+"Jean-Marie Bruveart",
+"David Poulain",
+"Patrice Venant"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Bruno Dumont"
+],
+"imdb_id": "tt0450680",
+"original_title": "Flandres",
+"overview": "André Demester secretly and painfully loves Barbe, his childhood friend, accepting from her the little that she gives him. He leaves home to be a soldier in a war in a far off land. Barbarity, camaraderie and fear turn him into a warrior. As the seasons go by, Barbe, alone and wasting away, waits for the soldiers to return. Will Demester’s boundless love for Barbe save him?",
+"poster": "https://image.tmdb.org/t/p/w342/qY8n5t12OBfiQI1X2rI4YrYxVoA.jpg",
+"runtime": 91,
+"title": "Flanders",
+"tmdb_id": 36143,
+"year": 2006
+},
 "362000": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ebPE8Q6JV28AzkOQu1ulChnjNjG.jpg",
 "cast": [
@@ -55941,6 +56625,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Song of the Horse",
 "tmdb_id": 365536,
 "year": 1970
+},
+"365620": {
+"backdrop": "https://image.tmdb.org/t/p/w780/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+"cast": [
+"Adam Driver",
+"Penélope Cruz",
+"Shailene Woodley",
+"Gabriel Leone",
+"Sarah Gadon",
+"Jack O'Connell"
+],
+"countries": [
+"US",
+"IT",
+"GB",
+"SA"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt3758542",
+"original_title": "Ferrari",
+"overview": "Handlingen utspiller seg sommeren 1957. Den tidligere racerbilføreren Enzo Ferrari befinner seg i en krise. Konkurs truer selskapet han og kona Laura bygde opp fra ingenting ti år tidligere. Det stormfulle ekteskapet deres preges av sorgen over én sønn og erkjennelsen av en annen.",
+"poster": "https://image.tmdb.org/t/p/w342/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+"runtime": 131,
+"title": "Ferrari",
+"tmdb_id": 365620,
+"year": 2023
 },
 "365717": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fbFOI22qTN0GtlLIaLY5rapcF1f.jpg",
@@ -56537,56 +57249,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Heaven Knows, Mr. Allison",
 "tmdb_id": 37103,
 "year": 1957
-},
-"37136": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
-"cast": [
-"Leslie Nielsen",
-"Priscilla Presley",
-"Ricardo Montalban",
-"George Kennedy",
-"O. J. Simpson",
-"Susan Beaubian"
-],
-"countries": [
-"US"
-],
-"directors": [
-"David Zucker"
-],
-"imdb_id": "tt0095705",
-"original_title": "The Naked Gun: From the Files of Police Squad!",
-"overview": "Frank Drebin, snubler over en plan om å ta livet av Dronning Elisabeth. En utstoppet bever, to baseballag og et utvalg andre raringer er med i dette sinnsyke levenet, og blåser latterbarometeret i filler…",
-"poster": "https://image.tmdb.org/t/p/w342/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
-"runtime": 86,
-"title": "The Naked Gun: From the Files of Police Squad!",
-"tmdb_id": 37136,
-"year": 1988
-},
-"37137": {
-"backdrop": "https://image.tmdb.org/t/p/w780/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
-"cast": [
-"Leslie Nielsen",
-"Priscilla Presley",
-"George Kennedy",
-"O. J. Simpson",
-"Robert Goulet",
-"Richard Griffiths"
-],
-"countries": [
-"US"
-],
-"directors": [
-"David Zucker"
-],
-"imdb_id": "tt0102510",
-"original_title": "The Naked Gun 2½: The Smell of Fear",
-"overview": "Superpolitimann Frank Debrin er på farten igjen. Han er i hvert fall super når det gjelder å dumme seg ut. Det får han anledning til i fullt monn siden han nå opererer i Washington DC, blant presidenter og annet fintfolk. Han blir denne gangen innvolvert i en sak der skumle mennesker bytter ut presidentens miljøpolitiske rådgiver. Hvem vil vel ha en miljøvernforkjemper i en slik stilling? Mye bedre da og erstatte ham med en dobbeltgjenger som vil at folk skal kjøre mere bil, bygge nye kjernekraftverk og fyre med mere kull. Uheldigvis for de slu forbryterne er Jane Spencer - Debrins tapte kjæreste - PR-sjef for den kidnappede miljømann. Og dermed blir til alt hell og all ulykke Frank satt på saken.",
-"poster": "https://image.tmdb.org/t/p/w342/v9niLQWVzVPB1cP1ThNdEaLZG1Q.jpg",
-"runtime": 85,
-"title": "The Naked Gun 2½: The Smell of Fear",
-"tmdb_id": 37137,
-"year": 1991
 },
 "37165": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
@@ -57594,6 +58256,29 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Hostage",
 "tmdb_id": 38185,
 "year": 2002
+},
+"38189": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hgqcKNJb4iJRdzVMbOkEmdbfuRy.jpg",
+"cast": [
+"Clive Owen",
+"Mickey Rourke",
+"Adriana Lima",
+"Forest Whitaker"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0285104",
+"original_title": "The Follow",
+"overview": "The Driver is hired by a nervous movie manager to spy on a paranoid actor's wife. During his tailing of the wife, the Driver describes the right way to tail someone. As he follows her he begins to fear what he might learn of her apparently tragic life.",
+"poster": "https://image.tmdb.org/t/p/w342/wAVZSrnlRQsNDrmwqIatzXLDjsN.jpg",
+"runtime": 11,
+"title": "The Follow",
+"tmdb_id": 38189,
+"year": 2001
 },
 "382921": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1J60IMS3zAzxJtlhpiN1EgnNb8k.jpg",
@@ -58801,6 +59486,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 395942,
 "year": 1968
 },
+"396634": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qjTRLZbmzCqpMhNzBBN15SC6DbU.jpg",
+"cast": [
+"David Birkin",
+"Caroline Langrishe"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Joachim Trier"
+],
+"imdb_id": "tt5565392",
+"original_title": "Pieta",
+"overview": "Julian tells the story of the loss of his best friend Jacob. Years later, he goes back to the place where Jacob died and finds himself caught up in a cathartic experience with Rebecca, Julian's mother.",
+"poster": "https://image.tmdb.org/t/p/w342/auo9D93BaL3crQnD41iuW8j5FCj.jpg",
+"runtime": 16,
+"title": "Pieta",
+"tmdb_id": 396634,
+"year": 2000
+},
 "39683": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zuIqIGM7EN5AE73L290qCBSUtp8.jpg",
 "cast": [
@@ -59235,6 +59941,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 401459,
 "year": 1981
 },
+"401898": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zqCxkgcgg0BqcF2VCYZa6uHBG4C.jpg",
+"cast": [
+"Eili Harboe",
+"Kaya Wilkins",
+"Henrik Rafaelsen",
+"Ellen Dorrit Petersen",
+"Grethe Eltervåg",
+"Marte Magnusdotter Solem"
+],
+"countries": [
+"DK",
+"FR",
+"NO",
+"SE"
+],
+"directors": [
+"Joachim Trier"
+],
+"imdb_id": "tt6304046",
+"original_title": "Thelma",
+"overview": "En forvirret religiøs jente prøver å fornekte sine følelser for en venninne som er forelsket i henne. Dette fører til at hennes undertrykte og ubevisst kontrollerte psykokinetiske krefter får utspring via anfall med ødeleggende resultater.",
+"poster": "https://image.tmdb.org/t/p/w342/fN2Qq5riCrBiVLfKqgODHC0SwVx.jpg",
+"runtime": 116,
+"title": "Thelma",
+"tmdb_id": 401898,
+"year": 2017
+},
 "402": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
 "cast": [
@@ -59461,6 +60195,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 407448,
 "year": 2017
 },
+"40751": {
+"backdrop": "https://image.tmdb.org/t/p/w780/smtzZRpE8hQkQNnhQg2TIRfcWcj.jpg",
+"cast": [
+"Leslie Cheung",
+"Brigitte Lin",
+"Tony Leung Ka-fai",
+"Carina Lau",
+"Tony Leung Chiu-wai",
+"Charlie Yeung"
+],
+"countries": [
+"HK",
+"TW",
+"CN"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0109688",
+"original_title": "東邪西毒",
+"overview": "Ouyang Feng is a heartbroken and cynical man who spends his days in the desert, connecting expert swordsmen with those seeking revenge and willing to pay for it. Throughout five seasons in exile, Ouyang spins tales of his clients' unrequited loves and unusual acts of bravery.",
+"poster": "https://image.tmdb.org/t/p/w342/ciyEwAbvoMHPP3281cgSnfslu43.jpg",
+"runtime": 98,
+"title": "Ashes of Time",
+"tmdb_id": 40751,
+"year": 1994
+},
 "40867": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ckJPiOT2EMsUOHb0pMdpGmeTtqU.jpg",
 "cast": [
@@ -59576,31 +60337,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Stranger Than Paradise",
 "tmdb_id": 410051,
 "year": 1983
-},
-"4105": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4xAxAvrcnelGOBA5mQsW0aEHpqW.jpg",
-"cast": [
-"Michael Douglas",
-"Andy Garcia",
-"Ken Takakura",
-"Kate Capshaw",
-"Yūsaku Matsuda",
-"Shigeru Kōyama"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Ridley Scott"
-],
-"imdb_id": "tt0096933",
-"original_title": "Black Rain",
-"overview": "To New York-politibetjenter får i oppdrag å eskortere en brutal drapsmann tilbake til fødelandet Japan. De to amerikanerne blir dermed dratt inn i Osakas eksotiske underverden, og rett inn i sentrum av en vill og brutal Yakuza-gjengkrig.",
-"poster": "https://image.tmdb.org/t/p/w342/funhGWt9ee3Uwb6Ar8SGCCvbJdV.jpg",
-"runtime": 125,
-"title": "Black Rain",
-"tmdb_id": 4105,
-"year": 1989
 },
 "41253": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jfGgCSFMUlf8DklzUkpz1GfieHA.jpg",
@@ -62537,6 +63273,22 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 44264,
 "year": 2010
 },
+"442666": {
+"backdrop": null,
+"cast": [],
+"countries": [],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0347272",
+"original_title": "Jaunpuri",
+"overview": "Director Michael Mann's first short film, developed from his footage of the 1968 Paris student revolt for the documentary Insurrection which aired on NBC's First Tuesday news program. Only two prints of this film exist; director Michael Mann owns one and the other is in the AFI, but, at the request of Mann, is not available for viewing.",
+"poster": "https://image.tmdb.org/t/p/w342/ltNXrDybgoytxB7OriSTTQPtxEj.jpg",
+"runtime": 8,
+"title": "Jaunpuri",
+"tmdb_id": 442666,
+"year": 1971
+},
 "442771": {
 "backdrop": null,
 "cast": [
@@ -62919,6 +63671,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Hugo",
 "tmdb_id": 44826,
 "year": 2011
+},
+"44865": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hhT61DEebn8IicJbImFXw29GvRl.jpg",
+"cast": [
+"Tony Leung Chiu-wai",
+"Zhang Ziyi",
+"Chang Chen",
+"Zhao Benshan",
+"Xiao Shenyang",
+"Song Hye-kyo"
+],
+"countries": [
+"HK",
+"CN",
+"US"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt1462900",
+"original_title": "一代宗師",
+"overview": "The fall of China's last dynasty, a time of chaos, division and war, is the golden age of Chinese martial arts. Legendary kung fu master Ip Man, who will eventually train Bruce Lee, finds his peaceful life interrupted by vengeance.",
+"poster": "https://image.tmdb.org/t/p/w342/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg",
+"runtime": 130,
+"title": "The Grandmaster",
+"tmdb_id": 44865,
+"year": 2013
 },
 "44871": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8fHhQBIrZlX3fdDUHaTxVglkowW.jpg",
@@ -67351,33 +68130,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 49479,
 "year": 1968
 },
-"49517": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6ZwscHN0bSIueTVTo6mlTGUUP90.jpg",
-"cast": [
-"Gary Oldman",
-"Colin Firth",
-"Tom Hardy",
-"John Hurt",
-"Toby Jones",
-"Mark Strong"
-],
-"countries": [
-"DE",
-"GB",
-"FR"
-],
-"directors": [
-"Tomas Alfredson"
-],
-"imdb_id": "tt1340800",
-"original_title": "Tinker Tailor Soldier Spy",
-"overview": "I den kalde krigens dystre dager, har spionasje-veteranen George Smiley fått oppgaven med å avdekke en sovjetisk agent innen MI6.",
-"poster": "https://image.tmdb.org/t/p/w342/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
-"runtime": 127,
-"title": "Tinker Tailor Soldier Spy",
-"tmdb_id": 49517,
-"year": 2011
-},
 "49529": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hj5RynBrJB1Wlz84t3lJj9DuTJh.jpg",
 "cast": [
@@ -67575,34 +68327,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Sorrow of the Beautiful Woman",
 "tmdb_id": 499845,
 "year": 1931
-},
-"5": {
-"backdrop": "https://image.tmdb.org/t/p/w780/c1BaOxC8bo5ACFYkYYxL0bBWRaq.jpg",
-"cast": [
-"Tim Roth",
-"Jennifer Beals",
-"David Proval",
-"Ione Skye",
-"Madonna",
-"Antonio Banderas"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Allison Anders",
-"Alexandre Rockwell",
-"Quentin Tarantino",
-"Robert Rodriguez"
-],
-"imdb_id": "tt0113101",
-"original_title": "Four Rooms",
-"overview": "It's Ted the Bellhop's first night on the job...and the hotel's very unusual guests are about to place him in some outrageous predicaments. It seems that this evening's room service is serving up one unbelievable happening after another.",
-"poster": "https://image.tmdb.org/t/p/w342/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg",
-"runtime": 98,
-"title": "Four Rooms",
-"tmdb_id": 5,
-"year": 1995
 },
 "50106": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dW132K3GtENDxIPRRL4rgsmGQgI.jpg",
@@ -68721,6 +69445,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Play House",
 "tmdb_id": 51362,
 "year": 1921
+},
+"513637": {
+"backdrop": "https://image.tmdb.org/t/p/w780/14btjCg15xm9v86vK7JGfSxReAi.jpg",
+"cast": [
+"Peter Bayliss",
+"Jamie Bradley",
+"Joseph Tyndall",
+"Rachel Kirby",
+"David de Keyser"
+],
+"countries": [
+"GB"
+],
+"directors": [
+"Joachim Trier"
+],
+"imdb_id": "tt1029386",
+"original_title": "Still",
+"overview": "An ambitious short in which the story plays out in the mind of an old man about to die from a heart attack in a public park.",
+"poster": "https://image.tmdb.org/t/p/w342/2pCFtUKfRUtIVDHBM6oZewdVx96.jpg",
+"runtime": 20,
+"title": "Still",
+"tmdb_id": 513637,
+"year": 2001
 },
 "51364": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lwM1A6gk8AxSc8q11kJkZDKT0l0.jpg",
@@ -74195,6 +74943,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 5748,
 "year": 1967
 },
+"57537": {
+"backdrop": "https://image.tmdb.org/t/p/w780/xlfnuI20UHQzlviGXghtjilT2rt.jpg",
+"cast": [
+"Peter Strauss",
+"Roger E. Mosley",
+"Richard Lawson",
+"Brian Dennehy",
+"Geoffrey Lewis",
+"Billy Green Bush"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0079366",
+"original_title": "The Jericho Mile",
+"overview": "A runner, serving a life sentence at Folsom Prison, works at becoming the world's fastest miler and wins a chance to compete for a spot on the Olympic team.",
+"poster": "https://image.tmdb.org/t/p/w342/cinQBqd5K5jDqEJ0ECbXA58dXt4.jpg",
+"runtime": 97,
+"title": "The Jericho Mile",
+"tmdb_id": 57537,
+"year": 1980
+},
 "57646": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g7HaqokNxlkazKdVwZGo4RNRCja.jpg",
 "cast": [
@@ -74383,33 +75156,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 57976,
 "year": 1997
 },
-"580175": {
-"backdrop": "https://image.tmdb.org/t/p/w780/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
-"cast": [
-"Mads Mikkelsen",
-"Thomas Bo Larsen",
-"Magnus Millang",
-"Lars Ranthe",
-"Maria Bonnevie",
-"Helene Reingaard Neumann"
-],
-"countries": [
-"DK",
-"NL",
-"SE"
-],
-"directors": [
-"Thomas Vinterberg"
-],
-"imdb_id": "tt10288566",
-"original_title": "Druk",
-"overview": "Fire lærere bestemmer seg for å teste ut en teori om at mennesket er født med en halv promille for lite i blodet.",
-"poster": "https://image.tmdb.org/t/p/w342/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
-"runtime": 117,
-"title": "Another Round",
-"tmdb_id": 580175,
-"year": 2020
-},
 "58159": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iNawpyQYb30IqFl4AjNsYlPn1HM.jpg",
 "cast": [
@@ -74457,36 +75203,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Little Hiawatha",
 "tmdb_id": 58160,
 "year": 1937
-},
-"5817": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
-"cast": [
-"Håkan Angser",
-"Eric Bäckman",
-"Patrik Anders Edgren",
-"Björn Englund",
-"Lennart Eriksson",
-"Pär Fredriksson"
-],
-"countries": [
-"DK",
-"FR",
-"DE",
-"JP",
-"NO",
-"SE"
-],
-"directors": [
-"Roy Andersson"
-],
-"imdb_id": "tt0445336",
-"original_title": "Du levande",
-"overview": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
-"poster": "https://image.tmdb.org/t/p/w342/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
-"runtime": 93,
-"title": "You, the Living",
-"tmdb_id": 5817,
-"year": 2007
 },
 "58185": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tM5MrMYLvbLIhGgQVOb2M3vcBFN.jpg",
@@ -78229,6 +78945,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 65318,
 "year": 2003
 },
+"654086": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8w7Bzp8Czm8FpHZcVTKhxTyeRhk.jpg",
+"cast": [
+"Wong Kar-wai",
+"Rebecca Pan",
+"Siu Ping-Lam",
+"Maggie Cheung",
+"Tony Leung Chiu-wai"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt16077670",
+"original_title": "@ in the mood for love",
+"overview": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
+"poster": "https://image.tmdb.org/t/p/w342/c6Xh8CqkKbaVRsmYfJGGiZXSjtn.jpg",
+"runtime": 51,
+"title": "@ in the mood for love",
+"tmdb_id": 654086,
+"year": 2001
+},
 "65475": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3TC75AAFau6H83xWqh9mEDPM1Ng.jpg",
 "cast": [
@@ -80934,31 +81674,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 686852,
 "year": 1972
 },
-"68718": {
-"backdrop": "https://image.tmdb.org/t/p/w780/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
-"cast": [
-"Jamie Foxx",
-"Christoph Waltz",
-"Leonardo DiCaprio",
-"Kerry Washington",
-"Samuel L. Jackson",
-"Walton Goggins"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Quentin Tarantino"
-],
-"imdb_id": "tt1853728",
-"original_title": "Django Unchained",
-"overview": "En frigjort slave, med hjelp fra en tysk dusørjeger, forsøker å redde sin kone fra en brutal plantasjeeier i Mississippi.",
-"poster": "https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
-"runtime": 165,
-"title": "Django Unchained",
-"tmdb_id": 68718,
-"year": 2012
-},
 "68730": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
 "cast": [
@@ -82279,6 +82994,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Martin Scorsese's Quarantine Short Film",
 "tmdb_id": 711439,
 "year": 2020
+},
+"712522": {
+"backdrop": null,
+"cast": [
+"Marvin Kupfer"
+],
+"countries": [],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0346455",
+"original_title": "17 Days Down the Line",
+"overview": "A documentary detailing a 17 day road-trip from from the east coast of America to the west.",
+"poster": "https://image.tmdb.org/t/p/w342/AucItgtjaoxAnDA9CC8t4Eig7MT.jpg",
+"runtime": 37,
+"title": "17 Days Down the Line",
+"tmdb_id": 712522,
+"year": 1972
 },
 "71570": {
 "backdrop": null,
@@ -84887,35 +85620,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 7974,
 "year": 1990
 },
-"7975": {
-"backdrop": "https://image.tmdb.org/t/p/w780/g1Ny96j46cI2e4lTpM1SbLK7DYU.jpg",
-"cast": [
-"Jean-Pierre Léaud",
-"Margi Clarke",
-"Kenneth Colley",
-"T.R. Bowen",
-"Imogen Claire",
-"Angela Walsh"
-],
-"countries": [
-"FI",
-"FR",
-"DE",
-"SE",
-"GB"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0099818",
-"original_title": "I Hired a Contract Killer",
-"overview": "After losing his job and realizing that he is alone in the world, a businessman opts to voluntarily end his life. Lacking courage, he hires a contract killer to do the job. Then, while awaiting his demise, he meets a woman and promptly falls in love.",
-"poster": "https://image.tmdb.org/t/p/w342/p343X7QppeByj9Sz6i003jNkens.jpg",
-"runtime": 80,
-"title": "I Hired a Contract Killer",
-"tmdb_id": 7975,
-"year": 1990
-},
 "7980": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vmonG9lV1s3CtmOQmmWUO206Xay.jpg",
 "cast": [
@@ -85039,32 +85743,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 80040,
 "year": 1951
 },
-"8005": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xFhpZ9UDUGXu52lCHdN39PIooRt.jpg",
-"cast": [
-"Cary Elwes",
-"Richard Lewis",
-"Roger Rees",
-"Amy Yasbeck",
-"Dave Chappelle",
-"Isaac Hayes"
-],
-"countries": [
-"US",
-"FR"
-],
-"directors": [
-"Mel Brooks"
-],
-"imdb_id": "tt0107977",
-"original_title": "Robin Hood: Men in Tights",
-"overview": "I gamle dager, da menn var menn, gikk menn i strømpebukser. Tettsittende strømpebukser. Og ingen gikk i dem bedre enn Robin Hood, helten fra Sherwood skogen. Hjulpet av sin gruppe glade menn, klarer Robin av Loxley å frata den slemme prins Johan all makten og på samme tid sjarmere vakre jomfru Marian. Men det store spørsmålet er; klarer han å slippe gjennom hennes kyskhetsbelte?",
-"poster": "https://image.tmdb.org/t/p/w342/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
-"runtime": 104,
-"title": "Robin Hood: Men in Tights",
-"tmdb_id": 8005,
-"year": 1993
-},
 "800510": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
 "cast": [
@@ -85154,6 +85832,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Popeye in the Grand Steeple Chase",
 "tmdb_id": 802042,
 "year": 1960
+},
+"802342": {
+"backdrop": null,
+"cast": [
+"Tadanobu Asano",
+"Faye Wong"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt3898684",
+"original_title": "Motorola",
+"overview": "Given a completely free hand by Motorola mobile phones, Wong created an advertisement that is a romantic-but-fraught vignette from the sex-wars.",
+"poster": "https://image.tmdb.org/t/p/w342/ecgkqr75OKGY1bIAsDN0CLd5koB.jpg",
+"runtime": 3,
+"title": "Motorola",
+"tmdb_id": 802342,
+"year": 1998
 },
 "802780": {
 "backdrop": null,
@@ -85794,6 +86493,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 813350,
 "year": 1987
 },
+"813401": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qbG7ZgSt0vinO2OU6yxr1gXUU3Y.jpg",
+"cast": [
+"Maggie Cheung",
+"Brigitte Lin",
+"Faye Wong",
+"Tony Leung Ka-fai",
+"Chang Chen",
+"Leslie Cheung"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt19717996",
+"original_title": "零點零一公分的距離",
+"overview": "Tracing the beginnings of Jet Tone Films, which was founded in 1991 by Wong Kar Wai for the production of Ashes of Time (1994), the film features never-before-seen materials, including deleted scenes, behind-the-scene footage, and selected narration by Wong Kar Wai.",
+"poster": "https://image.tmdb.org/t/p/w342/Anw24evzS4nl5UgGIzceDW8btKZ.jpg",
+"runtime": 27,
+"title": "One-Tenth of a Millimeter Apart",
+"tmdb_id": 813401,
+"year": 2021
+},
 "81775": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4JmdWx4NZ8TuKxIa9m1Xcenzc1k.jpg",
 "cast": [
@@ -85979,6 +86703,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Crimes of the Future",
 "tmdb_id": 819876,
 "year": 2022
+},
+"82": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jYhMlpOJMIiDTGcwZsKikZ7FShq.jpg",
+"cast": [
+"Colin Farrell",
+"Jamie Foxx",
+"Naomie Harris",
+"Gong Li",
+"John Ortiz",
+"Ciarán Hinds"
+],
+"countries": [
+"DE",
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0430357",
+"original_title": "Miami Vice",
+"overview": "Ricardo Tubbs og Sonny Crockett jobber begge under jorda i det hete Florida, hvor de trenger seg inn i narkoverdenens mørke og dollarspekkede dyp.",
+"poster": "https://image.tmdb.org/t/p/w342/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+"runtime": 132,
+"title": "Miami Vice",
+"tmdb_id": 82,
+"year": 2006
 },
 "8214": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dqcXtv7k8WbM0R9Z6Pm1wUcCQiN.jpg",
@@ -86795,6 +87545,59 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 84298,
 "year": 1931
 },
+"844": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
+"cast": [
+"Tony Leung Chiu-wai",
+"Gong Li",
+"Faye Wong",
+"Takuya Kimura",
+"Zhang Ziyi",
+"Dong Jie"
+],
+"countries": [
+"DE",
+"HK",
+"CN",
+"FR",
+"IT"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt0212712",
+"original_title": "2046",
+"overview": "Wong Kar-Wais tilbakevendende dagdrøm og hjertesorg handler om en science-fiction-forfatter som har en rekke lidenskapelige affærer på et lurvete Hong Kong-hotell.",
+"poster": "https://image.tmdb.org/t/p/w342/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+"runtime": 128,
+"title": "2046",
+"tmdb_id": 844,
+"year": 2004
+},
+"846716": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r4pDYHM7BQto4UEDmypytQ7IvSa.jpg",
+"cast": [
+"Chang Chen",
+"Gong Li",
+"Tien Feng",
+"Chan Chun-Luk",
+"Chow Kin-Kwan"
+],
+"countries": [
+"HK"
+],
+"directors": [
+"Wong Kar-wai"
+],
+"imdb_id": "tt15165236",
+"original_title": "手",
+"overview": "Hong Kong, 1960s. Zhang, a shy tailor's assistant, is riveted by his imperious client Miss Hua. Upon meeting her, she seduces him to make sure he will truly remember her when designing her garments. After this intimate first encounter, a rapport develops between the two. Entry is for the theatrically released extended version, not the segment from the Eros anthology.",
+"poster": "https://image.tmdb.org/t/p/w342/3yoe71wLvLaPzBD4iAIQtdljh0W.jpg",
+"runtime": 56,
+"title": "The Hand",
+"tmdb_id": 846716,
+"year": 2021
+},
 "8469": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dBTWOjGU7ry4jGgP9fp63FZs83y.jpg",
 "cast": [
@@ -86865,6 +87668,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Big Punch",
 "tmdb_id": 848617,
 "year": 1921
+},
+"8489": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sdWxVWhnJBiMq9N2ikfOmxeozKh.jpg",
+"cast": [
+"Will Smith",
+"Jamie Foxx",
+"Jon Voight",
+"Mario Van Peebles",
+"Ron Silver",
+"Jeffrey Wright"
+],
+"countries": [
+"US",
+"GH",
+"MZ",
+"ZA"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0248667",
+"original_title": "Ali",
+"overview": "\"Amerikansk drama fra 2001. Verdens største bokser, Muhammad Ali, og hans fantastiske karriere er blitt til en action- og spenningsfilm med Will Smith i hovedrollen. Historien begynner med at den unge og høyrøstede Cassius Clay vinner en overraskende seier over Sonny Liston, og kulminerer med \"\"Rumble in the Jungle\"\" - Muhammad Alis legendariske oppgjør med George Foreman.\" Med Will Smith, Jada Pinkett-Smith, Charles Shufford, Mario Van Peebles, LeVar Burton, Martha Edgerton og Jon Voight. Regi: Michael Mann. (15 år)",
+"poster": "https://image.tmdb.org/t/p/w342/32l3FaCzs8cXWps6hkgNJAcOsP.jpg",
+"runtime": 157,
+"title": "Ali",
+"tmdb_id": 8489,
+"year": 2001
 },
 "849116": {
 "backdrop": null,
@@ -87341,31 +88172,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Guernica",
 "tmdb_id": 86465,
 "year": 1978
-},
-"8649": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6UgzxKBBIdfTLrDQdDdFf1gpBBa.jpg",
-"cast": [
-"Nicolas Cage",
-"Patricia Arquette",
-"John Goodman",
-"Ving Rhames",
-"Tom Sizemore",
-"Marc Anthony"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Martin Scorsese"
-],
-"imdb_id": "tt0163988",
-"original_title": "Bringing Out the Dead",
-"overview": "Once called \"Father Frank\" for his efforts to rescue lives, Frank Pierce sees the ghosts of those he failed to save around every turn. He has tried everything he can to get fired, calling in sick, delaying taking calls where he might have to face one more victim he couldn't help, yet cannot quit the job on his own.",
-"poster": "https://image.tmdb.org/t/p/w342/gE2Q8mL0m0EA6HakRyc92uzSPJn.jpg",
-"runtime": 121,
-"title": "Bringing Out the Dead",
-"tmdb_id": 8649,
-"year": 1999
 },
 "8665": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vhGmRg0RyTwpoPsLpGHtqOcsGSI.jpg",
@@ -87851,34 +88657,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fellini's TV Advertisements",
 "tmdb_id": 876319,
 "year": 2003
-},
-"8764": {
-"backdrop": "https://image.tmdb.org/t/p/w780/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
-"cast": [
-"Val Kilmer",
-"Lucy Gutteridge",
-"Peter Cushing",
-"Jeremy Kemp",
-"Christopher Villiers",
-"Warren Clarke"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Jim Abrahams",
-"Jerry Zucker",
-"David Zucker"
-],
-"imdb_id": "tt0088286",
-"original_title": "Top Secret!",
-"overview": "Kultkomedie som friskt parodierer såvel Elvis-musikaler som spionfilmer i skyggen av den kalde krigen. Filmdebutanten Val Kilmer spiller den amerikanske rockesangeren Nick Rivers som kommer til Øst-Tyskland for å opptre, og blir dratt inn i den franske motstandsbevegelsen.",
-"poster": "https://image.tmdb.org/t/p/w342/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
-"runtime": 90,
-"title": "Top Secret!",
-"tmdb_id": 8764,
-"year": 1984
 },
 "877268": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dkQL7x7rCSVhEovq5zxq8WWC8T3.jpg",
@@ -88678,6 +89456,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 899732,
 "year": 1968
 },
+"9008": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+"cast": [
+"Al Pacino",
+"Russell Crowe",
+"Christopher Plummer",
+"Diane Venora",
+"Philip Baker Hall",
+"Lindsay Crouse"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0140352",
+"original_title": "The Insider",
+"overview": "\"60 MINUTES\" produsent, Lowell Bergmann, vil lage en sak om tobakksindustrien. Han treffer Wigand, en tidligere sjef hos tobakksprodusentene Brown & Williamson som egentlig fikk sparken. Han hadde meninger man ikke skulle ha. Wigand er redd for å fortelle hva han vet til TV; at tobakkprodusentene tilsetter avhengighetsstoffer i sigarettene. Han frykter for seg selv og sin familie for de som lever av at sannheten ikke kommer frem. Og de er mange og mektige.",
+"poster": "https://image.tmdb.org/t/p/w342/3BYhikNhkWALAbpAdoL0rcBrl5A.jpg",
+"runtime": 158,
+"title": "The Insider",
+"tmdb_id": 9008,
+"year": 1999
+},
 "902": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yDjsUoEANHggKFabkAyTu3Y9j4N.jpg",
 "cast": [
@@ -88955,6 +89758,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The American President",
 "tmdb_id": 9087,
 "year": 1995
+},
+"912387": {
+"backdrop": null,
+"cast": [
+"Meryl Streep"
+],
+"countries": [],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0805554",
+"original_title": "An Introduction to the Ketogenic Diet",
+"overview": "An introduction to the Ketogenic Diet, a special high-fat diet used to treat seizures, as a treatment for childhood epilepsy narrated by Meryl Streep. The video provides a step-by-step preparation of the meals, available options for the diet and discussions with parents and children about their dealings with the diet.",
+"poster": null,
+"runtime": 45,
+"title": "An Introduction to the Ketogenic Diet",
+"tmdb_id": 912387,
+"year": 1994
 },
 "912804": {
 "backdrop": null,
@@ -89567,6 +90388,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 924878,
 "year": 1990
 },
+"9255": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
+"cast": [
+"Charlie Sheen",
+"Lloyd Bridges",
+"Valeria Golino",
+"Richard Crenna",
+"Rowan Atkinson",
+"Miguel Ferrer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0107144",
+"original_title": "Hot Shots! Part Deux",
+"overview": "Topper Harley lever i et buddhisttempel, hans inkompetente tidligere overordnede har kommandoen i Det Hvite Hus, og en gjeng amerikanere holdes som gisler i Midt-Østen og må reddes! Topper er den rette og den eneste mannen for jobben, men han er fremdeles knust etter bruddet med kjæresten, og føler seg ikke helt klar for et nytt oppdrag. Men dette får en vakker CIA-agent rettet på, og tvinger han tilbake i salen. Det blir et leve eller dø- oppdrag som fører Topper og hans Hot Shots på en handlingsfylt og hysterisk morsom ferd hvor dødsfellene lurer rundt neste sving! Filmen byr på parodier over noen av de mest berømte filmscenene og noen av de største klisjeene fra lerretet!",
+"poster": "https://image.tmdb.org/t/p/w342/zh9EGK970GHo10ETclWBOjZVUOK.jpg",
+"runtime": 88,
+"title": "Hot Shots! Part Deux",
+"tmdb_id": 9255,
+"year": 1993
+},
 "925508": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iIGkr3i4YsbF4F3kjaVwTuDIRAQ.jpg",
 "cast": [
@@ -89714,6 +90560,35 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 928697,
 "year": 2022
 },
+"929831": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4BC3dC3Bz8241rSuYHoccEsoM0h.jpg",
+"cast": [
+"Lyna Khoudri",
+"Anamaria Vartolomei",
+"Camille Cottin",
+"Fabrice Luchini",
+"Brandon Vlieghe",
+"Julien Manier"
+],
+"countries": [
+"BE",
+"FR",
+"DE",
+"IT",
+"PT"
+],
+"directors": [
+"Bruno Dumont"
+],
+"imdb_id": "tt17375596",
+"original_title": "L'Empire",
+"overview": "In a quiet fishing village on northern France's Opal Coast, the birth of a peculiar child sparks a hidden war between extraterrestrial forces of good and evil.",
+"poster": "https://image.tmdb.org/t/p/w342/2GQ5GMsx7Ri4gJsMDU2aDLbMg1S.jpg",
+"runtime": 110,
+"title": "The Empire",
+"tmdb_id": 929831,
+"year": 2024
+},
 "9322": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
 "cast": [
@@ -89858,6 +90733,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Little Miss Smiles",
 "tmdb_id": 935954,
 "year": 1922
+},
+"9361": {
+"backdrop": "https://image.tmdb.org/t/p/w780/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+"cast": [
+"Daniel Day-Lewis",
+"Madeleine Stowe",
+"Jodhi May",
+"Russell Means",
+"Wes Studi",
+"Eric Schweig"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Michael Mann"
+],
+"imdb_id": "tt0104691",
+"original_title": "The Last of the Mohicans",
+"overview": "Året er 1757 og kolonikrigen raser mellom Frankrike og England. På vei gjennom krigssonen avbryter Hawkeye sammen med adoptivfaren og broren et bakholdsangrep på en engelsk tropp, og redder livet til offiserdøtrene Cora og Alice Munro. Cora (Madeleine Stowe) og Hawkeye (Daniel Day-Lewis) forelsker seg, men gjennom en lang rekke dramatiske hendelser blir Cora fanget av hevngjerrige Huronere. Hennes eneste håp er at Hawkeye og Mohikanerne skal befri henne fra fangenskapet. Men mellom dem og Cora står en armé blodtørstige Huronere. Et blodig oppgjør venter..",
+"poster": "https://image.tmdb.org/t/p/w342/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+"runtime": 112,
+"title": "The Last of the Mohicans",
+"tmdb_id": 9361,
+"year": 1992
 },
 "93669": {
 "backdrop": "https://image.tmdb.org/t/p/w780/upRrVdUCP4QbiIlVpRiJQnG1sQQ.jpg",
@@ -90637,31 +91537,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 955,
 "year": 2000
 },
-"957": {
-"backdrop": "https://image.tmdb.org/t/p/w780/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
-"cast": [
-"Bill Pullman",
-"Rick Moranis",
-"Mel Brooks",
-"John Candy",
-"Daphne Zuniga",
-"Dick Van Patten"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Mel Brooks"
-],
-"imdb_id": "tt0094012",
-"original_title": "Spaceballs",
-"overview": "Måtte farsen være med deg i dette hysterisk morsomme romvåset, som er skapt av det komiske geniet Mel Brooks. Du vil le deg rett ut i hyperrommet! Den gjør narr av alt fra Star Wars til Star Trek og er en parodi på storslagne science fiction-filmer, full av kosmisk galskap som gir minst åtte billioner på lattermåleren. De fryktløse (og håpløse) romheltene Lone Starr (Bill Pullman) og hans assistent Barf (John Candy) som er halvt menneske og halvt hund, går til interstellar krig for å befri prinsesse Vespa (Daphne Zuniga) fra den onde Dark Helmet (Rick Moranis). I dette redningsoppdraget -i en Winnebago bobil - må de møte den store, klisne Pizza the Hut (med Dom DE Luises stemme), den frekke roboten Dot Matrix (med Joan Rivers' stemme) og en klok liten skapning som heter Yoghurt (Mel Brooks). Han lærer dem den mystiske kraften i \"The Schwarts\" for å skape fred - og fremme salget av filmeffekter - i hele galaksen.",
-"poster": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
-"runtime": 96,
-"title": "Spaceballs",
-"tmdb_id": 957,
-"year": 1987
-},
 "95727": {
 "backdrop": "https://image.tmdb.org/t/p/w780/t3HqMkyvtv4rENQHATXXmAlFtGE.jpg",
 "cast": [
@@ -90738,6 +91613,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Bonfire of the Vanities",
 "tmdb_id": 9586,
 "year": 1990
+},
+"9595": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4RriqSJFCQkYpRhxFnQGh3sxZYY.jpg",
+"cast": [
+"Charlie Sheen",
+"Cary Elwes",
+"Valeria Golino",
+"Lloyd Bridges",
+"Kevin Dunn",
+"Jon Cryer"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0102059",
+"original_title": "Hot Shots!",
+"overview": "Rett opp stolryggen, slå opp bordet foran deg, fest setebeltet og gjør deg klar til den festligste flyturen du noen sinne har opplevd. Men pass opp. Det er noen merkelig i luften.",
+"poster": "https://image.tmdb.org/t/p/w342/koLIB5263emHxewmwgBBK26vjeS.jpg",
+"runtime": 85,
+"title": "Hot Shots!",
+"tmdb_id": 9595,
+"year": 1991
 },
 "9602": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
@@ -91523,32 +92423,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 97867,
 "year": 1931
 },
-"98": {
-"backdrop": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
-"cast": [
-"Russell Crowe",
-"Joaquin Phoenix",
-"Connie Nielsen",
-"Oliver Reed",
-"Richard Harris",
-"Derek Jacobi"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Ridley Scott"
-],
-"imdb_id": "tt0172495",
-"original_title": "Gladiator",
-"overview": "En general som står klar til å ta over tronen da en romersk keiser dør, blir i stedet dømt til døden av den maktsyke sønnen til den forhenværende keiseren.",
-"poster": "https://image.tmdb.org/t/p/w342/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
-"runtime": 155,
-"title": "Gladiator",
-"tmdb_id": 98,
-"year": 2000
-},
 "98048": {
 "backdrop": "https://image.tmdb.org/t/p/w780/11hgHCRzu6UOw9Q9idvto6A4t44.jpg",
 "cast": [
@@ -91665,6 +92539,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mustasch: Down in Black",
 "tmdb_id": 982771,
 "year": 2002
+},
+"9835": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fyhxTKsJ3x47z9rgMvkqL1haT6S.jpg",
+"cast": [
+"Jay Mohr",
+"Billy Burke",
+"Christina Applegate",
+"Pamela Gidley",
+"Olympia Dukakis",
+"Lloyd Bridges"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Jim Abrahams"
+],
+"imdb_id": "tt0120741",
+"original_title": "Jane Austen's Mafia!",
+"overview": "After growing up poor in Salmonella, Vincenzo Cortino installs himself as the preeminent, if bumbling, Mafia don of the New World. But now he must pass on power to one of his two sons: either level-headed veteran Anthony or vituperative loose cannon Joey.",
+"poster": "https://image.tmdb.org/t/p/w342/gGgirOcInrfjWgemKMjvZc3fGtU.jpg",
+"runtime": 84,
+"title": "Jane Austen's Mafia!",
+"tmdb_id": 9835,
+"year": 1998
 },
 "9846": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1asVOmgViSEn4yi0EylEdtlL5H9.jpg",
@@ -91785,32 +92684,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Bellboy and the Playgirls",
 "tmdb_id": 989207,
 "year": 1962
-},
-"9896": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vian6RN3bC4QdBQzY1wTmBkhxVQ.jpg",
-"cast": [
-"Gloria Allred",
-"Breckin Meyer",
-"Cuba Gooding Jr.",
-"Lanei Chapman",
-"Amy Smart",
-"Seth Green"
-],
-"countries": [
-"CA",
-"US"
-],
-"directors": [
-"Jerry Zucker"
-],
-"imdb_id": "tt0250687",
-"original_title": "Rat Race",
-"overview": "Donald Sinclair (John Cleese) eier det største og flotteste kasinoet i Las Vegas. For å underholde seg og sine milliardær-venner, har han plukket ut seks tilfeldige fremmede og lager den mest originale konkurransen byen noen sinne har vært med på, et kappløp mellom Las Vegas til Silver City, New Mexico, hvor det gjelder å være den første til å finne det skjulte skapet med to millioner dollar i. Vinneren får pengene...",
-"poster": "https://image.tmdb.org/t/p/w342/8ghNCfFbCJjcNSz2K5jOC3eO6ZD.jpg",
-"runtime": 112,
-"title": "Rat Race",
-"tmdb_id": 9896,
-"year": 2001
 },
 "99095": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gcUK6xDC2v6CMZpdXoWS2MFnFzW.jpg",
