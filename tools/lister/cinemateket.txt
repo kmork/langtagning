@@ -1189,7 +1189,7 @@
 1180 | Good Intensions (2021) | Andres Villasenor | tmdb:874903
 1181 | Good Morning (1959) | Yasujiro Ozu | tmdb:28276
 1182 | Good Will Hunting (1998) | Gus van Sant | tmdb:489
-1183 | The Good, the Bad, the Weird (2009) | Kim Jee-won | tmdb:0
+1183 | The Good, the Bad, the Weird (2008) | Kim Jee-woon | tmdb:15067
 1184 | Goodbye Soviet Union (2020) | Lauri Randla | tmdb:576543
 1185 | Goodbye, Dragon Inn (2003) | Tsai Ming-liang | tmdb:56616
 1186 | Goodfellas (1990) | Martin Scorsese | tmdb:769
