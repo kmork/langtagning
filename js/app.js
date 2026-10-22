@@ -871,6 +871,15 @@
     if ($("#search").value.trim() !== state.q) $("#search").value = state.q;
   }
 
+  // Tegn på nytt, men behold rulleposisjonen: tegn like mange bolker som før og bla til samme sted
+  function renderKeep() {
+    const y = window.scrollY, had = shown;
+    render();
+    const total = layoutKey() === "rows" ? items.length : current.length;
+    while (shown < had && shown < total) renderMore();
+    window.scrollTo({ top: y });
+  }
+
   // Tegn neste bolk når man nærmer seg bunnen
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((es) => { if (es.some((x) => x.isIntersecting)) renderMore(); }, { rootMargin: "800px" }).observe($("#more"));
@@ -1120,7 +1129,7 @@
 
   dialog.addEventListener("close", () => {
     flushNote();
-    if (listDirty) { listDirty = false; render(); }
+    if (listDirty) { listDirty = false; renderKeep(); }
     if (state.film) { state.film = ""; writeHash(false); }
   });
   dialog.addEventListener("input", (e) => {
@@ -1280,12 +1289,8 @@
   $("#rows").addEventListener("click", (e) => {
     const act = e.target.closest("[data-act]");
     if (act) {
-      // behold rullepos.: tegn på nytt og bla til samme sted
-      const y = window.scrollY, had = shown;
       toggleStatus(byId.get(act.dataset.film), act.dataset.act);
-      render();
-      while (shown < had && shown < items.length) renderMore();
-      window.scrollTo({ top: y });
+      renderKeep();
       return;
     }
     const row = e.target.closest(".lv-row");
