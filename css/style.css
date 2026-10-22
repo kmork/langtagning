@@ -764,6 +764,11 @@ button { cursor: pointer; }
 .pill.ghost { color: var(--text-faint); border-style: dashed; }
 .lv-row.is-missing .lv-thumb { opacity: .55; filter: grayscale(.6); }
 .lv-row.is-missing .lv-text b { color: var(--text-dim); }
+/* Nedtonet: sett, men ikke interessant – dempet til du peker på den */
+.lv-row.is-muted .lv-thumb, .card.is-muted .poster { opacity: .45; filter: grayscale(1); }
+.card.is-muted .poster { transition: transform .25s cubic-bezier(.2,.8,.2,1), box-shadow .25s, opacity .2s, filter .2s; }
+.lv-row.is-muted:hover .lv-thumb, .card.is-muted:hover .poster, .card.is-muted:focus-visible .poster { opacity: 1; filter: none; }
+.lv-row.is-muted .lv-text b, .card.is-muted .card-title { color: var(--text-faint); }
 .lv-mv { text-align: right; font-size: .78rem; font-weight: 600; font-variant-numeric: tabular-nums; }
 .mv.up { color: var(--seen); }
 .mv.down { color: #d0705f; }
@@ -874,6 +879,8 @@ button { cursor: pointer; }
 .act.seen[aria-pressed="true"]  { color: var(--bg); background: var(--seen); border-color: var(--seen); }
 .act.want[aria-pressed="true"]  { color: var(--bg); background: var(--want); border-color: var(--want); }
 .act.owned[aria-pressed="true"] { color: var(--accent-ink); background: var(--own); border-color: var(--own); }
+.act.muted[aria-pressed="true"] { color: var(--bg); background: var(--text-faint); border-color: var(--text-faint); }
+.lv-act .act.muted span { display: none; }  /* bare ikonet i raden */
 .addbox .act { padding: 8px 14px; font-size: .88rem; }
 .addbox code { font: .8rem ui-monospace, "SF Mono", Menlo, monospace; background: var(--bg-elev-2); padding: 1px 6px; border-radius: 4px; }
 .addbox p { margin: 0; }

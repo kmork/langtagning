@@ -69,7 +69,7 @@
       cast: arr(m.cast),
       tags: arr(m.tags),
       links: m.links || {},
-      status: { seen: !!status.seen, want: !!status.want, owned: !!(status.owned || status.dvd || status.bluray) },
+      status: { seen: !!status.seen, want: !!status.want, owned: !!(status.owned || status.dvd || status.bluray), muted: !!status.seen && !!status.muted },
       decade: m.year ? `${Math.floor(m.year / 10) * 10}` : "",
       _order: i,
     };
@@ -233,8 +233,9 @@
   const LOCAL_OWNER = LOCAL && !FRIEND_TEST;
   const OWNER = LOCAL_OWNER || OWNER_FLAG;
 
-  const NONE = { seen: false, want: false, owned: false };
-  const sameStatus = (a, b) => !!a.seen === !!b.seen && !!a.want === !!b.want && !!a.owned === !!b.owned;
+  const NONE = { seen: false, want: false, owned: false, muted: false };
+  const sameStatus = (a, b) => !!a.seen === !!b.seen && !!a.want === !!b.want && !!a.owned === !!b.owned
+    && (!!a.seen && !!a.muted) === (!!b.seen && !!b.muted);
   const sameTags = (a, b) => a.length === b.length && a.every((t, i) => t === b[i]);
   const anyStatus = (s) => !!(s.seen || s.want || s.owned);
   const statusWords = (s) => [s.seen && "sett", s.want && !s.seen && "vil se", s.owned && "eier"].filter(Boolean).join(" · ");
@@ -299,8 +300,10 @@
     if (!f) return;
     const st = { ...f.status };
     st[key] = !st[key];
-    if (key === "seen" && st.seen) st.want = false;
+    if (key === "muted" && st.muted) st.seen = true;  // nedtonet = sett, men ikke interessant
+    if ((key === "seen" || key === "muted") && st.seen) st.want = false;
     if (key === "want" && st.want) st.seen = false;
+    st.muted = st.seen && !!st.muted;
     saveChange(f, { status: st });
   }
 
@@ -337,8 +340,10 @@
 
   function actionsHTML(f) {
     if (!canEdit(f)) return "";
-    const b = (key, label, icon) => `<button class="act ${key}" data-act="${key}" data-film="${esc(f.id)}" aria-pressed="${!!f.status[key]}" title="${label}">${icon}<span>${label}</span></button>`;
-    return b("seen", "Sett", "✓") + b("want", "Vil se", "+") + b("owned", "Eier", "◉");
+    const b = (key, label, icon, title = label) => `<button class="act ${key}" data-act="${key}" data-film="${esc(f.id)}" aria-pressed="${!!f.status[key]}" title="${title}">${icon}<span>${label}</span></button>`;
+    // «Nedton» finnes bare for sette filmer – sett, men ikke interessant
+    const mute = f.status.seen ? b("muted", f.status.muted ? "Nedtonet" : "Nedton", "◌", "Nedtonet – sett, men ikke interessant") : "";
+    return b("seen", "Sett", "✓") + mute + b("want", "Vil se", "+") + b("owned", "Eier", "◉");
   }
 
   // Påminnelse om backup (venner): etter 25 endringer eller 14 dager uten eksport
@@ -408,7 +413,7 @@
   for (const f of allFilms) f.decade = f.decade || (f.year ? `${Math.floor(f.year / 10) * 10}` : "");
 
   const blank = () => ({
-    src: "", st: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "", kino: "",
+    src: "", st: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "", kino: "", muted: "",
     tags: [], sort: "", layout: "", film: "",
   });
   let state = blank();
@@ -497,7 +502,11 @@
 
   // ---------- Filtrering ----------
 
+  // Nedtonede filmer skjules i Mitt utvalg – men ikke i lister, ved søk, eller når de er slått på (&muted=1)
+  const mutedHidden = (f) => f.status.muted && !src && !state.muted && !state.q;
+
   function passes(f, skip) {
+    if (skip !== "muted" && mutedHidden(f)) return false;
     if (skip !== "status" && !matchStatus(f, state.status)) return false;
     if (skip !== "stream" && state.stream && !streamable(f)) return false;
     if (skip !== "kino" && state.kino && !playingAt(f).length) return false;
@@ -759,7 +768,7 @@
 
   function cardHTML(m, i) {
     return `
-      <button class="card" data-id="${esc(m.id)}" style="animation-delay:${Math.min(i % CHUNK, 24) * 18}ms">
+      <button class="card${m.status.muted ? " is-muted" : ""}" data-id="${esc(m.id)}" style="animation-delay:${Math.min(i % CHUNK, 24) * 18}ms">
         <div class="poster">
           ${posterHTML(m)}
           ${badgesHTML(m)}
@@ -803,7 +812,7 @@
     const rank = src && isRanked(src) && e ? `${e.tied ? "<small>=</small>" : ""}${e.rank}`
       : src && (src.kind === "group" && !src.coll || src.numbered) && e && sortKey() === "list" ? `${e.tied ? "<small>=</small>" : ""}${e.rank}` : "";
     const orig = f.original_title && f.original_title !== f.title ? `<span class="lv-orig">${esc(f.original_title)}</span>` : "";
-    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${canEdit(f) ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._mine ? "" : " is-missing"}${f.status.seen ? " is-seen" : ""}" data-id="${esc(f.id)}">
+    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${canEdit(f) ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._mine ? "" : " is-missing"}${f.status.seen ? " is-seen" : ""}${f.status.muted ? " is-muted" : ""}" data-id="${esc(f.id)}">
         <span class="lv-rank">${rank}</span>
         <span class="lv-thumb">${posterHTML(f)}</span>
         <span class="lv-text"><b>${esc(f.title)}</b>${orig}
@@ -825,13 +834,23 @@
     $("#more").hidden = shown >= (rows ? items.length : current.length);
   }
 
+  // «38 nedtonede skjult · vis» / «inkl. 38 nedtonede · skjul» – bare i Mitt utvalg, ikke ved søk
+  function mutedNote() {
+    if (src || state.q) return "";
+    const m = baseFilms.filter((f) => f.status.muted && passes(f, "muted")).length;
+    if (!m) return "";
+    return state.muted
+      ? ` · inkl. ${m} ${m === 1 ? "nedtonet" : "nedtonede"} <button class="linklike" data-muted>skjul</button>`
+      : ` · ${m} ${m === 1 ? "nedtonet" : "nedtonede"} skjult <button class="linklike" data-muted>vis</button>`;
+  }
+
   function renderResults() {
     const rows = layoutKey() === "rows";
-    const total = baseFilms.length;
+    const total = baseFilms.filter((f) => !mutedHidden(f)).length;
     const n = current.length;
-    $("#count").innerHTML = n === total
+    $("#count").innerHTML = (n === total
       ? `<strong>${total}</strong> ${total === 1 ? "film" : "filmer"}`
-      : `<strong>${n}</strong> av ${total} filmer`;
+      : `<strong>${n}</strong> av ${total} filmer`) + mutedNote();
     $("#empty").hidden = n > 0;
     if (!n) $("#empty").innerHTML = emptyHTML();
     grid.hidden = rows;
@@ -1213,6 +1232,10 @@
   $("#suggest").addEventListener("click", (e) => { const b = e.target.closest("[data-goto]"); if (b) gotoSrc(b.dataset.goto); });
   $("#src-head").addEventListener("click", (e) => {
     if (e.target.closest("[data-shorts]")) { state.shorts = state.shorts ? "" : "1"; update(); }
+  });
+
+  $("#count").addEventListener("click", (e) => {
+    if (e.target.closest("[data-muted]")) { state.muted = state.muted ? "" : "1"; update(); }
   });
 
   $("#tabs").addEventListener("click", (e) => {

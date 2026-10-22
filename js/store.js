@@ -18,7 +18,10 @@
 
   const now = () => new Date().toISOString();
   const hasData = (r) => FIELDS.some((k) => k in r);
-  const sameStatus = (a, b) => !!a.seen === !!b.seen && !!a.want === !!b.want && !!a.owned === !!b.owned;
+  const sameStatus = (a, b) => !!a.seen === !!b.seen && !!a.want === !!b.want && !!a.owned === !!b.owned
+    && (!!a.seen && !!a.muted) === (!!b.seen && !!b.muted);
+  // «Nedtonet» (muted) er en variant av Sett og gjelder bare sette filmer
+  const normStatus = (v) => ({ seen: !!v.seen, want: !!v.want, owned: !!(v.owned || v.dvd || v.bluray), muted: !!v.seen && !!v.muted });
   const sameTags = (a, b) => a.length === b.length && a.every((t, i) => t === b[i]);
   const fail = (e) => { lastError = (e && (e.message || e.name)) || String(e); console.warn("Langtagning-lagring:", e); };
 
@@ -146,7 +149,7 @@
     for (const [k, v] of Object.entries(patch)) {
       if (!FIELDS.includes(k)) continue;
       if (v === undefined) delete r[k];
-      else r[k] = k === "status" ? { seen: !!v.seen, want: !!v.want, owned: !!v.owned } : k === "tags" ? [...v] : String(v);
+      else r[k] = k === "status" ? normStatus(v) : k === "tags" ? [...v] : String(v);
     }
     r.updated = now();
     meta.changesSinceExport = (meta.changesSinceExport || 0) + 1;
@@ -219,7 +222,7 @@
       if (raw.tmdb_id) r.tmdb_id = +raw.tmdb_id;
       if (raw.title) r.title = String(raw.title);
       if (raw.year) r.year = +raw.year || undefined;
-      if (raw.status && typeof raw.status === "object") r.status = { seen: !!raw.status.seen, want: !!raw.status.want, owned: !!(raw.status.owned || raw.status.dvd || raw.status.bluray) };
+      if (raw.status && typeof raw.status === "object") r.status = normStatus(raw.status);
       if (typeof raw.note === "string") r.note = raw.note;
       if (Array.isArray(raw.tags)) r.tags = raw.tags.map(String).filter(Boolean);
       r.updated = typeof raw.updated === "string" ? raw.updated : obj.exported || now();

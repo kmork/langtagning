@@ -5,7 +5,7 @@
 # Titler er oversatt til engelsk og har fått årstall. Originalen ligger i eide-filmer.original.txt.
 
 After Hours (1985) | sett, samling
-Elle (2016) | sett, samling
+Elle (2016) | sett, nedtonet, samling
 Elite Squad (2007) | sett, samling
 Short Cuts (1993) | sett, samling
 Clockwise (1986) | sett, samling
@@ -23,14 +23,14 @@ Playtime (1967) | sett, samling
 Jour de fête (1949) | sett, samling
 Trafic (1971) | sett, samling
 Mr. Hulot's Holiday (1953) | sett, samling
-The Master (2012) | sett, samling
+The Master (2012) | sett, nedtonet, samling
 Drive My Car (2021) | sett, samling
 Masculin Féminin (1966) | sett, samling
 The Pink Panther (1963) | sett, samling
 A Shot in the Dark (1964) | sett, samling
 The Pink Panther Strikes Again (1976) | sett, samling
-Revenge of the Pink Panther (1978) | sett, samling
-Trail of the Pink Panther (1982) | sett, samling
+Revenge of the Pink Panther (1978) | sett, nedtonet, samling
+Trail of the Pink Panther (1982) | sett, nedtonet, samling
 The Return of the Pink Panther (1975) | sett
 The Gods Must Be Crazy (1980) | sett, samling
 The Gods Must Be Crazy II (1989) | sett, samling
@@ -50,10 +50,10 @@ Casino Royale (1967) | sett, samling
 Delicatessen (1991) | sett, samling
 The Deer Hunter (1978) | sett, samling
 Death Proof (2007) | sett, samling
-The Bride Wore Black (1968) | sett, samling
-Mississippi Mermaid (1969) | sett, samling
+The Bride Wore Black (1968) | sett, nedtonet, samling
+Mississippi Mermaid (1969) | sett, nedtonet, samling
 The Man Who Loved Women (1977) | sett, samling
-Big Fish (2003) | sett, samling
+Big Fish (2003) | sett, nedtonet, samling
 Le Cercle Rouge (1970) | sett, samling
 Badlands (1973) | sett, samling
 Coffy (1973) | sett, samling
@@ -83,7 +83,7 @@ Nomadland (2020) | sett, samling
 The Handmaiden (2016) | sett, samling
 Coffee and Cigarettes (2003) | sett, samling
 Blow (2001) | sett, samling
-The Shawshank Redemption (1994) | sett, samling
+The Shawshank Redemption (1994) | sett, nedtonet, samling
 Aftersun (2022) | sett, samling
 The Square (2017) | sett, samling
 Dead Man (1995) | sett, samling
@@ -113,7 +113,7 @@ Once Upon a Time... in Hollywood (2019) | sett, samling
 Aguirre, the Wrath of God (1972) | sett, samling
 Songs from the Second Floor (2000) | sett, samling
 Most People Live in China (2002) | sett, samling
-Kick-Ass (2010) | sett, samling
+Kick-Ass (2010) | sett, nedtonet, samling
 Garden State (2004) | sett, samling
 The Flamingo Kid (1984) | sett, samling
 The Adventures of Ford Fairlane (1990) | sett, samling
@@ -128,7 +128,7 @@ Torsk på Tallinn (1999) | sett, samling
 Black Cat, White Cat (1998) | sett, samling
 Det blir aldrig som man tänkt sig (2000) | sett, samling
 Bad Taste (1987) | sett, samling
-Police Story 3: Super Cop (1992) | sett, samling
+Police Story 3: Super Cop (1992) | sett, nedtonet, samling
 Bad Santa (2003) | sett, samling
 M*A*S*H (1970) | sett, samling
 Down by Law (1986) | sett, samling
@@ -136,9 +136,9 @@ Easy Rider (1969) | sett, samling
 My Life as a Dog (1985) | sett, samling
 Fletch (1985) | sett, samling
 From Dusk Till Dawn (1996) | sett, samling
-Syriana (2005) | sett, samling
+Syriana (2005) | sett, nedtonet, samling
 Fellini's Casanova (1976) | sett, samling
-The 100 Year-Old Man Who Climbed Out the Window and Disappeared (2013) | sett, samling
+The 100 Year-Old Man Who Climbed Out the Window and Disappeared (2013) | sett, nedtonet, samling
 Castaway on the Moon (2009) | sett, samling
 A Clockwork Orange (1971) | sett, samling
 U Turn (1997) | sett, samling
@@ -157,7 +157,7 @@ The 400 Blows (1959) | sett, samling
 Licorice Pizza (2021) | sett, samling
 Inside Out (2015) | sett, samling
 The Man Who Wasn't There (2001) | sett, samling
-Kurt Turns Evil (2008) | sett, samling
+Kurt Turns Evil (2008) | sett, nedtonet, samling
 Dogville (2003) | sett, samling
 Sweeney Todd: The Demon Barber of Fleet Street (2007) | sett, samling
 The Banshees of Inisherin (2022) | sett, samling
@@ -169,11 +169,11 @@ The Eagle Has Landed (1976) | sett, samling
 Apocalypse Now (1979) | sett, samling
 Life of Brian (1979) | sett, samling
 Monsters, Inc. (2001) | sett, samling
-Finding Nemo (2003) | sett, samling
-Sleeping Beauty (1959) | sett, samling
-The Little Mermaid (1989) | sett, samling
+Finding Nemo (2003) | sett, nedtonet, samling
+Sleeping Beauty (1959) | sett, nedtonet, samling
+The Little Mermaid (1989) | sett, nedtonet, samling
 Braindead (1992) | sett, samling
-Blues Brothers 2000 (1998) | sett, samling
+Blues Brothers 2000 (1998) | sett, nedtonet, samling
 Sympathy for Mr. Vengeance (2002) | sett, samling
 Oldboy (2003) | sett, samling
 Lady Vengeance (2005) | sett, samling
@@ -182,11 +182,11 @@ Taxi Driver (1976) | sett, samling
 Gomorrah (2008) | sett, samling
 Plan 9 from Outer Space (1957) | sett, samling
 Eternal Sunshine of the Spotless Mind (2004) | sett, samling
-Raising Arizona (1987) | sett, samling
+Raising Arizona (1987) | sett, nedtonet, samling
 The Tree of Life (2011) | sett, samling
 Toy Story (1995) | sett, samling
-Toy Story 2 (1999) | sett, samling
-Toy Story 3 (2010) | sett, samling
+Toy Story 2 (1999) | sett, nedtonet, samling
+Toy Story 3 (2010) | sett, nedtonet, samling
 Annie Hall (1977) | sett, samling
 Holy Motors (2012) | sett, samling
 Hannah and Her Sisters (1986) | vil-se, samling
@@ -211,7 +211,7 @@ Dogtooth (2009) | sett, samling
 Picnic at Hanging Rock (1975) | sett, samling
 Nashville (1975) | sett, samling
 Fellini Satyricon (1969) | sett, samling
-Beauty and the Beast (1991) | sett, samling
+Beauty and the Beast (1991) | sett, nedtonet, samling
 Band of Outsiders (1964) | sett, samling
 Swimming Pool (2003) | sett, samling
 Contempt (1963) | sett, samling
@@ -228,7 +228,7 @@ North by Northwest (1959) | sett, samling
 The Other Side of Hope (2017) | sett, samling
 La Notte (1961) | sett, samling
 Alice in Wonderland (1951) | sett, samling
-Peter Pan (1953) | sett, samling
+Peter Pan (1953) | sett, nedtonet, samling
 Alphaville (1965) | sett, samling
 Andrei Rublev (1966) | sett, samling
 Being There (1979) | sett, samling
@@ -249,13 +249,13 @@ Perfect Days (2023) | sett, samling
 Manhattan (1979) | sett, samling
 L'Avventura (1960) | sett, samling
 The Jungle Book (1967) | sett, samling
-Up (2009) | sett, samling
-Dyrene i Hakkebakkeskogen (2016) | sett, samling
+Up (2009) | sett, nedtonet, samling
+Dyrene i Hakkebakkeskogen (2016) | sett, nedtonet, samling
 Snow White and the Seven Dwarfs (1937) | sett, samling
-Pinocchio (1940) | sett, samling
-Mars & Venus (2007) | sett, samling
-Time Bandits (1981) | sett, samling
-The Lord of the Rings: The Return of the King (2003) | sett, samling
+Pinocchio (1940) | sett, nedtonet, samling
+Mars & Venus (2007) | sett, nedtonet, samling
+Time Bandits (1981) | sett, nedtonet, samling
+The Lord of the Rings: The Return of the King (2003) | sett, nedtonet, samling
 1941 (1979) | vil-se, samling
 The Fault in Our Stars (2014) | samling
 Micmacs (2009) | sett, samling

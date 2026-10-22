@@ -121,7 +121,11 @@ Vil du ha dem lokalt: `python3 tools/langtagning.py lists --local-images` (rundt
 
 ## Endre status, tanker og tagger fra nettsiden
 
-Filmene har tre knapper: **Sett**, **Vil se** og **Eier**. Detaljvisningen har i tillegg et felt for
+Filmene har tre knapper: **Sett**, **Vil se** og **Eier**. En sett film får i tillegg knappen **◌ Nedton**
+(«sett, men ikke interessant»). Nedtonede filmer skjules i Mitt utvalg – «N nedtonede skjult · vis» over filmene
+tar dem fram, dempet (`&muted=1`). I lister, på regissørsider og ved søk vises de alltid, og de teller som sett.
+I importfiler skrives det `Top Gun (1986) | nedtonet` (gir også «sett»), og `add` har `--nedtonet`.
+Detaljvisningen har i tillegg et felt for
 **Mine tanker** (lagres automatisk) og **tagger** (skriv og trykk Enter). Alt lagres i nettleseren
 (`js/store.js`, IndexedDB med localStorage som reserve). Butikken holder bare *endringer* oppå et grunnlag:
 
@@ -414,5 +418,24 @@ Eksempel: *Vis: TSPDT* + *Ikke sett* + *Regissør: Fellini* gir Fellini-klassike
 - Valgene lagres i adressen, så bokmerker og tilbake-knappen virker. Gamle bokmerker oversettes automatisk.
 - Detaljvisningen viser plasseringene over tid og Cinematekets omtale (lokalt).
 - Mørkt kinotema med lys variant (månen øverst til høyre). ⓘ viser «Om Langtagning».
+
+## Forslag til forbedringer
+
+### Legg til film som ikke ligger i noen liste (søk i Wikidata)
+
+I dag kan nettsiden bare vise filmer som ligger i `movies.js` eller `lists.js`. En ny film må slås opp i TMDB
+med skriptet og eierens nøkkel, så en venn kan ikke legge til en film som ikke står på noen liste.
+
+Forslag: en knapp «Legg til film» som søker i [Wikidata](https://www.wikidata.org/) rett fra nettleseren.
+
+- Wikidata trenger ingen nøkkel, og søket kan gjøres direkte fra siden. Da slipper vi en server og
+  holder TMDB-nøkkelen hemmelig.
+- Et treff gir tittel, år, regissør, IMDb-id og som regel TMDB-id.
+- Filmen lagres i nettleseren som de andre endringene. `Store.set` tar allerede imot `tmdb_id`, tittel og år.
+  Den vises med generert plakat, siden Wikidata ikke har plakater.
+- For eieren: `queue` kjenner TMDB-id-en og henter resten (data og plakat) inn i `movies.js`.
+- Må gjøres i `app.js`: filmer i lagringen som ikke finnes i katalogen må vises (i dag blir de nok ikke det).
+- Begrensning: smale filmer (kortfilmer, studentfilmer, festivalfilmer) mangler ofte i Wikidata.
+  Et enkelt skjema der man fyller inn tittel og år kan legges til senere hvis det trengs.
 
 Data og bilder fra [TMDB](https://www.themoviedb.org/). Dette produktet bruker TMDB API, men er ikke godkjent eller sertifisert av TMDB.

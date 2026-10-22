@@ -64,7 +64,19 @@ STATUS_WORDS = {
     "samling": "owned", "i-samlingen": "owned", "eier": "owned", "owned": "owned",
     # gamle navn – betyr det samme som «samling»
     "dvd": "owned", "bluray": "owned", "blu-ray": "owned", "br": "owned", "blu ray": "owned",
+    # sett, men ikke interessant – skjules i Mitt utvalg
+    "nedtonet": "muted", "nedton": "muted", "muted": "muted",
 }
+STATUS_KEYS = ("seen", "want", "owned", "muted")
+
+
+def norm_status(st):
+    """Fast form på status. «Nedtonet» (muted) er en variant av Sett og gjelder bare sette filmer."""
+    st = st or {}
+    out = {k: bool(st.get(k)) for k in STATUS_KEYS}
+    out["owned"] = bool(st.get("owned") or st.get("dvd") or st.get("bluray"))
+    out["muted"] = out["seen"] and out["muted"]
+    return out
 
 
 class Fail(Exception):
@@ -99,8 +111,7 @@ def load_db():
     for m in movies:
         st = m.get("status")
         if isinstance(st, dict) and ("dvd" in st or "bluray" in st):
-            owned = bool(st.get("owned") or st.get("dvd") or st.get("bluray"))
-            m["status"] = {"seen": bool(st.get("seen")), "want": bool(st.get("want")), "owned": owned}
+            m["status"] = norm_status(st)
     return header, movies
 
 
@@ -134,7 +145,7 @@ def unique_id(movies, title, year):
 
 def blank_movie():
     return {
-        "status": {"seen": False, "want": False, "owned": False},
+        "status": norm_status({}),
         "tags": [], "description": "", "links": {"bfi": "", "rt": ""},
         "added": dt.date.today().isoformat(),
     }
@@ -458,6 +469,8 @@ def merge_personal(m, status=None, tags=None, description=None):
     for k, v in (status or {}).items():
         if v:
             m["status"][k] = True
+    if m["status"].get("muted"):
+        m["status"]["seen"] = True
     for t in tags or []:
         if t not in m["tags"]:
             m["tags"].append(t)
@@ -502,13 +515,18 @@ def parse_status(words):
     for w in words:
         k = STATUS_WORDS.get(w.strip().lower())
         if not k:
-            raise Fail(f"Ukjent status «{w}». Bruk: sett, vil-se, samling")
+            raise Fail(f"Ukjent status «{w}». Bruk: sett, vil-se, samling, nedtonet")
         st[k] = True
+    if st.get("muted"):
+        st["seen"] = True  # nedtonet = sett, men ikke interessant
     return st
 
 
 def status_from_args(a):
-    return {k: True for k in ("seen", "want", "owned") if getattr(a, k)}
+    st = {k: True for k in STATUS_KEYS if getattr(a, k)}
+    if st.get("muted"):
+        st["seen"] = True
+    return st
 
 
 def cmd_add(a):
@@ -680,7 +698,7 @@ def parse_queue(path):
             mt = LINE_RE.match(parts[0])
             words = re.split(r"[,\s]+", (parts[1] if len(parts) > 1 else "").lower().replace("vil se", "vil-se"))
             words = [w for w in words if w and w != "ingen"]
-            status = {"seen": False, "want": False, "owned": False}
+            status = norm_status({})
             status.update(parse_status(words))
             it = {"title": mt.group(1).strip(), "year": int(mt.group(2)) if mt.group(2) else None,
                   "tmdb": tid, "id": fid, "status": status, "updated": updated}
@@ -713,7 +731,7 @@ def parse_export(path):
               "id": None if rid.startswith("tmdb:") else rid or None,
               "updated": r.get("updated") or data.get("exported") or iso_mtime(path)}
         if isinstance(r.get("status"), dict):
-            it["status"] = {k: bool(r["status"].get(k)) for k in ("seen", "want", "owned")}
+            it["status"] = norm_status(r["status"])
         if isinstance(r.get("note"), str):
             it["note"] = r["note"]
         if isinstance(r.get("tags"), list):
@@ -723,7 +741,7 @@ def parse_export(path):
 
 
 def status_words(st):
-    w = [x for k, x in (("seen", "sett"), ("want", "vil-se"), ("owned", "samling")) if st.get(k)]
+    w = [x for k, x in (("seen", "sett"), ("muted", "nedtonet"), ("want", "vil-se"), ("owned", "samling")) if st.get(k)]
     return ", ".join(w) or "ingen"
 
 
@@ -776,7 +794,7 @@ def cmd_queue(a):
         if existing:
             what = []
             if "status" in it:
-                old = {k: bool((existing.get("status") or {}).get(k)) for k in ("seen", "want", "owned")}
+                old = norm_status(existing.get("status"))
                 if old != it["status"]:
                     existing["status"] = dict(it["status"])
                     what.append(f"status: {status_words(it['status'])}")
@@ -801,7 +819,7 @@ def cmd_queue(a):
             print(f"✗ {it['title']}: {e}")
             continue
         if m:
-            m["status"] = {k: bool(st.get(k)) for k in ("seen", "want", "owned")}
+            m["status"] = norm_status(st)
             if "tags" in it:
                 m["tags"] = list(it["tags"])
             if "note" in it:
@@ -2254,6 +2272,8 @@ def main():
         sp.add_argument("--want", "--vil-se", action="store_true", help="merk som «vil se»")
         sp.add_argument("--owned", "--samling", "--dvd", "--bluray", dest="owned", action="store_true",
                         help="i samlingen (har den på DVD/Blu-ray)")
+        sp.add_argument("--muted", "--nedtonet", dest="muted", action="store_true",
+                        help="sett, men ikke interessant (skjules i Mitt utvalg; gir også --seen)")
         sp.add_argument("--tag", action="append", help="legg til tagg (kan gjentas)")
 
     s = sub.add_parser("add", help="legg til én film")
