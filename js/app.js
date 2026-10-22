@@ -293,7 +293,7 @@
     if ("tags" in patch) out.tags = sameTags(patch.tags, b.tags) ? undefined : patch.tags;
     Store.set(f._rec ? f._rec.id : keyOf(f), out, { tmdb_id: f.tmdb_id || undefined, title: f.title, year: f.year || undefined });
     applyChanges();
-    renderQueueBar();
+    renderDataDot();
   }
 
   function toggleStatus(f, key) {
@@ -333,7 +333,7 @@
     const name = Store.getMeta("name") || (OWNER ? "knut" : "");
     const obj = Store.exportJSON({ name, owner: OWNER });
     download(`langtagning-${slug(name) || "mine"}-${obj.exported.slice(0, 10)}.json`, JSON.stringify(obj, null, 1), "application/json");
-    renderQueueBar();
+    renderDataDot();
   }
   const daysSince = (iso) => iso ? Math.floor((Date.now() - Date.parse(iso)) / 864e5) : Infinity;
   const agoText = (iso) => { const d = daysSince(iso); return d === Infinity ? "" : d <= 0 ? "i dag" : d === 1 ? "i går" : `for ${d} dager siden`; };
@@ -346,38 +346,14 @@
     return b("seen", "Sett", "✓") + mute + b("want", "Vil se", "+") + b("owned", "Eier", "◉");
   }
 
-  // Påminnelse om backup (venner): etter 25 endringer eller 14 dager uten eksport
-  function reminderDue() {
-    if (OWNER) return false;
-    const s = Store.stats();
-    if (!s.changes || !myFilms.length) return false;
-    const snooze = Store.getMeta("snoozeUntil");
-    if (snooze && snooze > new Date().toISOString()) return false;
-    return s.changes >= 25 || daysSince(s.lastExport || s.created) >= 14;
-  }
-
-  // Stripen nederst: køen (eier) eller påminnelse om backup (venn)
-  function renderQueueBar() {
-    const bar = $("#qbar");
-    if (!bar) return;
-    if (!OWNER) {
-      bar.classList.remove("mini");
-      bar.hidden = !reminderDue();
-      if (bar.hidden) return;
-      const n = Store.stats().changes;
-      bar.innerHTML = `
-        <div class="qbar-inner">
-          <span class="qbar-count">Du har <strong>${n}</strong> ${n === 1 ? "endring" : "endringer"} siden siste backup</span>
-          <span class="qbar-file">Dataene ligger bare i denne nettleseren. Last ned en kopi, så kan du hente dem inn igjen senere.</span>
-          <div class="qbar-actions"><button class="btn-primary" data-q="export">Last ned</button><button class="btn-ghost" data-q="snooze">Senere</button></div>
-        </div>`;
-      return;
-    }
-    // Eier: lite merke om endringer som ikke er lagt inn i movies.js – detaljene ligger i «Mine data»
-    const n = Store.all().length;
-    bar.hidden = !n;
-    bar.classList.add("mini");
-    if (n) bar.innerHTML = `<button class="qbar-count" data-q="mydata" title="Eksporter under Mine data, og kjør python3 tools/langtagning.py queue"><strong>${n}</strong> ${n === 1 ? "endring" : "endringer"} ikke lagt inn <span>→ Mine data</span></button>`;
+  // Rød prikk på «Mine data»: eier – endringer som ikke er lagt inn i movies.js; venn – endringer siden siste backup
+  function renderDataDot() {
+    const n = OWNER ? Store.all().length : myFilms.length ? Store.stats().changes : 0;
+    const what = `${n} ${n === 1 ? "endring" : "endringer"}`;
+    $("#mydata-dot").hidden = !n;
+    $("#mydata-open").title = !n ? "Mine data – eksport og import"
+      : OWNER ? `Mine data – ${what} ikke lagt inn (eksporter, og kjør python3 tools/langtagning.py queue)`
+      : `Mine data – ${what} siden siste backup (last ned en kopi)`;
   }
 
   // ---------- Tilstand (lagres i URL-en, så lenker og tilbake-knapp virker) ----------
@@ -412,8 +388,16 @@
   }
   for (const f of allFilms) f.decade = f.decade || (f.year ? `${Math.floor(f.year / 10) * 10}` : "");
 
+  // Underlister = tagger. «knut:‹navn›» er Knuts lister – venner kan filtrere på dem i Knuts utvalg
+  const KNUT_TAG = "knut:";
+  const isKnutTag = (t) => t.startsWith(KNUT_TAG);
+  const hasTag = (f, t) => isKnutTag(t) ? f.knut.tags.includes(t.slice(KNUT_TAG.length)) : f.tags.includes(t);
+  const tagLabel = (t) => isKnutTag(t) ? `Knut: ${t.slice(KNUT_TAG.length)}` : t;
+  // Plukkemodus: hele utvalget vises, og ★ legger filmer i (eller tar dem ut av) den ene valgte listen
+  const pickTag = () => state.pick && state.tags.length === 1 && !isKnutTag(state.tags[0]) ? state.tags[0] : "";
+
   const blank = () => ({
-    src: "", st: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "", kino: "", muted: "",
+    src: "", st: "", status: "all", stream: "", shorts: "", q: "", director: "", country: "", award: "", list: "", decade: "", actor: "", kino: "", muted: "", pick: "",
     tags: [], sort: "", layout: "", film: "",
   });
   let state = blank();
@@ -437,6 +421,7 @@
     if (p.get("sort") === "rank") s.sort = "list";
     if (s.src && !sourceOf(s.src, s)) s.src = "";
     if (s.st !== "knut" || s.src !== "knut") s.st = "";
+    s.pick = s.pick && s.tags.length === 1 && !isKnutTag(s.tags[0]) ? "1" : "";
     if (!STATUSES.some((x) => x.key === s.status) || (s.status === "missing" && (!s.src || s.st))) s.status = "all";
     return s;
   }
@@ -502,8 +487,9 @@
 
   // ---------- Filtrering ----------
 
-  // Nedtonede filmer skjules i Mitt utvalg – men ikke i lister, ved søk, eller når de er slått på (&muted=1)
-  const mutedHidden = (f) => f.status.muted && !src && !state.muted && !state.q;
+  // Nedtonede filmer skjules i Mitt utvalg – men ikke i lister, ved søk, når en av dine lister er valgt,
+  // eller når de er slått på (&muted=1)
+  const mutedHidden = (f) => f.status.muted && !src && !state.muted && !state.q && !state.tags.length;
 
   function passes(f, skip) {
     if (skip !== "muted" && mutedHidden(f)) return false;
@@ -513,7 +499,7 @@
     for (const fc of FACETS) {
       if (skip !== fc.key && state[fc.key] && !fc.values(f).includes(state[fc.key])) return false;
     }
-    if (skip !== "tags" && state.tags.length && !state.tags.every((t) => f.tags.includes(t))) return false;
+    if (skip !== "tags" && !pickTag() && state.tags.length && !state.tags.every((t) => hasTag(f, t))) return false;
     if (state.q) {
       const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
       if (!words.every((w) => f._search.includes(w))) return false;
@@ -617,9 +603,10 @@
     let html = state.src.startsWith("dir:") ? opt(state.src, `Regissør: ${state.src.slice(4)}`) : "";
     html += opt("", `Mitt utvalg (${myFilms.length})`);
     if (!OWNER) html += opt("knut", `Knuts utvalg (${movies.length})`);
-    for (const c of CINEMAS) if (c.prog.size) html += opt(`kino:${c.key}`, `${c.name} – programmet (${sourceOf(`kino:${c.key}`).size})`);
+    const kinoOpts = CINEMAS.filter((c) => c.prog.size).map((c) => opt(`kino:${c.key}`, `${c.name} – programmet (${sourceOf(`kino:${c.key}`).size})`)).join("");
+    if (kinoOpts || lists.length) html += '<option disabled>──── Kuratert av andre ────</option>';
+    if (kinoOpts) html += `<optgroup label="Kino">${kinoOpts}</optgroup>`;
     if (lists.length) {
-      html += '<option disabled>──── Kuratert av andre ────</option>';
       for (const s of seriesNames) {
         let o = "";
         if (annualSeries.includes(s) && seriesLists(s).length === 1) {
@@ -644,6 +631,42 @@
   }
 
   // Status-knapper (tall følger filtrene) + «Strømming»
+  // Valgene i «Mer»-menyen – teller følger alle andre filtre
+  function moreItems() {
+    const items = [];
+    if (myServices().length) items.push({
+      k: "stream", icon: "▶", label: "Strømming", n: baseFilms.filter((f) => passes(f, "stream") && streamable(f)).length,
+      desc: myServices().map((s) => (s === "Filmoteket" ? "Filmoteket (lån)" : s)).join(", "),
+    });
+    const kinos = CINEMAS.filter((c) => c.prog.size);
+    if (kinos.length && !(src && src.kind === "kino")) items.push({  // i et kinoprogram går alle filmene på kino
+      k: "kino", icon: "🎬", label: "På kino", n: baseFilms.filter((f) => passes(f, "kino") && playingAt(f).length).length,
+      desc: `${kinos.map((c) => c.name).join(" og ")} de neste ukene`,
+    });
+    return items;
+  }
+
+  let moreOpen = false;
+  function renderMoreMenu() {
+    $("#moremenu").innerHTML = `<div class="lp-list">${moreItems().map((x) =>
+      `<button class="mm-row mm-${x.k}" data-toggle="${x.k}" aria-pressed="${!!state[x.k]}"><span class="mm-ic">${x.icon}</span><span class="mm-text"><b>${esc(x.label)}</b><small>${esc(x.desc)}</small></span><span class="mm-n">${x.n}</span></button>`).join("")}</div>`;
+  }
+  // Plasser en meny under knappen (PC). På mobil er den et ark nederst (CSS).
+  function placePop(el, btn) {
+    const r = btn.getBoundingClientRect();
+    el.style.setProperty("--lp-top", `${r.bottom + 8}px`);
+    el.style.setProperty("--lp-left", `${Math.max(8, Math.min(r.left, window.innerWidth - 308))}px`);
+  }
+  function openMore(open) {
+    moreOpen = open;
+    $("#moremenu").hidden = !open;
+    const b = $("[data-more]");
+    if (b) b.setAttribute("aria-expanded", String(open));
+    if (!open || !b) return;
+    placePop($("#moremenu"), b);
+    renderMoreMenu();
+  }
+
   function renderStatus() {
     const base = baseFilms.filter((f) => passes(f, "status"));
     // I «Knuts utvalg»: velg om statusfilteret gjelder dine eller Knuts statuser
@@ -651,17 +674,14 @@
       ? `<span class="whose" role="group" aria-label="Filtrer på"><span>Filtrer på</span><button data-st="" aria-pressed="${!state.st}">Mine</button><button data-st="knut" aria-pressed="${state.st === "knut"}">Knuts</button></span>` : "";
     html += STATUSES.filter((s) => !s.listsOnly || (src && !state.st)).map((s) =>
       `<button class="tab" data-status="${s.key}" aria-pressed="${state.status === s.key}">${s.label}<span class="n">${base.filter((f) => matchStatus(f, s.key)).length}</span></button>`).join("");
-    if (myServices().length) {
-      const n = baseFilms.filter((f) => passes(f, "stream") && streamable(f)).length;
-      const where = myServices().map((s) => (s === "Filmoteket" ? "Filmoteket (lån med bibliotekkortet)" : s)).join(", ");
-      html += `<button class="tab stream-toggle" data-stream aria-pressed="${!!state.stream}" title="Bare filmer som kan sees på ${esc(where)}">▶ Strømming<span class="n">${n}</span></button>`;
-    }
-    const kinos = CINEMAS.filter((c) => c.prog.size);
-    if (kinos.length && !(src && src.kind === "kino")) {  // i et kinoprogram går alle filmene på kino
-      const n = baseFilms.filter((f) => passes(f, "kino") && playingAt(f).length).length;
-      html += `<button class="tab kino-toggle" data-kino aria-pressed="${!!state.kino}" title="Bare filmer som går på ${esc(kinos.map((c) => c.name).join(" eller "))} de neste ukene">🎬 På kino<span class="n">${n}</span></button>`;
+    // «Mer»: Strømming og På kino samlet i én knapp. Knappen viser det som er slått på.
+    const more = moreItems(), on = more.filter((x) => state[x.k]);
+    if (more.length) {
+      const label = on.length === 1 ? `${on[0].icon} ${on[0].label}` : on.length ? `Mer · ${on.length}` : "Mer";
+      html += `<button class="tab more-toggle${on.length === 1 ? ` on-${on[0].k}` : ""}" data-more aria-haspopup="dialog" aria-expanded="${moreOpen}" aria-pressed="${on.length > 0}" title="Strømming og kino">${esc(label)}<span class="caret">▾</span></button>`;
     }
     $("#tabs").innerHTML = html;
+    if (moreOpen) renderMoreMenu();
     for (const b of document.querySelectorAll("#layoutpick [data-layout]")) b.setAttribute("aria-pressed", String(b.dataset.layout === layoutKey()));
   }
 
@@ -735,15 +755,6 @@
       }
     }
 
-    const tagCounts = new Map();
-    for (const m of baseFilms) if (passes(m, "tags")) for (const t of m.tags) tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
-    for (const t of state.tags) if (!tagCounts.has(t)) tagCounts.set(t, 0);
-    if (tagCounts.size) {
-      const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1] || collator.compare(a[0], b[0]));
-      html += `<div class="field"><span>Tagger</span><div class="tagcloud">` +
-        tags.map(([t, n]) => `<button class="tagbtn" data-tag="${esc(t)}" aria-pressed="${state.tags.includes(t)}">${esc(t)}<small>${n}</small></button>`).join("") +
-        `</div></div>`;
-    }
     $("#facets").innerHTML = html;
     const sortSel = $("#sort");
     sortSel.querySelector('option[value="list"]').hidden = !src;
@@ -760,16 +771,31 @@
     if (state.stream) chips.push({ k: "stream", label: "Strømming" });
     if (state.kino) chips.push({ k: "kino", label: "På kino" });
     for (const f of FACETS) if (state[f.key]) chips.push({ k: f.key, label: `${f.label}: ${f.name(state[f.key])}` });
-    for (const t of state.tags) chips.push({ k: "tag", v: t, label: `#${t}` });
+    for (const t of state.tags) chips.push({ k: "tag", v: t, label: `#${tagLabel(t)}` });
     $("#chips").innerHTML = chips.map((c) =>
       `<button class="chip" data-clear="${c.k}" data-v="${esc(c.v || "")}" title="Fjern filter">${esc(c.label)}${ICON_X}</button>`).join("");
     $("#filter-dot").hidden = !chips.filter((c) => c.k !== "q").length;
   }
 
+  // Dempet: nedtonet (i Knuts utvalg også Knuts nedtonede) – eller, i plukkemodus, ikke i listen
+  const dimmed = (f) => pickTag() ? !f.tags.includes(pickTag())
+    : f.status.muted || (!!src && src.kind === "knut" && f.knut.status.muted);
+  // ★/☆ i plukkemodus. På kortet er det et span (kortet er selv en knapp), i raden en ekte knapp.
+  function pickHTML(f, tag) {
+    const t = pickTag();
+    if (!t || !canEdit(f)) return "";
+    const on = f.tags.includes(t);
+    const title = esc(on ? `Fjern fra ${t}` : `Legg i ${t}`);
+    return tag === "span"
+      ? `<span class="pick" role="button" data-pick="${esc(f.id)}" aria-pressed="${on}" title="${title}">${on ? "★" : "☆"}</span>`
+      : `<button class="act pick" data-pick="${esc(f.id)}" aria-pressed="${on}" title="${title}">${on ? "★" : "☆"}<span>${esc(t)}</span></button>`;
+  }
+
   function cardHTML(m, i) {
     return `
-      <button class="card${m.status.muted ? " is-muted" : ""}" data-id="${esc(m.id)}" style="animation-delay:${Math.min(i % CHUNK, 24) * 18}ms">
+      <button class="card${dimmed(m) ? " is-muted" : ""}" data-id="${esc(m.id)}" style="animation-delay:${Math.min(i % CHUNK, 24) * 18}ms">
         <div class="poster">
+          ${pickHTML(m, "span")}
           ${posterHTML(m)}
           ${badgesHTML(m)}
           <div class="hover">${esc(m.directors.join(", "))}${m.countries.length ? `<br>${esc(m.countries.map(countryName).join(", "))}` : ""}</div>
@@ -812,14 +838,14 @@
     const rank = src && isRanked(src) && e ? `${e.tied ? "<small>=</small>" : ""}${e.rank}`
       : src && (src.kind === "group" && !src.coll || src.numbered) && e && sortKey() === "list" ? `${e.tied ? "<small>=</small>" : ""}${e.rank}` : "";
     const orig = f.original_title && f.original_title !== f.title ? `<span class="lv-orig">${esc(f.original_title)}</span>` : "";
-    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${canEdit(f) ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._mine ? "" : " is-missing"}${f.status.seen ? " is-seen" : ""}${f.status.muted ? " is-muted" : ""}" data-id="${esc(f.id)}">
+    return `${showGroup ? `<li class="lv-yearhead">${esc(x.group)}</li>` : ""}<li class="lv-item${canEdit(f) ? " has-act" : ""}" style="animation-delay:${Math.min(i % CHUNK, 30) * 12}ms"><button class="lv-row${f._mine ? "" : " is-missing"}${f.status.seen ? " is-seen" : ""}${dimmed(f) ? " is-muted" : ""}" data-id="${esc(f.id)}">
         <span class="lv-rank">${rank}</span>
         <span class="lv-thumb">${posterHTML(f)}</span>
         <span class="lv-text"><b>${esc(f.title)}</b>${orig}
           <span class="lv-meta">${esc(f.year || (e && e.year) || "")}${f.directors.length ? " · " + esc(f.directors.join(", ")) : ""}${f.countries.length ? " · " + esc(f.countries.map(countryName).join(", ")) : ""}</span>${miniTags(f)}</span>
         <span class="lv-status">${canEdit(f) ? queuedPill(f) : statusPills(f)}</span>
         <span class="lv-mv">${src && e ? movement(src, e) : ""}</span>
-      </button>${canEdit(f) ? `<div class="lv-act">${actionsHTML(f)}</div>` : ""}</li>`;
+      </button>${canEdit(f) ? `<div class="lv-act">${pickHTML(f)}${actionsHTML(f)}</div>` : ""}</li>`;
   }
 
   // Resultater tegnes i bolker – store lister (TSPDT 1000) blir ikke trege
@@ -834,9 +860,9 @@
     $("#more").hidden = shown >= (rows ? items.length : current.length);
   }
 
-  // «38 nedtonede skjult · vis» / «inkl. 38 nedtonede · skjul» – bare i Mitt utvalg, ikke ved søk
+  // «38 nedtonede skjult · vis» / «inkl. 38 nedtonede · skjul» – bare i Mitt utvalg uten søk eller valgt liste
   function mutedNote() {
-    if (src || state.q) return "";
+    if (src || state.q || state.tags.length) return "";  // der vises de uansett (se mutedHidden)
     const m = baseFilms.filter((f) => f.status.muted && passes(f, "muted")).length;
     if (!m) return "";
     return state.muted
@@ -848,7 +874,10 @@
     const rows = layoutKey() === "rows";
     const total = baseFilms.filter((f) => !mutedHidden(f)).length;
     const n = current.length;
-    $("#count").innerHTML = (n === total
+    const pt = pickTag();
+    $("#count").innerHTML = pt
+      ? `Plukker til <strong>${esc(pt)}</strong> · ${allFilms.filter((f) => f.tags.includes(pt)).length} i listen <button class="btn-primary pick-done" data-pickdone>Ferdig</button>`
+      : (n === total
       ? `<strong>${total}</strong> ${total === 1 ? "film" : "filmer"}`
       : `<strong>${n}</strong> av ${total} filmer`) + mutedNote();
     $("#empty").hidden = n > 0;
@@ -876,12 +905,102 @@
     }).join("");
   }
 
+  // ---------- Mine lister (tagger) ----------
+
+  let pickOpen = false, pickQuery = "";
+  // Alle lister (tagger) som finnes, med antall i gjeldende visning (følger alt unntatt listevalget)
+  function listGroups() {
+    const count = (t) => baseFilms.filter((f) => passes(f, "tags") && hasTag(f, t)).length;
+    const mk = (names, pre) => [...new Set(names)].sort(collator.compare).map((x) => ({ t: pre + x, name: x }));
+    const mine = mk([...allFilms.flatMap((f) => (f._mine || f.tags.length ? f.tags : [])), ...state.tags.filter((t) => !isKnutTag(t))], "");
+    const groups = [];
+    if (!OWNER && src && src.kind === "knut") {
+      groups.push({ label: "Knuts lister", items: mk(movies.flatMap((m) => m.knut.tags), KNUT_TAG) });
+      groups.push({ label: "Mine lister", items: mine });
+    } else groups.push({ label: "", items: mine });
+    for (const g of groups) for (const x of g.items) x.n = count(x.t);
+    return groups;
+  }
+
+  function renderListButton() {
+    const sel = state.tags;
+    const names = sel.map(tagLabel);
+    const label = !sel.length ? "Lister" : sel.length === 1 ? names[0]
+      : sel.length === 2 && names.join(" + ").length <= 26 ? names.join(" + ") : `${sel.length} lister`;
+    $("#list-btn-label").textContent = label;
+    $("#list-btn").classList.toggle("active", sel.length > 0);
+    $("#list-btn").title = sel.length ? `Lister: ${names.join(", ")}` : "Mine lister";
+    $("#list-clear").hidden = !sel.length;
+    if (pickOpen) renderListPick();
+  }
+
+  function renderListPick() {
+    const box = $("#listpick");
+    const q = fold(pickQuery);
+    const groups = listGroups();
+    const any = groups.some((g) => g.items.length);
+    const row = (x) => `<label class="lp-row${x.n ? "" : " is-empty"}"><input type="checkbox" data-tag="${esc(x.t)}"${state.tags.includes(x.t) ? " checked" : ""}><span>${esc(x.name)}</span><small>${x.n}</small></label>`;
+    let html = "";
+    for (const g of groups) {
+      const items = g.items.filter((x) => !q || fold(x.name).includes(q));
+      if (!items.length) continue;
+      if (g.label) html += `<p class="lp-group">${esc(g.label)}</p>`;
+      html += items.map(row).join("");
+    }
+    const exact = groups.some((g) => g.items.some((x) => !isKnutTag(x.t) && fold(x.name) === q));
+    const newName = pickQuery.trim().replace(/^#/, "");
+    html += newName && !exact
+      ? `<button class="lp-new" data-newlist="${esc(newName)}">＋ Ny liste «${esc(newName)}»</button>`
+      : `<button class="lp-new" data-newlist="">＋ Ny liste</button>`;
+    const pt = state.tags.length === 1 && !isKnutTag(state.tags[0]) ? state.tags[0] : "";
+    const tools = pt ? `<div class="lp-tools"><span>${esc(pt)}:</span>
+        <button class="linklike" data-picktoggle>${state.pick ? "Avslutt plukking" : "★ Plukk filmer"}</button>
+        <button class="linklike" data-rename>✎ Endre navn</button>
+        <button class="linklike" data-dellist>Slett listen</button></div>` : "";
+    const keep = document.activeElement && document.activeElement.id === "lp-q";
+    const pos = keep ? document.activeElement.selectionStart : null;
+    box.innerHTML = `
+      <div class="lp-head"><input id="lp-q" type="search" placeholder="${any ? "Søk i listene …" : "Navn på første liste …"}" value="${esc(pickQuery)}" autocomplete="off" aria-label="Søk i listene"><button class="linklike" data-lpclose>Ferdig</button></div>
+      <div class="lp-list">${html}</div>${tools}`;
+    if (keep) { const i = $("#lp-q"); i.focus(); i.setSelectionRange(pos, pos); }
+  }
+
+  function openListPick(open) {
+    pickOpen = open;
+    $("#listpick").hidden = !open;
+    $("#list-btn").setAttribute("aria-expanded", String(open));
+    if (!open) return;
+    // PC: under knappen. Mobil: ark nederst (CSS).
+    placePop($("#listpick"), $("#list-btn"));
+    pickQuery = "";
+    renderListPick();
+    $("#lp-q").focus();
+  }
+
+  // Bytt navn på en liste (to = null sletter den) – filmene beholdes. Finnes navnet fra før, slås listene sammen.
+  function renameTag(from, to) {
+    const films = allFilms.filter((f) => canEdit(f) && f.tags.includes(from));
+    for (const f of films) {
+      const tags = f.tags.filter((t) => t !== from);
+      if (to && !tags.includes(to)) tags.push(to);
+      saveChange(f, { tags });
+    }
+    return films.length;
+  }
+
+  function togglePick(f) {
+    const t = pickTag();
+    if (!f || !t || !canEdit(f)) return;
+    saveChange(f, { tags: f.tags.includes(t) ? f.tags.filter((x) => x !== t) : [...f.tags, t] });
+  }
+
   function render() {
     renderWelcome();
     renderSuggest();
     computeBase();
     computeItems();
     renderSource();
+    renderListButton();
     renderStatus();
     renderSourceHead();
     renderFacets();
@@ -1024,13 +1143,13 @@
   // Dine egne felt: statusknapper, «Mine tanker» (lagres automatisk) og tagger (skriv og trykk Enter)
   function mineHTML(m) {
     if (!canEdit(m)) return "";
-    const tags = m.tags.map((t) => `<span class="tagchip"><button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button><button class="tag-x" data-untag="${esc(t)}" aria-label="Fjern taggen ${esc(t)}">×</button></span>`).join("");
+    const tags = m.tags.map((t) => `<span class="tagchip"><button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button><button class="tag-x" data-untag="${esc(t)}" aria-label="Fjern fra listen ${esc(t)}">×</button></span>`).join("");
     const known = [...new Set(myFilms.flatMap((f) => f.tags))].sort(collator.compare);
     return `<section class="mine">
       <div class="act-row">${actionsHTML(m)}</div>
       <label class="note note-edit"><span class="note-label">Mine tanker</span>
         <textarea id="d-note" rows="2" placeholder="Hva gjorde filmen med deg? Lagres automatisk.">${esc(m.note)}</textarea></label>
-      <div class="tagedit"><span class="tagedit-label">Tagger</span>${tags}<input id="d-tag" type="text" list="d-taglist" placeholder="${m.tags.length ? "Ny tagg" : "Legg til tagg"} + Enter" enterkeyhint="done" autocomplete="off" aria-label="Ny tagg"><datalist id="d-taglist">${known.map((t) => `<option value="${esc(t)}">`).join("")}</datalist></div>
+      <div class="tagedit"><span class="tagedit-label">Lister</span>${tags}<input id="d-tag" type="text" list="d-taglist" placeholder="${m.tags.length ? "Legg i flere" : "Legg i liste"} + Enter" enterkeyhint="done" autocomplete="off" aria-label="Legg i liste"><datalist id="d-taglist">${known.map((t) => `<option value="${esc(t)}">`).join("")}</datalist></div>
       ${OWNER ? `<p class="mine-hint">${m._queued ? "Endringen er ikke lagt inn i movies.js ennå." : "Endringer lagres i nettleseren."} Eksporter under <b>Mine data</b>, og kjør <code>python3 tools/langtagning.py queue</code>.</p>` : ""}
     </section>`;
   }
@@ -1066,7 +1185,7 @@
       (dirByName.has(d) ? ` <button class="filmo" data-goto="dir:${esc(d)}">Hele filmografien →</button>` : "")).join(", ")]);
     if (m.countries.length) rows.push(["Land", filterBtns("country", m.countries, countryName)]);
     if (m.cast.length) rows.push(["Medvirkende", filterBtns("actor", m.cast)]);
-    if (m.tags.length && !canEdit(m)) rows.push(["Tagger", m.tags.map((t) => `<button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button>`).join(" ")]);
+    if (m.tags.length && !canEdit(m)) rows.push(["Lister", m.tags.map((t) => `<button class="linklike" data-tagfilter="${esc(t)}">#${esc(t)}</button>`).join(" ")]);
 
     const showOrig = m.original_title && m.original_title !== m.title;
     dialog.innerHTML = `
@@ -1236,6 +1355,75 @@
 
   $("#count").addEventListener("click", (e) => {
     if (e.target.closest("[data-muted]")) { state.muted = state.muted ? "" : "1"; update(); }
+    if (e.target.closest("[data-pickdone]")) { state.pick = ""; update(); }
+  });
+
+  $("#list-btn").addEventListener("click", () => openListPick(!pickOpen));
+  $("#list-clear").addEventListener("click", () => { state.tags = []; state.pick = ""; update(); });
+  $("#listpick").addEventListener("change", (e) => {
+    const c = e.target.closest("[data-tag]");
+    if (!c) return;
+    const t = c.dataset.tag;
+    state.tags = c.checked ? [...state.tags.filter((x) => x !== t), t] : state.tags.filter((x) => x !== t);
+    if (state.tags.length !== 1) state.pick = "";
+    update();
+  });
+  $("#listpick").addEventListener("input", (e) => {
+    if (e.target.id !== "lp-q") return;
+    pickQuery = e.target.value;
+    renderListPick();
+  });
+  function newList(name) {
+    name = (name || prompt("Navn på ny liste") || "").trim().replace(/^#/, "");
+    if (!name) return;
+    state.tags = [name];
+    state.pick = "1";  // tom liste: begynn å plukke med en gang
+    openListPick(false);
+    update();
+  }
+  $("#listpick").addEventListener("keydown", (e) => {
+    if (e.key === "Escape") { e.stopPropagation(); openListPick(false); $("#list-btn").focus(); }
+    if (e.key === "Enter" && e.target.id === "lp-q") {
+      e.preventDefault();
+      const nb = $("[data-newlist]", $("#listpick"));
+      const first = $("[data-tag]", $("#listpick"));
+      if (first) first.click();  // velg første treff – ny liste bare når ingenting passer
+      else if (nb && nb.dataset.newlist) newList(nb.dataset.newlist);
+    }
+  });
+  $("#listpick").addEventListener("click", (e) => {
+    if (e.target.closest("[data-lpclose]")) return openListPick(false);
+    const nb = e.target.closest("[data-newlist]");
+    if (nb) return newList(nb.dataset.newlist);
+    const t = state.tags[0];
+    if (e.target.closest("[data-picktoggle]")) { state.pick = state.pick ? "" : "1"; openListPick(false); return update(); }
+    if (e.target.closest("[data-rename]")) {
+      const to = (prompt(`Nytt navn på «${t}»`, t) || "").trim().replace(/^#/, "");
+      if (!to || to === t) return;
+      renameTag(t, to);
+      state.tags = [to];
+      return update();
+    }
+    if (e.target.closest("[data-dellist]")) {
+      const n = allFilms.filter((f) => canEdit(f) && f.tags.includes(t)).length;
+      if (!confirm(`Slette listen «${t}»? Den fjernes fra ${n} ${n === 1 ? "film" : "filmer"} – filmene beholdes.`)) return;
+      renameTag(t, null);
+      state.tags = []; state.pick = "";
+      openListPick(false);
+      return update();
+    }
+  });
+  $("#moremenu").addEventListener("click", (e) => {
+    const t = e.target.closest("[data-toggle]");
+    if (!t) return;
+    state[t.dataset.toggle] = state[t.dataset.toggle] ? "" : "1";
+    update();  // menyen blir stående åpen, så begge kan slås på
+  });
+  // Klikk utenfor lukker velgeren og «Mer»-menyen
+  document.addEventListener("click", (e) => {
+    if (!e.target.isConnected) return;
+    if (pickOpen && !e.target.closest("#listwrap, #listpick")) openListPick(false);
+    if (moreOpen && !e.target.closest("[data-more], #moremenu")) openMore(false);
   });
 
   $("#tabs").addEventListener("click", (e) => {
@@ -1247,8 +1435,7 @@
       if (state.st && state.status === "missing") state.status = "all";
       return update();
     }
-    if (e.target.closest("[data-stream]")) { state.stream = state.stream ? "" : "1"; return update(); }
-    if (e.target.closest("[data-kino]")) { state.kino = state.kino ? "" : "1"; update(); }
+    if (e.target.closest("[data-more]")) openMore(!moreOpen);
   });
 
   $("#layoutpick").addEventListener("click", (e) => {
@@ -1269,11 +1456,6 @@
   $("#facets").addEventListener("click", (e) => {
     const g = e.target.closest("[data-goto]");
     if (g) return gotoSrc(g.dataset.goto);
-    const b = e.target.closest("[data-tag]");
-    if (!b) return;
-    const t = b.dataset.tag;
-    state.tags = state.tags.includes(t) ? state.tags.filter((x) => x !== t) : [...state.tags, t];
-    update();
   });
 
   $("#sort").addEventListener("change", (e) => {
@@ -1291,7 +1473,7 @@
     const c = e.target.closest("[data-clear]");
     if (!c) return;
     const k = c.dataset.clear;
-    if (k === "tag") state.tags = state.tags.filter((t) => t !== c.dataset.v);
+    if (k === "tag") { state.tags = state.tags.filter((t) => t !== c.dataset.v); if (state.tags.length !== 1) state.pick = ""; }
     else state[k] = "";
     update();
   });
@@ -1305,11 +1487,15 @@
   $("#brand").addEventListener("click", (e) => { e.preventDefault(); state = blank(); update(); window.scrollTo({ top: 0 }); });
 
   grid.addEventListener("click", (e) => {
+    const pk = e.target.closest("[data-pick]");
+    if (pk) { e.stopPropagation(); togglePick(byId.get(pk.dataset.pick)); return renderKeep(); }
     const card = e.target.closest(".card");
     if (card) openDetail(card.dataset.id, true);
   });
 
   $("#rows").addEventListener("click", (e) => {
+    const pk = e.target.closest("[data-pick]");
+    if (pk) { togglePick(byId.get(pk.dataset.pick)); return renderKeep(); }
     const act = e.target.closest("[data-act]");
     if (act) {
       toggleStatus(byId.get(act.dataset.film), act.dataset.act);
@@ -1325,15 +1511,7 @@
     if (pool.length) openDetail(pool[Math.floor(Math.random() * pool.length)].id, true);
   });
 
-  // Stripen nederst: køen (eier) eller påminnelse om backup (venn)
-  const changed = () => { applyChanges(); renderQueueBar(); render(); };
-  $("#qbar").addEventListener("click", (e) => {
-    const b = e.target.closest("[data-q]");
-    if (!b) return;
-    if (b.dataset.q === "mydata") openMyData();
-    else if (b.dataset.q === "export") exportData();
-    else if (b.dataset.q === "snooze") { Store.setMeta("snoozeUntil", new Date(Date.now() + 3 * 864e5).toISOString()); renderQueueBar(); }
-  });
+  const changed = () => { applyChanges(); renderDataDot(); render(); };
 
   // ---------- Velkomst (venner, første besøk) ----------
 
@@ -1573,7 +1751,7 @@
     if (e.key === "/" && document.activeElement.tagName !== "INPUT" && !dialog.open) {
       e.preventDefault();
       $("#search").focus();
-    } else if (e.key === "Escape") closeFilters();
+    } else if (e.key === "Escape") { closeFilters(); if (pickOpen) openListPick(false); if (moreOpen) openMore(false); }
   });
 
   // Tilbake/frem i nettleseren
@@ -1607,7 +1785,7 @@
     state = readHash();
     if (ownerInHash) writeHash(false);
     render();
-    renderQueueBar();
+    renderDataDot();
     if (state.film) openDetail(state.film, false);
   });
 })();

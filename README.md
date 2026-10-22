@@ -177,7 +177,7 @@ Med «Filtrer på: Knuts» gjelder statusfilteret Knuts statuser i stedet (`&st=
 I detaljvisningen står vennens egne felt øverst, og «Knuts tanker» under.
 
 **Mine data** har eksport og import (slå sammen eller erstatt), sletting og eierflagget.
-Etter 25 endringer, eller 14 dager uten eksport, minner en stripe nederst om å ta backup.
+Har du endringer siden siste backup, får «Mine data»-ikonet øverst en rød prikk.
 
 ### Eksportformat
 
@@ -200,6 +200,22 @@ Last opp som før, pluss `js/store.js`. Last **aldri** opp `data/cinemateket.js`
 
 `posters/` trenger ikke lastes opp. På nett henter siden plakatene rett fra TMDB (`poster_url`/`backdrop_url` i
 `movies.js`, som `add`, `import`, `queue` og `sync` fyller ut), mens lokalt brukes filene i `posters/`.
+
+## Mine lister (underlister)
+
+En liste er en tagg. Knappen **☰ Lister** ved «Vis» åpner alle listene dine alfabetisk, med søk og avkrysning.
+Tallet bak hver liste er hvor mange av filmene i gjeldende visning som er med. Flere avkryssede lister gir filmene
+som er med i *alle* (Kjerne + Nordisk = nordiske kjernefilmer). Listene virker i alle visninger: «Vis: Cahiers» + «Gjense».
+
+- **Ny liste:** «＋ Ny liste» (eller skriv et nytt navn i søket og trykk Enter). Du havner rett i plukkemodus.
+- **Plukk filmer:** med én liste valgt gir «★ Plukk filmer» en ★ på alle filmene i visningen. Ett klikk legger filmen
+  i listen eller tar den ut. «Ferdig» over filmene avslutter. Det virker også i kåringer: filmer du ikke har registrert,
+  blir en del av Mitt utvalg (uten status), og `queue` legger dem inn i `movies.js`.
+- **Endre navn / slett:** nederst i velgeren når én liste er valgt. Sletting fjerner bare listen, filmene blir.
+- **Detaljvisningen:** feltet **Lister** (skriv og trykk Enter).
+- **Nedtonede filmer** vises (dempet) når en liste er valgt – å legge en film i en liste er et aktivt valg.
+- **Venner** ser Knuts lister under «Knuts utvalg» (`#tags=knut:Kjerne`), ved siden av sine egne.
+- **I bulk:** `Persona (1966) | sett | kjerne, bergman` i en importfil (tredje felt er listene).
 
 ## Omtaler fra Cinemateket
 
@@ -268,7 +284,7 @@ Kjør det gjerne én gang i uka. Vega legger ut visningene fortløpende, ofte ba
 
 På siden:
 - **Vis → Cinemateket – programmet** / **Vega Scene – programmet**: alle filmene på programmet, sortert etter neste visning.
-- Knappen **🎬 På kino** ved statusknappene viser bare filmer som går på en av kinoene. Sammen med **Vil se** får du
+- **🎬 På kino** i **Mer ▾**-menyen ved statusknappene viser bare filmer som går på en av kinoene. Sammen med **Vil se** får du
   filmene du vil se og som går på kino nå. Det virker også for venner med sin egen vil-se-liste.
   Velg sorteringen **Neste kinovisning**; merkene på plakatene viser hvilken kino.
 - Plakatene får merker som «Cinemateket 25. okt.» og «Vega 17. nov.», og detaljvisningen viser alle visningene
@@ -306,8 +322,8 @@ bibliotekkortet). Første gang tar det ca. 45 minutter, og senere hentes bare ny
 regissør og år (±1) stemmer. Filmoteket bruker ofte norske titler («Dagdriverne» = *I Vitelloni*), så
 tittelen kontrolleres også mot TMDBs norske og alternative titler.
 
-Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten og på/av-knappen «▶ Strømming»
-ved statusknappene. Lenkene (`data/filmoteket.js`) kan publiseres.
+Siden får «▶ Lån på Filmoteket» i detaljvisningen, et merke på plakaten og valget «▶ Strømming»
+i **Mer ▾**-menyen ved statusknappene. Lenkene (`data/filmoteket.js`) kan publiseres.
 Kjør kommandoen av og til, for utvalget på Filmoteket endrer seg.
 
 ## Netflix, Disney+, HBO Max, NRK TV, TV 2 Play og Viaplay
@@ -404,9 +420,9 @@ Navigasjonen har tre nivåer, og alle kan kombineres:
 
 1. **Vis:** *Mitt utvalg* (filmene du har tatt stilling til) eller en liste kuratert av andre
    (Sight and Sound, TSPDT, Cahiers, Kultfilmer …). I en liste ser du alle filmene på lista, også dem du ikke har registrert.
-2. **Status:** Alle · Sett · Ikke sett · Vil se · Eier (og *Ikke registrert* i lister), pluss på/av-knappen
-   **▶ Strømming** (Filmoteket, Netflix, Disney+, HBO Max, NRK TV, TV 2 Play, Viaplay) og **🎬 På kino** (Cinemateket og Vega Scene).
-3. **Filtre** i sidepanelet: regissør, land, priser, «også på liste», tiår, skuespiller, tagger og søk.
+2. **Status:** Alle · Sett · Ikke sett · Vil se · Eier (og *Ikke registrert* i lister), pluss menyen **Mer ▾**
+   med **▶ Strømming** (Filmoteket, Netflix, Disney+, HBO Max, NRK TV, TV 2 Play, Viaplay) og **🎬 På kino** (Cinemateket og Vega Scene).
+3. **Filtre** i sidepanelet: regissør, land, priser, «også på liste», tiår, skuespiller og søk – og **☰ Lister** ved «Vis» (se under).
 
 Eksempel: *Vis: TSPDT* + *Ikke sett* + *Regissør: Fellini* gir Fellini-klassikerne du mangler.
 

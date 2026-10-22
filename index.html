@@ -28,6 +28,7 @@
         </button>
         <button class="icon-btn" id="mydata-open" title="Mine data – eksport og import" aria-label="Mine data">
           <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="4" width="17" height="5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M5 9v9.5A1.5 1.5 0 0 0 6.5 20h11a1.5 1.5 0 0 0 1.5-1.5V9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10 13h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <span class="dot unsaved" id="mydata-dot" hidden></span>
         </button>
         <button class="icon-btn" id="about-open" title="Om Langtagning" aria-label="Om Langtagning">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="7.8" r="1.2" fill="currentColor"/></svg>
@@ -44,6 +45,10 @@
     <div class="toolbar">
       <label class="srcpick"><span>Vis</span><select id="src" aria-label="Vis filmer fra"></select>
         <button class="src-clear" id="src-clear" type="button" title="Tilbake til Mitt utvalg" aria-label="Tilbake til Mitt utvalg" hidden>×</button></label>
+      <div class="listwrap" id="listwrap">
+        <button class="listbtn" id="list-btn" type="button" aria-haspopup="dialog" aria-expanded="false" title="Mine lister"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h12M8 12h12M8 18h12" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M3.5 6h1M3.5 12h1M3.5 18h1" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span id="list-btn-label">Lister</span></button>
+        <button class="src-clear" id="list-clear" type="button" title="Fjern listevalget" aria-label="Fjern listevalget" hidden>×</button>
+      </div>
       <nav class="tabs" id="tabs" aria-label="Status"></nav>
       <div class="layoutpick" id="layoutpick" role="group" aria-label="Visning">
         <button data-layout="grid" title="Vis som plakater"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span>Plakater</span></button>
@@ -103,7 +108,6 @@
     Dette produktet bruker TMDB API, men er ikke godkjent eller sertifisert av TMDB.
   </footer>
 
-  <div id="qbar" class="qbar" hidden></div>
 
   <dialog id="about" class="about" aria-labelledby="about-title">
     <div class="about-scroll">
@@ -137,6 +141,8 @@
 
   <dialog id="detail" class="detail" aria-labelledby="d-title"></dialog>
 
+  <div class="listpick" id="listpick" role="dialog" aria-label="Lister" hidden></div>
+  <div class="listpick moremenu" id="moremenu" role="dialog" aria-label="Strømming og kino" hidden></div>
   <script src="data/movies.js"></script>
   <script src="data/lists.js"></script>
   <script src="data/directors.js"></script>
