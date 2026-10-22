@@ -100,8 +100,8 @@
   const listShort = (id) => id.startsWith("series:") ? (lists.some((l) => l.series === id.slice(7) && l.kind === "collection") ? id.slice(7) : `${id.slice(7)} – topp 10 (alle år)`) : (listById.get(id) || {}).short || id;
   // Plassering(er) i en årsliste-serie, nyeste først
   const annualRanks = (f, s) => seriesLists(s).filter((l) => f._ranks[l.id]).map((l) => ({ list: l, e: f._ranks[l.id] }));
-  // Merke for usorterte samlinger: nummererte (Criterion: spine-nummer) viser nummeret, ellers «Kult»
-  const collLabel = (ar) => ar[0].list.numbered ? `${ar[0].list.short} #${ar[0].e.rank}` : "Kult";
+  // Merke for usorterte samlinger: nummererte (Criterion: spine-nummer) viser nummeret, ellers listas merke («Kult»)
+  const collLabel = (ar) => ar[0].list.numbered ? `${ar[0].list.short} #${ar[0].e.rank}` : ar[0].list.badge || "Kult";
 
   const byTmdb = new Map(movies.filter((m) => m.tmdb_id).map((m) => [m.tmdb_id, m]));
   // Filmer fra kåringene som ikke er i databasen din («katalogfilmer»)
@@ -200,12 +200,8 @@
   }
   const showTime = (t) => t.slice(11, 16);
   const kinoTitle = (m, c) => `${c.name}:\n` + kinoShows(m, c).map((x) => `${showDay(x.t, true)} kl. ${showTime(x.t)}${x.series ? ` · ${x.series}` : ""}`).join("\n");
-  // Merke per kino filmen går på; ellers «Vist på Cinemateket» hvis den har en side der
-  function kinoBadges(m, cls, was) {
-    const k = playingAt(m).map((c) => `<span class="${cls} kino k-${c.key}" title="${esc(kinoTitle(m, c))}">${esc(c.name.split(" ")[0])} ${esc(showDay(kinoShows(m, c)[0].t))}</span>`);
-    if (!k.length && cineUrl(m)) k.push(was);
-    return k;
-  }
+  // Merke per kino filmen går på
+  const kinoBadges = (m, cls) => playingAt(m).map((c) => `<span class="${cls} kino k-${c.key}" title="${esc(kinoTitle(m, c))}">${esc(c.name.split(" ")[0])} ${esc(showDay(kinoShows(m, c)[0].t))}</span>`);
 
   // Beste plassering: hovedlista først, ellers beste plass i en annen liste
   function bestRank(m) {
@@ -580,7 +576,7 @@
     if (m.status.want && !m.status.seen) b.push('<span class="badge want">Vil se</span>');
     if (myFmt(m)) b.push('<span class="badge stream" title="Kan lånes på filmoteket.no">Filmoteket</span>');
     if (myStreams(m).length) b.push(`<span class="badge stream" title="Kan strømmes i Norge">${esc(myStreams(m).join(" · "))}</span>`);
-    b.push(...kinoBadges(m, "badge", '<span class="badge cine-was" title="Vist på Cinemateket">C</span>'));
+    b.push(...kinoBadges(m, "badge"));
     if (m.awards.length) b.push(`<span class="badge award" title="${esc(m.awards.join("\n"))}">${LAUREL}${m.awards.length > 1 ? m.awards.length : ""}</span>`);
     return b.length ? `<div class="badges">${b.join("")}</div>` : "";
   }
@@ -624,7 +620,9 @@
         } else if (annualSeries.includes(s)) {
           const coll = isColl(s);
           o += opt(`series:${s}`, coll ? `Alle (${seriesLists(s).reduce((a, x) => a + x.entries.length, 0)} filmer)` : `Alle år (${seriesLists(s).length} årganger)`);
-          o += (coll ? seriesLists(s).slice().reverse() : seriesLists(s)).map((x) => opt(x.id, coll ? (x.numbered ? x.short : `${x.short} (${x.year})`) : `${x.year}`)).join("");
+          // årslistene (Cahiers) har bare «Alle år» – én årgang vises bare når den er valgt (fra plasseringene)
+          o += (coll ? seriesLists(s).slice().reverse() : seriesLists(s).filter((x) => x.id === state.src))
+            .map((x) => opt(x.id, coll ? (x.numbered ? x.short : `${x.short} (${x.year})`) : `${x.year}`)).join("");
         } else {
           o += seriesLists(s).map((x) => opt(x.id, `${x.short} – topp ${x.size}`)).join("");
         }
@@ -792,7 +790,7 @@
     if (f.awards.length) t.push(`<span class="mt award" title="${esc(f.awards.join("\n"))}">${LAUREL}${f.awards.length}</span>`);
     if (myFmt(f)) t.push('<span class="mt stream">▶ Filmoteket</span>');
     if (myStreams(f).length) t.push(`<span class="mt stream">▶ ${esc(myStreams(f).join(" · "))}</span>`);
-    t.push(...kinoBadges(f, "mt", '<span class="mt cine-was" title="Vist på Cinemateket">Vist på Cinemateket</span>'));
+    t.push(...kinoBadges(f, "mt"));
     if (!OWNER && anyStatus(f.knut.status)) t.push(`<span class="mt knut" title="Knuts status">Knut: ${esc(statusWords(f.knut.status))}</span>`);
     return t.length ? `<span class="lv-tags">${t.join("")}</span>` : "";
   }
@@ -909,16 +907,20 @@
     if (cine) L.push({ cls: "cinemateket", tag: "C", name: "Cinemateket", url: cine });
     const vega = cinemaBy.has("vega") && kinoUrl(m, cinemaBy.get("vega"));
     if (vega) L.push({ cls: "vega", tag: "V", name: "Vega Scene", url: vega });
+    // Filmfrelst-episoder om filmen (data/filmfrelst.js), nyeste først
+    for (const ep of (m.tmdb_id && FF[m.tmdb_id]) || []) L.push({ cls: "ff", tag: "FF", name: ep.n ? `Filmfrelst #${ep.n}` : "Filmfrelst", url: ep.u, title: ep.t });
     for (const [k, url] of Object.entries(m.links)) {
       if (!url || ["imdb", "bfi", "rt", "ebert", "criterion"].includes(k)) continue;
       L.push({ cls: "", tag: "↗", name: k, url });
     }
-    return L.map((l) => `<a class="extlink" href="${esc(l.url)}" target="_blank" rel="noopener"><i class="${l.cls}">${esc(l.tag)}</i>${esc(l.name)}${l.search ? " <small>søk</small>" : ""}</a>`).join("");
+    return L.map((l) => `<a class="extlink" href="${esc(l.url)}" target="_blank" rel="noopener"${l.title ? ` title="${esc(l.title)}"` : ""}><i class="${l.cls}">${esc(l.tag)}</i>${esc(l.name)}${l.search ? " <small>søk</small>" : ""}</a>`).join("");
   }
 
   // Omtaler fra cinemateket.no – teksten bare lokalt (se index.html), ellers bare lenke
   // Roger Ebert- og Criterion-ID-er fra Wikidata (tmdb-id → {ebert, criterion})
   const WIKILINKS = window.LANGTAGNING_WIKILINKS || {};
+  // Filmfrelst-podkasten (Montages.no): tmdb-id → [{n, t, d, u}]
+  const FF = window.LANGTAGNING_FILMFRELST || {};
   const CINE = (LOCAL && window.LANGTAGNING_CINEMATEKET) || {};
   function cineHTML(m) {
     const c = m.tmdb_id && CINE[m.tmdb_id];
@@ -949,7 +951,7 @@
     if (!m._listVals.length) return "";
     const annual = annualSeries.map((s) => [s, annualRanks(m, s)]).filter(([, r]) => r.length).map(([s, r]) => `
       <div class="rk-row"><span class="rk-key annual"><i></i>${esc(s)}</span><div class="rk-cells">${r.map(({ list, e }) => isColl(s)
-        ? `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis lista"><small>${list.numbered ? esc(list.short) : list.year}</small>${list.numbered ? `#${e.rank}` : esc(list.short)}</button>`
+        ? `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis lista"><small>${list.numbered ? esc(list.short) : list.year || "vist"}</small>${list.numbered ? `#${e.rank}` : esc(list.short)}</button>`
         : `<button class="rk-cell rk-link" data-goto="${esc(list.id)}" title="Vis ${esc(list.short)}"><small>topp 10 ${list.year}</small>#${rankText(e)}</button>`).join("")}</div></div>`).join("");
     const ranked = rankLists.some((l) => m._ranks[l.id]);
     if (!ranked) return `<section class="rankings"><div class="rk-table">${annual}</div></section>`;

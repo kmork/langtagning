@@ -1,6 +1,54 @@
 // Programmet på cinemateket.no: kommende visninger (tmdb-id → visninger). Lages med «langtagning.py kino».
 window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "catalog": {
+"1009485": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7YKIVbuYL0CtzwcGhkXDwtQgOjb.jpg",
+"cast": [],
+"countries": [
+"KR",
+"NL",
+"HK",
+"SE"
+],
+"directors": [
+"Chen Dongnan"
+],
+"imdb_id": "tt39793111",
+"original_title": "春日幻游",
+"overview": "In the rural Liangshan Mountains, 14-year-old Qihuo and her friends embark on a road trip to find a skirt for her traditional menarche rite of passage.",
+"poster": "https://image.tmdb.org/t/p/w342/d1GN2LBqmtzMOmuF9QlU4poEm02.jpg",
+"runtime": 95,
+"title": "Whispers in May",
+"tmdb_id": 1009485,
+"year": 2026
+},
+"1026933": {
+"backdrop": "https://image.tmdb.org/t/p/w780/b8p6WOiGWGIFYhoi7akznASHtfr.jpg",
+"cast": [
+"Joey Boivin-Desmeules",
+"Daniel Atsu Hukporti",
+"Evelyne de la Chenelière",
+"Hayford Brobbey",
+"Kabutey Ocansey",
+"Faiba Bernard"
+],
+"countries": [
+"CA",
+"FR",
+"GH"
+],
+"directors": [
+"Jérémy Comte"
+],
+"imdb_id": "tt27027989",
+"original_title": "Paradise",
+"overview": "The enigmatic captain of a burning cargo ship binds together the fates of two families; one in a bustling Ghanaian city, the other in a quiet Canadian town.",
+"poster": "https://image.tmdb.org/t/p/w342/hNWZVMxSeCEEaCeugxFXBTfhvhP.jpg",
+"runtime": 90,
+"title": "Paradise",
+"tmdb_id": 1026933,
+"year": 2026
+},
 "104": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
 "cast": [
@@ -25,6 +73,89 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "title": "Run Lola Run",
 "tmdb_id": 104,
 "year": 1998
+},
+"1046304": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aTxI4pigee5Gj7mDGPy8Bj3xsn7.jpg",
+"cast": [
+"Amara Ramnarong",
+"Surachai Ningsanond",
+"Jirawut Chiwaruck",
+"Yaneenan Jiraphatjittrin",
+"Klaichan Phunman",
+"Sompot Songkampol"
+],
+"countries": [
+"TH",
+"NO",
+"FR",
+"SG",
+"CN",
+"HK",
+"ID"
+],
+"directors": [
+"Sompot Chidgasornpongse"
+],
+"imdb_id": "tt37740247",
+"original_title": "9 วัด สู่สวรรค์",
+"overview": "A man takes his sick mother and nine family members on a single-day temple pilgrimage after his boss predicts she may die soon.",
+"poster": "https://image.tmdb.org/t/p/w342/6Qb11di83PyJpuJpNlxvJvi1kBd.jpg",
+"runtime": 140,
+"title": "9 Temples to Heaven",
+"tmdb_id": 1046304,
+"year": 2026
+},
+"1058424": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+"cast": [
+"Hwang Jung-min",
+"Zo In-sung",
+"Hoyeon",
+"Alicia Vikander",
+"Michael Fassbender",
+"Taylor Russell"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Na Hong-jin"
+],
+"imdb_id": "tt27369017",
+"original_title": "호프",
+"overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+"poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+"runtime": 157,
+"title": "Hope",
+"tmdb_id": 1058424,
+"year": 2026
+},
+"1087209": {
+"backdrop": "https://image.tmdb.org/t/p/w780/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
+"cast": [
+"Devrim Lingnau",
+"Guillaume Gallienne",
+"Olivia Ross",
+"Marina Pumachapi",
+"Javier Valdés",
+"Beto Benitez"
+],
+"countries": [
+"DE",
+"FR",
+"CH"
+],
+"directors": [
+"Damien Dorsaz"
+],
+"imdb_id": "tt12349818",
+"original_title": "Lady Nazca",
+"overview": "With the second World War looming and having lost everything before, Maria Reiche flees Germany and ends up in Peru. There, she tries to fit in an inhibited society for the sake of her lover Amy. But she only starts to find her true calling in life when she takes a trip to the desert of Nazca and stumbles upon mysterious Lines, drawn in the soil. Against all odds, against everyone, Maria ties her destiny to the Nazca lines, and takes on the mission to find their meaning. A journey that will throw her into tremendous trouble and danger - but also give her a sense of peace, at last, as she finally finds where she belongs, sweeping the desert.",
+"poster": "https://image.tmdb.org/t/p/w342/2JGfXG3os3trBUQadnuoXwICMRM.jpg",
+"runtime": 90,
+"title": "Lady Nazca",
+"tmdb_id": 1087209,
+"year": 2025
 },
 "1108782": {
 "backdrop": "https://image.tmdb.org/t/p/w780/n1tdBc0YCF64TJUJGWLL0Mjm1Ws.jpg",
@@ -121,6 +252,60 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1173147,
 "year": 2025
 },
+"1208758": {
+"backdrop": "https://image.tmdb.org/t/p/w780/boB2QNLb8dA8bpN7WiMR8bnXdwa.jpg",
+"cast": [
+"Shirley Cruz",
+"Seu Jorge",
+"Rihanna Barbosa",
+"Benin Ayo",
+"Rejane Faria",
+"Luedji Luna"
+],
+"countries": [
+"BR",
+"AR"
+],
+"directors": [
+"Anna Muylaert"
+],
+"imdb_id": "tt35453979",
+"original_title": "A Melhor Mãe do Mundo",
+"overview": "To escape her abusive husband, garbage collector Gal packs her two young children, Rihanna and Benin, onto the top of her cart and heads across São Paulo to her cousin’s house. As she struggles to avoid the dangers of the streets along the way, she convinces the children that they are on a big and exciting adventure. When they arrive at her cousin’s house, they are warmly welcomed and fed. However, what initially seems like a safe haven soon turns out to be a trap. Gal realises that not only her own safety is at risk, but also the future of her children.",
+"poster": "https://image.tmdb.org/t/p/w342/p3NGx2xilIUtbgrvFpKdTq85Zjw.jpg",
+"runtime": 105,
+"title": "The Best Mother in the World",
+"tmdb_id": 1208758,
+"year": 2025
+},
+"1210268": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uN5wTRKBbLcmQnzmlmAQRyObuH0.jpg",
+"cast": [
+"Maya O’Rourke",
+"Saskia Rosendahl",
+"Maia Domagala",
+"Jakub Gierszał",
+"Paulina Urrutia",
+"Mauricio Pesutic"
+],
+"countries": [
+"CL",
+"MX",
+"ES",
+"US"
+],
+"directors": [
+"Manuela Martelli"
+],
+"imdb_id": "tt39571626",
+"original_title": "El deshielo",
+"overview": "1992, Chile. Nine-year-old Inés' parents are away on business, leaving her in the care of her grandparents, who own a hotel at the foot of a ski resort. Inés befriends Hanna, a teenage European skier who has come to train in Chile. One night, Hanna disappears. The process of her search will unveil a series of hidden situations.",
+"poster": "https://image.tmdb.org/t/p/w342/76pVKG0ly7tLeKimKZLcEFp41Qd.jpg",
+"runtime": 110,
+"title": "The Meltdown",
+"tmdb_id": 1210268,
+"year": 2026
+},
 "12167": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9lcVC0k5JgBRjT8hJBgncAq8XSQ.jpg",
 "cast": [
@@ -178,6 +363,35 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1219620,
 "year": 2025
 },
+"1241574": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uP6t1cY1IZhFEk1MS1LU6HyGFXG.jpg",
+"cast": [
+"Shahrbanoo Sadat",
+"Anwar Hashimi",
+"Liam Hussaini",
+"Yasin Negah",
+"Torkan Omari",
+"Fatim Zahra El Hassani"
+],
+"countries": [
+"DE",
+"FR",
+"NO",
+"DK",
+"AF"
+],
+"directors": [
+"Shahrbanoo Sadat"
+],
+"imdb_id": "tt13868840",
+"original_title": "Kabul Jan",
+"overview": "2021, Afghanistan right before the Taliban’s return. Naru, the only camerawoman at Kabul’s main TV station, struggles to keep custody of her three-year-old son after leaving her serial cheater husband. Convinced no good men exist in her country, Naru is caught off guard when Qodrat, Kabul TV’s most important journalist, gives her a career opportunity. As the two crisscross the city reporting on its last days of freedom, sparks fly and Naru starts to doubt herself: could there actually be a good man out there?",
+"poster": "https://image.tmdb.org/t/p/w342/6iqnhVxe71SO2rXjaAgTlJZnkzp.jpg",
+"runtime": 103,
+"title": "No Good Men",
+"tmdb_id": 1241574,
+"year": 2026
+},
 "1275010": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ojPYyDLPEOAs52O6eB6VBAZo1rR.jpg",
 "cast": [
@@ -203,6 +417,33 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "title": "My National Gallery, London",
 "tmdb_id": 1275010,
 "year": 2024
+},
+"1280738": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+"cast": [
+"Xie Miao",
+"Joe Taslim",
+"Yang Enyou",
+"Yayan Ruhian",
+"JeeJa Yanin",
+"Brian Le"
+],
+"countries": [
+"HK",
+"CN",
+"US"
+],
+"directors": [
+"Kenji Tanigaki"
+],
+"imdb_id": "tt33311069",
+"original_title": "火遮眼",
+"overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+"poster": "https://image.tmdb.org/t/p/w342/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+"runtime": 113,
+"title": "The Furious",
+"tmdb_id": 1280738,
+"year": 2026
 },
 "1282280": {
 "backdrop": "https://image.tmdb.org/t/p/w780/9xIRKwWE3LKx8syUKL742B1qsem.jpg",
@@ -231,6 +472,53 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1282280,
 "year": 2025
 },
+"1299581": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nbnFwaYmajIbGEXfXgWgzpiwQXF.jpg",
+"cast": [
+"Salman Rushdie"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Alex Gibney"
+],
+"imdb_id": "tt32534849",
+"original_title": "Knife: The Attempted Murder of Salman Rushdie",
+"overview": "In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.",
+"poster": "https://image.tmdb.org/t/p/w342/zIHezCczCvRFtkuAoCm1tEJGa0W.jpg",
+"runtime": 107,
+"title": "Knife: The Attempted Murder of Salman Rushdie",
+"tmdb_id": 1299581,
+"year": 2026
+},
+"1315657": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jF0cgfoBkmJyknP2nii2NdhChWs.jpg",
+"cast": [
+"Özgü Namal",
+"Tansu Biçer",
+"İpek Bilgin",
+"Leyla Smyrna Cabas",
+"Kerem Can",
+"Yusuf Akgün"
+],
+"countries": [
+"FR",
+"DE",
+"TR"
+],
+"directors": [
+"İlker Çatak"
+],
+"imdb_id": "tt32888226",
+"original_title": "Gelbe Briefe",
+"overview": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+"poster": "https://image.tmdb.org/t/p/w342/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg",
+"runtime": 128,
+"title": "Yellow Letters",
+"tmdb_id": 1315657,
+"year": 2026
+},
 "1316398": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ax43LaqoYDbtupKxlyI9FOGrVoQ.jpg",
 "cast": [
@@ -258,6 +546,57 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1316398,
 "year": 2026
 },
+"1317512": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
+"cast": [
+"Seo Su-bin",
+"Jang Hye-jin",
+"Kim Jeong-sik",
+"Kang Chae-yun",
+"Lee Jae-hee",
+"Park Ji-yun"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Yoon Ga-eun"
+],
+"imdb_id": "tt37661885",
+"original_title": "세계의 주인",
+"overview": "Jooin, a 17-year-old student confused by love, unleashes chaos with some words spoken in a moment of anger. Anonymous notes questioning her actions begin to arrive, altering her quiet life.",
+"poster": "https://image.tmdb.org/t/p/w342/hj4tYEEPv9poXRz6sY5xoiS8Fwu.jpg",
+"runtime": 119,
+"title": "The World of Love",
+"tmdb_id": 1317512,
+"year": 2025
+},
+"1364629": {
+"backdrop": "https://image.tmdb.org/t/p/w780/drxcijx3V0iaLIL4ibfRAi1wySQ.jpg",
+"cast": [
+"Li Gengxi",
+"Shen Jiani",
+"Zu Feng",
+"Cao Ruofan",
+"Liu Xiaoyu",
+"Chen Jingwen"
+],
+"countries": [
+"CN",
+"FR"
+],
+"directors": [
+"Zou Jing"
+],
+"imdb_id": "tt32459280",
+"original_title": "无名女孩",
+"overview": "A Chinese girl is passed between three families from the age of 6 to 18, receiving each time a new name and identity. As she searches for belonging and the possibility of love, she has to navigate between the weight of her past and the uncertainty of her future, until she finds her own way.",
+"poster": "https://image.tmdb.org/t/p/w342/5A1dG9Plbr5OkSNVrZqRsDKeoc5.jpg",
+"runtime": 125,
+"title": "A Girl Unknown",
+"tmdb_id": 1364629,
+"year": 2027
+},
 "137008": {
 "backdrop": "https://image.tmdb.org/t/p/w780/SQn2zYTurNkbMhay4DnAHTBmIR.jpg",
 "cast": [],
@@ -275,6 +614,31 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "title": "Small Roads",
 "tmdb_id": 137008,
 "year": 2011
+},
+"1375646": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+"cast": [
+"Gianna Jun",
+"Koo Kyo-hwan",
+"Ji Chang-wook",
+"Kim Shin-rock",
+"Shin Hyun-been",
+"Go Soo"
+],
+"countries": [
+"KR"
+],
+"directors": [
+"Yeon Sang-ho"
+],
+"imdb_id": "tt34385135",
+"original_title": "군체",
+"overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+"poster": "https://image.tmdb.org/t/p/w342/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+"runtime": 123,
+"title": "Colony",
+"tmdb_id": 1375646,
+"year": 2026
 },
 "138535": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5juNAtPoPxaEi5v28rKVW7MmBmi.jpg",
@@ -352,30 +716,140 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1386550,
 "year": 2025
 },
-"14329": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mVQBFQRWszwKHQ2qyBfNbnXHJ3R.jpg",
+"1405200": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nubSpIsDuoVPactRAdxfKafBaer.jpg",
 "cast": [
-"Sergio Bini",
-"Klara Døving",
-"Nina Andresen-Borud",
-"Minken Fosheim",
-"Johannes Fürst",
-"Stig Henrik Hoff"
+"Clémentine U. Nyirinkindi",
+"Kesia Kelly Nishimwe",
+"Arivere Kagoyire",
+"Isabelle Kabano",
+"Antoinette Uwamahoro",
+"Leocadie Uwabeza"
 ],
 "countries": [
-"NO"
+"GA",
+"NO",
+"RW",
+"FR"
 ],
 "directors": [
-"Elsa Kvamme"
+"Marie-Clémentine Dusabejambo"
 ],
-"imdb_id": "tt0354577",
-"original_title": "Fia og klovnene",
-"overview": "Fia er en klok og litt barsk jente på 8 år. Kanskje en slags kusine av Pippi Langstrømpe, bare litt mer sårbar. Som Pippi, og alle andre barn, ønsker hun at hun er stor og sterk, med makt og mulighet til å gjøre verden slik hun vil at den skal være. Fia har en vanskelig rolle som en slags \"mor\" for sin mor, en mor som ikke greier å takle hverdagen helt. Men i gården rett vis a vis bor tryllekunstneren Bustric, og han blir Fias holdepunkt i tilværelsen. Bustric er litt voksen, men mye barn, og redder Fia fra å bli sett på som en løgner og drømmer i den nye klassen hun må begynne i.",
-"poster": "https://image.tmdb.org/t/p/w342/2dXvwcAwMe5SGMZLzgMqYQ9alUu.jpg",
-"runtime": 103,
-"title": "Fia og klovnene",
-"tmdb_id": 14329,
-"year": 2003
+"imdb_id": "tt38820979",
+"original_title": "Ben'Imana",
+"overview": "Rwanda, 2012. The country is emerging from an era of silence after the 1994 Tutsi genocide, and people's courts are being set up with the aim of bringing justice and reconciliation. Veneranda, a survivor, is convinced of the need for these trials. Despite pressures, she organises discussion sessions between victims and the families of the executioners. Therapy for some, an act of betrayal for others, these testimonial sessions revive and reveal the traumas that each of them try to overcome, in their own way. The wounds of Veneranda's past are exposed again when she learns of her daughter's unexpected pregnancy and the identity of the father. Veneranda has to face her own contradictions and the dark parts of her past.",
+"poster": "https://image.tmdb.org/t/p/w342/bAdS6WNpU3w1k4fDuV7aV2KLCdV.jpg",
+"runtime": 101,
+"title": "Ben'Imana",
+"tmdb_id": 1405200,
+"year": 2027
+},
+"1417935": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7lgpPrmD2XYABOw8Cu3kyUn4usR.jpg",
+"cast": [
+"Jorrybell Agoto",
+"Carmen Castellanos",
+"Teroy Guzman",
+"Carlos Siguion-Reyna",
+"Isabel Sicat",
+"Nour Hooshmand"
+],
+"countries": [
+"PH",
+"SG",
+"GB",
+"FR",
+"NL"
+],
+"directors": [
+"Rafael Manuel"
+],
+"imdb_id": "tt29512008",
+"original_title": "Filipiñana",
+"overview": "While working at an elite country club outside Manila, a 17-year-old Ilocana worker uncovers the violent truths of her workplace, her country, and her own past after attempting to return a lost golf club to the club's president.",
+"poster": "https://image.tmdb.org/t/p/w342/64hnrTmeJEvUYoJyuOM7taE3CqT.jpg",
+"runtime": 101,
+"title": "Filipiñana",
+"tmdb_id": 1417935,
+"year": 2026
+},
+"1419406": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+"cast": [
+"Jackie Chan",
+"Zhang Zifeng",
+"Tony Leung Ka-fai",
+"Ci Sha",
+"Jun",
+"Zhou Zhengjie"
+],
+"countries": [
+"CN",
+"HK"
+],
+"directors": [
+"Larry Yang"
+],
+"imdb_id": "tt34610311",
+"original_title": "捕风追影",
+"overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+"poster": "https://image.tmdb.org/t/p/w342/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+"runtime": 142,
+"title": "The Shadow's Edge",
+"tmdb_id": 1419406,
+"year": 2025
+},
+"1434751": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zrCKM6a8fx3PMqlYDlI9OsBUzzD.jpg",
+"cast": [
+"Marina Person",
+"Caio Horowicz",
+"John Ortiz",
+"Michelle Ellyse",
+"Marat Descartes",
+"Gregory Chastang"
+],
+"countries": [
+"BR",
+"FR",
+"US"
+],
+"directors": [
+"Gabe Klinger"
+],
+"imdb_id": "tt35748025",
+"original_title": "Isabel",
+"overview": "Isabel, a sommelière in São Paulo, dreams of escaping her boss and opening her own bar. When plans don’t go as expected, she must decide whether to halt everything or take bold steps to uncork her fate on her own terms.",
+"poster": "https://image.tmdb.org/t/p/w342/zD3yA943bsIwmtgvxtyM6Q8n1rF.jpg",
+"runtime": 85,
+"title": "Isabel",
+"tmdb_id": 1434751,
+"year": 2026
+},
+"1437703": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+"cast": [
+"Bastián Escobar",
+"Teresa Sánchez",
+"Hugo Ramírez",
+"Enrique Arreola",
+"Liam Rivera",
+"Evelyn Velazquez"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Fernando Eimbcke"
+],
+"imdb_id": "tt35854741",
+"original_title": "Moscas",
+"overview": "Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.",
+"poster": "https://image.tmdb.org/t/p/w342/8msXampT9kNOyyKaWkfGZ0bZIzR.jpg",
+"runtime": 101,
+"title": "Flies",
+"tmdb_id": 1437703,
+"year": 2026
 },
 "1446201": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bKwF5bd6ZwbVYg7QqleU1Npr4UA.jpg",
@@ -393,6 +867,87 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "runtime": 80,
 "title": "Resilience",
 "tmdb_id": 1446201,
+"year": 2026
+},
+"1448971": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sGO8XaTYMNuTVcKhAKA9dIgKV3v.jpg",
+"cast": [
+"Takako Matsu",
+"Shizuka Ishibashi",
+"Kenichi Matsuyama",
+"Kawaguchi Waku",
+"Kiyora Fujiwara",
+"Sawako Fujima"
+],
+"countries": [
+"JP",
+"FR",
+"SG",
+"PH"
+],
+"directors": [
+"Koji Fukada"
+],
+"imdb_id": "tt28551050",
+"original_title": "ナギダイアリー",
+"overview": "Yoriko, an artist living in rural Nagi, is haunted by a former love affair she cannot bear to mourn. When Yuri, a recently separated architect, travels from Tokyo to visit her friend and former sister-in-law, both women find themselves at a crossroad, each searching for ways to let go of the past and define their identities. Yuri's brief escape from the city settles into a quiet confrontation of loss and probing for the two women in bucolic Nagi.",
+"poster": "https://image.tmdb.org/t/p/w342/jYsIMY0XVZ6CcpfEW2HaUafhtzx.jpg",
+"runtime": 110,
+"title": "Nagi Notes",
+"tmdb_id": 1448971,
+"year": 2026
+},
+"1464639": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rGVqKFmtElzJm2JWlNjAxhwDsrD.jpg",
+"cast": [
+"Masataka Kubota",
+"Mana Ashida",
+"Yuzuna Nagase",
+"Fuka Koshiba",
+"Mitsuo Yoshihara",
+"Anna Tsuchiya"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Yusuke Hirota"
+],
+"imdb_id": "tt39371353",
+"original_title": "映画 えんとつ町のプペル 〜約束の時計台〜",
+"overview": "After losing his friend Poupelle, young Lubicchi wanders into a mysterious realm where a clock in a tower is frozen at 11:59. To return home, he must restart it – and find the courage to believe again.",
+"poster": "https://image.tmdb.org/t/p/w342/imLD9NBCO65hnsG0XzwVxZ2LBFU.jpg",
+"runtime": 98,
+"title": "Chimney Town: Frozen in Time",
+"tmdb_id": 1464639,
+"year": 2026
+},
+"1476614": {
+"backdrop": "https://image.tmdb.org/t/p/w780/40CATdVXthW3rHFM8JkoCz7uh88.jpg",
+"cast": [
+"Virginie Efira",
+"Tao Okamoto",
+"Kyōzō Nagatsuka",
+"Kodai Kurosaki",
+"Jean-Charles Clichet",
+"Marie Bunel"
+],
+"countries": [
+"JP",
+"FR",
+"BE",
+"DE"
+],
+"directors": [
+"Ryusuke Hamaguchi"
+],
+"imdb_id": "tt36834996",
+"original_title": "急に具合が悪くなる",
+"overview": "Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff. Her encounter with Mari, a Japanese theater director battling cancer, will profoundly reshape her path. By forming a deep, supportive friendship, the two women join forces in a shared struggle to make the impossible possible.",
+"poster": "https://image.tmdb.org/t/p/w342/kFD1vl6FPt8heIIgFiAyIbZqrYh.jpg",
+"runtime": 196,
+"title": "All of a Sudden",
+"tmdb_id": 1476614,
 "year": 2026
 },
 "1490222": {
@@ -442,7 +997,7 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "imdb_id": "tt26751523",
 "original_title": "Uļa",
 "overview": "A giant girl lives in a wild rural environment. When the modern world enters this isolated Russian Old Believer milieu, the girl is taken away and dragged into the world of professional sports. The aim does not differ much from that of a circus in the Middle Ages – to entertain audiences and exploit the limits of people’s mental and physical abilities. But the girl proves to have unbelievable willpower and athletic talent. She is able to adapt and triumph in this new world. This is the story of the famous basketball player Ulyana Semyonova.",
-"poster": "https://image.tmdb.org/t/p/w342/7wrrmtt84NWGbeOfEycuF9ziMTI.jpg",
+"poster": "https://image.tmdb.org/t/p/w342/denvPIlNmETvBjmXofNDVU6l9C1.jpg",
 "runtime": 102,
 "title": "Ulya",
 "tmdb_id": 1490241,
@@ -494,6 +1049,110 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1492004,
 "year": 2025
 },
+"1516884": {
+"backdrop": "https://image.tmdb.org/t/p/w780/88HLVmdCzkwYnE6L7MjuVRx0oXr.jpg",
+"cast": [
+"Liên Bỉnh Phát",
+"Đỗ Thị Hải Yến",
+"Trần Thế Mạnh",
+"Lý Hồng Ân",
+"Phương Bình",
+"Lê Văn Thân"
+],
+"countries": [
+"VN"
+],
+"directors": [
+"Leon Lê"
+],
+"imdb_id": "tt36616095",
+"original_title": "Quán Kỳ Nam",
+"overview": "Set in 1985 post-war Vietnam, Khang moves to Saigon after securing a position to translate \"The Little Prince.\" Due to his family connections, Khang's life under the new regime is secure. But everything changes when he meets Ky Nam, a reserved older widow who lives in Khang's new community.",
+"poster": "https://image.tmdb.org/t/p/w342/6Av8MS7I5K251bMofglA9Qv2Xaa.jpg",
+"runtime": 140,
+"title": "Ky Nam Inn",
+"tmdb_id": 1516884,
+"year": 2025
+},
+"1517062": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3FnU3DFx71i3IxxhPcIclXPmsKk.jpg",
+"cast": [
+"Bahram Ark",
+"Sadaf Asgari",
+"Hossein Soleimani",
+"Bahman Ark",
+"Mohammad Soori",
+"Amirreza Ranjbaran"
+],
+"countries": [
+"IR",
+"IT",
+"FR",
+"DE",
+"TR"
+],
+"directors": [
+"Ali Asgari"
+],
+"imdb_id": "tt37660493",
+"original_title": "کمدی الهی",
+"overview": "Bahram, a censored director, embarks on a Vespa trip with producer Sadaf to clandestinely screen his film in Iran, challenging the system.",
+"poster": "https://image.tmdb.org/t/p/w342/cUZA9tEaLm7Td8tdj6UUkYLiix3.jpg",
+"runtime": 98,
+"title": "Divine Comedy",
+"tmdb_id": 1517062,
+"year": 2026
+},
+"1534205": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vB6k4sY7n2lVMtr88EHdBaYa36I.jpg",
+"cast": [
+"Tulipa Ruiz",
+"Aretha Garcia",
+"Maria Vitória Garcia"
+],
+"countries": [
+"BR",
+"PT"
+],
+"directors": [
+"Priscilla Kellen"
+],
+"imdb_id": "tt38350704",
+"original_title": "Papaya",
+"overview": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
+"poster": "https://image.tmdb.org/t/p/w342/uQWkEjprUXFk4LeJFAVROPk45lH.jpg",
+"runtime": 75,
+"title": "Papaya",
+"tmdb_id": 1534205,
+"year": 2026
+},
+"1536433": {
+"backdrop": "https://image.tmdb.org/t/p/w780/57cJShfnln2CkL4tBNpYGtxFDn4.jpg",
+"cast": [
+"Rocío Guzmán",
+"Darana Álvarez",
+"Tatsumi Milori",
+"Tomás García Agraz",
+"Mónica del Carmen",
+"Raúl Villegas"
+],
+"countries": [
+"MX",
+"ES",
+"FR"
+],
+"directors": [
+"Fernanda Tovar"
+],
+"imdb_id": "tt39311354",
+"original_title": "Chicas tristes",
+"overview": "La Maestra and Paula are the best swimmers on their team and best friends, until an incident at a party changes everything. La Maestra, intense and unstoppable, realises that something in Paula has changed, making her sad. When the truth comes to light, the duo are faced with an impossible decision: Paula wants to keep quiet, while La Maestra wants revenge. Their friendship, previously unbreakable, will be put to the test as never before.",
+"poster": "https://image.tmdb.org/t/p/w342/daj02QrJmvhLvmVUuoxa1Srq02y.jpg",
+"runtime": 90,
+"title": "Sad Girlz",
+"tmdb_id": 1536433,
+"year": 2026
+},
 "1546852": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rlvfeLeAHLfkjx67teByVmT0uCk.jpg",
 "cast": [],
@@ -513,6 +1172,31 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "title": "A Goodnight Kiss",
 "tmdb_id": 1546852,
 "year": 2025
+},
+"1560309": {
+"backdrop": "https://image.tmdb.org/t/p/w780/n3eUPF4FObiZlafmTDZRTEgQnnU.jpg",
+"cast": [
+"Yukino Kishii",
+"Tadanobu Asano",
+"Misato Morita",
+"Mai Fukagawa",
+"Akihisa Shiono",
+"Yuko Nakamura"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Yukiko Sode"
+],
+"imdb_id": "tt41592995",
+"original_title": "すべて真夜中の恋人たち",
+"overview": "Freelance proofreader Fuyuko's carefully ordered life in solitude begins to transform after meeting Mitsutsuka, a quiet high school physics teacher.",
+"poster": "https://image.tmdb.org/t/p/w342/87o8UVoGVzP9wsb2k9FJwz30Wbb.jpg",
+"runtime": 139,
+"title": "All the Lovers in the Night",
+"tmdb_id": 1560309,
+"year": 2026
 },
 "1573": {
 "backdrop": "https://image.tmdb.org/t/p/w780/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
@@ -557,23 +1241,397 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 1586592,
 "year": 2025
 },
-"164867": {
-"backdrop": "https://image.tmdb.org/t/p/w780/102QK1K2gBXZqsBjNyQrMXmUHj3.jpg",
+"15916": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2SLCv08lTj0T0f2mMXVmaajhfcL.jpg",
+"cast": [
+"Keiichi Noda",
+"Mako Hyodo",
+"Jinpachi Nezu"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Mamoru Oshii"
+],
+"imdb_id": "tt0208502",
+"original_title": "天使のたまご",
+"overview": "In the ruins of a strange city, a young girl takes care of a large egg she holds carefully in her arms. She bonds with a boy who is searching for a bird he saw in a dream.",
+"poster": "https://image.tmdb.org/t/p/w342/dcEUGvckbePFzPKhGXnS9T3kZMG.jpg",
+"runtime": 71,
+"title": "Angel's Egg",
+"tmdb_id": 15916,
+"year": 1985
+},
+"1593299": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vDSlToGFMUmiUrZTixZy38utT8b.jpg",
+"cast": [
+"Zaineen Karim Chowdhury",
+"Reekita Nondine Shimu",
+"Sunerah Binte Kamal",
+"Azmeri Haque Badhon",
+"Dameer Khan",
+"Saberi Alam"
+],
+"countries": [
+"BD",
+"DE",
+"FR",
+"NO",
+"PT"
+],
+"directors": [
+"Rubaiyat Hossain"
+],
+"imdb_id": "tt42827406",
+"original_title": "The Difficult Bride",
+"overview": "Zai, a bride-to-be in present-day Dhaka, is in love with her groom and dreams of a fairytale wedding, but secretly struggles with her body’s resistance to wedding rituals. As stress and emotional pain intensify, a mysterious woman with long hair begins appearing in Novera’s imagination.",
+"poster": "https://image.tmdb.org/t/p/w342/y4HdnyUE13LgtMovP3nTaI4gJuR.jpg",
+"runtime": 87,
+"title": "The Difficult Bride",
+"tmdb_id": 1593299,
+"year": 2026
+},
+"1595346": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jxxHGKum9FzHxwnVky0LbXgfSDj.jpg",
+"cast": [
+"Michelle Mao",
+"Haley Lu Richardson",
+"Jin Ha",
+"Valerie May Richardson",
+"John Shea"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Kogonada"
+],
+"imdb_id": "tt39150111",
+"original_title": "Zi",
+"overview": "In Hong Kong, a young woman haunted by visions of her future self meets a stranger who changes the course of her night -- and possibly her life.",
+"poster": "https://image.tmdb.org/t/p/w342/k0MdqAUD3PsdgjDGBNGhP5E0Xct.jpg",
+"runtime": 99,
+"title": "Zi",
+"tmdb_id": 1595346,
+"year": 2026
+},
+"1596249": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
+"cast": [
+"Rinko Kikuchi",
+"Alberto Guerra",
+"Alejandro Edda",
+"YOU",
+"Yoh Yoshida",
+"Damián Alcázar"
+],
+"countries": [
+"US",
+"JP"
+],
+"directors": [
+"Josef Kubota Wladyka"
+],
+"imdb_id": "tt39149197",
+"original_title": "Ha-Chan, Shake Your Booty!",
+"overview": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
+"poster": "https://image.tmdb.org/t/p/w342/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+"runtime": 122,
+"title": "Ha-Chan, Shake Your Booty!",
+"tmdb_id": 1596249,
+"year": 2026
+},
+"1596257": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7RtlGBxwJF6daG6s0sSU0uhnzLc.jpg",
+"cast": [
+"Jessica Gabriel's Ujah",
+"Amanda Oruh",
+"Tinuade Jemiseye",
+"Binta Ayo Mogaji",
+"Seun Kuti",
+"Bucci Franklin"
+],
+"countries": [
+"GB",
+"NG",
+"US"
+],
+"directors": [
+"Olive Nwosu"
+],
+"imdb_id": "tt38111477",
+"original_title": "Lady",
+"overview": "In the sprawling African metropolis of Lagos, a fiercely independent young cab driver meets a band of radiantly reckless sex workers whose sisterhood pulls her into danger and joy, setting her on a journey toward her own transformation.",
+"poster": "https://image.tmdb.org/t/p/w342/92EauLx5f1cKVSzhS6A5WBLRxfj.jpg",
+"runtime": 93,
+"title": "Lady",
+"tmdb_id": 1596257,
+"year": 2026
+},
+"1616187": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vBT0EuzccYXxisR3naZTR88fMZ1.jpg",
+"cast": [
+"Mercedes Cabral",
+"Alexis Manenti",
+"Anna Luna",
+"Hasmine Killip",
+"Irma Adlawan",
+"Donna Cariaga"
+],
+"countries": [
+"CH",
+"FR",
+"PH"
+],
+"directors": [
+"Dominik Locher"
+],
+"imdb_id": "tt38809417",
+"original_title": "Enjoy Your Stay",
+"overview": "To avoid losing custody of her six-year-old daughter in Manila, Luz, an undocumented Filipina cleaner working in a luxury Swiss ski resort, must earn money at any cost – even if it means transgressing her own moral limits.",
+"poster": "https://image.tmdb.org/t/p/w342/i6U43yPj31Ga38B7CvwymXK92OI.jpg",
+"runtime": 99,
+"title": "Enjoy Your Stay",
+"tmdb_id": 1616187,
+"year": 2026
+},
+"1620313": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
+"cast": [
+"Masahiro Motoki",
+"Masaki Suda",
+"Yuriko Yoshitaka",
+"Munetaka Aoki",
+"Ryota Miyadate",
+"Tasuku Emoto"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Kiyoshi Kurosawa"
+],
+"imdb_id": "tt39602215",
+"original_title": "黒牢城",
+"overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out.",
+"poster": "https://image.tmdb.org/t/p/w342/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
+"runtime": 147,
+"title": "The Samurai and the Prisoner",
+"tmdb_id": 1620313,
+"year": 2026
+},
+"1629051": {
+"backdrop": "https://image.tmdb.org/t/p/w780/o73vpmtXq89bfSUMcAulLVN4TKP.jpg",
+"cast": [
+"Moeka Hoshi",
+"Kurumi Inagaki",
+"Kento Kaku",
+"Tae Kimura",
+"Mutsuo Yoshioka",
+"Bokuzo Masana"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Dave Boyle"
+],
+"imdb_id": "tt38589433",
+"original_title": "Never After Dark",
+"overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+"poster": "https://image.tmdb.org/t/p/w342/jguB76QbAx6yExiOLIPvOaxW95b.jpg",
+"runtime": 104,
+"title": "Never After Dark",
+"tmdb_id": 1629051,
+"year": 2026
+},
+"1635591": {
+"backdrop": null,
 "cast": [],
 "countries": [
+"FI",
 "NO"
 ],
 "directors": [
-"Sigve Endresen"
+"Shakiba Adill",
+"Elina Hirvonen"
 ],
-"imdb_id": "tt0097374",
-"original_title": "For harde livet",
-"overview": "Vi følger en gruppe unge rusavhengige som jobber med å bli stoffrie. De vil ha et normalt liv og vi følger de unge menneskene fra de går på gata i Oslo til de drar til Tyrilikollektivet. Det er et behandlingssenter for rusavhengige i Mesnali og ligger ute i idyllisk natur, langt vekk fra storbyens bråk og mas. Der følger ungdommene et behandlingsopplegg, og filmen følger dem gjennom 16 måneder. I dette kollektivet får de hjelp til å få bukt med avhengigheten slik at de kan få et verdig liv.",
-"poster": "https://image.tmdb.org/t/p/w342/dzNhY6Py7ngC4nYjR8NUeUAo7k0.jpg",
-"runtime": 101,
-"title": "For Dear Life",
-"tmdb_id": 164867,
+"imdb_id": "tt40754698",
+"original_title": "The Secret Reading Club of Kabul",
+"overview": "In Taliban-controlled Afghanistan, where women are denied the right to study, work, and speak freely, a group of young women risk their lives to form a secret reading circle.",
+"poster": "https://image.tmdb.org/t/p/w342/osKQzcuPQiwZcw21ZKSc2wJrrC9.jpg",
+"runtime": 95,
+"title": "The Secret Reading Club of Kabul",
+"tmdb_id": 1635591,
+"year": 2026
+},
+"1660660": {
+"backdrop": "https://image.tmdb.org/t/p/w780/jJO3MPRW0uaksOdX8YaotkyB4w7.jpg",
+"cast": [
+"Gessica Généus",
+"Beonard Monteau",
+"Edouard Baptiste",
+"Mélissa Mildort",
+"Ginou Jules",
+"Eder Romeus"
+],
+"countries": [
+"FR",
+"HT",
+"BE",
+"LU",
+"CA"
+],
+"directors": [
+"Gessica Généus"
+],
+"imdb_id": "tt42007280",
+"original_title": "Marie Madeleine",
+"overview": "In Jacmel, Haiti, the sea, the churches, and the spirits shape daily life. Marie Madeleine is a free woman. She makes a living as a prostitute and navigates the nights without submitting to the rules of those who save souls. Her path crosses Joseph's, a young evangelist. A relationship blossoms between these two opposite beings. As Joseph’s faith wavers, Marie Madeleine draws him into a world where desire and the quest for freedom open up a space where everything can be reinvented.",
+"poster": "https://image.tmdb.org/t/p/w342/sKSXH5DuxhKUtKCkQ4HBJOl8xYs.jpg",
+"runtime": 104,
+"title": "Marie Madeleine",
+"tmdb_id": 1660660,
+"year": 2026
+},
+"1661926": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hvVIS83R92hstmUzqA3WVofyUQ1.jpg",
+"cast": [
+"Pushpa Thing Lama",
+"Deepika Yadav",
+"Jasmin Bishwokarma",
+"Aliz Ghimire",
+"Joel Gurung",
+"Aashant Sharma"
+],
+"countries": [
+"NP",
+"DE",
+"BR",
+"FR",
+"NO"
+],
+"directors": [
+"Abinash Bikram Shah"
+],
+"imdb_id": "tt29279937",
+"original_title": "तिनीहरू",
+"overview": "In a small Nepalese village nestled in the heart of a forest populated by wild elephants, Pirati is the matriarch of a Kinnar community. She dreams of escaping to a “normal” life with the man she is in love with. But when one of her daughters disappears, she must investigate and choose between love and responsibility to her community.",
+"poster": "https://image.tmdb.org/t/p/w342/jQZZsxtMzOOSjGvGMfrwDUZZyXs.jpg",
+"runtime": 108,
+"title": "Elephants in the Fog",
+"tmdb_id": 1661926,
+"year": 2026
+},
+"1662776": {
+"backdrop": "https://image.tmdb.org/t/p/w780/u1ESOIDdOeHuqV7CpLIkXeXR4uD.jpg",
+"cast": [
+"Quốc Tuấn",
+"Ngọc Tản",
+"Khánh Huyền",
+"Vân Hà",
+"Chí Linh"
+],
+"countries": [
+"VN",
+"SG",
+"NO",
+"FR",
+"ID",
+"SA",
+"KH",
+"TH",
+"TW"
+],
+"directors": [
+"Lê Bảo"
+],
+"imdb_id": "tt38857159",
+"original_title": "Thính Giác",
+"overview": "Ninh lives with his mother and misses his ex-wife Ngoc and their young children. In his work as a mechanic who installs decibel meters in public spaces and homes, Ninh observes the silence that haunts relationships. Wishing for his parents, who live apart and do not speak to each other, to reconcile, his fear of losing connection to his loved ones forces Ninh to face life’s unpredictable rhythms.",
+"poster": "https://image.tmdb.org/t/p/w342/ubRPVxziDoeSzbA6Xnzl5zMEYUo.jpg",
+"runtime": 128,
+"title": "Hearing",
+"tmdb_id": 1662776,
+"year": 2026
+},
+"1666712": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+"cast": [
+"Gary Lineker",
+"Jorge Valdano",
+"John Barnes",
+"Jorge Burruchaga",
+"Ricardo Giusti",
+"Julio Olarticoechea"
+],
+"countries": [
+"AR",
+"GB"
+],
+"directors": [
+"Juan Cabral",
+"Santiago Franco"
+],
+"imdb_id": "tt41593328",
+"original_title": "El Partido",
+"overview": "Film reconstructs the historic match Argentina vs England at the 1986 FIFA World Cup quarter-finals, famously remembered for the the hand of God goal by Maradona. Also exploring the sporting, political, and cultural dimensions of the encounter, in the background of the recent deadly Malvinas War between the two countries.",
+"poster": "https://image.tmdb.org/t/p/w342/wlu9iFPGvZGKe2vOQ30wEKwl88q.jpg",
+"runtime": 91,
+"title": "The Match",
+"tmdb_id": 1666712,
+"year": 2026
+},
+"16859": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+"cast": [
+"Minami Takayama",
+"Rei Sakuma",
+"Kappei Yamaguchi",
+"Keiko Toda",
+"Mieko Nobusawa",
+"Koichi Miura"
+],
+"countries": [
+"JP"
+],
+"directors": [
+"Hayao Miyazaki"
+],
+"imdb_id": "tt0097814",
+"original_title": "魔女の宅急便",
+"overview": "Kiki, en 13-årig heks, følger tradisjonen med å tilbringe et år i en fremmed by for å bli en fullverdig heks, med kun sin flygende sopelime og sin svarte katt til selskap. I begynnelsen er det vanskelig for Kiki å tilpasse seg storbylivet, men etterhvert starter hun et budfirma med sin flygende sopelime. Hun må kjempe seg gjennom mye motgang. Det verste er når hun mister sin magi. Med hjelp fra nye venner finner hun sin magi igjen når den trengs som mest og lærer seg samtidig en viktig lekse om selvstendighet.",
+"poster": "https://image.tmdb.org/t/p/w342/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+"runtime": 103,
+"title": "Kiki's Delivery Service",
+"tmdb_id": 16859,
 "year": 1989
+},
+"1698960": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bL5nSEEwRPq1yapQR8erv2zXspA.jpg",
+"cast": [
+"Yin Fang",
+"Roy Wang",
+"Li Xueqin",
+"Huang Miyi",
+"Zhang Benyu",
+"Huang Ziqi"
+],
+"countries": [
+"CN"
+],
+"directors": [
+"Zhong Kaifeng"
+],
+"imdb_id": "tt32272953",
+"original_title": "大西洋",
+"overview": "Ding Mao, a supermarket employee, accidentally cooks the ornamental shark kept in the store. Soon after, he starts hearing a strange voice. Travelling from a southern city to the wilds of Northeast China, he sets out to trace his father’s whereabouts. During this journey, he pieces together his father’s bizarre life through an abandoned amusement park, a zoo in winter, and the supermarket where shark meat is sold. A quirky experimental musician, a blind fortune-teller who can understand animal language, a trainer whose legs were bitten off by a shark, and a female picture book painter — guided by the mysterious voice, all these souls become intertwined.",
+"poster": "https://image.tmdb.org/t/p/w342/2KVTNGoN7H0HdzeGbq4d4TZgu7q.jpg",
+"runtime": 100,
+"title": "Atlantic Rhapsody",
+"tmdb_id": 1698960,
+"year": 2026
 },
 "170884": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6LM6TQXQBS2Qm8wfRwdW8MIu3uA.jpg",
@@ -595,30 +1653,30 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 170884,
 "year": 2012
 },
-"179464": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mR9JVyhRUFeXmhPNZ5rsBOkJRnR.jpg",
+"19552": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7bKppGvuhdF9BCOZWDMUFccoQU1.jpg",
 "cast": [
-"Mogens Wieth",
-"Bodil Kjer",
-"Gull-Maj Norin",
-"Ib Schønberg",
-"Charles Wilken",
-"Petrine Sonne"
+"Trần Nữ Yên Khê",
+"Man San Lu",
+"Thi Loc Truong",
+"Ánh Hoa",
+"Hoa Hoi Vuong",
+"Ngoc Trung Tran"
 ],
 "countries": [
-"DK"
+"FR"
 ],
 "directors": [
-"Bodil Ipsen"
+"Trần Anh Hùng"
 ],
-"imdb_id": "tt0124742",
-"original_title": "En herre i kjole og hvidt",
-"overview": "In broad daylight, a man runs at full speed across the Town Hall Square wearing a dress and white. People stare in amazement as he tries to grab a seat in a phone box to make a call. However, his story is even more incredible than they can imagine.",
-"poster": "https://image.tmdb.org/t/p/w342/lIslUAE9em7gcq2I2iDu5eAM6Fo.jpg",
-"runtime": 95,
-"title": "A Gentleman in Top Hat and Tails",
-"tmdb_id": 179464,
-"year": 1942
+"imdb_id": "tt0107617",
+"original_title": "Mùi đu đủ xanh",
+"overview": "1950s Saigon through the eyes of Mui, a Vietnamese servant girl. At 10 years-old, Mui leaves her village to work for an affluent, troubled family. As she comes of age, Mui finds work in the household of a pianist she has admired since childhood, and finds their relationship growing in complexity.",
+"poster": "https://image.tmdb.org/t/p/w342/4Pqvx6cuzF2XQrHUrIPUBVXugc3.jpg",
+"runtime": 104,
+"title": "The Scent of Green Papaya",
+"tmdb_id": 19552,
+"year": 1993
 },
 "202573": {
 "backdrop": "https://image.tmdb.org/t/p/w780/yRlYnL6EuFuYOU2j0VR0GSUcSFZ.jpg",
@@ -797,31 +1855,6 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 245891,
 "year": 2014
 },
-"285673": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9fPg0z9TFWUqm2fk01ZBbMOxTg6.jpg",
-"cast": [
-"Hjalmar Fries",
-"Hans Bille",
-"Gerd Egede-Nissen",
-"Lillebil Ibsen",
-"Rolf Christensen",
-"Harald Schwenzen"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Harald Schwenzen"
-],
-"imdb_id": "tt0013480",
-"original_title": "Pan",
-"overview": "Løytnant Thomas Glahn, en jeger og eks-militær, bor alene i en skogshytte med sin trofaste hund. I møte med Edvarda, datteren til en kjøpmann, føler de seg sterkt tiltrukket av hverandre, men ingen av dem forstår den andres kjærlighet.",
-"poster": "https://image.tmdb.org/t/p/w342/wLQ8NknPbumuP80h9uC0DeSGmYW.jpg",
-"runtime": 102,
-"title": "Pan",
-"tmdb_id": 285673,
-"year": 1922
-},
 "30576": {
 "backdrop": "https://image.tmdb.org/t/p/w780/od0ejkfTarHxh8HLCp6W1O7xi3n.jpg",
 "cast": [
@@ -872,6 +1905,39 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "title": "The Face of Truth",
 "tmdb_id": 326102,
 "year": 1951
+},
+"350037": {
+"backdrop": "https://image.tmdb.org/t/p/w780/g22ifzpUcijHEKkU4AMxox4UKDV.jpg",
+"cast": [
+"Sediqa Rasuli",
+"Qodratollah Qadiri",
+"Amina Musavi",
+"Sahar Karimi",
+"Masuma Hussaini",
+"Said Mohammad Amin Naderi"
+],
+"countries": [
+"AF",
+"DK",
+"FR",
+"DE",
+"HK",
+"NL",
+"SE",
+"CH",
+"US"
+],
+"directors": [
+"Shahrbanoo Sadat"
+],
+"imdb_id": "tt5093990",
+"original_title": "Wolf and Sheep",
+"overview": "In rural Afghanistan, people are storytellers who make up and tell each other tales of mystery and imagination to explain the world in which they live. The shepherd children own the mountains and, although no adults are around, they know the rules; they know that boys and girls are not allowed to be together. The boys practice with their slings to fight wolves. The girls smoke secretly and play at getting married, dreaming of finding a husband soon. They gossip about Sediqa; she’s eleven years old and an outsider. The girls think she is cursed. Qodrat, also eleven years old, becomes the subject of gossip when his mother remarries an old man with two wives. Qodrat roams alone in the most isolated parts of the mountains, where he meets Sediqa and they become friends.",
+"poster": "https://image.tmdb.org/t/p/w342/3jNAqfYpWk9ClIj8s4VK0r8XZYB.jpg",
+"runtime": 86,
+"title": "Wolf and Sheep",
+"tmdb_id": 350037,
+"year": 2016
 },
 "3597": {
 "backdrop": "https://image.tmdb.org/t/p/w780/q21bYziiGDyzKm4RppVbP46u70B.jpg",
@@ -1138,6 +2204,32 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 470415,
 "year": 2017
 },
+"487850": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qDKmkuJhxJDLJFuUacWLdmya5TN.jpg",
+"cast": [
+"Masahiro Higashide",
+"Erika Karata",
+"Koji Seto",
+"Rio Yamashita",
+"Sairi Ito",
+"Daichi Watanabe"
+],
+"countries": [
+"JP",
+"FR"
+],
+"directors": [
+"Ryusuke Hamaguchi"
+],
+"imdb_id": "tt7112154",
+"original_title": "寝ても覚めても",
+"overview": "Asako lives in Osaka. She falls in love with Baku, a free-spirit. One day, Baku suddenly disappears. Two years later, Asako now lives in Tokyo and meets Ryohei. He looks just like Baku, but has a completely different personality.",
+"poster": "https://image.tmdb.org/t/p/w342/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
+"runtime": 120,
+"title": "Asako I & II",
+"tmdb_id": 487850,
+"year": 2018
+},
 "526": {
 "backdrop": "https://image.tmdb.org/t/p/w780/DNb1rBm6R75IJ88PKOd0wfCHm6.jpg",
 "cast": [
@@ -1313,6 +2405,35 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 57438,
 "year": 1995
 },
+"585443": {
+"backdrop": "https://image.tmdb.org/t/p/w780/gAceSdcmWbmNUzj6DPeVM7xEVfG.jpg",
+"cast": [
+"Hasibullah Rasooli",
+"Masihullah Feraji",
+"Qodratollah Qadiri",
+"Sediqa Rasuli",
+"Anwar Hashimi",
+"Ahmad Fayaz Omadi"
+],
+"countries": [
+"AF",
+"DK",
+"FR",
+"DE",
+"LU"
+],
+"directors": [
+"Shahrbanoo Sadat"
+],
+"imdb_id": "tt5678218",
+"original_title": "پرورشگاه",
+"overview": "A historic drama with musical Bollywood scenes. Kabul in the early 90s. Soviet values rule the country. Women can wear miniskirts, children can go to school and people can go to the cinema, concerts as well as universities. Life in Afghanistan is similar to life in the Western world. 14 years old Qodrat sells cinema tickets on the black market in the streets of Kabul. After selling a ticket to a secret police officer by mistake, he ends up at the Soviet orphanage, where he fakes his identity at the registration, in hope of getting more power. Everyday life for Qodrat is about friendships, falling in love, doing naughty things and going on adventures – just like it is for children in other parts of the world. However, behind the safe walls of the orphanage the world they once knew is drastically changing as the Mujahideens start the civil war.",
+"poster": "https://image.tmdb.org/t/p/w342/qavrvCloxUMmjB9ngUFg30sfGJ4.jpg",
+"runtime": 90,
+"title": "The Orphanage",
+"tmdb_id": 585443,
+"year": 2019
+},
 "59266": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nnc0BEAEGaZvzPN3fLKTFZkVKa.jpg",
 "cast": [
@@ -1363,6 +2484,32 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 60767,
 "year": 1976
 },
+"65749": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uiEcc0rRtbYGFpwvm35MeBFQjCa.jpg",
+"cast": [
+"Miguel Ángel Solá",
+"Cecilia Narova",
+"Mía Maestro",
+"Juan Carlos Copes",
+"Carlos Rivarola",
+"Sandra Ballesteros"
+],
+"countries": [
+"AR",
+"ES"
+],
+"directors": [
+"Carlos Saura"
+],
+"imdb_id": "tt0120274",
+"original_title": "Tango, no me dejes nunca",
+"overview": "A dangerous love affair inspires a director to create the most spectacular and boldly seductive dance film ever made.",
+"poster": "https://image.tmdb.org/t/p/w342/87Ze0JLbWYuYbWc1qf6aGxHipnI.jpg",
+"runtime": 115,
+"title": "Tango",
+"tmdb_id": 65749,
+"year": 1998
+},
 "676696": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mHyEHJxIRvbxjw2vVNsshyANu2I.jpg",
 "cast": [
@@ -1399,8 +2546,8 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "SE"
 ],
 "directors": [
-"Even Benestad",
-"August B. Hanssen"
+"August B. Hanssen",
+"Even Benestad"
 ],
 "imdb_id": "tt1941627",
 "original_title": "Pushwagner",
@@ -1487,31 +2634,6 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 7509,
 "year": 2005
 },
-"75233": {
-"backdrop": "https://image.tmdb.org/t/p/w780/1gLqb2IjIer0xYTT5GhLzi7CtjC.jpg",
-"cast": [
-"Anders Danielsen Lie",
-"Malin Crépin",
-"Hans Olav Brenner",
-"Ingrid Olava",
-"Tone Beate Mostraum",
-"Øystein Røger"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Joachim Trier"
-],
-"imdb_id": "tt1736633",
-"original_title": "Oslo, 31. august",
-"overview": "Anders (34) er nesten ferdig med rusrehabilitering på bygda. Han skal bare en kort tur inn til Oslo for et jobbintervju, men drar ikke tilbake som avtalt. Anders er ressurssterk og er fra en fin familie, men han er hjemsøkt av alle mulighetene han har kastet bort, og av alle han har sviktet. Tilbake i Oslo møter han gamle venner og står ansikt til ansikt med tapte ambisjoner og drømmer.",
-"poster": "https://image.tmdb.org/t/p/w342/a9WUrw5Dkl8mumi2YlOlpt2f5Dc.jpg",
-"runtime": 95,
-"title": "Oslo, August 31st",
-"tmdb_id": 75233,
-"year": 2011
-},
 "795812": {
 "backdrop": "https://image.tmdb.org/t/p/w780/A5N6hjPvjcxCLOKo8mAgRIz26Ie.jpg",
 "cast": [
@@ -1585,6 +2707,32 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 84334,
 "year": 2012
 },
+"883101": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qbJWdVpSaJs7iiSJmyAOXN5gnsc.jpg",
+"cast": [
+"Stella Nyanzi",
+"Baraka Bah",
+"Wasswa Bah",
+"Kato Bah"
+],
+"countries": [
+"UG",
+"ZA",
+"DE",
+"US"
+],
+"directors": [
+"Patience Nitumwesiga"
+],
+"imdb_id": "tt38651269",
+"original_title": "The Woman Who Poked the Leopard",
+"overview": "Despite fearing for her life, Ugandan medical anthropologist, poet, and queer rights activist Stella Nyanzi confronts the authoritarian rule of President Yoweri Museveni in Uganda through provocative poetry, “radical rudeness,” and acts of defiant protest. After being arrested and imprisoned for criticizing the government, she refuses to be silenced and continues her fight for political change and LGBTQ+ rights. Following Nyanzi through her activism, imprisonment, and political ambitions, the film also reveals the personal cost of her outspoken struggle, exploring how her fierce public battles and powerful personality affect the lives of her children and family while offering a broader portrait of contemporary Uganda.",
+"poster": "https://image.tmdb.org/t/p/w342/tF7dVc4md2w8RUzXlSpZP45tf5j.jpg",
+"runtime": 107,
+"title": "The Woman Who Poked the Leopard",
+"tmdb_id": 883101,
+"year": 2025
+},
 "947474": {
 "backdrop": "https://image.tmdb.org/t/p/w780/x6EA7dnmR2TXfurfU3wDYLOOyLG.jpg",
 "cast": [
@@ -1654,6 +2802,37 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "tmdb_id": 973513,
 "year": 1976
 },
+"974230": {
+"backdrop": "https://image.tmdb.org/t/p/w780/iVsKSahXx5m4hlr8TrljCCyKBCC.jpg",
+"cast": [
+"Kakhaber Choladze",
+"Natia Nikolashvili",
+"Vamekh Jangidze",
+"Davit Natsvaladze",
+"Anamaria Kamladze",
+"Sergi Kviloria"
+],
+"countries": [
+"GE",
+"NO",
+"CH",
+"LU",
+"BG",
+"TR",
+"SA"
+],
+"directors": [
+"Levan Koguashvili"
+],
+"imdb_id": "tt29550106",
+"original_title": "გურია",
+"overview": "In Guria, western Georgia – where progress has yet to take hold following the collapse of the USSR – the locals struggle to survive day to day in the 1990s, with humor, songs, and unwavering solidarity.",
+"poster": "https://image.tmdb.org/t/p/w342/4Q3gghHt1Hs5xHEIOIFZziTrzhs.jpg",
+"runtime": 118,
+"title": "Guria",
+"tmdb_id": 974230,
+"year": 2026
+},
 "99272": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6SBFoXBbAEOrz1rXqom8s8zndyN.jpg",
 "cast": [
@@ -1682,16 +2861,25 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 },
 "films": {
-"1004663": {
+"1009485": {
 "shows": [
 {
-"screen": "Tancred",
-"series": "Kunst på film",
-"t": "2026-10-18T16:00+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=316151"
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-15T15:00+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/all-the-beauty-and-the-bloodshed"
+"url": "https://www.cinemateket.no/filmer/whispers-in-may"
+},
+"1026933": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-06T16:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/paradise"
 },
 "10293": {
 "shows": [
@@ -1742,6 +2930,36 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/lop-lola-lop"
+},
+"1046304": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-14T17:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/9-temples-to-heaven"
+},
+"1058424": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-14T20:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/hope"
+},
+"1087209": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-10T17:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/lady-nazca"
 },
 "1108782": {
 "shows": [
@@ -1803,6 +3021,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/the-big-lebowski"
 },
+"11655": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-13T18:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/cronos"
+},
 "1173147": {
 "shows": [
 {
@@ -1833,6 +3061,26 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/miracle-on-34th-street"
 },
+"1208758": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-14T13:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-best-mother-in-the-world"
+},
+"1210268": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-11T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-meltdown"
+},
 "12167": {
 "shows": [
 {
@@ -1852,6 +3100,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/mitt-palestina"
+},
+"1241574": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-06T17:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/no-good-men"
 },
 "12493": {
 "shows": [
@@ -1908,6 +3166,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/my-national-gallery"
 },
+"1280738": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-06T20:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-furious"
+},
 "1282280": {
 "shows": [
 {
@@ -1918,6 +3186,26 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/dog-of-god"
 },
+"1299581": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-09T17:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/knife-the-attempted-murder-of-salman-rushdie"
+},
+"1315657": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-13T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/frihetens-pris-yellow-letters"
+},
 "1316398": {
 "shows": [
 {
@@ -1927,6 +3215,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/var-erika"
+},
+"1317512": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-15T13:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-world-of-love"
 },
 "13320": {
 "shows": [
@@ -1948,16 +3246,15 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/funny-face"
 },
-"134": {
+"1364629": {
 "shows": [
 {
-"screen": "Lillebil",
-"series": "Musikalsøndag",
-"t": "2026-10-18T16:00+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=313092"
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-12T20:30+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/o-brother-where-art-thou"
+"url": "https://www.cinemateket.no/filmer/a-girl-unknown"
 },
 "1368337": {
 "shows": [
@@ -1983,6 +3280,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/small-roads"
+},
+"1375646": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-15T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/colony"
 },
 "138535": {
 "shows": [
@@ -2019,16 +3326,70 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/aktivisten"
 },
-"14329": {
+"1405200": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-15T18:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/benimana"
+},
+"1417": {
 "shows": [
 {
 "screen": "Lillebil",
-"series": "Barnas cinematek",
-"t": "2026-10-18T14:00+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=312583"
+"series": "Film fra Sør",
+"t": "2026-11-09T20:45+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/fia-og-klovnene"
+"url": "https://www.cinemateket.no/filmer/pans-labyrint"
+},
+"1417935": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-10T18:00+01:00"
+},
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-14T15:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/filipinana"
+},
+"1419406": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-08T20:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-shadows-edge"
+},
+"1434751": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-08T15:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/isabel"
+},
+"1437703": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-12T18:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/flies"
 },
 "144": {
 "shows": [
@@ -2050,6 +3411,36 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/resilience"
 },
+"1448971": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-15T15:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/nagi-notes"
+},
+"1464639": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-07T13:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/chimney-town-frozen-in-time"
+},
+"1476614": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-08T16:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/all-of-a-sudden"
+},
 "1490222": {
 "shows": [
 {
@@ -2065,7 +3456,8 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 {
 "screen": "Tancred",
 "series": "Baltiske filmdager",
-"t": "2026-10-22T18:00+02:00"
+"t": "2026-10-22T18:00+02:00",
+"ticket": "https://www.cinemateket.no/billetter?show=313093"
 }
 ],
 "url": "https://www.cinemateket.no/filmer/ulya"
@@ -2090,6 +3482,51 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/oppussing"
 },
+"1516884": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-10T20:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/ky-nam-inn"
+},
+"1517062": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-09T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/divine-comedy"
+},
+"1534205": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-07T13:00+01:00"
+},
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-15T13:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/papaya"
+},
+"1536433": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-06T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/sad-girlz"
+},
 "1546852": {
 "shows": [
 {
@@ -2099,6 +3536,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/irena"
+},
+"1560309": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-08T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/all-the-lovers-in-the-night"
 },
 "1573": {
 "shows": [
@@ -2140,15 +3587,160 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/jeg-sa-en-ulv-en-rev-en-hare"
 },
-"164867": {
+"15916": {
 "shows": [
 {
 "screen": "Lillebil",
-"series": "Norske klassikere",
-"t": "2026-10-20T18:00+02:00"
+"series": "Film fra Sør",
+"t": "2026-11-06T18:30+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/for-harde-livet"
+"url": "https://www.cinemateket.no/filmer/angels-egg"
+},
+"1593299": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-14T20:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-difficult-bride"
+},
+"1595346": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-11T20:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/zi"
+},
+"1596249": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-14T17:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/ha-chan-shake-your-booty"
+},
+"1596257": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-07T15:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/lady"
+},
+"1616187": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-08T13:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/enjoy-your-stay"
+},
+"1620313": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-12T20:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-samurai-and-the-prisoner"
+},
+"1629051": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-13T20:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/never-after-dark"
+},
+"1635591": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-07T15:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-secret-reading-club-of-kabul"
+},
+"1660660": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-07T17:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/marie-madeleine"
+},
+"1661926": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-15T20:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/elephants-in-the-fog"
+},
+"1662776": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-15T17:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/hearing"
+},
+"1666712": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-07T20:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-match"
+},
+"16859": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-08T13:00+01:00"
+},
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-14T13:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/kikis-budservice"
+},
+"1698960": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-07T20:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/atlantic-rhapsody"
 },
 "170884": {
 "shows": [
@@ -2165,15 +3757,15 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/stemple-pass"
 },
-"179464": {
+"19552": {
 "shows": [
 {
 "screen": "Lillebil",
-"series": "Bodil Ipsen",
-"t": "2026-10-21T20:00+02:00"
+"series": "Film fra Sør",
+"t": "2026-11-08T17:45+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/en-herre-i-kjole-og-hvidt"
+"url": "https://www.cinemateket.no/filmer/duften-av-gronn-papaya-om-morgenen"
 },
 "202573": {
 "shows": [
@@ -2315,16 +3907,6 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/pilotens-kone"
 },
-"285673": {
-"shows": [
-{
-"screen": "Lillebil",
-"series": "Filmhistoriekurs",
-"t": "2026-10-21T18:00+02:00"
-}
-],
-"url": "https://www.cinemateket.no/filmer/pan"
-},
 "2861": {
 "shows": [
 {
@@ -2375,23 +3957,8 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 {
 "screen": "Tancred",
 "series": "Månedens film",
-"t": "2026-10-18T18:15+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=312786"
-},
-{
-"screen": "Tancred",
-"series": "Månedens film",
-"t": "2026-10-20T20:45+02:00"
-},
-{
-"screen": "Tancred",
-"series": "Månedens film",
-"t": "2026-10-21T20:30+02:00"
-},
-{
-"screen": "Tancred",
-"series": "Månedens film",
-"t": "2026-10-22T21:00+02:00"
+"t": "2026-10-22T21:00+02:00",
+"ticket": "https://www.cinemateket.no/billetter?show=312789"
 },
 {
 "screen": "Tancred",
@@ -2408,11 +3975,6 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 },
 "326102": {
 "shows": [
-{
-"screen": "Lillebil",
-"series": "Bodil Ipsen",
-"t": "2026-10-20T20:30+02:00"
-},
 {
 "screen": "Lillebil",
 "series": "Bodil Ipsen",
@@ -2460,6 +4022,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/eyes-wide-shut"
+},
+"350037": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-14T15:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/wolf-and-sheep"
 },
 "3597": {
 "shows": [
@@ -2609,7 +4181,7 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 "452493": {
 "shows": [
 {
-"screen": "Tancred",
+"screen": "Lillebil",
 "series": "Oddvar Bull Tuhus",
 "t": "2026-10-28T18:00+01:00"
 }
@@ -2636,16 +4208,15 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/en-fremmed-flytter-inn"
 },
-"48831": {
+"487850": {
 "shows": [
 {
-"screen": "Tancred",
-"series": "Eric Rohmer",
-"t": "2026-10-18T20:30+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=313082"
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-09T18:00+01:00"
 }
 ],
-"url": "https://www.cinemateket.no/filmer/min-natt-med-maud"
+"url": "https://www.cinemateket.no/filmer/asako-i-ii"
 },
 "526": {
 "shows": [
@@ -2692,7 +4263,7 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 {
 "screen": "Tancred",
 "series": "Eric Rohmer",
-"t": "2026-10-23T20:30+02:00"
+"t": "2026-10-23T20:45+02:00"
 },
 {
 "screen": "Lillebil",
@@ -2712,7 +4283,8 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 {
 "screen": "Lillebil",
 "series": "Ung kurator",
-"t": "2026-10-22T18:30+02:00"
+"t": "2026-10-22T18:30+02:00",
+"ticket": "https://www.cinemateket.no/billetter?show=315793"
 }
 ],
 "url": "https://www.cinemateket.no/filmer/lacombe-lucien"
@@ -2756,6 +4328,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/kristin-lavransdatter"
+},
+"585443": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-11T18:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-orphanage"
 },
 "59266": {
 "shows": [
@@ -2857,6 +4439,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/min-venninnes-venn"
 },
+"65749": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-07T17:30+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/tango"
+},
 "676696": {
 "shows": [
 {
@@ -2927,12 +4519,6 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 {
 "screen": "Lillebil",
 "series": "Bodil Ipsen",
-"t": "2026-10-18T20:15+02:00",
-"ticket": "https://www.cinemateket.no/billetter?show=313079"
-},
-{
-"screen": "Lillebil",
-"series": "Bodil Ipsen",
 "t": "2026-11-04T18:30+01:00"
 }
 ],
@@ -2967,6 +4553,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 }
 ],
 "url": "https://www.cinemateket.no/filmer/oslo-31-august"
+},
+"758866": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-13T17:00+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/drive-my-car"
 },
 "76341": {
 "shows": [
@@ -3008,6 +4604,16 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/searching-for-sugar-man"
 },
+"883101": {
+"shows": [
+{
+"screen": "Lillebil",
+"series": "Film fra Sør",
+"t": "2026-11-12T17:15+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/the-woman-who-poked-the-leopard"
+},
 "9300": {
 "shows": [
 {
@@ -3048,16 +4654,27 @@ window.LANGTAGNING_CINEMATEKET_PROGRAM = {
 ],
 "url": "https://www.cinemateket.no/filmer/tillitsmannen"
 },
+"974230": {
+"shows": [
+{
+"screen": "Tancred",
+"series": "Film fra Sør",
+"t": "2026-11-11T17:45+01:00"
+}
+],
+"url": "https://www.cinemateket.no/filmer/guria"
+},
 "99272": {
 "shows": [
 {
 "screen": "Lillebil",
 "series": "Bodil Ipsen",
-"t": "2026-10-22T20:45+02:00"
+"t": "2026-10-22T21:00+02:00",
+"ticket": "https://www.cinemateket.no/billetter?show=313090"
 }
 ],
 "url": "https://www.cinemateket.no/filmer/de-rode-enge"
 }
 },
-"updated": "2026-10-18T01:29"
+"updated": "2026-10-22T10:07"
 };

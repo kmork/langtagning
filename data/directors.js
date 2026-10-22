@@ -1951,6 +1951,67 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 590343,
+"kind": "short",
+"year": 1991
+},
+{
+"id": 1151118,
+"kind": "short",
+"year": 1991
+},
+{
+"id": 590344,
+"kind": "short",
+"year": 1994
+},
+{
+"id": 40378,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 50352,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 11083,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 10475,
+"kind": "feature",
+"year": 2005
+},
+{
+"id": 8933,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 52320,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 285181,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 646376,
+"kind": "feature",
+"year": 2021
+}
+],
+"name": "Bent Hamer",
+"person_id": 56377
+},
+{
+"films": [
+{
 "id": 953413,
 "kind": "doc",
 "year": 1956
@@ -3135,6 +3196,117 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Buster Keaton",
 "person_id": 8635
+},
+{
+"films": [
+{
+"id": 128044,
+"kind": "doc",
+"year": 1978
+},
+{
+"id": 48318,
+"kind": "feature",
+"year": 1979
+},
+{
+"id": 748284,
+"kind": "short",
+"year": 1979
+},
+{
+"id": 128043,
+"kind": "feature",
+"year": 1981
+},
+{
+"id": 1341523,
+"kind": "short",
+"year": 1981
+},
+{
+"id": 60261,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 115427,
+"kind": "tv",
+"year": 1982
+},
+{
+"id": 74903,
+"kind": "feature",
+"year": 1984
+},
+{
+"id": 20122,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 128028,
+"kind": "doc",
+"year": 1990
+},
+{
+"id": 128031,
+"kind": "short",
+"year": 1990
+},
+{
+"id": 31414,
+"kind": "feature",
+"year": 1994
+},
+{
+"id": 47053,
+"kind": "short",
+"year": 1995
+},
+{
+"id": 23160,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 1480788,
+"kind": "doc",
+"year": 2001
+},
+{
+"id": 8985,
+"kind": "doc",
+"year": 2004
+},
+{
+"id": 1110892,
+"kind": "short",
+"year": 2004
+},
+{
+"id": 31262,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 81401,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 479537,
+"kind": "doc",
+"year": 2017
+},
+{
+"id": 594031,
+"kind": "doc",
+"year": 2019
+}
+],
+"name": "Béla Tarr",
+"person_id": 85637
 },
 {
 "films": [
@@ -5241,6 +5413,67 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 1714574,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 62819,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 14812,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 16095,
+"kind": "feature",
+"year": 2008
+},
+{
+"id": 212606,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 396616,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 498244,
+"kind": "doc",
+"year": 2018
+},
+{
+"id": 500006,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 744733,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 1028819,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1635570,
+"kind": "feature",
+"year": 2026
+}
+],
+"name": "Erik Poppe",
+"person_id": 79322
+},
+{
+"films": [
+{
 "id": 290,
 "kind": "feature",
 "year": 1991
@@ -5791,6 +6024,257 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "François Truffaut",
 "person_id": 1650
+},
+{
+"films": [
+{
+"id": 41212,
+"kind": "doc",
+"year": 1967
+},
+{
+"id": 60315,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 114116,
+"kind": "doc",
+"year": 1969
+},
+{
+"id": 114390,
+"kind": "doc",
+"year": 1970
+},
+{
+"id": 48860,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 114388,
+"kind": "doc",
+"year": 1971
+},
+{
+"id": 114392,
+"kind": "doc",
+"year": 1972
+},
+{
+"id": 114395,
+"kind": "doc",
+"year": 1973
+},
+{
+"id": 114409,
+"kind": "doc",
+"year": 1974
+},
+{
+"id": 90511,
+"kind": "doc",
+"year": 1975
+},
+{
+"id": 114401,
+"kind": "doc",
+"year": 1976
+},
+{
+"id": 114423,
+"kind": "doc",
+"year": 1977
+},
+{
+"id": 315197,
+"kind": "doc",
+"year": 1978
+},
+{
+"id": 114399,
+"kind": "doc",
+"year": 1979
+},
+{
+"id": 114403,
+"kind": "doc",
+"year": 1981
+},
+{
+"id": 250943,
+"kind": "feature",
+"year": 1982
+},
+{
+"id": 110777,
+"kind": "doc",
+"year": 1983
+},
+{
+"id": 114413,
+"kind": "doc",
+"year": 1985
+},
+{
+"id": 114384,
+"kind": "doc",
+"year": 1986
+},
+{
+"id": 114405,
+"kind": "doc",
+"year": 1986
+},
+{
+"id": 114426,
+"kind": "doc",
+"year": 1986
+},
+{
+"id": 129682,
+"kind": "doc",
+"year": 1986
+},
+{
+"id": 124570,
+"kind": "doc",
+"year": 1988
+},
+{
+"id": 93540,
+"kind": "doc",
+"year": 1989
+},
+{
+"id": 71809,
+"kind": "doc",
+"year": 1990
+},
+{
+"id": 221861,
+"kind": "doc",
+"year": 1991
+},
+{
+"id": 114420,
+"kind": "doc",
+"year": 1993
+},
+{
+"id": 114397,
+"kind": "doc",
+"year": 1994
+},
+{
+"id": 290168,
+"kind": "doc",
+"year": 1995
+},
+{
+"id": 291837,
+"kind": "doc",
+"year": 1996
+},
+{
+"id": 114412,
+"kind": "doc",
+"year": 1997
+},
+{
+"id": 84661,
+"kind": "doc",
+"year": 1999
+},
+{
+"id": 114427,
+"kind": "doc",
+"year": 2001
+},
+{
+"id": 125946,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 270467,
+"kind": "doc",
+"year": 2002
+},
+{
+"id": 318561,
+"kind": "doc",
+"year": 2005
+},
+{
+"id": 114414,
+"kind": "doc",
+"year": 2007
+},
+{
+"id": 67381,
+"kind": "doc",
+"year": 2009
+},
+{
+"id": 157490,
+"kind": "short",
+"year": 2009
+},
+{
+"id": 47059,
+"kind": "doc",
+"year": 2010
+},
+{
+"id": 82269,
+"kind": "doc",
+"year": 2011
+},
+{
+"id": 211024,
+"kind": "doc",
+"year": 2013
+},
+{
+"id": 266080,
+"kind": "doc",
+"year": 2014
+},
+{
+"id": 355230,
+"kind": "doc",
+"year": 2015
+},
+{
+"id": 446173,
+"kind": "doc",
+"year": 2017
+},
+{
+"id": 537968,
+"kind": "doc",
+"year": 2018
+},
+{
+"id": 726041,
+"kind": "doc",
+"year": 2020
+},
+{
+"id": 1004657,
+"kind": "feature",
+"year": 2022
+},
+{
+"id": 1077050,
+"kind": "doc",
+"year": 2023
+}
+],
+"name": "Frederick Wiseman",
+"person_id": 138006
 },
 {
 "films": [
@@ -6606,6 +7090,82 @@ window.LANGTAGNING_DIRECTORS = {
 ],
 "name": "Hamilton Luske",
 "person_id": 11429
+},
+{
+"films": [
+{
+"id": 92056,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 85589,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 26665,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 76550,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 382697,
+"kind": "short",
+"year": 2003
+},
+{
+"id": 41714,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 33114,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 31035,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 94183,
+"kind": "doc",
+"year": 2012
+},
+{
+"id": 252822,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 348668,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 438650,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 512603,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 974453,
+"kind": "feature",
+"year": 2024
+}
+],
+"name": "Hans Petter Moland",
+"person_id": 95972
 },
 {
 "films": [
@@ -8856,6 +9416,11 @@ window.LANGTAGNING_DIRECTORS = {
 "id": 414030,
 "kind": "doc",
 "year": 2018
+},
+{
+"id": 885370,
+"kind": "feature",
+"year": 2023
 },
 {
 "id": 1065727,
@@ -12114,6 +12679,177 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 626,
+"kind": "short",
+"year": 1929
+},
+{
+"id": 5729,
+"kind": "feature",
+"year": 1930
+},
+{
+"id": 91,
+"kind": "doc",
+"year": 1933
+},
+{
+"id": 48484,
+"kind": "feature",
+"year": 1947
+},
+{
+"id": 38811,
+"kind": "feature",
+"year": 1949
+},
+{
+"id": 800,
+"kind": "feature",
+"year": 1950
+},
+{
+"id": 44655,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 48849,
+"kind": "feature",
+"year": 1951
+},
+{
+"id": 44804,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 48883,
+"kind": "feature",
+"year": 1952
+},
+{
+"id": 42502,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 43344,
+"kind": "feature",
+"year": 1953
+},
+{
+"id": 43328,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 43338,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 54979,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 114354,
+"kind": "feature",
+"year": 1954
+},
+{
+"id": 37628,
+"kind": "feature",
+"year": 1955
+},
+{
+"id": 35206,
+"kind": "feature",
+"year": 1956
+},
+{
+"id": 114358,
+"kind": "feature",
+"year": 1956
+},
+{
+"id": 35124,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 48863,
+"kind": "feature",
+"year": 1959
+},
+{
+"id": 35030,
+"kind": "feature",
+"year": 1960
+},
+{
+"id": 4497,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 29264,
+"kind": "feature",
+"year": 1962
+},
+{
+"id": 36245,
+"kind": "feature",
+"year": 1964
+},
+{
+"id": 36265,
+"kind": "feature",
+"year": 1965
+},
+{
+"id": 649,
+"kind": "feature",
+"year": 1967
+},
+{
+"id": 35031,
+"kind": "feature",
+"year": 1969
+},
+{
+"id": 35838,
+"kind": "feature",
+"year": 1970
+},
+{
+"id": 4593,
+"kind": "feature",
+"year": 1972
+},
+{
+"id": 5558,
+"kind": "feature",
+"year": 1974
+},
+{
+"id": 5781,
+"kind": "feature",
+"year": 1977
+},
+{
+"id": 1004399,
+"kind": "doc",
+"year": 2000
+}
+],
+"name": "Luis Buñuel",
+"person_id": 793
+},
+{
+"films": [
+{
 "id": 806348,
 "kind": "short",
 "year": 1951
@@ -14246,6 +14982,177 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 912456,
+"kind": "short",
+"year": 1980
+},
+{
+"id": 1396825,
+"kind": "doc",
+"year": 1981
+},
+{
+"id": 103960,
+"kind": "feature",
+"year": 1986
+},
+{
+"id": 48309,
+"kind": "feature",
+"year": 1987
+},
+{
+"id": 10131,
+"kind": "feature",
+"year": 1988
+},
+{
+"id": 1573,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 9548,
+"kind": "feature",
+"year": 1990
+},
+{
+"id": 9350,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 1408,
+"kind": "feature",
+"year": 1995
+},
+{
+"id": 11412,
+"kind": "feature",
+"year": 1996
+},
+{
+"id": 8914,
+"kind": "feature",
+"year": 1999
+},
+{
+"id": 10477,
+"kind": "feature",
+"year": 2001
+},
+{
+"id": 11026,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 16617,
+"kind": "feature",
+"year": 2004
+},
+{
+"id": 9954,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 13252,
+"kind": "feature",
+"year": 2007
+},
+{
+"id": 17134,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 50601,
+"kind": "feature",
+"year": 2011
+},
+{
+"id": 169219,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 188207,
+"kind": "feature",
+"year": 2014
+},
+{
+"id": 270774,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 555020,
+"kind": "feature",
+"year": 2018
+},
+{
+"id": 531368,
+"kind": "feature",
+"year": 2019
+},
+{
+"id": 581644,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 680673,
+"kind": "feature",
+"year": 2021
+},
+{
+"id": 801970,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 927107,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1010600,
+"kind": "feature",
+"year": 2024
+},
+{
+"id": 1010756,
+"kind": "feature",
+"year": 2025
+},
+{
+"id": 1010755,
+"kind": "feature",
+"year": 2026
+},
+{
+"id": 1127384,
+"kind": "feature",
+"year": 2026
+},
+{
+"id": 1185344,
+"kind": "feature",
+"year": 2026
+},
+{
+"id": 1630746,
+"kind": "feature",
+"year": 2026
+}
+],
+"name": "Renny Harlin",
+"person_id": 16938
+},
+{
+"films": [
+{
 "id": 201304,
 "kind": "doc",
 "year": 1985
@@ -16214,6 +17121,77 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 384947,
+"kind": "short",
+"year": 1996
+},
+{
+"id": 92657,
+"kind": "short",
+"year": 1998
+},
+{
+"id": 1443,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 153,
+"kind": "feature",
+"year": 2003
+},
+{
+"id": 1887,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 39210,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 96936,
+"kind": "feature",
+"year": 2013
+},
+{
+"id": 364067,
+"kind": "tv",
+"year": 2015
+},
+{
+"id": 425651,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 399019,
+"kind": "feature",
+"year": 2017
+},
+{
+"id": 575417,
+"kind": "feature",
+"year": 2020
+},
+{
+"id": 1020006,
+"kind": "feature",
+"year": 2023
+},
+{
+"id": 1517069,
+"kind": "doc",
+"year": 2026
+}
+],
+"name": "Sofia Coppola",
+"person_id": 1769
+},
+{
+"films": [
+{
 "id": 31516,
 "kind": "feature",
 "year": 1949
@@ -17565,6 +18543,112 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "films": [
 {
+"id": 229230,
+"kind": "short",
+"year": 1990
+},
+{
+"id": 85923,
+"kind": "short",
+"year": 1992
+},
+{
+"id": 10931,
+"kind": "feature",
+"year": 1993
+},
+{
+"id": 781,
+"kind": "feature",
+"year": 1997
+},
+{
+"id": 104,
+"kind": "feature",
+"year": 1998
+},
+{
+"id": 9301,
+"kind": "feature",
+"year": 2000
+},
+{
+"id": 10575,
+"kind": "feature",
+"year": 2002
+},
+{
+"id": 11193,
+"kind": "short",
+"year": 2004
+},
+{
+"id": 1427,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 2266,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 505822,
+"kind": "feature",
+"year": 2006
+},
+{
+"id": 762892,
+"kind": "short",
+"year": 2008
+},
+{
+"id": 4959,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 56694,
+"kind": "feature",
+"year": 2009
+},
+{
+"id": 53256,
+"kind": "feature",
+"year": 2010
+},
+{
+"id": 464910,
+"kind": "doc",
+"year": 2011
+},
+{
+"id": 83542,
+"kind": "feature",
+"year": 2012
+},
+{
+"id": 275772,
+"kind": "doc",
+"year": 2012
+},
+{
+"id": 270010,
+"kind": "feature",
+"year": 2016
+},
+{
+"id": 1143971,
+"kind": "feature",
+"year": 2025
+}
+],
+"name": "Tom Tykwer",
+"person_id": 1071
+},
+{
+"films": [
+{
 "id": 36674,
 "kind": "feature",
 "year": 1995
@@ -18345,11 +19429,6 @@ window.LANGTAGNING_DIRECTORS = {
 {
 "id": 1137350,
 "kind": "feature",
-"year": 2025
-},
-{
-"id": 1801208,
-"kind": "short",
 "year": 2025
 }
 ],
@@ -20735,6 +21814,47 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 100224,
 "year": 1976
 },
+"1004399": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8JbXvYyJ2UAs9lyN5ODG5nxOOB7.jpg",
+"cast": [
+"Catalina Domènech"
+],
+"countries": [
+"ES"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": null,
+"original_title": "Menjant Garotes",
+"overview": "A surrealist home movie, filmed by Luis Buñuel in Cadaqués in 1930, focusing on Salvador Dalí's father and his wife.",
+"poster": "https://image.tmdb.org/t/p/w342/5tRZslo7cT0bqifGA1uP2hQ4HtE.jpg",
+"runtime": 4,
+"title": "Eating Sea Urchins",
+"tmdb_id": 1004399,
+"year": 2000
+},
+"1004657": {
+"backdrop": "https://image.tmdb.org/t/p/w780/25qv2cMlB5Qs11YWrMEvSrD7gTK.jpg",
+"cast": [
+"Nathalie Boutefeu"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt21374862",
+"original_title": "Un Couple",
+"overview": "Explores a long-term relationship between a man and a woman: the man, Leo Tolstoy; the woman, his wife, Sophia. Married for 36 years, had thirteen children, nine of whom survived, each kept a diary. Although they lived together, in the same house, they frequently wrote letters to each other. Leo insists that they read their diaries aloud to guests at dinner parties. The Tolstoys were also a dysfunctional couple, arguing frequently and being very unhappy with each other while occasionally enjoying passionate moments of reconciliation. Sophia’s monologue explores the joys and struggles of their life together, loosely drawn from their letters to each other and their diary entries.",
+"poster": "https://image.tmdb.org/t/p/w342/iMmRJ3pwrKuH5vBhcdDplzivmIU.jpg",
+"runtime": 63,
+"title": "A Couple",
+"tmdb_id": 1004657,
+"year": 2022
+},
 "10047": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
 "cast": [
@@ -20934,6 +22054,87 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 10097,
 "year": 2006
 },
+"1010600": {
+"backdrop": "https://image.tmdb.org/t/p/w780/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+"cast": [
+"Madelaine Petsch",
+"Froy Gutierrez",
+"Gabriel Basso",
+"Ema Horvath",
+"Ella Bruccoleri",
+"Richard Brake"
+],
+"countries": [
+"GB",
+"US",
+"ES"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt22050754",
+"original_title": "The Strangers: Chapter 1",
+"overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+"poster": "https://image.tmdb.org/t/p/w342/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+"runtime": 91,
+"title": "The Strangers: Chapter 1",
+"tmdb_id": 1010600,
+"year": 2024
+},
+"1010755": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+"cast": [
+"Madelaine Petsch",
+"Richard Brake",
+"Ema Horvath",
+"Gabriel Basso",
+"Pedro Leandro",
+"Rachel Shenton"
+],
+"countries": [
+"GB",
+"US",
+"ES"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt28682323",
+"original_title": "The Strangers: Chapter 3",
+"overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+"poster": "https://image.tmdb.org/t/p/w342/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg",
+"runtime": 92,
+"title": "The Strangers: Chapter 3",
+"tmdb_id": 1010755,
+"year": 2026
+},
+"1010756": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
+"cast": [
+"Madelaine Petsch",
+"Froy Gutierrez",
+"Gabriel Basso",
+"Ema Horvath",
+"Brooke Lena Johnson",
+"Richard Brake"
+],
+"countries": [
+"GB",
+"US",
+"ES"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt28671344",
+"original_title": "The Strangers: Chapter 2",
+"overview": "After learning that one of their victims, Maya, is still alive, The Strangers return to finish the job. With nowhere to run and no one to trust, Maya soon finds herself in a brutal fight for survival against psychopaths more than willing to kill anyone who stands in their way.",
+"poster": "https://image.tmdb.org/t/p/w342/pqADzs5SJvI2jC0DThPVMuNJcWS.jpg",
+"runtime": 98,
+"title": "The Strangers: Chapter 2",
+"tmdb_id": 1010756,
+"year": 2025
+},
 "10110": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xt7boIC763DdceVQIGJdnmKlDVu.jpg",
 "cast": [
@@ -20958,6 +22159,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Empire of the Sun",
 "tmdb_id": 10110,
 "year": 1987
+},
+"10131": {
+"backdrop": "https://image.tmdb.org/t/p/w780/eH9XCRkbpLq9gm1YiQGm66TYkZd.jpg",
+"cast": [
+"Lisa Wilcox",
+"Robert Englund",
+"Rodney Eastman",
+"Danny Hassel",
+"Andras Jones",
+"Tuesday Knight"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0095742",
+"original_title": "A Nightmare on Elm Street 4: The Dream Master",
+"overview": "Ungdommene Kristen, Joey og Kincaid, er nå kommet ut av mentalinstitusjonen de var innlagt på. Kristen har fått seg nye venner i Alice, Sheila og hennes kjæreste Rick. Men hun har fremdeles vonde drømmer, selv om Freddy Krueger er begravet. Men Freddy døde ikke og kommer tilbake og terroriserer Kristen, Joey og Kincaid i deres drømmer. Det blir nå opp til Kristen og hennes venner om å finne en måte å gjøre opp med Krueger for å slutte marerittet...",
+"poster": "https://image.tmdb.org/t/p/w342/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+"runtime": 93,
+"title": "A Nightmare on Elm Street 4: The Dream Master",
+"tmdb_id": 10131,
+"year": 1988
 },
 "1013154": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xE0ZIQ0uUwyVBugVCobrhU5hyme.jpg",
@@ -21086,31 +22312,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 10156,
 "year": 1981
 },
-"1016069": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vomK242jcbMIBBNKQ3kzZBsfD80.jpg",
-"cast": [
-"Pia Borgli",
-"Trond Espen Seim",
-"Øyvind Brandtzæg",
-"Paul-Ottar Haga",
-"Mari Maurstad",
-"Anneke von der Lippe"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt35115823",
-"original_title": "Flåklypa - fra Paris til Pyramidene",
-"overview": "Dette actionfylte eventyret for hele familien følger Reodor Felgen, en genial men eksentrisk oppfinner, og hans to usannsynlige venner – Solan, en modig skjære, og Ludvig, et engstelig pinnsvin – i deres forsøk på å gjøre opp for seg ved å delta i det legendariske rallyet fra Paris til Pyramidene. Utstyrt med sin ekstraordinære racerbilen, Il Tempo Gigante, legger trioen ut på en reise med høye innsatser gjennom travle Paris, de farlige italienske Alpene og den brennhete egyptiske ørkenen. Med hjemmet, vennskapet og livet på spill må de bevise at oppfinnsomhet og viljestyrke kan overvinne enhver utfordring.  etter følger av Flåklypa Grand Prix",
-"poster": "https://image.tmdb.org/t/p/w342/fqfkcek40BCw7JfV3sEySgb6wkx.jpg",
-"runtime": 82,
-"title": "Rally - From Paris to the Pyramids",
-"tmdb_id": 1016069,
-"year": 2025
-},
 "10165": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kpVJVahswdWXA3GtCl2zniKSFvI.jpg",
 "cast": [
@@ -21233,6 +22434,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1018332,
 "year": 2023
 },
+"1020006": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg",
+"cast": [
+"Cailee Spaeny",
+"Jacob Elordi",
+"Ari Cohen",
+"Dagmara Dominczyk",
+"Tim Post",
+"Lynne Griffin"
+],
+"countries": [
+"IT",
+"US"
+],
+"directors": [
+"Sofia Coppola"
+],
+"imdb_id": "tt22041854",
+"original_title": "Priscilla",
+"overview": "Da fjortenåringen Priscilla Beaulieu møter Elvis Presley på en fest, opplever hun at han privat er alt annet enn en rebelsk rock’n’roller og superstjerne. Elvis blir hennes forelskelse, en alliert i ensomheten og en øm og sårbar bestevenn. Gjennom Priscillas øyne viser Sofia Coppola en ny side av Elvis og Priscillas forelskelse og turbulente ekteskap, fra en tysk militærbase til en glamorøs drømmetilværelse på Graceland, i et dypt og ektefølt portrett av kjærlighet, fantasi og berømmelse.",
+"poster": "https://image.tmdb.org/t/p/w342/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+"runtime": 113,
+"title": "Priscilla",
+"tmdb_id": 1020006,
+"year": 2023
+},
 "1021788": {
 "backdrop": null,
 "cast": [
@@ -21310,33 +22537,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 102295,
 "year": 1955
 },
-"1024": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
-"cast": [
-"Melanie Lynskey",
-"Kate Winslet",
-"Sarah Peirse",
-"Diana Kent",
-"Clive Merrison",
-"Simon O'Connor"
-],
-"countries": [
-"NZ",
-"US",
-"DE"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt0110005",
-"original_title": "Heavenly Creatures",
-"overview": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
-"poster": "https://image.tmdb.org/t/p/w342/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
-"runtime": 109,
-"title": "Heavenly Creatures",
-"tmdb_id": 1024,
-"year": 1994
-},
 "10261": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5cqfok6356y4VTK3ylZy1iymV8e.jpg",
 "cast": [
@@ -21410,6 +22610,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The River of Diamonds",
 "tmdb_id": 1028060,
 "year": 1964
+},
+"1028819": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8fZn5fTEL6BTgDeXDN7Z1FYod9T.jpg",
+"cast": [
+"Gard B. Eidsvold",
+"Anders Danielsen Lie",
+"Lisa Carlehed",
+"Lisa Loven Kongsli",
+"Arthur Hakalahti",
+"Nils Jørgen Kaalstad"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt14638208",
+"original_title": "Quislings siste dager",
+"overview": "Fem år med okkupasjon ender den 8. mai 1945. Gjenreisingen av nasjonen kan begynne, men først må siste kapittel skrives. I en mørk celle på Akershus festning sitter han som hadde gjort det største sviket av alle; Vidkun Quisling. Nå skal han stilles til ansvar for sine handlinger og uhyrlighetene nazismens ideologi førte til. Men først skal han møte sjelesørger og prest Peder Olsen. Kan presten, som selv er merket av krigens brutalitet, klare å hjelpe mannen som var på fornavn med Hitler selv, til sjelefred? Er landsforræderen med storhetstanker om seg selv og sin misjon, i stand til å angre?",
+"poster": "https://image.tmdb.org/t/p/w342/a3ZJsCMQp3zthcfCaAuksWCezTT.jpg",
+"runtime": 147,
+"title": "Quisling: The Final Days",
+"tmdb_id": 1028819,
+"year": 2024
 },
 "1029955": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dNplOw9U5IzlY7nNiaMS0JSVobp.jpg",
@@ -21869,6 +23094,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 103938,
 "year": 1933
 },
+"103960": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fi0nHrGjMZ0KQQkhtA4zS38O6uN.jpg",
+"cast": [
+"Mike Norris",
+"Steve Durham",
+"David Coburn",
+"Thalmus Rasulala",
+"Albert Salmi",
+"Piita Vuosalmi"
+],
+"countries": [
+"FI",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0091313",
+"original_title": "Born American",
+"overview": "A trio of American students vacationing in Finland cross the border into the USSR and are soon imprisoned following a skirmish with Soviet soldiers.",
+"poster": "https://image.tmdb.org/t/p/w342/tBUetiqyYC4u7Ua7ceE8OUn8wwi.jpg",
+"runtime": 97,
+"title": "Born American",
+"tmdb_id": 103960,
+"year": 1986
+},
 "104141": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zfxw1zjZwdavWUQHJKL8i4CdyEt.jpg",
 "cast": [
@@ -21906,31 +23157,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Murder",
 "tmdb_id": 104144,
 "year": 1957
-},
-"10434": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pFMTaNCCIwfO20Z7M7AfO5fAWDp.jpg",
-"cast": [
-"Otto Sander",
-"Bruno Ganz",
-"Nastassja Kinski",
-"Peter Falk",
-"Solveig Dommartin",
-"Heinz Rühmann"
-],
-"countries": [
-"DE"
-],
-"directors": [
-"Wim Wenders"
-],
-"imdb_id": "tt0107209",
-"original_title": "In weiter Ferne, so nah!",
-"overview": "A group of angels look longingly upon the life of humans. Berlin now is a very different place: unified in name but overrun with crime, corruption, and—in what turns out to be a key theme here—Americans.",
-"poster": "https://image.tmdb.org/t/p/w342/5VaPw0NgM4DloukmQTggzgvD4rb.jpg",
-"runtime": 147,
-"title": "Faraway, So Close!",
-"tmdb_id": 10434,
-"year": 1993
 },
 "10440": {
 "backdrop": "https://image.tmdb.org/t/p/w780/px0d4Kzn9683SHLMS9K3e5OHk2H.jpg",
@@ -22077,6 +23303,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Don't Drink the Water",
 "tmdb_id": 10462,
 "year": 1994
+},
+"10477": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rODTjAT8q1u4ZXIVTCwsBbZo3EE.jpg",
+"cast": [
+"Sylvester Stallone",
+"Burt Reynolds",
+"Kip Pardue",
+"Stacy Edwards",
+"Til Schweiger",
+"Gina Gershon"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0132245",
+"original_title": "Driven",
+"overview": "Den talentfulle rookie racerføreren Jimmy Bly har begynt å miste fokus og glir nedover på resultatlistene. Det er ikke så rart, med det enorme presset han får fra sin overambisiøse promoterbror, i tillegg til Blys romanse med erkerivalens kjæreste, Sophia. Med så mye som står på spill for Bly, henter bileier Carl Henry inn den tidligere racerstjernen Joe Tanto for å hjelpe ham. For å få Bly tilbake til toppen, må Tanto først konfrontere de emosjonelle arrene etter en tragisk racerulykke som nesten kostet ham livet.",
+"poster": "https://image.tmdb.org/t/p/w342/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg",
+"runtime": 116,
+"title": "Driven",
+"tmdb_id": 10477,
+"year": 2001
 },
 "10479": {
 "backdrop": "https://image.tmdb.org/t/p/w780/euVuflyoWzpaLGOBHZhxwGgldNX.jpg",
@@ -22304,32 +23555,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Happy-Go-Lucky",
 "tmdb_id": 10503,
 "year": 2008
-},
-"105254": {
-"backdrop": "https://image.tmdb.org/t/p/w780/q94dUDBVP3RqLyAS0DkADJXmB4H.jpg",
-"cast": [
-"Elliott Gould",
-"Bibi Andersson",
-"Max von Sydow",
-"Sheila Reid",
-"Margaretha Byström",
-"Elsa Ebbesen-Thornblad"
-],
-"countries": [
-"SE",
-"US"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0066826",
-"original_title": "Beröringen",
-"overview": "A Swedish housewife begins an adulterous affair with an American archaeologist, unaware of his emotional scars as a Holocaust survivor; consequently, their relationship will be painfully difficult.",
-"poster": "https://image.tmdb.org/t/p/w342/4bz8hRBj8jsLFBa5nKP28MQufEd.jpg",
-"runtime": 115,
-"title": "The Touch",
-"tmdb_id": 105254,
-"year": 1971
 },
 "10528": {
 "backdrop": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
@@ -22559,6 +23784,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 105704,
 "year": 1991
 },
+"10575": {
+"backdrop": "https://image.tmdb.org/t/p/w780/i2Qu0ZLOvNONkHZRuqxII9QkbTX.jpg",
+"cast": [
+"Cate Blanchett",
+"Giovanni Ribisi",
+"Remo Girone",
+"Stefania Rocca",
+"Alessandro Sperduti",
+"Mattia Sbragia"
+],
+"countries": [
+"FR",
+"DE",
+"US",
+"GB"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0246677",
+"original_title": "Heaven",
+"overview": "A woman takes the law into her own hands after police ignore her pleas to arrest the man responsible for her husband's death, and finds herself not only under arrest for murder but falling in love with an officer.",
+"poster": "https://image.tmdb.org/t/p/w342/xPdtOuGtcQt655uRrmIdBkSRmVx.jpg",
+"runtime": 96,
+"title": "Heaven",
+"tmdb_id": 10575,
+"year": 2002
+},
 "106097": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g3vp5G6IcIbABfgMdzAOWncbYdx.jpg",
 "cast": [],
@@ -22765,32 +24018,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Seven Year Itch",
 "tmdb_id": 10653,
 "year": 1955
-},
-"10654": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4yeRx7cGDMIzIkzLRhcw1LymSYC.jpg",
-"cast": [
-"John Savage",
-"Treat Williams",
-"Beverly D'Angelo",
-"Annie Golden",
-"Dorsey Wright",
-"Don Dacus"
-],
-"countries": [
-"DE",
-"US"
-],
-"directors": [
-"Miloš Forman"
-],
-"imdb_id": "tt0079261",
-"original_title": "Hair",
-"overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
-"poster": "https://image.tmdb.org/t/p/w342/qrZIlVCL9UyEBsgOGbisNzuWjX.jpg",
-"runtime": 121,
-"title": "Hair",
-"tmdb_id": 10654,
-"year": 1979
 },
 "10656": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oJuxVwei4MEWr6NJZFKWvzm6u6r.jpg",
@@ -23214,32 +24441,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "La teleferica",
 "tmdb_id": 1077756,
 "year": 1956
-},
-"10779": {
-"backdrop": "https://image.tmdb.org/t/p/w780/krR08gys45BTnY3qXIfBJVDKrvK.jpg",
-"cast": [
-"Michael J. Fox",
-"Trini Alvarado",
-"Peter Dobson",
-"John Astin",
-"Jeffrey Combs",
-"Dee Wallace"
-],
-"countries": [
-"NZ",
-"US"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt0116365",
-"original_title": "The Frighteners",
-"overview": "Frank Bannister, en \"spøkelsesutdriver\" som samarbeider med de samme spøkelsene som han skal drive ut. Svindelen fungerer veldig bra helt til en mektig ånd starter sin morderferd i småbyen, og tvinger Frank til å finne en måte å stoppe det onde spøkelset på.",
-"poster": "https://image.tmdb.org/t/p/w342/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
-"runtime": 110,
-"title": "The Frighteners",
-"tmdb_id": 10779,
-"year": 1996
 },
 "107975": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uD4Jlg9ey9LpQqWYnsBigOhyTkH.jpg",
@@ -23755,6 +24956,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 109301,
 "year": 1935
 },
+"10931": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uheixv597d9GpMIeaOKI6Y12v4S.jpg",
+"cast": [
+"Nina Petri",
+"Josef Bierbichler",
+"Peter Franke",
+"Joachim Król",
+"Rolf Peter Kahl",
+"Katja Studt"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0108425",
+"original_title": "Die tödliche Maria",
+"overview": "40-year Maria is living in a monotonous and deadlocked marriage with her husband. In addition, she has to take care of her ill despotic father. One day, she falls in love with her sensitive neighbour Dieter. But her attempt to leave her gloomy everyday life behind leads straight into tragedy.",
+"poster": "https://image.tmdb.org/t/p/w342/hV4iBNUhIHqOEsnZyO6jKS5JrUq.jpg",
+"runtime": 106,
+"title": "Deadly Maria",
+"tmdb_id": 10931,
+"year": 1993
+},
 "109314": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3kCLrGwtBvqein4xMyoTni4rzex.jpg",
 "cast": [
@@ -24221,6 +25447,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11016,
 "year": 1948
 },
+"11026": {
+"backdrop": "https://image.tmdb.org/t/p/w780/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg",
+"cast": [
+"Stellan Skarsgård",
+"Izabella Scorupco",
+"James D'Arcy",
+"Julian Wadham",
+"Remy Sweeney",
+"Andrew French"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0204313",
+"original_title": "Exorcist: The Beginning",
+"overview": "Years before Father Merrin helped save Regan MacNeil’s soul, he first encounters the demon Pazuzu in East Africa.",
+"poster": "https://image.tmdb.org/t/p/w342/dwqVrJfAVHqhJSa1sKBsbttFUcU.jpg",
+"runtime": 114,
+"title": "Exorcist: The Beginning",
+"tmdb_id": 11026,
+"year": 2004
+},
 "110415": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vz45GHSnBNYRcyoZe3UCQ4HD4D4.jpg",
 "cast": [
@@ -24322,31 +25573,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 110747,
 "year": 1973
 },
-"110887": {
-"backdrop": "https://image.tmdb.org/t/p/w780/8gRzaUleK5ik6ddRvZbOpxolHLh.jpg",
-"cast": [
-"Victor McLaglen",
-"Louise Brooks",
-"Robert Armstrong",
-"Maria Alba",
-"Francis McDonald",
-"Leila Hyams"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Howard Hawks"
-],
-"imdb_id": "tt0018937",
-"original_title": "A Girl in Every Port",
-"overview": "Two sailors with a rivalry over chasing women become friends. But when one decides to finally settle down, will this mysterious young woman come between them?",
-"poster": "https://image.tmdb.org/t/p/w342/kaIyUSHMimpUGXfTtMlif22Giwa.jpg",
-"runtime": 78,
-"title": "A Girl in Every Port",
-"tmdb_id": 110887,
-"year": 1928
-},
 "11092": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
 "cast": [
@@ -24397,6 +25623,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Little Apartment",
 "tmdb_id": 110924,
 "year": 1959
+},
+"1110892": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ru3GcaxNn7PZlbZW1zUWcHi7IUq.jpg",
+"cast": [],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": null,
+"original_title": "Prologue",
+"overview": "A 5 minute dolly shot of people waiting in line for food filmed in beautiful black and white accompanied by music by Mihály Vig. This short was Béla Tarr's contribution to the Visions of Europe project.",
+"poster": "https://image.tmdb.org/t/p/w342/1tw9JJfcUzf9RMbcbsomQ6hbaSC.jpg",
+"runtime": 5,
+"title": "Prologue",
+"tmdb_id": 1110892,
+"year": 2004
 },
 "11109": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ziJgbmfktniqisfCqJSqQ8VreZe.jpg",
@@ -24449,31 +25693,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 111193,
 "year": 1975
 },
-"11120": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9tQZwA2yidynkdgYdlnNzf3FylD.jpg",
-"cast": [
-"Harrison Ford",
-"Helen Mirren",
-"River Phoenix",
-"Jadrien Steele",
-"Hilary Gordon",
-"Rebecca Gordon"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Peter Weir"
-],
-"imdb_id": "tt0091557",
-"original_title": "The Mosquito Coast",
-"overview": "An inventor spurns his city life and moves his family into the jungles of Central America to make a utopia.",
-"poster": "https://image.tmdb.org/t/p/w342/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg",
-"runtime": 119,
-"title": "The Mosquito Coast",
-"tmdb_id": 11120,
-"year": 1986
-},
 "1112090": {
 "backdrop": null,
 "cast": [
@@ -24498,29 +25717,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The New World",
 "tmdb_id": 1112090,
 "year": 1963
-},
-"1112547": {
-"backdrop": "https://image.tmdb.org/t/p/w780/uXkyaqoc8wgujotPCeUARrqVdOv.jpg",
-"cast": [
-"Anselm Kiefer",
-"Anton Wenders",
-"Daniel Kiefer",
-"Ingeborg Bachmann"
-],
-"countries": [
-"DE"
-],
-"directors": [
-"Wim Wenders"
-],
-"imdb_id": "tt27502250",
-"original_title": "Anselm – Das Rauschen der Zeit",
-"overview": "This unique cinematic experience dives deep into an artist’s work and reveals his life path, inspiration, and creative process. It explores his fascination with myth and history. Past and present are interwoven to diffuse the line between film and painting, allowing the audience to be completely immersed in the remarkable world of one of the greatest contemporary artists, Anselm Kiefer. Wim Wenders shot this unique portrait over the course of two years in stunning 3D.",
-"poster": "https://image.tmdb.org/t/p/w342/erEJByCPNjwpOk34XAZXQvKEJnJ.jpg",
-"runtime": 93,
-"title": "Anselm",
-"tmdb_id": 1112547,
-"year": 2023
 },
 "111322": {
 "backdrop": null,
@@ -24658,6 +25854,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 111910,
 "year": 1958
 },
+"11193": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wUV81zgrFiEnm7Yq1vCpds0Rp4S.jpg",
+"cast": [
+"Natalie Portman",
+"Melchior Beslon"
+],
+"countries": [
+"DE",
+"FR"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0397693",
+"original_title": "True",
+"overview": "While he's receiving an enigmatic phone call from his girlfriend Francine, Thomas remembers the milestones of their relationship, from the very moment they met in a really strange way. A segment of “Paris, je t'aime” (2006).",
+"poster": "https://image.tmdb.org/t/p/w342/pFw28bNtsM5SnD8ROYNETIhOJQd.jpg",
+"runtime": 10,
+"title": "True",
+"tmdb_id": 11193,
+"year": 2004
+},
 "1121639": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6kvqb2zaKFav3GuW0Ae92ETqZ7F.jpg",
 "cast": [
@@ -24731,33 +25949,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Family",
 "tmdb_id": 112205,
 "year": 2013
-},
-"11224": {
-"backdrop": "https://image.tmdb.org/t/p/w780/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
-"cast": [
-"Ilene Woods",
-"Eleanor Audley",
-"Verna Felton",
-"Claire Du Brey",
-"Rhoda Williams",
-"James MacDonald"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Hamilton Luske",
-"Clyde Geronimi",
-"Wilfred Jackson"
-],
-"imdb_id": "tt0042332",
-"original_title": "Cinderella",
-"overview": "Historien om Askepott, som får sine drømmer oppfylt ved hjelp av sin godhet, fortsetter å glede generasjoner av både store og små. Askepott er piken som arbeider hardt for sin onde stemor, men som aldri gir opp sin drøm om et bedre liv. En dag får hun sin sjanse når det avholdes et stort ball på slottet. Med hjelp fra sine lojale musevenner og et vift med tryllestaven fra den gode feen, blir hun like vakker på utsiden som hun alltid har vært på innsiden. På ballet treffer hun sin prins som gjør alt for å få vite hvem den mystiske piken er. Men ved midnatt brytes fortryllelsen, og alt Askepott etterlater seg er en glassko…som blir nøkkelen til eventyrets lykkelige slutt. Opplev Disneys klassiker nr.12, en fortelling om drømmer som blir virkelige!",
-"poster": "https://image.tmdb.org/t/p/w342/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
-"runtime": 74,
-"title": "Cinderella",
-"tmdb_id": 11224,
-"year": 1950
 },
 "1122573": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
@@ -25033,6 +26224,35 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "To Hell with the Devil",
 "tmdb_id": 112594,
 "year": 1982
+},
+"1127384": {
+"backdrop": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+"cast": [
+"Aaron Eckhart",
+"Ben Kingsley",
+"Molly Belle Wright",
+"Angus Sampson",
+"Elijah Tamati",
+"Zhao Simei"
+],
+"countries": [
+"US",
+"ES",
+"AU",
+"CN",
+"UA"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt29516222",
+"original_title": "Deep Water",
+"overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+"poster": "https://image.tmdb.org/t/p/w342/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+"runtime": 107,
+"title": "Deep Water",
+"tmdb_id": 1127384,
+"year": 2026
 },
 "112823": {
 "backdrop": "https://image.tmdb.org/t/p/w780/8iAiIqaUa3uwOQYxslgIib4pz0x.jpg",
@@ -25630,6 +26850,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1140535,
 "year": 2025
 },
+"114116": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2mG5cTYVOpijxA81rOA7SloXBe.jpg",
+"cast": [
+"Richard Nixon"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0064577",
+"original_title": "Law and Order",
+"overview": "A survey of the wide range of work police are asked to perform: enforcing the law, maintaining order, and providing general social services. The depicted incidents illustrate how training, community expectations, socio-economic status of the subject, the threat of violence, and discretion affect police behavior.",
+"poster": "https://image.tmdb.org/t/p/w342/t0l8Yyb5H2U3NCeoCjnpVCX8dEd.jpg",
+"runtime": 81,
+"title": "Law and Order",
+"tmdb_id": 114116,
+"year": 1969
+},
 "1142287": {
 "backdrop": null,
 "cast": [],
@@ -25678,32 +26918,414 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 114348,
 "year": 1933
 },
-"11439": {
-"backdrop": "https://image.tmdb.org/t/p/w780/dXWJ3cNNx3BOk124s7VT5xrklTI.jpg",
+"114354": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7ClNA1wPIbRjwtEruh2KD4dtfnv.jpg",
 "cast": [
-"Ewan McGregor",
-"Pierce Brosnan",
-"Kim Cattrall",
-"Olivia Williams",
-"Tom Wilkinson",
-"Timothy Hutton"
+"Columba Domínguez",
+"Miguel Torruco",
+"Joaquín Cordero",
+"Jaime Fernández",
+"Víctor Alcocer",
+"Silvia Derbez"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0047435",
+"original_title": "El río y la muerte",
+"overview": "A useless and bloody vendetta has been going on for ages between two families in this Mexican village. Men, sons, have killed each other for generations, for a so-called conception of honor in a revenge that never ends since it is also triggered by people of the village. Now, today, there are only two sons left, one in each family. One has become a doctor in the big city and his culture is modern. The other last one - of the other family - hasn't left the village and is waiting for the doctor to come \"home\" as he plans to kill him, to settle this war on this matter of honor once and for all. And the people of the village want blood.",
+"poster": "https://image.tmdb.org/t/p/w342/h3UJBsso5jaEybQsdYiX4euau5o.jpg",
+"runtime": 91,
+"title": "The River and Death",
+"tmdb_id": 114354,
+"year": 1954
+},
+"114358": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tf2Tzb0Grt4qQPseKJdeXdiKafF.jpg",
+"cast": [
+"Georges Marchal",
+"Lucia Bosè",
+"Julien Bertheau",
+"Jean-Jacques Delbo",
+"Simone Paris",
+"Robert Le Fort"
 ],
 "countries": [
 "FR",
-"DE",
-"GB"
+"IT"
 ],
 "directors": [
-"Roman Polanski"
+"Luis Buñuel"
 ],
-"imdb_id": "tt1139328",
-"original_title": "The Ghost Writer",
-"overview": "En suksessfull, britisk skribent, en såkalt \"ghostwriter\" som leverer tekster i andres navn, blir bedt om å ta over skrivingen av tidligere statsminister Adam Langs memoarer. Skribentens egen agent er sikker i sin sak og anbefaler ham å ta jobben, en slik sjanse kommer ikke ofte i løpet av en karriere.  Men det skal bli tydeligere for mannen at prosjektet er dødsdømt allerede fra starten. Ikke minst fordi forgjengeren, den første skribenten som var satt på bokprosjektet, blir funnet død under mystiske omstendigheter. Det begynner å gå opp for noen og enhver hva som står i vente - at sannheten kan bli omskrevet.",
-"poster": "https://image.tmdb.org/t/p/w342/rK7m2Ba0ieXa37NaAmrx4dfRvvM.jpg",
-"runtime": 128,
-"title": "The Ghost Writer",
-"tmdb_id": 11439,
-"year": 2010
+"imdb_id": "tt0047925",
+"original_title": "Cela s'appelle l'aurore",
+"overview": "A generous doctor is aghast that the population of a small island is being oppressed and mistreated, but is seemingly unable to do anything about it, until the arrival of a young woman and the death of one of his friends prompts him into action.",
+"poster": "https://image.tmdb.org/t/p/w342/2gl0DRiQX3r5h3qL5uHgob5JXMU.jpg",
+"runtime": 102,
+"title": "That Is the Dawn",
+"tmdb_id": 114358,
+"year": 1956
+},
+"114384": {
+"backdrop": "https://image.tmdb.org/t/p/w780/lK3lpdJnT0uSNFH0i0e2MyH57UR.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0090592",
+"original_title": "Adjustment & Work",
+"overview": "Wiseman enumerates the sights and sounds of Talladega, Alabama — the railroad tracks, quiet streets and homes, a few shops downtown — almost as if to list those things most of us might take for granted. Of the four films in this series, Adjustment & Work focuses entirely on adults—specifically those who have recently lost their sight (and hence are adjusting to this change) and those without sight or hearing who are learning skills in order to enter the workforce.",
+"poster": "https://image.tmdb.org/t/p/w342/zxbeg1ylBkd29UunS104J3gMxqU.jpg",
+"runtime": 120,
+"title": "Adjustment & Work",
+"tmdb_id": 114384,
+"year": 1986
+},
+"114388": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ksf7h1tooD4bLcE4gtwxpqPeVm0.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0066812",
+"original_title": "Basic Training",
+"overview": "During the summer of 1970 at Fort Knox, Kentucky, a group of men going through infantry training show how they're transformed from civilians into soldiers. As well as being a unique portrait of the US army at work, it's also a fascinating snapshot of a time and place at a defining moment in American history.",
+"poster": "https://image.tmdb.org/t/p/w342/cblsF9wzhtCyaby62dCPb7Li3kD.jpg",
+"runtime": 89,
+"title": "Basic Training",
+"tmdb_id": 114388,
+"year": 1971
+},
+"114390": {
+"backdrop": "https://image.tmdb.org/t/p/w780/y3NLINrtpP0TzR9yx41n8eDA7Kh.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0065853",
+"original_title": "Hospital",
+"overview": "A look at the daily activities at the Metropolitan Hospital in New York City, with emphasis on the emergency ward and outpatient clinics. The cases depicted illustrate how medical expertise, availability of resources, organizational considerations, and the nature of communication among the staff and patients affect the delivery of healthcare.",
+"poster": "https://image.tmdb.org/t/p/w342/9zJVyNQCmJIly2Pet1XOQMpGNzN.jpg",
+"runtime": 84,
+"title": "Hospital",
+"tmdb_id": 114390,
+"year": 1970
+},
+"114392": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1IzYw9RPGGUXLuQ6jTsbzTBxPVZ.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0068549",
+"original_title": "Essene",
+"overview": "Daily life in a Benedictine monastery follows resolution of conflict between personal needs and the institutional and organizational priorities of the community. In the Order, where the focus of life is the relationship of individual work and worship to the community as a whole, the brethren must cope with the same issues that arise in any community: rules, work, worship, values, love, and play.",
+"poster": "https://image.tmdb.org/t/p/w342/gK2vomKAK1TGJHzj8V06yGgdoEV.jpg",
+"runtime": 86,
+"title": "Essene",
+"tmdb_id": 114392,
+"year": 1972
+},
+"114395": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3CbuCeCf07ifBpFHrv9V4m3QgOG.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0070258",
+"original_title": "Juvenile Court",
+"overview": "Before the Memphis Juvenile Court are a complex variety of cases: foster home placement, drug abuse, armed robbery, child abuse, and sexual offenses. Sequences illustrate such issues as community protection versus the desire for rehabilitation, the range and the limits of the choices available to the court, the psychology of the offender, and the constitutional and procedural questions involved in administering a juvenile court.",
+"poster": "https://image.tmdb.org/t/p/w342/pLhAyWpm2YcfwzYkTmyVrvuzZSE.jpg",
+"runtime": 144,
+"title": "Juvenile Court",
+"tmdb_id": 114395,
+"year": 1973
+},
+"114397": {
+"backdrop": "https://image.tmdb.org/t/p/w780/h8ZJAZwiEy051LYNzfCOdOzGQBi.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0110025",
+"original_title": "High School II",
+"overview": "Frederick Wiseman is back to school, this time at Central Park East Secondary School (CPESS), a successful alternative high school in New York's Spanish Harlem, 85-95% of whose graduates go on to four-year colleges. Illustrating the school's emphasis on the 'Habits of Mind' program—weighing evidence; awareness of multiple points of view; seeing connections and relationships; speculating on possibilities; and assessing values—sequences highlight the school's approach to learning include classroom activities in the humanities and sciences; family conferences; discussions of race, class, and gender; faculty meetings; disciplinary problems; sex education; conflict resolution by students; and student council meetings.",
+"poster": "https://image.tmdb.org/t/p/w342/te8IvXwWpr15Bg2Nd5pjaoDkcIy.jpg",
+"runtime": 220,
+"title": "High School II",
+"tmdb_id": 114397,
+"year": 1994
+},
+"1143971": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qnH4lNSsPNnw0qJSQk8tuaLZhnh.jpg",
+"cast": [
+"Lars Eidinger",
+"Nicolette Krebitz",
+"Tala Al Deen",
+"Julius Gause",
+"Elke Biesendorfer",
+"Elyas Eldridge"
+],
+"countries": [
+"DE",
+"GB",
+"IT"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt31116299",
+"original_title": "Das Licht",
+"overview": "A portrait of a modern family between collapse and new beginnings dealing with the big issues of our times, in a world that is reeling. Tim, Milena, their almost grown-up twins Frieda and Jon and their illegitimate son Dio - this is the Engels family, who seemingly have nothing left to hold them together when housekeeper Farrah enters their lives. The mysterious Syrian woman puts the Engels' emotional world to an unexpectedly wild test.",
+"poster": "https://image.tmdb.org/t/p/w342/mMaEmcNjuZKIILMMHKoeVvv5s8m.jpg",
+"runtime": 162,
+"title": "The Light",
+"tmdb_id": 1143971,
+"year": 2025
+},
+"114399": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zHd13LECMj4UKw3TL0PaPGOllVa.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0079524",
+"original_title": "Manoeuvre",
+"overview": "Follow a U.S. infantry tank company through NATO’s annual fall manoeuvres in Western Europe. One purpose of these war games is to test how quickly and effectively U.S. reinforcements can come to the aid of NATO forces stationed in Europe. The various stages of the training exercise, including defensive and offensive tactics, and hypothetical wins and losses are seen from the point of view of a company fighting a simulated, conventional, non-nuclear ground and air war.",
+"poster": "https://image.tmdb.org/t/p/w342/eUdY7e9o9BwO3oxq8BmqyTbCg89.jpg",
+"runtime": 115,
+"title": "Manoeuvre",
+"tmdb_id": 114399,
+"year": 1979
+},
+"114401": {
+"backdrop": "https://image.tmdb.org/t/p/w780/cLQizMBXlYGF1q1QuVYQ5MlnkR8.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0074886",
+"original_title": "Meat",
+"overview": "Tracing the process through which cattle and sheep become consumer goods, Frederick Wiseman's deep dive depicts the processing and transportation of meat products by a highly automated packing plant, illustrating important points and problems in the area of production, transportation, logistics, equipment design, time-motion study, and labor management.",
+"poster": "https://image.tmdb.org/t/p/w342/2iTDWlXPfwCRQCWMcM9ZHgQtREj.jpg",
+"runtime": 112,
+"title": "Meat",
+"tmdb_id": 114401,
+"year": 1976
+},
+"114403": {
+"backdrop": "https://image.tmdb.org/t/p/w780/l8td9Xhlx6HQqKcj2ek3u8kHxAR.jpg",
+"cast": [
+"Andy Warhol",
+"Apollonia van Ravenstein",
+"Pia Grønning",
+"Alva Chinn",
+"Valerie Carpenter Bernstein",
+"Russell Todd"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0081169",
+"original_title": "Model",
+"overview": "Frederick Wiseman focuses his lens on male and female models at work on television commercials, fashion shows, magazine covers, and advertising for a variety of products, including designer collections, fur coats, sports clothes and automobiles. The models are seen at work with photographers whose techniques illustrate different styles of fashion and product photography. The business aspect of running an agency is also shown: interviewing prospective models, career counseling, arranging portfolios, talking with clients, and planning trips presents a view of the intersections of fashion, business, advertising, photography, television and fantasy.",
+"poster": "https://image.tmdb.org/t/p/w342/1LS8A2NIVHmNodnnWNQWHZpIj8E.jpg",
+"runtime": 129,
+"title": "Model",
+"tmdb_id": 114403,
+"year": 1981
+},
+"114405": {
+"backdrop": "https://image.tmdb.org/t/p/w780/a3FkhggFtalk6bEw6Kff6Byvu0x.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0091570",
+"original_title": "Multi-Handicapped",
+"overview": "The day to day activities of multi-handicapped and sensory impaired students and their teachers, dormitory parents, and counselors at the Helen Keller School, whose primary mission is to meet the total and living needs of deaf and/or blind children, some of whom also have other impairments. Frederick Wiseman presents situations involving personal hygiene, mobility training, concepts of time and money, self help and independent living, dormitory life, recreation, sports, vocational training, and psychological counseling.",
+"poster": "https://image.tmdb.org/t/p/w342/yqVuXhPGhFBDsNRFqIAl0z6zZKi.jpg",
+"runtime": 126,
+"title": "Multi-Handicapped",
+"tmdb_id": 114405,
+"year": 1986
+},
+"114409": {
+"backdrop": "https://image.tmdb.org/t/p/w780/5QoxAyyn3EVxUKWjL5tT5mfrVzz.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0072032",
+"original_title": "Primate",
+"overview": "Realist documentarian Frederick Wiseman hones his lens on the inmates of the Yerkes Primate Research Center in Atlanta, GA. A representative scientist explains the aims and outcomes of the organization, describing the mating habits and relationships of the animals.",
+"poster": "https://image.tmdb.org/t/p/w342/i14ftsoQBp4XLblaKYlU9ZpkK8e.jpg",
+"runtime": 105,
+"title": "Primate",
+"tmdb_id": 114409,
+"year": 1974
+},
+"114412": {
+"backdrop": "https://image.tmdb.org/t/p/w780/j21pODpe6YcxX1gcEwH0atzwUXF.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0130200",
+"original_title": "Public Housing",
+"overview": "Frederick Wiseman’s unflinching portrayal of life at the Ida B. Wells housing project in Chicago, a raw exposition of the daily conflicts between residents and the bureaucratic machinery to which they are continually subjected. With intimate detail and an abiding dedication to his subject, Wiseman unearths the hidden facets of institutions to find humanity and sites of unexpected beauty.",
+"poster": "https://image.tmdb.org/t/p/w342/vmtCtqBKQIoN5mF8neYy6dwtWgg.jpg",
+"runtime": 200,
+"title": "Public Housing",
+"tmdb_id": 114412,
+"year": 1997
+},
+"114413": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yBU2bioBLcJLqVcO3d0B1doSCKo.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0089873",
+"original_title": "Racetrack",
+"overview": "At the Belmont Race Track, one of the world's leading race tracks for thoroughbred racing, the viewer is invited into the training, maintaining and racing of thoroughbred horses. Everyday occurrences are highlighted: in the backstretch — the grooming, feeding, shoeing, and caring for horses and the preparation for races; at the practice track the various aspects of training, exercising, and timing the horses; at the paddock — the pre-race presentation of the horses; and in the grandstand — betting and watching the races — and the variety of work done by trainers, jockeys, jockey agents, grooms, hot walkers, stable hands, and veterinarians.",
+"poster": "https://image.tmdb.org/t/p/w342/aEn7EH5yD2v4OyQYv34AQHKh59t.jpg",
+"runtime": 114,
+"title": "Racetrack",
+"tmdb_id": 114413,
+"year": 1985
+},
+"114414": {
+"backdrop": "https://image.tmdb.org/t/p/w780/pmCz0U8hC0PfeVs9qi7VRiVzP4u.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt1043871",
+"original_title": "State Legislature",
+"overview": "The day-to-day activities of the Idaho Legislature during an entire session: lobbyists, lawmakers and their constituents debate and discuss the concerns of the electorate, on issues that range from school violence, mad cow disease and video voyeurism to illegal immigration, secondhand smoke and the deregulation of telephone rates, a highlighting example of the achievements, values, constraints and limitations of the democratic process.",
+"poster": "https://image.tmdb.org/t/p/w342/adGapukOQNahPLQEvfKorSNbMCY.jpg",
+"runtime": 217,
+"title": "State Legislature",
+"tmdb_id": 114414,
+"year": 2007
+},
+"114420": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vXEovpdvACT0eKfKDr0KJ7JZGiF.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0108662",
+"original_title": "Zoo",
+"overview": "Acclaimed documentary filmmaker Frederick Wiseman analyzes the interrelation between animals and their human captors at Miami's Metro Zoo. Looking past the chipper veneer of zoos as venues for childhood wonderment, he probes the institutional machinations behind the exhibitions, from the dedicated veterinarians and zookeepers who care for the animals to the administrative staff who are tasked with their ethical, technological and financial upkeep.",
+"poster": "https://image.tmdb.org/t/p/w342/t9JXJxrV16Xrq8PCuSs55QqA38t.jpg",
+"runtime": 130,
+"title": "Zoo",
+"tmdb_id": 114420,
+"year": 1993
+},
+"114423": {
+"backdrop": "https://image.tmdb.org/t/p/w780/65nBO5P92ne1ffTtmt0GHgnTSfj.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0075803",
+"original_title": "Canal Zone",
+"overview": "Follow the people who live and work in the Panama Canal Zone and glimpse into both the operation of the Canal and the various governmental agencies — business, military, and civilian — related to the functioning of the Canal and the lives of the Americans in the zone. Features sequences of ships in transit, the work of special canal pilots, aspects of the civil government, work of the military, and the social, religious and recreational life of the Zonians.",
+"poster": "https://image.tmdb.org/t/p/w342/iONxW7z6hP7iznSdhXrHaR7P4e6.jpg",
+"runtime": 175,
+"title": "Canal Zone",
+"tmdb_id": 114423,
+"year": 1977
+},
+"114426": {
+"backdrop": "https://image.tmdb.org/t/p/w780/62lAFJzPXwDRbEWNpyBpI6VMaO9.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0090918",
+"original_title": "Deaf",
+"overview": "The School for the Deaf at the Alabama Institute is organized around a theory of total communication, i.e. the use of signs and finger spelling in conjunction with speech, hearing aids, lip reading, gestures and the written word. Sequences deal with various aspects of this comprehensive training such as teaching students and parents to sign; speech therapy; psychological counseling; regular academic courses; vocational training; disciplinary problems; parents visits; sports and recreational activity; training in living and working independently; and developing skills in home and money management.",
+"poster": "https://image.tmdb.org/t/p/w342/rsQSwNIA04kuVa9ksTOBEndThID.jpg",
+"runtime": 164,
+"title": "Deaf",
+"tmdb_id": 114426,
+"year": 1986
+},
+"114427": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hFsShzPkyEBuXfU42YMSmPYaCfm.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0305489",
+"original_title": "Domestic Violence",
+"overview": "A look at how the Tampa, Florida police respond to domestic violence calls and the work of The Spring, the principal shelter for women and children. Police sequences include response, intervention, and attempted resolution of these calls. At the shelter are intake interviews, individual counseling sessions, anger management training, group therapy, staff meetings, conversations among clients and between clients and staff, and school activities, therapy, and counseling for children at the shelter.",
+"poster": "https://image.tmdb.org/t/p/w342/gwI8OItBLUMW9K18NgR2v9hZxDS.jpg",
+"runtime": 196,
+"title": "Domestic Violence",
+"tmdb_id": 114427,
+"year": 2001
 },
 "11448": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hSY4PYJSFW5JWeQqOs2LAzG0W8a.jpg",
@@ -25729,31 +27351,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Mighty Aphrodite",
 "tmdb_id": 11448,
 "year": 1995
-},
-"11454": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zOO8GRa02x9o1iGOIIAJD50YcMW.jpg",
-"cast": [
-"William L. Petersen",
-"Tom Noonan",
-"Dennis Farina",
-"Brian Cox",
-"Kim Greist",
-"Joan Allen"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Michael Mann"
-],
-"imdb_id": "tt0091474",
-"original_title": "Manhunter",
-"overview": "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-"poster": "https://image.tmdb.org/t/p/w342/6rb24x39vV8n5301IelC8rCPJTH.jpg",
-"runtime": 120,
-"title": "Manhunter",
-"tmdb_id": 11454,
-"year": 1986
 },
 "11460": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1uRkvEDPvZUIGtGnJz895ajvb7Y.jpg",
@@ -25829,57 +27426,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Give a Girl a Break",
 "tmdb_id": 114685,
 "year": 1953
-},
-"11471": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mgTZFhBGOE0Qyckynhm81CQLrP2.jpg",
-"cast": [
-"Ti Lung",
-"Chow Yun-Fat",
-"Leslie Cheung",
-"Emily Chu Bo-Yee",
-"Waise Lee Chi-Hung",
-"Tien Feng"
-],
-"countries": [
-"HK"
-],
-"directors": [
-"John Woo"
-],
-"imdb_id": "tt0092263",
-"original_title": "英雄本色",
-"overview": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
-"poster": "https://image.tmdb.org/t/p/w342/uxZIWxOm2yonHyjLARzW37aEZjF.jpg",
-"runtime": 95,
-"title": "A Better Tomorrow",
-"tmdb_id": 11471,
-"year": 1986
-},
-"11475": {
-"backdrop": "https://image.tmdb.org/t/p/w780/kevyDBlyEJvQOPGd0b3BbtPKqrK.jpg",
-"cast": [
-"Matti Pellonpää",
-"Kari Väänänen",
-"Sakke Järvenpää",
-"Heikki Keskinen",
-"Pimme Korhonen",
-"Sakari Kuosmanen"
-],
-"countries": [
-"FI",
-"SE"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0097728",
-"original_title": "Leningrad Cowboys Go America",
-"overview": "The Leningrad Cowboys, a group of Siberian musicians, and their manager, travel to America seeking fame and fortune. As they cross the country, trying to get to a wedding in Mexico, they are followed by the village idiot, who wishes to join the band.",
-"poster": "https://image.tmdb.org/t/p/w342/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg",
-"runtime": 79,
-"title": "Leningrad Cowboys Go America",
-"tmdb_id": 11475,
-"year": 1989
 },
 "1148274": {
 "backdrop": null,
@@ -26064,6 +27610,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 11507,
 "year": 1984
 },
+"1151118": {
+"backdrop": null,
+"cast": [
+"Rolf Skoglund",
+"Leif Andrée",
+"Leif Malmberg"
+],
+"countries": [
+"SE"
+],
+"directors": [
+"Jörgen Bergmark",
+"Bent Hamer"
+],
+"imdb_id": null,
+"original_title": "Happy Hour",
+"overview": "Three delusional drunks talk nonsense about the people around them.",
+"poster": null,
+"runtime": 4,
+"title": "Happy Hour",
+"tmdb_id": 1151118,
+"year": 1991
+},
 "11513": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uHwJaXKtIsjI4IrtaFLnJjLZMrs.jpg",
 "cast": [
@@ -26089,32 +27658,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Cobra Verde",
 "tmdb_id": 11513,
 "year": 1987
-},
-"11515": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qDqp7ud3bGQQ72pOFsPKLNypkKp.jpg",
-"cast": [
-"Javier Bardem",
-"Natalie Portman",
-"Stellan Skarsgård",
-"Randy Quaid",
-"José Luis Gómez",
-"Michael Lonsdale"
-],
-"countries": [
-"ES",
-"US"
-],
-"directors": [
-"Miloš Forman"
-],
-"imdb_id": "tt0455957",
-"original_title": "Goya's Ghosts",
-"overview": "Painter Francisco Goya becomes involved with the Spanish Inquisition after his muse, Inés, is arrested by the church for heresy. Her family turns to him, hoping that his connection with fanatical Inquisitor Lorenzo, whom he is painting, can secure her release.",
-"poster": "https://image.tmdb.org/t/p/w342/tyZhS8kA07oU5fO3ruamJkgAC0M.jpg",
-"runtime": 114,
-"title": "Goya's Ghosts",
-"tmdb_id": 11515,
-"year": 2006
 },
 "115186": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2L6Qb9f3n7TcDgkrLKmNh3GX4Ww.jpg",
@@ -26246,6 +27789,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Face on the Barroom Floor",
 "tmdb_id": 1154107,
 "year": 1923
+},
+"115427": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yYXYeLBoa0JoIWw64QSfQLo3AHj.jpg",
+"cast": [
+"György Cserhalmi",
+"Erzsébet Kútvölgyi",
+"Ferenc Bencze",
+"Imre Csuja",
+"János Derzsi",
+"István Dégi"
+],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt0292081",
+"original_title": "Macbeth",
+"overview": "Consistent of only two long shots, three witches predict that Macbeth will ascend to the throne of Scotland. To fulfill this prophecy, Lady Macbeth convinces her husband to murder King Duncan, who has come to spend the night at their home. This crime plunges the new ruler into a macabre spiral that will lead him to sink into guilt and madness.",
+"poster": "https://image.tmdb.org/t/p/w342/yYiy2WTHcevtUBCqmXjLlDiQaR0.jpg",
+"runtime": 62,
+"title": "Macbeth",
+"tmdb_id": 115427,
+"year": 1982
 },
 "115487": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uuln8qRVZfyVjWdHQrru0Nkl9rM.jpg",
@@ -26848,31 +28416,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 116459,
 "year": 1957
 },
-"11646": {
-"backdrop": "https://image.tmdb.org/t/p/w780/cQtEnazTk07zcfcf2MYLCiPRfY.jpg",
-"cast": [
-"Mel Gibson",
-"Mark Lee",
-"Bill Kerr",
-"Harold Hopkins",
-"Charles Lathalu Yunipingu",
-"Heath Harris"
-],
-"countries": [
-"AU"
-],
-"directors": [
-"Peter Weir"
-],
-"imdb_id": "tt0082432",
-"original_title": "Gallipoli",
-"overview": "Historie om to australske soldaters vennskap og eventyr i 1915. De krysser kontinenter og store hav, klatrer i pyramidene og går gjennom Egypts gamle ørkener for å delta i det skjebnetunge Gallipoli-slaget sammen med regimentet sitt. Historiens ekko blander seg med vennenes tvingende skjebne som deltakere i den legendariske førsteverdenskrigskonfrontasjonen mellom Australia og de tyskallierte tyrkerne - en strid som for australierne er det samme som Alamo er for amerikanerne.",
-"poster": "https://image.tmdb.org/t/p/w342/un7VCqTmjrq3u75mQ204a8tofD4.jpg",
-"runtime": 112,
-"title": "Gallipoli",
-"tmdb_id": 11646,
-"year": 1981
-},
 "1168279": {
 "backdrop": null,
 "cast": [
@@ -27362,32 +28905,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 117999,
 "year": 1970
 },
-"118": {
-"backdrop": "https://image.tmdb.org/t/p/w780/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
-"cast": [
-"Johnny Depp",
-"Freddie Highmore",
-"David Kelly",
-"Helena Bonham Carter",
-"Noah Taylor",
-"Missi Pyle"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Tim Burton"
-],
-"imdb_id": "tt0367594",
-"original_title": "Charlie and the Chocolate Factory",
-"overview": "En fattig gutt vinner en tur til verdens mest uvanlige og vidunderlige godterifabrikk.\r Historien om Charlie Bucket, en liten gutt uten penger, men med et godt hjerte, som drømmer om å kunne kjøpe godteriet som andre barn nyter. Charlie trer inn i en magisk verden da han vinner en av fem gullbilletter til å besøke den mystiske sjokoladefabrikken som eies av den eksentriske Willy Wonka, og som drives av hans dyktige besetning av umpa-lumpaer. Innenfor portene får Charlie og bestefaren Joe selskap av en rekke karakterer på en reise hvor de oppdager at det er langt viktigere å ha et godt hjerte enn å være godtegris. Basert på Roald Dahls roman ved samme navn.",
-"poster": "https://image.tmdb.org/t/p/w342/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
-"runtime": 115,
-"title": "Charlie and the Chocolate Factory",
-"tmdb_id": 118,
-"year": 2005
-},
 "1181155": {
 "backdrop": null,
 "cast": [
@@ -27536,6 +29053,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Albert Brooks: Defending My Life",
 "tmdb_id": 1184849,
 "year": 2023
+},
+"1185344": {
+"backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+"cast": [
+"Samuel L. Jackson",
+"Joel Kinnaman",
+"Guy Burnet",
+"Eoin Macken",
+"Colin Morgan"
+],
+"countries": [
+"GB",
+"US",
+"ES",
+"DE",
+"AU"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt29256561",
+"original_title": "The Beast",
+"overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+"poster": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+"runtime": 99,
+"title": "The Beast",
+"tmdb_id": 1185344,
+"year": 2026
 },
 "11863": {
 "backdrop": "https://image.tmdb.org/t/p/w780/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
@@ -27952,32 +29497,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Hudsucker Proxy",
 "tmdb_id": 11934,
 "year": 1994
-},
-"11936": {
-"backdrop": "https://image.tmdb.org/t/p/w780/v3OBPtCS4iHOGKNBwiO22QFfMQ1.jpg",
-"cast": [
-"Marcello Mastroianni",
-"Anna Prucnal",
-"Bernice Stegers",
-"Jole Silvani",
-"Donatella Damiani",
-"Ettore Manni"
-],
-"countries": [
-"FR",
-"IT"
-],
-"directors": [
-"Federico Fellini"
-],
-"imdb_id": "tt0080539",
-"original_title": "La città delle donne",
-"overview": "The charismatic Snaporaz encounters an alluring woman on a train and pursues her through a forest. He ends up at a hotel populated by women gathered for a feminist conference, where he is an unwanted presence. Snaporaz soon discovers he’s entered a phantasmagoric world where women have taken power.",
-"poster": "https://image.tmdb.org/t/p/w342/hSX2YnpQebGlw5ljNlr1jnNSt5q.jpg",
-"runtime": 140,
-"title": "City of Women",
-"tmdb_id": 11936,
-"year": 1980
 },
 "119360": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dZAHldgqnm1f5n9q4jxsINphEgW.jpg",
@@ -28781,33 +30300,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1222877,
 "year": 1962
 },
-"12230": {
-"backdrop": "https://image.tmdb.org/t/p/w780/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
-"cast": [
-"Rod Taylor",
-"J. Pat O'Malley",
-"Betty Lou Gerson",
-"Martha Wentworth",
-"Ben Wright",
-"Cate Bauer"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Wolfgang Reitherman",
-"Clyde Geronimi",
-"Hamilton Luske"
-],
-"imdb_id": "tt0055254",
-"original_title": "One Hundred and One Dalmatians",
-"overview": "De er livlige, sjarmerende og best av alt - det finnes 101 stykker av dem! Bli med Disneys dalmatinere på et fantastisk eventyr for hele familien, fylt med spenning, latter og masse prikker! Hjemme hos Roger og Anita er lykken fullkommen – deres dalmatinere Pongo og Perdita har fått sitt første kull med 15 uimotståelige små valper. Men en dag blir plutselig valpene kidnappet! Og ikke nok med det, hver eneste dalmatinervalp i hele London er sporløst forsvunnet. Hvem kan ha tatt dem – og hvorfor? Den store hundealarmen går, og hunder av alle raser hjelper til med å lete. Sporene leder ikke helt uventet til den lumske og upålitelige Cruella de Vil, som alltid har drømt om å lage en prikkete pels",
-"poster": "https://image.tmdb.org/t/p/w342/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
-"runtime": 79,
-"title": "One Hundred and One Dalmatians",
-"tmdb_id": 12230,
-"year": 1961
-},
 "122368": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2fqRKdOcL0NV9LcbXIj9UhmNWi.jpg",
 "cast": [
@@ -28975,32 +30467,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Red Cliff",
 "tmdb_id": 12289,
 "year": 2008
-},
-"122917": {
-"backdrop": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
-"cast": [
-"Ian McKellen",
-"Martin Freeman",
-"Richard Armitage",
-"Orlando Bloom",
-"Evangeline Lilly",
-"Luke Evans"
-],
-"countries": [
-"NZ",
-"US"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt2310332",
-"original_title": "The Hobbit: The Battle of the Five Armies",
-"overview": "Den tredje og avsluttende filmen i Hobbiten-trilogien, bygget på den verdenskjente historien fra Ringenes Herre-forfatteren J.R.R. Tolkien. Den siste filmen i trilogien, Femhærerslaget, er den episke avslutningen av eventyret om Bilbo Lommelun, Thorin Eikenskjold og reisefølget av dverger. Ved å kreve tilbake sitt hjemland fra dragen Smaug, slapp de en dødelig og fryktelig kraft ut i verden. En rasende Smaug lot sitt sinne gå utover de uskyldige innbyggerne I Langsjøby.",
-"poster": "https://image.tmdb.org/t/p/w342/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
-"runtime": 144,
-"title": "The Hobbit: The Battle of the Five Armies",
-"tmdb_id": 122917,
-"year": 2014
 },
 "122920": {
 "backdrop": null,
@@ -29320,6 +30786,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Let's relax",
 "tmdb_id": 1245649,
 "year": 1974
+},
+"124570": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uR6D0P1uydRG5sPiC0FcJorMF2i.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0093548",
+"original_title": "Missile",
+"overview": "Follow the 4315th Training Squadron of the Strategic Air Command at Vandenberg Air Force Base in California, where officers are trained to man the Launch Control Centers for the Minuteman Intercontinental Ballistic Missiles. Sequences include discussion of the moral and military issues of nuclear war; the arming, targeting and launching of the missile; codes; communications; protection against terrorist attack; emergency procedures; staff meetings and tutorial sessions.",
+"poster": "https://image.tmdb.org/t/p/w342/tql7Ey9FbXRHrC40o0Vsd6XVdqO.jpg",
+"runtime": 115,
+"title": "Missile",
+"tmdb_id": 124570,
+"year": 1988
 },
 "1246049": {
 "backdrop": "https://image.tmdb.org/t/p/w780/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
@@ -29740,6 +31224,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1259365,
 "year": 2024
 },
+"125946": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vsT510U6eqA37LtnoZw2gLGb1Jb.jpg",
+"cast": [
+"Catherine Samie"
+],
+"countries": [
+"FR"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0317341",
+"original_title": "La dernière lettre",
+"overview": "In a captured Ukrainian ghetto, circa 1941, Jewish town physician Anna Semyonovna dictates a final farewell letter to her son who is safe outside enemy lines, detailing the harrowing realities of the ghetto before her impending execution by the Nazis.",
+"poster": "https://image.tmdb.org/t/p/w342/d8F8A3KOpBRtUN465lyH9hgdEAZ.jpg",
+"runtime": 61,
+"title": "The Last Letter",
+"tmdb_id": 125946,
+"year": 2002
+},
 "126": {
 "backdrop": "https://image.tmdb.org/t/p/w780/59PVw1vVgLZVVJZfV6k1SfOvcYZ.jpg",
 "cast": [
@@ -29790,32 +31294,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Fury",
 "tmdb_id": 12611,
 "year": 1978
-},
-"12614": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
-"cast": [
-"Julie Andrews",
-"James Garner",
-"Robert Preston",
-"Lesley Ann Warren",
-"Alex Karras",
-"John Rhys-Davies"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Blake Edwards"
-],
-"imdb_id": "tt0084865",
-"original_title": "Victor/Victoria",
-"overview": "A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.",
-"poster": "https://image.tmdb.org/t/p/w342/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg",
-"runtime": 134,
-"title": "Victor/Victoria",
-"tmdb_id": 12614,
-"year": 1982
 },
 "126144": {
 "backdrop": null,
@@ -30653,33 +32131,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 12779,
 "year": 2002
 },
-"1278": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vaRCS4CCFXcWz1j9GKd6rGLsQQ2.jpg",
-"cast": [
-"Michael Pitt",
-"Eva Green",
-"Louis Garrel",
-"Anna Chancellor",
-"Robin Renucci",
-"Jean-Pierre Kalfon"
-],
-"countries": [
-"FR",
-"IT",
-"GB"
-],
-"directors": [
-"Bernardo Bertolucci"
-],
-"imdb_id": "tt0309987",
-"original_title": "The Dreamers",
-"overview": "When Isabelle and Theo invite Matthew to stay with them, what begins as a casual friendship ripens into a sensual voyage of discovery and desire in which nothing is off limits and everything is possible.",
-"poster": "https://image.tmdb.org/t/p/w342/gBb7GGaFYPu7nEUYvC8G4LaJJN1.jpg",
-"runtime": 115,
-"title": "The Dreamers",
-"tmdb_id": 1278,
-"year": 2003
-},
 "128028": {
 "backdrop": null,
 "cast": [],
@@ -30710,6 +32161,49 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "City Life",
 "tmdb_id": 128028,
 "year": 1990
+},
+"128031": {
+"backdrop": null,
+"cast": [
+"Székely B. Miklós",
+"Michael Mehlmann",
+"László Gálffi",
+"László Kistamás",
+"Gyula Pauer",
+"Mihály Víg"
+],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt0264139",
+"original_title": "Utolsó hajó",
+"overview": "The last ship (Utolsó hajó) is leaving the quay. Sirens are sounding.",
+"poster": "https://image.tmdb.org/t/p/w342/zX6nBnHZoaIDO1kaFVtQXZl1w5m.jpg",
+"runtime": 23,
+"title": "The Last Boat",
+"tmdb_id": 128031,
+"year": 1990
+},
+"128044": {
+"backdrop": "https://image.tmdb.org/t/p/w780/8mB9aIL41cDXJImvTd5TlkJ6ayT.jpg",
+"cast": [],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt0144976",
+"original_title": "Hotel Magnezit",
+"overview": "Documentary about a hostel for workers. An old worker suspected of stealing a motor gets fired from the factory and must leave the hostel.",
+"poster": "https://image.tmdb.org/t/p/w342/8Ov6sVP250KPGlazEqRdJIDopl8.jpg",
+"runtime": 12,
+"title": "Hotel Magnezit",
+"tmdb_id": 128044,
+"year": 1978
 },
 "1281481": {
 "backdrop": null,
@@ -30919,6 +32413,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Nebraska",
 "tmdb_id": 129670,
 "year": 2013
+},
+"129682": {
+"backdrop": "https://image.tmdb.org/t/p/w780/3WLttY3w1m5bH77wIJLNVeh5RJ6.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0090744",
+"original_title": "Blind",
+"overview": "Documentarian Frederick Wiseman highlights the educational programs and daily life of all levels of students at the Alabama School for the Blind, where the effort is organized around educating blind and visually impaired students to be in charge of their own lives. Sequences include mobility training, braille instruction and orientation, as well as traditional classroom subjects such as English, history, science and music, as well as psychological counseling sessions; vocational training; staff dealing with disciplinary problems; and the wide variety of recreational and athletic programs.",
+"poster": "https://image.tmdb.org/t/p/w342/7CkRfezdjiCFBmzbCkZMQDLfc6W.jpg",
+"runtime": 132,
+"title": "Blind",
+"tmdb_id": 129682,
+"year": 1986
 },
 "1299655": {
 "backdrop": "https://image.tmdb.org/t/p/w780/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
@@ -31339,6 +32851,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 132295,
 "year": 1960
 },
+"13252": {
+"backdrop": "https://image.tmdb.org/t/p/w780/z6ueaizIb3vH3l1l4xSr2bET2Am.jpg",
+"cast": [
+"Samuel L. Jackson",
+"Ed Harris",
+"Eva Mendes",
+"Luis Guzmán",
+"Keke Palmer",
+"Maggie Lawson"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0896798",
+"original_title": "Cleaner",
+"overview": "Tom Cutler, en tidligere politibetjent som nå driver et rengjøringsfirma som gjør rent etter voldelige forbrytelser. Da han en dag får et rengjøringsoppdrag etter et usedvanlig blodig mord i en villa i forstedene, blir han med ett innblandet i en innviklet sak. Han etterlater hjemmet plettfritt, men da han senere skal levere tilbake nøklene hevder fruen i huset at hun aldri har bestilt rengjøringen – og at hennes mann for øvrig er sporløst forsvunnet. Snart støter Tom på sin gamle partner fra politiet, Eddie, og innen han får sukk for seg er Tom dypt involvert i et nett av løgner og fortielser, som åpner en dør inn til hans egen tvilsomme fortid. Skal han fri seg fra beskyldningene må Tom gjøre et valg. Han kan enten begrave fortiden, eller velge å kjempe for å bli renvasket.",
+"poster": "https://image.tmdb.org/t/p/w342/8KhDbFg9STRlvrOLvaQ7PjOo7XT.jpg",
+"runtime": 88,
+"title": "Cleaner",
+"tmdb_id": 13252,
+"year": 2007
+},
 "132772": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nq7TGsnt1nXQs7sY71l10vW8aQW.jpg",
 "cast": [
@@ -31463,31 +33000,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 133132,
 "year": 1926
 },
-"13320": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9VJh0YPms8QM8GYDvt5wtmRsCU5.jpg",
-"cast": [
-"Audrey Hepburn",
-"Fred Astaire",
-"Kay Thompson",
-"Michel Auclair",
-"Robert Flemyng",
-"Dovima"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Stanley Donen"
-],
-"imdb_id": "tt0050419",
-"original_title": "Funny Face",
-"overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
-"poster": "https://image.tmdb.org/t/p/w342/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg",
-"runtime": 103,
-"title": "Funny Face",
-"tmdb_id": 13320,
-"year": 1957
-},
 "13321": {
 "backdrop": "https://image.tmdb.org/t/p/w780/X5kdpMCowusOsub7jSHSnALysp.jpg",
 "cast": [
@@ -31588,6 +33100,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Play of the Week: Rashomon",
 "tmdb_id": 1339714,
 "year": 1960
+},
+"1341523": {
+"backdrop": null,
+"cast": [
+"Judit Pogány",
+"Róbert Koltai",
+"Gábor P. Koltai"
+],
+"countries": [],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": null,
+"original_title": "Diplomafilm",
+"overview": "Diplomafilm is a short film that Béla Tarr made to graduate from Art School, in 1981. It is the predecessor of The Prefab People, with the same plot and the same actors, but with some changes in the plot.",
+"poster": "https://image.tmdb.org/t/p/w342/ySurIr5kpb2zGzk2SLHPkp6S5pT.jpg",
+"runtime": 40,
+"title": "Diplomafilm",
+"tmdb_id": 1341523,
+"year": 1981
 },
 "1341696": {
 "backdrop": null,
@@ -31924,32 +33456,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Houdini: The Untold Story",
 "tmdb_id": 1366067,
 "year": 2016
-},
-"1368337": {
-"backdrop": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
-"cast": [
-"Matt Damon",
-"Tom Holland",
-"Anne Hathaway",
-"Robert Pattinson",
-"Himesh Patel",
-"Charlize Theron"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Christopher Nolan"
-],
-"imdb_id": "tt33764258",
-"original_title": "The Odyssey",
-"overview": "Odysseus, den legendariske kongen av Ithaca, legger ut på en lang og farefull reise hjem etter den trojanske krig. Underveis blir han tvunget til å møte gudenes luner, mytologiske monstre og prøvelser som tøyer både hans list og hans menneskelighet til bristepunktet.",
-"poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-"runtime": 173,
-"title": "The Odyssey",
-"tmdb_id": 1368337,
-"year": 2026
 },
 "137010": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4EZZBVDNeZT8ig7LortnrnqQOSd.jpg",
@@ -32723,6 +34229,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 13948,
 "year": 2008
 },
+"1396825": {
+"backdrop": null,
+"cast": [
+"Renny Harlin"
+],
+"countries": [],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt1227157",
+"original_title": "Kohtauspaikka 33",
+"overview": "A documentary following youths of Helsinki and their habits of spending all their money on expensive clothes.",
+"poster": null,
+"runtime": 18,
+"title": "Kohtauspaikka 33",
+"tmdb_id": 1396825,
+"year": 1981
+},
 "1399000": {
 "backdrop": null,
 "cast": [
@@ -32939,6 +34463,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Road to Glory",
 "tmdb_id": 140276,
 "year": 1936
+},
+"1408": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hHoIQVAmTg4RM7PPNhNvMlJk3mg.jpg",
+"cast": [
+"Geena Davis",
+"Matthew Modine",
+"Frank Langella",
+"Maury Chaykin",
+"Patrick Malahide",
+"Stan Shaw"
+],
+"countries": [
+"US",
+"FR",
+"DE",
+"IT"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0112760",
+"original_title": "Cutthroat Island",
+"overview": "Morgan Adams (Geena Davis) og hennes slave, William Shaw (Matthew Modine), er på jakt etter å finne de tre delene som utgjør et skattekart. Uheldigvis er det hennes morderiske onkel Dawg (Frank Langella) som har den siste delen. Mannskapet er skeptisk til hennes lederevner, så hun må absolutt ha den siste delen før de starter et mytteri mot henne. Dette viser seg å bli en enda vanskeligere affære da den britiske kronen setter alt inn for å få slutt på hennes pirattokter.",
+"poster": "https://image.tmdb.org/t/p/w342/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+"runtime": 124,
+"title": "Cutthroat Island",
+"tmdb_id": 1408,
+"year": 1995
 },
 "140894": {
 "backdrop": "https://image.tmdb.org/t/p/w780/woaHy2bzYY1qW5K9Aasatob3ys8.jpg",
@@ -33248,31 +34800,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1426159,
 "year": 2008
 },
-"1428": {
-"backdrop": "https://image.tmdb.org/t/p/w780/ctDqJtlMwASOKoQi7sacSVae3EI.jpg",
+"1427": {
+"backdrop": "https://image.tmdb.org/t/p/w780/kgHYRHQ5BZM1mxsy1MSZepNjMiR.jpg",
 "cast": [
-"Antonio Banderas",
-"Johnny Depp",
-"Cheech Marin",
-"Salma Hayek Pinault",
-"Mickey Rourke",
-"Willem Dafoe"
+"Ben Whishaw",
+"Alan Rickman",
+"Rachel Hurd-Wood",
+"Dustin Hoffman",
+"John Hurt",
+"Karoline Herfurth"
 ],
 "countries": [
+"DE",
+"FR",
+"ES",
 "US",
-"MX"
+"BE"
 ],
 "directors": [
-"Robert Rodriguez"
+"Tom Tykwer"
 ],
-"imdb_id": "tt0285823",
-"original_title": "Once Upon a Time in Mexico",
-"overview": "Tilbake i kampens hete – den raskt skytende, gitarspillende helten \"El Mariachi\" vender tilbake i Once Upon A Time in Mexico, den siste delen av regissøren Robert Rodriguez’ nådeløse westerntrilogi. Med Antonio Banderas, Salma Hayek, Johnny Depp, Mickey Rourke, Eva Mendes, Enrique Iglesias og Willem Dafoe på rollelisten er Once Upon A Time in Mexico en rykende het og actionspekket filmopplevelse utover det vanlige!",
-"poster": "https://image.tmdb.org/t/p/w342/ETUpGxmLocsfER8GT8w5sOkRG0.jpg",
-"runtime": 102,
-"title": "Once Upon a Time in Mexico",
-"tmdb_id": 1428,
-"year": 2003
+"imdb_id": "tt0396171",
+"original_title": "Perfume: The Story of a Murderer",
+"overview": "Foreldreløse Jean-Bapstiste Grenouille er født med en helt unik luktesans. Når han begynner å jobbe på et parfymeri i Paris lager han verdens fremste parfyme. Men jakten hans på den ultimate ingrediensen tar en uventet vending når han finner denne hos en ung og uskyldig kvinne.",
+"poster": "https://image.tmdb.org/t/p/w342/2wrFrUej8ri5EpjgIkjKTAnr686.jpg",
+"runtime": 147,
+"title": "Perfume: The Story of a Murderer",
+"tmdb_id": 1427,
+"year": 2006
 },
 "142918": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uLaP4MQLmHx1xls6w4bvoIDPe82.jpg",
@@ -34441,6 +35996,29 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 14788,
 "year": 2006
 },
+"1480788": {
+"backdrop": null,
+"cast": [
+"Ildikó Bánsági",
+"Péter Haumann",
+"György Fehér",
+"Ferenc Kállai"
+],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": null,
+"original_title": "Tarr Béla bevezetője Fehér György filmjeihez",
+"overview": "A portrait film in which the actors often employed by Fehér (Ferenc Kállai, Péter Haumann and Ildikó Bánsági, respectively) testify with love and respect about the artist's creative method and his pursuit of perfection.",
+"poster": "https://image.tmdb.org/t/p/w342/Aa30g08Ytfhx8HgMHqyCk1r9ZhS.jpg",
+"runtime": 44,
+"title": "György Fehér's Films According to Béla Tarr",
+"tmdb_id": 1480788,
+"year": 2001
+},
 "148404": {
 "backdrop": null,
 "cast": [
@@ -35239,6 +36817,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1515899,
 "year": 2026
 },
+"1517069": {
+"backdrop": "https://image.tmdb.org/t/p/w780/reSa0DcGoinsguV7QUNeG2V6rp4.jpg",
+"cast": [
+"Marc Jacobs",
+"Sofia Coppola",
+"Spike Jonze",
+"Romy Mars",
+"Chloë Sevigny",
+"Kim Gordon"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sofia Coppola"
+],
+"imdb_id": "tt37660536",
+"original_title": "Marc by Sofia",
+"overview": "An intimate, unconventional portrait of Marc Jacobs, crafted by Sofia Coppola to capture the genius and singular universe of the iconic American designer.",
+"poster": "https://image.tmdb.org/t/p/w342/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+"runtime": 87,
+"title": "Marc by Sofia",
+"tmdb_id": 1517069,
+"year": 2026
+},
 "1518260": {
 "backdrop": null,
 "cast": [],
@@ -35460,31 +37063,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Making of Autumn Sonata",
 "tmdb_id": 1537970,
 "year": 1978
-},
-"1538": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
-"cast": [
-"Tom Cruise",
-"Jamie Foxx",
-"Jada Pinkett Smith",
-"Mark Ruffalo",
-"Peter Berg",
-"Javier Bardem"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Michael Mann"
-],
-"imdb_id": "tt0369339",
-"original_title": "Collateral",
-"overview": "Drosjesjåføren Max plukker opp en mann som tilbyr ham 600 dollar for å kjøre ham rundt. Men tilbudet om lettjente penger blir etterhvert til et mareritt når Max innser at passasjeren hans er en leiemorder.",
-"poster": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
-"runtime": 120,
-"title": "Collateral",
-"tmdb_id": 1538,
-"year": 2004
 },
 "15384": {
 "backdrop": "https://image.tmdb.org/t/p/w780/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
@@ -36049,32 +37627,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 157160,
 "year": 1982
 },
-"157336": {
-"backdrop": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
-"cast": [
-"Matthew McConaughey",
-"Anne Hathaway",
-"Michael Caine",
-"Jessica Chastain",
-"Casey Affleck",
-"Wes Bentley"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Christopher Nolan"
-],
-"imdb_id": "tt0816692",
-"original_title": "Interstellar",
-"overview": "Interstellar handler om eventyrene til en gruppe oppdagelsesreisende som benytter seg av en nylig oppdaget ormehull å overgå begrensninger på menneskelig romfart og erobre store avstander er involvert i en interstellar reise.",
-"poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-"runtime": 169,
-"title": "Interstellar",
-"tmdb_id": 157336,
-"year": 2014
-},
 "15739": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uP8eElA1j4I2lE0V67bhQaUipkc.jpg",
 "cast": [
@@ -36099,6 +37651,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Annie",
 "tmdb_id": 15739,
 "year": 1982
+},
+"157490": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": null,
+"original_title": "Haiku",
+"overview": "Frederick Wiseman's contribution to the 2009 'Vision du reel' project.",
+"poster": "https://image.tmdb.org/t/p/w342/uPRBHCsdiQudUEyee1Qsp8RyFtv.jpg",
+"runtime": 1,
+"title": "Haiku",
+"tmdb_id": 157490,
+"year": 2009
 },
 "15764": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
@@ -36141,34 +37711,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Présence",
 "tmdb_id": 1577130,
 "year": 2022
-},
-"157827": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9tdXnZ2iM2KXrlID0RMSUnrynsA.jpg",
-"cast": [
-"Gabriel Byrne",
-"Isabelle Huppert",
-"Jesse Eisenberg",
-"Devin Druid",
-"Amy Ryan",
-"Ruby Jerins"
-],
-"countries": [
-"NO",
-"US",
-"FR",
-"DK"
-],
-"directors": [
-"Joachim Trier"
-],
-"imdb_id": "tt2217859",
-"original_title": "Louder Than Bombs",
-"overview": "Three years after his wife, acclaimed photographer Isabelle Reed, dies in a car crash, Gene keeps everyday life going with his shy teenage son, Conrad. A planned exhibition of Isabelle’s photographs prompts Gene's elder son, Jonah, to return to the house he grew up in — and for the first time in a very long time, the father and the two brothers are living under the same roof.",
-"poster": "https://image.tmdb.org/t/p/w342/26hoecTKEAXswDwk4nUE4SEcPg2.jpg",
-"runtime": 109,
-"title": "Louder Than Bombs",
-"tmdb_id": 157827,
-"year": 2015
 },
 "157834": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6RcWkHz1LT8wJBlAwYRoq2nOzG6.jpg",
@@ -36390,31 +37932,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Rapid Eye Movement",
 "tmdb_id": 1583484,
 "year": 1982
-},
-"1584": {
-"backdrop": "https://image.tmdb.org/t/p/w780/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
-"cast": [
-"Jack Black",
-"Joan Cusack",
-"Mike White",
-"Sarah Silverman",
-"Miranda Cosgrove",
-"Joey Gaydos Jr."
-],
-"countries": [
-"US"
-],
-"directors": [
-"Richard Linklater"
-],
-"imdb_id": "tt0332379",
-"original_title": "The School of Rock",
-"overview": "Han får sparken fra bandet, og i desperate jakt på ny jobb utgir han seg for å være lærervikar – en som forvandler en 5. klasses snille skolelys til viltre rockere.",
-"poster": "https://image.tmdb.org/t/p/w342/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
-"runtime": 110,
-"title": "The School of Rock",
-"tmdb_id": 1584,
-"year": 2003
 },
 "15844": {
 "backdrop": "https://image.tmdb.org/t/p/w780/15k3Y7Ad8CgoDBCKJ1cWWuQpRmC.jpg",
@@ -37524,6 +39041,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 163041,
 "year": 1957
 },
+"1630746": {
+"backdrop": "https://image.tmdb.org/t/p/w780/fHFNEOnI5JhyfFmE457VGgJ7so2.jpg",
+"cast": [
+"Madelaine Petsch",
+"Froy Gutierrez",
+"Gabriel Basso",
+"Ema Horvath",
+"Ella Bruccoleri",
+"Richard Brake"
+],
+"countries": [
+"US",
+"GB",
+"CA"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": null,
+"original_title": "The Strangers",
+"overview": "Maya drives cross-country with her longtime boyfriend to begin a new life in the Pacific Northwest. When their car breaks down in Venus, Oregon, they’re forced to spend the night in a secluded Airbnb, where they are terrorized from dusk till dawn by three masked strangers. Supercut of Renny Harlin's trilogy, combining all three films with additional footage as they were originally conceived.",
+"poster": "https://image.tmdb.org/t/p/w342/pstkq6Pb5u1VEV0n2RzhPebjefT.jpg",
+"runtime": 270,
+"title": "The Strangers",
+"tmdb_id": 1630746,
+"year": 2026
+},
 "163107": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5D3yr3MESW2BH3RJqghsMlnowws.jpg",
 "cast": [
@@ -37630,6 +39174,28 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Island",
 "tmdb_id": 1635,
 "year": 2005
+},
+"1635570": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zgcxi65JuYyLAa9odhNBsrfXUWu.jpg",
+"cast": [
+"Leo Magnus de la Nuez",
+"Kristi-Helene Giæver Engeberg",
+"Arnhild Litleré"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt31451181",
+"original_title": "Kjærast",
+"overview": "Asle og Gerd møtest i ein liten kystby lengst vest mot havet. Dei får ein son, og for ei tid er lykka fullkommen. Men Asle, sjømannen, er rastlaus og blir dregen mot havet, medan Gerd blir att i bygda, åleine med barnet. Avstanden mellom dei veks, og spørsmålet blir stilt: Kor mykje avstand toler kjærleiken?",
+"poster": "https://image.tmdb.org/t/p/w342/xNOfSQinxQ92zKWiYfVGQA722ZY.jpg",
+"runtime": 116,
+"title": "Beloved",
+"tmdb_id": 1635570,
+"year": 2026
 },
 "164183": {
 "backdrop": "https://image.tmdb.org/t/p/w780/AuhSed5QJMOLapKp9hFpaUkP5Ad.jpg",
@@ -37934,31 +39500,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 16563,
 "year": 1954
 },
-"1660": {
-"backdrop": "https://image.tmdb.org/t/p/w780/goBPr2y6uMU063J08bXuJjCAlil.jpg",
-"cast": [
-"Jean-François Stévenin",
-"Virginie Thévenet",
-"Chantal Mercier",
-"Tania Torrens",
-"Nicole Félix",
-"Philippe Goldman"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0074152",
-"original_title": "L'Argent de poche",
-"overview": "The lives of a motherless young man, who's just starting to find interest in women, and his physically abused, poverty stricken friend, are mixed with more or less innocent childhood experiences and challenges most their age experience.",
-"poster": "https://image.tmdb.org/t/p/w342/lBOkXZ2RsL2BO6NlrFgR9yT7J4I.jpg",
-"runtime": 104,
-"title": "Small Change",
-"tmdb_id": 1660,
-"year": 1976
-},
 "1660751": {
 "backdrop": null,
 "cast": [],
@@ -37977,6 +39518,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "When Sandy Dreams",
 "tmdb_id": 1660751,
 "year": 2017
+},
+"16617": {
+"backdrop": "https://image.tmdb.org/t/p/w780/m9lgsATmrHxCC4BPbi5fjLmKlXe.jpg",
+"cast": [
+"Kathryn Morris",
+"Jonny Lee Miller",
+"LL Cool J",
+"Christian Slater",
+"Patricia Velásquez",
+"Clifton Collins Jr."
+],
+"countries": [
+"FI",
+"NL",
+"GB",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0297284",
+"original_title": "Mindhunters",
+"overview": "En gruppe med FBI-praktikanter drar på treningsleir til en øde øy. En av oppgavene er å simulere at en seriemorder er løs. Leken blir til alvor da en i gruppen tar oppgaven litt for bokstavelig.",
+"poster": "https://image.tmdb.org/t/p/w342/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg",
+"runtime": 106,
+"title": "Mindhunters",
+"tmdb_id": 16617,
+"year": 2004
 },
 "1663353": {
 "backdrop": null,
@@ -38134,31 +39703,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "From the City of Lodz",
 "tmdb_id": 166669,
 "year": 1969
-},
-"166731": {
-"backdrop": null,
-"cast": [
-"Robert Stoltenberg",
-"Pernille Sørensen",
-"Gard B. Eidsvold",
-"Bjørn Sundquist",
-"Fredrik Steen",
-"Eldar Vågan"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt1600529",
-"original_title": "Pelle Politibil går i vannet",
-"overview": "Høststormen som raser over Bodø ødelegger strømkabelen som forsyner byen med elektrisitet. Pelle Politibil tar saken, og klarer å slepe en ny kabel over fjellet så byen kan få tilbake lys og varme. Når jobben er gjort rygger Pelle inn i den avrevne kabelen. Han får elektrosjokk, og ser ut til å dø. Men heldigvis våkner Pelle til liv igjen – nå som elbil!",
-"poster": "https://image.tmdb.org/t/p/w342/3k7dz2NvqbuZB6gSFOaZ8lnb4ZZ.jpg",
-"runtime": 75,
-"title": "Ploddy the Police Car Makes a Splash",
-"tmdb_id": 166731,
-"year": 2009
 },
 "166888": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ejxYcR34IMJWW0CBxOK0s8C71hO.jpg",
@@ -38356,6 +39900,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 169012,
 "year": 1997
 },
+"169219": {
+"backdrop": "https://image.tmdb.org/t/p/w780/j5iUZRZtaPJbYJxvB6ZtmbE5LsZ.jpg",
+"cast": [
+"Holly Goss",
+"Matt Stokoe",
+"Luke Albright",
+"Ryan Hawley",
+"Gemma Atkinson",
+"Nikolay Butenin"
+],
+"countries": [
+"GB",
+"US",
+"RU"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt1905040",
+"original_title": "The Dyatlov Pass Incident",
+"overview": "In February of 1959, nine Russian hikers ventured into a remote area of the Ural Mountains. Two weeks later, all of them were found dead. What happened is a mystery that has baffled investigators and researchers for decades. It has become known as the Dyatlov Pass Incident.  When five ambitious American college students are issued a grant to return to the site of the original events, they gear up with the belief that they can uncover and document the truth of what happened to the supposedly experienced hikers. But what they find is more shocking than anything they could have imagined. Retracing the steps of the Russians' ill-fated journey, the students are plagued by strange and increasingly terrifying phenomena that suggest that in spite of the desolate surroundings, they are not alone. The forces at work in the Dyatlov Pass Incident have been waiting for them.",
+"poster": "https://image.tmdb.org/t/p/w342/8hyvniwVeSvKbTNKrY44ndMsQht.jpg",
+"runtime": 100,
+"title": "The Dyatlov Pass Incident",
+"tmdb_id": 169219,
+"year": 2013
+},
 "169660": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4cSPGdgA88YKD7WbtLkntKpXBf2.jpg",
 "cast": [
@@ -38466,6 +40037,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 1709768,
 "year": 1939
 },
+"17134": {
+"backdrop": "https://image.tmdb.org/t/p/w780/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+"cast": [
+"John Cena",
+"Aidan Gillen",
+"Ashley Scott",
+"Steve Harris",
+"Brian J. White",
+"Gonzalo Menendez"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt1160368",
+"original_title": "12 Rounds",
+"overview": "When New Orleans Police Detective Danny Fisher stops a brilliant thief from getting away with a multimillion-dollar heist, the thief's girlfriend is accidentally killed. After escaping from prison, the criminal mastermind enacts his revenge, taunting Danny with 12 rounds of near-impossible puzzles and tasks that he must somehow complete to save the life of the woman he loves.",
+"poster": "https://image.tmdb.org/t/p/w342/7k7qhrO57sVoBLrNo5HYoTp24sT.jpg",
+"runtime": 108,
+"title": "12 Rounds",
+"tmdb_id": 17134,
+"year": 2009
+},
 "1714": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gyC9u8GOeNwyKzvXHAOhTsfps5u.jpg",
 "cast": [
@@ -38490,6 +40086,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fahrenheit 451",
 "tmdb_id": 1714,
 "year": 1966
+},
+"1714574": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": null,
+"original_title": "Drittunger",
+"overview": "Explores the raw and realistic universe with young people in Oslo's criminal environments, and works as a preliminary study for the feature film Schpaaa.",
+"poster": null,
+"runtime": null,
+"title": "Brats",
+"tmdb_id": 1714574,
+"year": 1997
 },
 "171536": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5fpxijSWOYHBej7zS9reUrdEdVH.jpg",
@@ -39884,30 +41498,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 180091,
 "year": 1935
 },
-"1801208": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xok1hSrE8HvT3uZrVhHmwHFP9ur.jpg",
-"cast": [
-"Rupert Friend",
-"Michael Cera",
-"Wes Anderson",
-"Waris Ahluwalia",
-"Esther McGregor"
-],
-"countries": [
-"DE"
-],
-"directors": [
-"Wes Anderson"
-],
-"imdb_id": "tt37373632",
-"original_title": "Montblanc: Let's Write",
-"overview": "A poetic and metaphorical journey back to the Montblanc Observatory High-Mountain Library, celebrating writing, creativity, and Montblanc's timeless spirit of storytelling.",
-"poster": "https://image.tmdb.org/t/p/w342/Arqq1hXYBZMTFUL6KSTTxjdXPwQ.jpg",
-"runtime": 4,
-"title": "Montblanc: Let's Write",
-"tmdb_id": 1801208,
-"year": 2025
-},
 "181886": {
 "backdrop": "https://image.tmdb.org/t/p/w780/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
 "cast": [
@@ -41074,6 +42664,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 188136,
 "year": 1960
 },
+"188207": {
+"backdrop": "https://image.tmdb.org/t/p/w780/1OlinE4r38dgYbGSvkTVgY6iNDk.jpg",
+"cast": [
+"Kellan Lutz",
+"Liam McIntyre",
+"Gaia Weiss",
+"Scott Adkins",
+"Roxanne McKee",
+"Liam Garrigan"
+],
+"countries": [
+"BG",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt1043726",
+"original_title": "The Legend of Hercules",
+"overview": "Hercules sloss for å vinne tilbake riket sitt fra den slemme stefaren etter at han har blitt sendt i eksil og gjort til slave. Hercules blir kjent som en gladiator og sverger å slippe sitt folk fri fra tyranni.",
+"poster": "https://image.tmdb.org/t/p/w342/aAnRHLq50AbGWEibXHjmLbp2Tze.jpg",
+"runtime": 99,
+"title": "The Legend of Hercules",
+"tmdb_id": 188207,
+"year": 2014
+},
 "188321": {
 "backdrop": null,
 "cast": [
@@ -41534,32 +43150,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Shadows and Fog",
 "tmdb_id": 19200,
 "year": 1991
-},
-"19236": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg",
-"cast": [
-"Axel Jodorowsky",
-"Blanca Guerra",
-"Guy Stockwell",
-"Thelma Tixou",
-"Sabrina Dennison",
-"Adan Jodorowsky"
-],
-"countries": [
-"IT",
-"MX"
-],
-"directors": [
-"Alejandro Jodorowsky"
-],
-"imdb_id": "tt0098253",
-"original_title": "Santa Sangre",
-"overview": "A former circus artist escapes from a mental hospital to rejoin his armless, cult leader mother, and is forced to enact brutal murders in her name.",
-"poster": "https://image.tmdb.org/t/p/w342/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
-"runtime": 122,
-"title": "Santa Sangre",
-"tmdb_id": 19236,
-"year": 1989
 },
 "19265": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gRifpXd3ailxdFPBZ8F1xiBQJUL.jpg",
@@ -42082,31 +43672,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 19740,
 "year": 1975
 },
-"19761": {
-"backdrop": "https://image.tmdb.org/t/p/w780/QJkAxxvQEgXs6K4H5nW8DkNfal.jpg",
-"cast": [
-"Farrah Fawcett",
-"Kirk Douglas",
-"Harvey Keitel",
-"Ed Bishop",
-"Roy Dotrice",
-"Stephanie English"
-],
-"countries": [
-"GB"
-],
-"directors": [
-"Stanley Donen"
-],
-"imdb_id": "tt0079285",
-"original_title": "Saturn 3",
-"overview": "In the future, Earth is overcrowded and the population relies on distant bases to be fed. In the Saturn 3 station, Major Adam and the scientist Alex, who is also his lover and has never been on Earth, have been researching hydroponics for three years in the base alone with their dog Sally.  Captain Benson arrives Saturn 3 with Hector, incapable to controlling his emotions he transfers his homicidal tendency and insanity to Hector.  Now Major Adam and Alex are trapped in the station with a dangerous psychopath robot.",
-"poster": "https://image.tmdb.org/t/p/w342/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
-"runtime": 87,
-"title": "Saturn 3",
-"tmdb_id": 19761,
-"year": 1980
-},
 "1978": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sUZfWQ8zlZx0OwOTmorDgttzIia.jpg",
 "cast": [
@@ -42283,31 +43848,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "My Blueberry Nights",
 "tmdb_id": 1989,
 "year": 2007
-},
-"2": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
-"cast": [
-"Turo Pajala",
-"Susanna Haavisto",
-"Matti Pellonpää",
-"Eetu Hilkamo",
-"Erkki Pajala",
-"Matti Jaaranen"
-],
-"countries": [
-"FI"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0094675",
-"original_title": "Ariel",
-"overview": "A Finnish man goes to the city to find a job after the mine where he worked is closed and his father commits suicide.",
-"poster": "https://image.tmdb.org/t/p/w342/ojDg0PGvs6R9xYFodRct2kdI6wC.jpg",
-"runtime": 73,
-"title": "Ariel",
-"tmdb_id": 2,
-"year": 1988
 },
 "200011": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
@@ -42732,56 +44272,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 204066,
 "year": 1981
 },
-"20531": {
-"backdrop": "https://image.tmdb.org/t/p/w780/l0WJpDWrRGqZabwVlNEl42VKMVz.jpg",
-"cast": [
-"Chikage Awashima",
-"Ryō Ikebe",
-"Keiko Kishi",
-"Teiji Takahashi",
-"Chishū Ryū",
-"So Yamamura"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Yasujirō Ozu"
-],
-"imdb_id": "tt0049784",
-"original_title": "早春",
-"overview": "A young salaryman and his wife struggle within the confines of their passionless relationship while he embarks on an extramarital affair.",
-"poster": "https://image.tmdb.org/t/p/w342/aEZuNAL70fVDiAoSG2sAEVHa3xO.jpg",
-"runtime": 145,
-"title": "Early Spring",
-"tmdb_id": 20531,
-"year": 1956
-},
-"20540": {
-"backdrop": "https://image.tmdb.org/t/p/w780/nr1ACkxYiZwssHUM8E5fz7AWSc9.jpg",
-"cast": [
-"Rod Steiger",
-"Geraldine Fitzgerald",
-"Brock Peters",
-"Jaime Sánchez",
-"Thelma Oliver",
-"Marketa Kimbrell"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Sidney Lumet"
-],
-"imdb_id": "tt0059575",
-"original_title": "The Pawnbroker",
-"overview": "A Jewish pawnbroker, a victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
-"poster": "https://image.tmdb.org/t/p/w342/6z9PSwCZEGyG9VpN733PLyZ34Gm.jpg",
-"runtime": 116,
-"title": "The Pawnbroker",
-"tmdb_id": 20540,
-"year": 1965
-},
 "20545": {
 "backdrop": "https://image.tmdb.org/t/p/w780/V3Aloyv0FcCjU19gEOSf44tluG.jpg",
 "cast": [
@@ -42953,31 +44443,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Prizzi's Honor",
 "tmdb_id": 2075,
 "year": 1985
-},
-"2077": {
-"backdrop": "https://image.tmdb.org/t/p/w780/5yhjnsIkiTrZGrlN2bXqMluprBP.jpg",
-"cast": [
-"Charlie Chaplin",
-"Edna Purviance",
-"James T. Kelley",
-"Eric Campbell",
-"Lloyd Bacon",
-"Albert Austin"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Charlie Chaplin"
-],
-"imdb_id": "tt0007264",
-"original_title": "The Rink",
-"overview": "After amusements working in a restaurant, a waiter uses his lunch break to go roller skating.",
-"poster": "https://image.tmdb.org/t/p/w342/oaKKcsUChu117urmWBz9Os23Ad9.jpg",
-"runtime": 30,
-"title": "The Rink",
-"tmdb_id": 2077,
-"year": 1916
 },
 "2078": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jLR6F5jxSe1QnCpkP0OuHXiTo8N.jpg",
@@ -43494,6 +44959,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 211451,
 "year": 1927
 },
+"212606": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r0eCvH4TVDlYwGBYaEdgZbvsgRB.jpg",
+"cast": [
+"Juliette Binoche",
+"Nikolaj Coster-Waldau",
+"Lauryn Canny",
+"Adrianna Cramer Curtis",
+"Maria Doyle Kennedy",
+"Larry Mullen Jr."
+],
+"countries": [
+"NO",
+"IE",
+"SE"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt2353767",
+"original_title": "Tusen ganger god natt",
+"overview": "Rebecca er en av verdens fremste krigsfotografer. Da hun følger en kvinnelig selvmordsbomber i Kabul, tar hun for store sjanser og blir alvorlig skadet. Hjemme igjen slippes en annen bombe. Hennes mann og døtre orker ikke lenger tanken på at hun lever i livsfare og de stiller henne et ultimatum: Jobben eller familien. Valget virker åpenbart.",
+"poster": "https://image.tmdb.org/t/p/w342/a6hchdUV8B13QyIv2Pb8ohQbyMJ.jpg",
+"runtime": 111,
+"title": "A Thousand Times Good Night",
+"tmdb_id": 212606,
+"year": 2013
+},
 "212961": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mXVH7zblI7zCK4aNVxiEnOBjaeB.jpg",
 "cast": [
@@ -43904,102 +45396,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 21967,
 "year": 1960
 },
-"220709": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hoaLD1f2yleIi4znLepuNTKhbw1.jpg",
-"cast": [
-"Bernardo Bertolucci",
-"Haile Gerima",
-"Jessica Alexander",
-"Lola Créton",
-"Shota Sometani",
-"Clemens Schick"
-],
-"countries": [
-"IT",
-"US"
-],
-"directors": [
-"Karim Aïnouz",
-"John Akomfrah",
-"Catherine Breillat",
-"Júlio Bressane",
-"Rama Burshtein",
-"Antonio Capuano",
-"Peter Chan",
-"Isabel Coixet",
-"Amiel Courtin-Wilson",
-"Jan Cvitkovič",
-"Claire Denis",
-"Lav Diaz",
-"Amit Dutta",
-"Atom Egoyan",
-"Hong Sang-soo",
-"James Franco",
-"Lluís Galter",
-"Amos Gitai",
-"Benoît Jacquot",
-"Jia Zhangke",
-"Semih Kaplanoğlu",
-"Shekhar Kapur",
-"Abbas Kiarostami",
-"Kim Ki-duk",
-"Yorgos Lanthimos",
-"Pablo Larraín",
-"Tobias Lindholm",
-"Guido Lombardi",
-"Pietro Marcello",
-"Celina Murga",
-"Brillante Ma Mendoza",
-"Amir Naderi",
-"Shirin Neshat",
-"Nicolás Pereda",
-"Franco Piavoli",
-"Giuseppe Piccioni",
-"Edgar Reitz",
-"João Pedro Rodrigues",
-"Walter Salles",
-"Paul Schrader",
-"Ulrich Seidl",
-"Luca Severi",
-"Sion Sono",
-"Jean-Marie Straub",
-"Tusi Tamasese",
-"Tariq Teguia",
-"Pablo Trapero",
-"Athina Rachel Tsangari",
-"Shinya Tsukamoto",
-"Teresa Villaverde",
-"Wang Bing",
-"Apichatpong Weerasethakul",
-"Yonfan",
-"Krzysztof Zanussi",
-"Bernardo Bertolucci",
-"Davide Ferrario",
-"Monte Hellman",
-"Marlen Khutsiyev",
-"Franco Maresco",
-"Salvatore Mereu",
-"Ermanno Olmi",
-"Michele Placido",
-"Todd Solondz",
-"Frédéric Fonteyne",
-"Jazmín López",
-"Aleksei German Jr.",
-"Haile Gerima",
-"Samuel Maoz",
-"Aleksey Fedorchenko",
-"Hala Alabdalla",
-"Milcho Manchevski"
-],
-"imdb_id": "tt3064438",
-"original_title": "Venezia 70: Future Reloaded",
-"overview": "Made for the Venice Film Festival's 70th anniversary, seventy filmmakers made a short film between 60 and 90 seconds long on their interpretation of the future of cinema.",
-"poster": "https://image.tmdb.org/t/p/w342/pHRlMgNdMUA5jJpEYqcYzR6WYZK.jpg",
-"runtime": 120,
-"title": "Venice 70: Future Reloaded",
-"tmdb_id": 220709,
-"year": 2013
-},
 "22092": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xXfcDRQeNPYzKudbk3EhxAuLMZ8.jpg",
 "cast": [
@@ -44025,63 +45421,25 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22092,
 "year": 1974
 },
-"22137": {
-"backdrop": "https://image.tmdb.org/t/p/w780/nQ1woqbLcKjkpfEbfAEoAey6W3n.jpg",
+"221861": {
+"backdrop": "https://image.tmdb.org/t/p/w780/d0pKVjpSkSCCLaH5FDFfeKh6kRd.jpg",
 "cast": [
-"Ernst-Hugo Järegård",
-"Kirsten Rolffes",
-"Holger Juul Hansen",
-"Søren Pilmark",
-"Ghita Nørby",
-"Jens Okking"
+"John Denver"
 ],
 "countries": [
-"DK",
-"SE"
+"US"
 ],
 "directors": [
-"Lars von Trier"
+"Frederick Wiseman"
 ],
-"imdb_id": null,
-"original_title": "Riget",
-"overview": "At The Kingdom, Denmark's most technologically advanced hospital, a number of strange and otherworldly events begin occurring, much to the dismay of its doctors and patients. A ghostly ambulance appears and disappears, the voice of a little girl calls to a patient in an elevator shaft, and a doctor's fetus begins growing at an alarming rate.",
-"poster": "https://image.tmdb.org/t/p/w342/zfXVe3dSvkR3YAp3g6E5q2R5swy.jpg",
-"runtime": 275,
-"title": "The Kingdom",
-"tmdb_id": 22137,
-"year": 1994
-},
-"22140": {
-"backdrop": "https://image.tmdb.org/t/p/w780/cVovUpU6O2HtKFfg60QUK0mFa7Z.jpg",
-"cast": [
-"Ernst-Hugo Järegård",
-"Kirsten Rolffes",
-"Holger Juul Hansen",
-"Søren Pilmark",
-"Ghita Nørby",
-"Jens Okking"
-],
-"countries": [
-"BE",
-"DK",
-"FR",
-"DE",
-"IT",
-"NL",
-"NO",
-"SE"
-],
-"directors": [
-"Lars von Trier"
-],
-"imdb_id": "tt0108906",
-"original_title": "Riget II",
-"overview": "The mutant fetus is born. Dr. Helmer comes under heavy scrutiny for a botched operation that left a patient braindead, and begins to dabble in the dark arts in order to ward off those seeking an end to his career. Hypochondriac Mrs. Drusse finally does have something bad happen to her medically when an ambulance hits her.",
-"poster": "https://image.tmdb.org/t/p/w342/giq4mcpAeBduy6cPE6V1tvS6SuT.jpg",
-"runtime": 280,
-"title": "The Kingdom II",
-"tmdb_id": 22140,
-"year": 1998
+"imdb_id": "tt0209919",
+"original_title": "Aspen",
+"overview": "Famous in the 19th-century for silver mining, Aspen is now better known for its scenic splendor, skiing, hiking, and fashion. One typical winter, the destination plays host to the daily activities of people who visit, live and work there.",
+"poster": "https://image.tmdb.org/t/p/w342/2I5FCuTDIOrCqpC2sF8pOKWZuBy.jpg",
+"runtime": 146,
+"title": "Aspen",
+"tmdb_id": 221861,
+"year": 1991
 },
 "22201": {
 "backdrop": "https://image.tmdb.org/t/p/w780/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
@@ -44437,31 +45795,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22599,
 "year": 2001
 },
-"227": {
-"backdrop": "https://image.tmdb.org/t/p/w780/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
-"cast": [
-"C. Thomas Howell",
-"Matt Dillon",
-"Ralph Macchio",
-"Patrick Swayze",
-"Rob Lowe",
-"Emilio Estevez"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Francis Ford Coppola"
-],
-"imdb_id": "tt0086066",
-"original_title": "The Outsiders",
-"overview": "I Tulsa på 1960-tallet skaper klasseskiller en voldelig rivalisering mellom arbeiderklassegjengen «Greasers» og de privilegerte «Socs». ​​Når et dødelig sammenstøt tvinger to av Greaserne – Ponyboy og Johnny – på flukt, avdekker kampen deres for overlevelse og oppreisning den skjøre uskylden og de sterke båndene som preger ungdomslivet på byens skyggeside.",
-"poster": "https://image.tmdb.org/t/p/w342/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg",
-"runtime": 91,
-"title": "The Outsiders",
-"tmdb_id": 227,
-"year": 1983
-},
 "22752": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i93j8LqXisSyY5NGdA8qAnz6vP9.jpg",
 "cast": [
@@ -44681,6 +46014,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 22910,
 "year": 1972
 },
+"229230": {
+"backdrop": null,
+"cast": [
+"Isis Krüger",
+"Thomas Stiller"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0283920",
+"original_title": "Because",
+"overview": "Tanja and Martin are a couple in their late twenties. They meet back at their apartment late one evening, in bed. Weren’t we supposed to meet up this evening? How come you got home so late? Where the hell were you? An argument ensues, an everyday fight between couples that unleashes an unimaginable destructive force. Three separate variations of the argument are played out. Each time the positions of culprit and victim, guilt and innocence, trust and despair are reversed.",
+"poster": "https://image.tmdb.org/t/p/w342/5ENXHhwn9t88waJKoD1ojHhNm7Q.jpg",
+"runtime": 34,
+"title": "Because",
+"tmdb_id": 229230,
+"year": 1990
+},
 "229297": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gdUqfMhx1pqOj4BoI3lYAl8zaln.jpg",
 "cast": [
@@ -44859,31 +46213,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Arabesque",
 "tmdb_id": 23030,
 "year": 1966
-},
-"230731": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vHFlqW7qdjVPSO9u0L8zt1I8wxs.jpg",
-"cast": [
-"Kari Ann Grønsund",
-"Trond Høvik",
-"Trond Brænne",
-"Kåre Conradi",
-"John Brungot",
-"Toralv Maurstad"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt2769896",
-"original_title": "Solan og Ludvig - Jul i Flåklypa",
-"overview": "Jula nærmer seg, og Flåklypa Tidene-redaktør Frimand Pløsen har lovet bygda snø. Ludvig ønsker seg det samme, og Reodor Felgen er ikke vanskelig å overtale til å bygge verdens kraftigste snømaskin.",
-"poster": "https://image.tmdb.org/t/p/w342/nbm4qwrIsCys0CpEJhNnHh5yIbI.jpg",
-"runtime": 76,
-"title": "Louis & Luca and the Snow Machine",
-"tmdb_id": 230731,
-"year": 2013
 },
 "230893": {
 "backdrop": null,
@@ -45530,32 +46859,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 24008,
 "year": 1952
 },
-"24016": {
-"backdrop": "https://image.tmdb.org/t/p/w780/27nvfP0Y7cBP2Bd7ewqv90HZltq.jpg",
-"cast": [
-"Debra Winger",
-"John Malkovich",
-"Campbell Scott",
-"Jill Bennett",
-"Timothy Spall",
-"Eric Vu-An"
-],
-"countries": [
-"IT",
-"GB"
-],
-"directors": [
-"Bernardo Bertolucci"
-],
-"imdb_id": "tt0100594",
-"original_title": "The Sheltering Sky",
-"overview": "An American couple drift toward emptiness in postwar North Africa.",
-"poster": "https://image.tmdb.org/t/p/w342/mcaypmWykltQMLjjSuD2vxylZHV.jpg",
-"runtime": 138,
-"title": "The Sheltering Sky",
-"tmdb_id": 24016,
-"year": 1990
-},
 "240832": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
 "cast": [
@@ -45958,31 +47261,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 24429,
 "year": 1978
 },
-"2455": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9W3ZsrUFSKLeDSqZ8mREg0NsMAV.jpg",
-"cast": [
-"Fanny Ardant",
-"Jean-Louis Trintignant",
-"Philippe Laudenbach",
-"Jean-Pierre Kalfon",
-"Philippe Morier-Genoud",
-"Caroline Silhol"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"François Truffaut"
-],
-"imdb_id": "tt0086551",
-"original_title": "Vivement dimanche !",
-"overview": "After he's implicated in several murders, a real estate agent goes on the lam while his intrepid secretary does some private investigating of her own to locate the killer.",
-"poster": "https://image.tmdb.org/t/p/w342/i3B2jDsdxzNpe5Y0gp86uHEVTzT.jpg",
-"runtime": 110,
-"title": "Confidentially Yours",
-"tmdb_id": 2455,
-"year": 1983
-},
 "24553": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3Gcv3tUO2pHaLH9wGrPJtzk9OlQ.jpg",
 "cast": [
@@ -46369,6 +47647,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 250734,
 "year": 2015
 },
+"250943": {
+"backdrop": null,
+"cast": [
+"Apollonia van Ravenstein"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0081484",
+"original_title": "Seraphita's Diary",
+"overview": "The story of a famous fashion model who, unable to cope with the fantasies and pressures her beauty induces in others, disappears. A profile of her emotional life contrasts the fantasies she creates in other people's minds with the strains of her real emotional life, as revealed in her diaries.",
+"poster": "https://image.tmdb.org/t/p/w342/qkON0dW8AUnGTx4Puh1LOzdrLb7.jpg",
+"runtime": 90,
+"title": "Seraphita's Diary",
+"tmdb_id": 250943,
+"year": 1982
+},
 "251004": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
 "cast": [
@@ -46479,6 +47777,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Bible: In the Beginning...",
 "tmdb_id": 2525,
 "year": 1966
+},
+"252822": {
+"backdrop": "https://image.tmdb.org/t/p/w780/exPxtvZYNxpt6xTCPYYkCVyquh5.jpg",
+"cast": [
+"Stellan Skarsgård",
+"Bruno Ganz",
+"Pål Sverre Hagen",
+"Jack Moland",
+"Stig Henrik Hoff",
+"Arthur Berning"
+],
+"countries": [
+"DK",
+"NO",
+"SE"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt2675914",
+"original_title": "Kraftidioten",
+"overview": "Nils brøyter en stripe sivilisasjon gjennom ødemarken - han er en stifinner som leter etter den samme stien hver gang. Svensk, men så norsk det går an å være. Uten å være norsk.  Samme kveld som Nils utnevnes til Årets Borger, blir sønnen tatt av dage. Myrdet for noe han ikke har gjort. Nils vil ha hevn. Og han vil ha rettferdighet. Han hevner. Men det er ikke nok. Han vil ha sønn for sønn. Det vil også veganergangsteren \"Greven\", som ikke kan forestille seg at det er andre enn Serbermafiaens \"Papa\" som står bak de voldelige nedbemanningene. Det er ikke bare enkelt å lykkes med blodhevn i Velferdsstaten, men Nils er heldigvis bevæpnet med både tunge maskiner og nybegynnerflaks",
+"poster": "https://image.tmdb.org/t/p/w342/ujlJLvzWRh2hR0UoHypv9QLZ2os.jpg",
+"runtime": 115,
+"title": "In Order of Disappearance",
+"tmdb_id": 252822,
+"year": 2014
 },
 "25314": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gvW5ekALVRuuRsgJIChFRRHbYwg.jpg",
@@ -47806,34 +49131,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 26525,
 "year": 1971
 },
-"265297": {
-"backdrop": "https://image.tmdb.org/t/p/w780/lqtzWKCpejXdKb22cav5bB6MqSR.jpg",
-"cast": [
-"Sebastião Salgado",
-"Wim Wenders",
-"Juliano Ribeiro Salgado",
-"Hugo Barbier",
-"Lélia Wanick Salgado",
-"Jacques Barthélémy"
-],
-"countries": [
-"IT",
-"FR",
-"BR"
-],
-"directors": [
-"Juliano Ribeiro Salgado",
-"Wim Wenders"
-],
-"imdb_id": "tt3674140",
-"original_title": "Le sel de la terre",
-"overview": "During the last forty years, the photographer Sebastião Salgado has been travelling through the continents, in the footsteps of an ever-changing humanity. He has witnessed the major events of our recent history: international conflicts, starvations and exodus… He is now embarking on the discovery of pristine territories, of the wild fauna and flora, of grandiose landscapes: a huge photographic project which is a tribute to the planet's beauty. Salgado's life and work are revealed to us by his son, Juliano, who went with him during his last journeys, and by Wim Wenders, a photographer himself.",
-"poster": "https://image.tmdb.org/t/p/w342/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg",
-"runtime": 110,
-"title": "The Salt of the Earth",
-"tmdb_id": 265297,
-"year": 2014
-},
 "2655": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dN0Y9PpPjW8pX4ZcdxarzswI2K6.jpg",
 "cast": [
@@ -48190,58 +49487,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 26766,
 "year": 2004
 },
-"267935": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg",
-"cast": [
-"Mark Rylance",
-"Ruby Barnhill",
-"Rebecca Hall",
-"Jemaine Clement",
-"Bill Hader",
-"Penelope Wilton"
-],
-"countries": [
-"IN",
-"GB",
-"US"
-],
-"directors": [
-"Steven Spielberg"
-],
-"imdb_id": "tt3691740",
-"original_title": "The BFG",
-"overview": "Sofie møter den Store Vennlige Kjempe, som til tross for hans litt skumle utseende, viser seg å være en godhjertet figur. Store Vennlige Kjempen er utstøtt av de andre kjempene fordi han i motsetning til dem, ikke liker å å spise små, søte barn.",
-"poster": "https://image.tmdb.org/t/p/w342/w17Mc2x2olB5CtewznUFxgpvne0.jpg",
-"runtime": 117,
-"title": "The BFG",
-"tmdb_id": 267935,
-"year": 2016
-},
-"268": {
-"backdrop": "https://image.tmdb.org/t/p/w780/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
-"cast": [
-"Michael Keaton",
-"Jack Nicholson",
-"Kim Basinger",
-"Robert Wuhl",
-"Pat Hingle",
-"Billy Dee Williams"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Tim Burton"
-],
-"imdb_id": "tt0096895",
-"original_title": "Batman",
-"overview": "Gotham City er et mørkt, uhyggelig tilfluktssted for kriminelle, styrt av den korrupte sjefen Carl Grissom, og terrorisert av en sadistisk vandal og morder kjent som The Joker. Men det tar ikke lang tid før en mørk, mystisk, kappekledt skikkelse, som kaller seg Batman, er etter dem og forpurrer deres skumle planer. Journalisten Vicki Vale er også etter dem - hun vil finne ut hvem Batman egentlig er.",
-"poster": "https://image.tmdb.org/t/p/w342/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
-"runtime": 126,
-"title": "Batman",
-"tmdb_id": 268,
-"year": 1989
-},
 "268239": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qwREre6XhNoON6SNOR8ZZfI2Og9.jpg",
 "cast": [
@@ -48510,6 +49755,35 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 269710,
 "year": 1926
 },
+"270010": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AbZZz3QwbCrF1hpJfvtl0uZBGGN.jpg",
+"cast": [
+"Tom Hanks",
+"Sarita Choudhury",
+"Sidse Babett Knudsen",
+"Ben Whishaw",
+"Tom Skerritt",
+"Tracey Fairaway"
+],
+"countries": [
+"DE",
+"US",
+"FR",
+"MX",
+"CH"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt2980210",
+"original_title": "A Hologram for the King",
+"overview": "A Hologram for the King er filmen om Alan Clay (Tom Hanks), en mislykket amerikansk forretningsmann, som reiser til Saudi Arabia for å selge inn en forretningsidé til landets konge i et siste forsøk på å redde karrieren. Under oppholdet skjer det noe uforutsett: et vennskap han sent vil glemme oppstår.",
+"poster": "https://image.tmdb.org/t/p/w342/wmjWGb2tqtOA4XPnK1tpIfzRtSQ.jpg",
+"runtime": 98,
+"title": "A Hologram for the King",
+"tmdb_id": 270010,
+"year": 2016
+},
 "270017": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lLmrxaA5pq6pWEpYx4LFbqVl1Wf.jpg",
 "cast": [],
@@ -48528,6 +49802,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bitter, Sweet, Seoul",
 "tmdb_id": 270017,
 "year": 2014
+},
+"270467": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7j378wMzcu4jdcBailczz9jtanj.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0315507",
+"original_title": "Domestic Violence 2",
+"overview": "Opening on an arrest in Hillsborough County, FL, a woman scratches her husband as he tries to restrain her from getting back in her car and leaving after an argument; officers explain that she has committed a battery and thereby earned herself an inescapable arrest and overnight stay in jail because by law, they have no discretion. This miscarriage of justice sets the stage for court proceedings before three different judges, each trying to apply the Florida domestic violence laws.",
+"poster": "https://image.tmdb.org/t/p/w342/7d1dKw0fIskXMgu29A75QGCJ7Re.jpg",
+"runtime": 160,
+"title": "Domestic Violence 2",
+"tmdb_id": 270467,
+"year": 2002
 },
 "270487": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zIUigIht3f9osNGyleF6B3jBbl7.jpg",
@@ -48556,30 +49848,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 270487,
 "year": 2016
 },
-"27061": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6tzyYR5a88KhHqebXKs0GRyXdwG.jpg",
+"270774": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tAl5nVeZe7Glx0LN93SxQDphl7Z.jpg",
 "cast": [
-"Jean-Pierre Melville",
-"Pierre Grasset",
-"Christiane Eudes",
-"Ginger Hall",
-"Jean Darcante",
-"Paula Dehelly"
+"Jackie Chan",
+"Johnny Knoxville",
+"Fan Bingbing",
+"Eric Tsang Chi-wai",
+"Eve Torres",
+"Winston Chao"
 ],
 "countries": [
-"FR"
+"CN",
+"HK",
+"US"
 ],
 "directors": [
-"Jean-Pierre Melville"
+"Renny Harlin"
 ],
-"imdb_id": "tt0052733",
-"original_title": "Deux hommes dans Manhattan",
-"overview": "Two French journalists become embroiled in a criminal plot in New York City involving a disappeared United Nations diplomat.",
-"poster": "https://image.tmdb.org/t/p/w342/oiLXcwYmKIMDBtDw3vNRK1LzDy6.jpg",
-"runtime": 84,
-"title": "Two Men in Manhattan",
-"tmdb_id": 27061,
-"year": 1959
+"imdb_id": "tt2238032",
+"original_title": "Skiptrace",
+"overview": "A detective from Hong Kong teams up with an American gambler to battle against a notorious Chinese criminal.",
+"poster": "https://image.tmdb.org/t/p/w342/jki396PIIGja0NoFjUq1AdBbMGc.jpg",
+"runtime": 107,
+"title": "Skiptrace",
+"tmdb_id": 270774,
+"year": 2016
 },
 "271253": {
 "backdrop": null,
@@ -49083,6 +50377,35 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 2756,
 "year": 1989
 },
+"275772": {
+"backdrop": null,
+"cast": [
+"Rosa von Praunheim",
+"Chris Kraus",
+"Axel Ranisch",
+"Robert Thalheim",
+"Tom Tykwer",
+"Julia von Heinz"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Chris Kraus",
+"Tom Tykwer",
+"Julia von Heinz",
+"Axel Ranisch",
+"Robert Thalheim"
+],
+"imdb_id": "tt2498710",
+"original_title": "Rosakinder",
+"overview": "Five German directors celebrate the influence that famed filmmaker Rosa von Praunheim has had on their careers in honor of his 70th birthday. After discussing Praunheim's inspiration, each protégé presents an original short drawn from the experience.",
+"poster": "https://image.tmdb.org/t/p/w342/qKELzHmrvd2u8cPo8QMAYTk7z3a.jpg",
+"runtime": 94,
+"title": "Rosakinder",
+"tmdb_id": 275772,
+"year": 2012
+},
 "275983": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dW2VmLuO50AlWGbRAnrMlE19IbC.jpg",
 "cast": [
@@ -49379,32 +50702,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 278995,
 "year": 2013
 },
-"27958": {
-"backdrop": "https://image.tmdb.org/t/p/w780/6Dm3hMRAFJqMS9wGkCY14XbZFrm.jpg",
-"cast": [
-"Al Pacino",
-"Paul Sorvino",
-"Karen Allen",
-"Richard Cox",
-"Don Scardino",
-"Joe Spinell"
-],
-"countries": [
-"US",
-"DE"
-],
-"directors": [
-"William Friedkin"
-],
-"imdb_id": "tt0080569",
-"original_title": "Cruising",
-"overview": "When New York is caught in the grip of a sadistic serial killer who preys on patrons of the city's underground bars, rookie cop Steve Burns infiltrates the gay S&M subculture to try and lure him out of the shadows.",
-"poster": "https://image.tmdb.org/t/p/w342/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
-"runtime": 102,
-"title": "Cruising",
-"tmdb_id": 27958,
-"year": 1980
-},
 "279647": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5INgyYNQUB0XehvkD7JFCJ9UFA0.jpg",
 "cast": [],
@@ -49503,31 +50800,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "SubUrbia",
 "tmdb_id": 28059,
 "year": 1997
-},
-"281": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
-"cast": [
-"Ralph Fiennes",
-"Angela Bassett",
-"Juliette Lewis",
-"Tom Sizemore",
-"Michael Wincott",
-"Vincent D'Onofrio"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Kathryn Bigelow"
-],
-"imdb_id": "tt0114558",
-"original_title": "Strange Days",
-"overview": "Rett før overgangen til det nye millenniet har menneskets kontinuerlige jakt på ultimate sanseopplevelser gitt næring til designerdop-industrien. Lenny Nero er en tidligere politimann som nå livnærer seg ved å selge digitaliserte versjoner av andre menneskers opplevelser. Men en dag viser en av dem et drap.",
-"poster": "https://image.tmdb.org/t/p/w342/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
-"runtime": 145,
-"title": "Strange Days",
-"tmdb_id": 281,
-"year": 1995
 },
 "281678": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3vkyjugih3krGkGxuWYBgYBaUnE.jpg",
@@ -50549,6 +51821,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 289924,
 "year": 1925
 },
+"290168": {
+"backdrop": "https://image.tmdb.org/t/p/w780/e7x00AN4XZkPp9fpHIFbJOdBsny.jpg",
+"cast": [
+"Julio Bocca",
+"Alessandra Ferri",
+"Susan Jaffe",
+"Amanda McKerrow",
+"Agnes de Mille"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0209928",
+"original_title": "Ballet",
+"overview": "An exploration of the inner workings of the New York City-based American Ballet Theatre, one of the most prestigious ballet schools in the world. All facets are explored, from dancers Julio Bocca, Alessandra Ferri and Susan Jaffe in their relentless rehearsals to the managers and businesspeople who keep it running. The dancers' lives outside are represented as well, as they balance the strict demands of professional ballet with their personal lives.",
+"poster": "https://image.tmdb.org/t/p/w342/mTLkDBm0auJMIxcTxgoe5EgLLeM.jpg",
+"runtime": 170,
+"title": "Ballet",
+"tmdb_id": 290168,
+"year": 1995
+},
 "29070": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zLdbdmBWCXkLPXozRPzmJOmpxco.jpg",
 "cast": [
@@ -50694,6 +51990,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The 4th Man",
 "tmdb_id": 29140,
 "year": 1983
+},
+"291837": {
+"backdrop": "https://image.tmdb.org/t/p/w780/psjFceg3HO6WVdgO55Qbo2ZTvzM.jpg",
+"cast": [
+"Jean-Pierre Miquel",
+"Claire Vernet",
+"Philippe Torreton",
+"Coraly Zahonero",
+"Michel Robin",
+"Roger Planchon"
+],
+"countries": [
+"FR",
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0115934",
+"original_title": "La Comédie-Française ou L'amour joué",
+"overview": "La Comédie-Française is the oldest continuous repertory company in the world, founded in late 17th-century Paris. This is the first time a documentary filmmaker has been allowed to examine all the aspects of this great theatrical company. Sequences include sections of plays, casting, set and costume design, administrative meetings and rehearsals and performances of four classic French plays, Don Juan by Molière, La Thebaide by Racine, La Double Inconstance by Marivaux, and Occupe-toi d'Amelie by Feydeau.",
+"poster": "https://image.tmdb.org/t/p/w342/3aRVPSqdDlMDBeXsQ3jzeTkVj71.jpg",
+"runtime": 223,
+"title": "La Comédie-Française ou L'amour joué",
+"tmdb_id": 291837,
+"year": 1996
 },
 "292187": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gM4qjIGmTfh7eooGfinKVPGX945.jpg",
@@ -52290,6 +53612,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 30982,
 "year": 1915
 },
+"31035": {
+"backdrop": "https://image.tmdb.org/t/p/w780/AeAWTsG5iPfbonBtdSfiJAnfq6z.jpg",
+"cast": [
+"Stellan Skarsgård",
+"Jorunn Kjellsby",
+"Bjørn Floberg",
+"Gard B. Eidsvold",
+"Jannike Kruse",
+"Bjørn Sundquist"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt1386683",
+"original_title": "En ganske snill mann",
+"overview": "Ulrik er en ganske snill mann. Han har drept noen mennesker, lemlestet litt. Når man jobber som kriminell er det en del av jobben - som å sitte i fengsel. Nå er Ulrik ute igjen. Motvillig. På utsiden venter Jensen, en kjeltring av den gamle skolen. Han tar vare på folka sine og er opptatt av orden i regnskapet. At Ulrik gjør opp sitt regnskap og dreper fyren som tysta på ham, er viktig for sjefen. Ulrik er en ganske snill mann. Han har ingen ønsker og stiller ingen krav. Ikke tenker han stort over hva han gjør heller. Han bare gjør det. Får han mat og en seng, gir han folk det de vil ha fra ham. Enten det er litt kjærlighet eller et drap. Så oppsøker han sønnen sin, som har blitt en voksen mann siden sist. En bra mann - med utdanning, samboer og framtid. Sønnen har en far som er morder. Det synes ikke samboeren noe om. Familien hennes driver ikke med sånt. De driver med planteskole, og så har de noen prinsipper.",
+"poster": "https://image.tmdb.org/t/p/w342/l3I58PdeJHTPTzLa1QWtKS97hyW.jpg",
+"runtime": 103,
+"title": "A Somewhat Gentle Man",
+"tmdb_id": 31035,
+"year": 2010
+},
 "310483": {
 "backdrop": null,
 "cast": [
@@ -52314,31 +53661,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "All the Way to Paris",
 "tmdb_id": 310483,
 "year": 1966
-},
-"31056": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
-"cast": [
-"Grażyna Szapołowska",
-"Olaf Lubaszenko",
-"Stefania Iwińska",
-"Piotr Machalica",
-"Artur Barciś",
-"Stanisław Gawlik"
-],
-"countries": [
-"PL"
-],
-"directors": [
-"Krzysztof Kieślowski"
-],
-"imdb_id": "tt0095467",
-"original_title": "Krótki film o miłości",
-"overview": "19-year-old Tomek whiles away his lonely life by spying on his opposite neighbour Magda through binoculars. She's an artist in her mid-thirties, and appears to have everything - not least a constant stream of men at her beck and call. But when the two finally meet, they discover that they have a lot more in common than appeared at first sight...",
-"poster": "https://image.tmdb.org/t/p/w342/kLAMz50Or2So1aEzHYv0R8iXo46.jpg",
-"runtime": 87,
-"title": "A Short Film About Love",
-"tmdb_id": 31056,
-"year": 1988
 },
 "31135": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xeu0iZX2IXfwdroxTQstXYM4H3w.jpg",
@@ -52510,32 +53832,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 314082,
 "year": 2000
 },
-"31516": {
-"backdrop": "https://image.tmdb.org/t/p/w780/otY1rdFZ9XNsacvZHis9EkaxdnJ.jpg",
-"cast": [
-"Gene Kelly",
-"Frank Sinatra",
-"Betty Garrett",
-"Ann Miller",
-"Jules Munshin",
-"Vera-Ellen"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Gene Kelly",
-"Stanley Donen"
-],
-"imdb_id": "tt0041716",
-"original_title": "On the Town",
-"overview": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
-"poster": "https://image.tmdb.org/t/p/w342/lEU8QQmIayAtPZrCDf2czQgTjQ1.jpg",
-"runtime": 98,
-"title": "On the Town",
-"tmdb_id": 31516,
-"year": 1949
-},
 "31518": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aybVgmultQYMKukekpSMbuRAHEi.jpg",
 "cast": [
@@ -52555,6 +53851,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Peter and the Wolf",
 "tmdb_id": 31518,
 "year": 1946
+},
+"315197": {
+"backdrop": "https://image.tmdb.org/t/p/w780/4KN4LrZDjOcPhca4nImz7udGy3P.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0078273",
+"original_title": "Sinai Field Mission",
+"overview": "A look at the routine activities of the diplomats and electronics technicians who operate the U.S. Sinai Field Mission, the early warning system established in 1976 to help facilitate the disengagement between Egypt and Israel following the 1973 war. The Mission's major purpose is to monitor the approaches to strategic passes and to verify the operations of the Egyptian and Israeli surveillance stations in the Sinai Buffer Zone.",
+"poster": "https://image.tmdb.org/t/p/w342/gWrJUaA502iIWaaoRwtVJpdKK6Y.jpg",
+"runtime": 127,
+"title": "Sinai Field Mission",
+"tmdb_id": 315197,
+"year": 1978
 },
 "315295": {
 "backdrop": "https://image.tmdb.org/t/p/w780/nXuXCfey3vtjBK6XrULUnOL2fX2.jpg",
@@ -52733,31 +54047,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 31656,
 "year": 1974
 },
-"31657": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qhv8bDsB2U1C6R4DAntuAfelOiE.jpg",
-"cast": [
-"Jane Fonda",
-"Jon Voight",
-"Bruce Dern",
-"Penelope Milford",
-"Robert Carradine",
-"Robert Ginty"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Hal Ashby"
-],
-"imdb_id": "tt0077362",
-"original_title": "Coming Home",
-"overview": "In 1968 California, a Marine officer's wife falls in love with a former high school classmate who suffered a paralyzing combat injury in the war.",
-"poster": "https://image.tmdb.org/t/p/w342/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
-"runtime": 127,
-"title": "Coming Home",
-"tmdb_id": 31657,
-"year": 1978
-},
 "31658": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fS8FSSdv0MIwhVi5Haw9qT3FkFI.jpg",
 "cast": [
@@ -52807,31 +54096,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Wise Guys",
 "tmdb_id": 31659,
 "year": 1986
-},
-"31667": {
-"backdrop": "https://image.tmdb.org/t/p/w780/dlzDLqSR9bZZrmmw8CyMuml4VV4.jpg",
-"cast": [
-"Gregory Peck",
-"Ann Todd",
-"Alida Valli",
-"Charles Laughton",
-"Charles Coburn",
-"Ethel Barrymore"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Alfred Hitchcock"
-],
-"imdb_id": "tt0039694",
-"original_title": "The Paradine Case",
-"overview": "In London, barrister Anthony Keane takes the case of Maddalena Paradine, a beautiful woman accused of poisoning her blind husband. Though happily married, Keane becomes infatuated with his enigmatic client and convinced of her innocence. His obsession clouds his judgment as he builds a defense implicating her servant, André Latour—an act that leads to devastating consequences both in court and at home.",
-"poster": "https://image.tmdb.org/t/p/w342/faUkygLOpVA8roEYNYyQTX3llnJ.jpg",
-"runtime": 114,
-"title": "The Paradine Case",
-"tmdb_id": 31667,
-"year": 1947
 },
 "31681": {
 "backdrop": "https://image.tmdb.org/t/p/w780/s5E7LhJeqIwQcpq2Rda5Yqv5LAM.jpg",
@@ -53039,6 +54303,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Twentieth Century",
 "tmdb_id": 31835,
 "year": 1934
+},
+"318561": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zv4wY1722b3lcJ8ITKiQn6lFJCv.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0468588",
+"original_title": "The Garden",
+"overview": "A documentary exploring the landscape of Madison Square Garden. Filmed in 1997 and prevented from public screening by the property's operators.",
+"poster": "https://image.tmdb.org/t/p/w342/airDUbFDemvBW0znPzJq9Cxf7X5.jpg",
+"runtime": 196,
+"title": "The Garden",
+"tmdb_id": 318561,
+"year": 2005
 },
 "31908": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wpcClVxsbVGTmCvDOU0tvuPTvOg.jpg",
@@ -53601,32 +54883,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 324088,
 "year": 2006
 },
-"32458": {
-"backdrop": "https://image.tmdb.org/t/p/w780/fJClZLeghpEyHXDAErBwNF2E1tN.jpg",
-"cast": [
-"Jeffrey Thomas",
-"Peter Jackson",
-"Costa Botes",
-"Beatrice Ashton",
-"Leonard Maltin",
-"Harvey Weinstein"
-],
-"countries": [
-"NZ"
-],
-"directors": [
-"Costa Botes",
-"Peter Jackson"
-],
-"imdb_id": "tt0116344",
-"original_title": "Forgotten Silver",
-"overview": "The life story of Colin McKenzie, a forgotten pioneer of international cinema who was born in rural New Zealand in 1888.",
-"poster": "https://image.tmdb.org/t/p/w342/gSLluaJR2fxmsGOtmfSKQJ9RCly.jpg",
-"runtime": 53,
-"title": "Forgotten Silver",
-"tmdb_id": 32458,
-"year": 1997
-},
 "32488": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1L6or9sR7oW4BkYx18NZOwapLkD.jpg",
 "cast": [
@@ -53779,32 +55035,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 32627,
 "year": 1973
 },
-"32628": {
-"backdrop": "https://image.tmdb.org/t/p/w780/3bS2SefEeu43bhbQ24EDiMBNtZs.jpg",
-"cast": [
-"Buster Keaton",
-"Margaret Leahy",
-"Wallace Beery",
-"Joe Roberts",
-"Lillian Lawrence",
-"Kewpie Morgan"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Buster Keaton",
-"Edward F. Cline"
-],
-"imdb_id": "tt0014538",
-"original_title": "Three Ages",
-"overview": "The rituals of courtship, romantic rivalry, and love play out three times as a man vies with a villain for the girl. In the Stone Age, the rivalry is set off by dinosaurs, a turtle used as a ouija board, and a round of golf with stones. In ancient Rome, the men display their brawn through a chariot race, using dogs instead of horses. In contemporary times, the man finds himself overcome by modernity, including a very fragile car.",
-"poster": "https://image.tmdb.org/t/p/w342/khadgoKp9eLBY4t0KcST5gzddk3.jpg",
-"runtime": 64,
-"title": "Three Ages",
-"tmdb_id": 32628,
-"year": 1923
-},
 "326861": {
 "backdrop": null,
 "cast": [
@@ -53906,31 +55136,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Severed Heads",
 "tmdb_id": 32891,
 "year": 1957
-},
-"329865": {
-"backdrop": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
-"cast": [
-"Amy Adams",
-"Jeremy Renner",
-"Forest Whitaker",
-"Michael Stuhlbarg",
-"Mark O'Brien",
-"Tzi Ma"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Denis Villeneuve"
-],
-"imdb_id": "tt2543164",
-"original_title": "Arrival",
-"overview": "Etter fremmede romvesner lander rundt om i verden, rekrutteres en sakkyndig språkforsker av militæret for å avgjøre om de kommer i fred eller er en trussel.",
-"poster": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
-"runtime": 116,
-"title": "Arrival",
-"tmdb_id": 329865,
-"year": 2016
 },
 "329996": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg",
@@ -54146,31 +55351,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Deadly Friend",
 "tmdb_id": 33278,
 "year": 1986
-},
-"333339": {
-"backdrop": "https://image.tmdb.org/t/p/w780/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
-"cast": [
-"Tye Sheridan",
-"Olivia Cooke",
-"Ben Mendelsohn",
-"Lena Waithe",
-"T.J. Miller",
-"Simon Pegg"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Steven Spielberg"
-],
-"imdb_id": "tt1677720",
-"original_title": "Ready Player One",
-"overview": "Når skaperen av et videospill som kalles Oasis dør, legger han igjen en video som utfordrer alle Oasis spillere til å finne et \"påske egg\", som vil gi finneren hele hans formue. Wade Watts finner den første ledetråden og så starter racet....",
-"poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-"runtime": 140,
-"title": "Ready Player One",
-"tmdb_id": 333339,
-"year": 2018
 },
 "333637": {
 "backdrop": null,
@@ -54694,31 +55874,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 343391,
 "year": 1948
 },
-"34377": {
-"backdrop": "https://image.tmdb.org/t/p/w780/lpVmsGEWVAvQdzZObTxdidMX8le.jpg",
-"cast": [
-"Kenneth Nelson",
-"Leonard Frey",
-"Peter White",
-"Cliff Gorman",
-"Frederick Combs",
-"Reuben Greene"
-],
-"countries": [
-"US"
-],
-"directors": [
-"William Friedkin"
-],
-"imdb_id": "tt0065488",
-"original_title": "The Boys in the Band",
-"overview": "Harold is celebrating a birthday, and his friend Michael has drafted some other friends to help commemorate the event. As the evening progresses, an unexpected guest shows up, the alcohol flows, the knives come out, and dormant and unspoken emotions are unleashed.",
-"poster": "https://image.tmdb.org/t/p/w342/zgPdZZkM2EVOFlw3e7qEmZv6Po8.jpg",
-"runtime": 120,
-"title": "The Boys in the Band",
-"tmdb_id": 34377,
-"year": 1970
-},
 "34444": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bR54Rc8r3voUdxX5RkzBOpQGtFc.jpg",
 "cast": [
@@ -54990,6 +56145,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 34847,
 "year": 1927
 },
+"348668": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
+"cast": [
+"Nikolaj Lie Kaas",
+"Fares Fares",
+"Pål Sverre Hagen",
+"Jacob Lohmann",
+"Amanda Collin",
+"Johanne Louise Schmidt"
+],
+"countries": [
+"DK",
+"DE",
+"NO",
+"SE"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt4088268",
+"original_title": "Flaskepost fra P",
+"overview": "Danmark, 2016. En uklar lapp er funnet i en flaske som har reist over havet i lang tid. Etter dekryptering av den kryptiske lappen følger medlemmer av avdeling Q en uhyggelig sti som fører dem til å undersøke en sak som skjedde i 2008. Samtidig finner nye tragiske hendelser sted som tester deres tro og dypeste tro.",
+"poster": "https://image.tmdb.org/t/p/w342/72T8HXXAHEkhM46t63PAtDUndof.jpg",
+"runtime": 108,
+"title": "A Conspiracy of Faith",
+"tmdb_id": 348668,
+"year": 2016
+},
 "348672": {
 "backdrop": "https://image.tmdb.org/t/p/w780/sP3TdFwhwLbodffXDfZvybyUdCc.jpg",
 "cast": [
@@ -55121,6 +56304,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Sanshiro Sugata",
 "tmdb_id": 35022,
 "year": 1943
+},
+"35030": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+"cast": [
+"Zachary Scott",
+"Bernie Hamilton",
+"Key Meersman",
+"Crahan Denton",
+"Claudio Brook"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0053967",
+"original_title": "La joven",
+"overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+"poster": "https://image.tmdb.org/t/p/w342/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+"runtime": 95,
+"title": "The Young One",
+"tmdb_id": 35030,
+"year": 1960
 },
 "35075": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tKAufilplhEQC0Ixr8wXoiCZl5t.jpg",
@@ -55330,6 +56537,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 35165,
 "year": 1994
 },
+"35206": {
+"backdrop": "https://image.tmdb.org/t/p/w780/26YhgzoUHKGPyuCDa7rKneDhxNp.jpg",
+"cast": [
+"Simone Signoret",
+"Charles Vanel",
+"Georges Marchal",
+"Michel Piccoli",
+"Tito Junco",
+"Michèle Girardon"
+],
+"countries": [
+"MX",
+"FR"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0049521",
+"original_title": "La Mort en ce jardin",
+"overview": "In a remote Amazon jungle village, a group of angry diamond prospectors revolt when the local government undertakes a violent crackdown.",
+"poster": "https://image.tmdb.org/t/p/w342/3HSPxDE0rvvvklNxYqba8glk3S5.jpg",
+"runtime": 105,
+"title": "Death in the Garden",
+"tmdb_id": 35206,
+"year": 1956
+},
 "352114": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ArBSyfVp4oEaDPJjkDPebEZu0KD.jpg",
 "cast": [
@@ -55532,6 +56765,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Polizeifilm",
 "tmdb_id": 354806,
 "year": 1969
+},
+"355230": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hLwSOlaf4tZRDgx8Rvp4qyVnYx6.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt4936064",
+"original_title": "In Jackson Heights",
+"overview": "Legendary documentary filmmaker Frederick Wiseman explores the culture, politics and daily life of the Queens, NYC district of Jackson Heights, which lays claim to being the most diverse neighborhood in the world.",
+"poster": "https://image.tmdb.org/t/p/w342/3nLClMlhH75lU9Ey3k18H0suNFr.jpg",
+"runtime": 190,
+"title": "In Jackson Heights",
+"tmdb_id": 355230,
+"year": 2015
 },
 "35552": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oktRqHfL2ORYAwpIZh7ZfXw72TE.jpg",
@@ -56110,32 +57361,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 36108,
 "year": 2007
 },
-"361128": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4DoJqnDppStyhZLYlM7wPsfkNrX.jpg",
-"cast": [
-"John Brungot",
-"Hermann Sabado",
-"Siri Nilsen",
-"Frank Kjosås",
-"Finn Schau",
-"Bjarte Hjelmeland"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen",
-"Rune Spaans"
-],
-"imdb_id": "tt3431188",
-"original_title": "Knutsen & Ludvigsen og den fæle Rasputin",
-"overview": "Knutsen og Ludvigsen bor i «tunnelen» utenfor en by. Alt er som det pleier for de bekymringsløse trubadurene, inntil en ung dame plutselig faller av toget - inne i tunnelen de bor i! Da starter eventyret.",
-"poster": "https://image.tmdb.org/t/p/w342/7Oj6gQZS04lpSfpcQLBEp8qi8u8.jpg",
-"runtime": 75,
-"title": "Two Buddies and a Badger",
-"tmdb_id": 361128,
-"year": 2015
-},
 "361189": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jWjJz8T8ZsiRpSMlNdSRVWZ8KOh.jpg",
 "cast": [
@@ -56554,30 +57779,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 363563,
 "year": 1972
 },
-"364": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+"364067": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sW5mPgwYEpzauk0QOBWxRUhs2t9.jpg",
 "cast": [
-"Michael Keaton",
-"Danny DeVito",
-"Michelle Pfeiffer",
-"Christopher Walken",
-"Michael Gough",
-"Pat Hingle"
+"Bill Murray",
+"Paul Shaffer",
+"Michael Cera",
+"George Clooney",
+"Miley Cyrus",
+"Dimitri Dimitrov"
 ],
 "countries": [
 "US"
 ],
 "directors": [
-"Tim Burton"
+"Sofia Coppola"
 ],
-"imdb_id": "tt0103776",
-"original_title": "Batman Returns",
-"overview": "Batman er tilbake i et nytt utrolig eventyr hvor han må kjempe mot to bisarre kjeltringer. Like hensynsløst som en katt fanger en rotte jakter Kattekvinnen – men hennes bytte er mennesker. Opp av kloakken kommer den ondskapsfulle Pingvinen, fast bestemt på å knuse alt han hater ved hjelp av sin armé av morderiske pingviner. Men han har ikke regnet med Batman, som ikke vil gi seg før rettferdigheten nok en gang har seiret.",
-"poster": "https://image.tmdb.org/t/p/w342/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
-"runtime": 126,
-"title": "Batman Returns",
-"tmdb_id": 364,
-"year": 1992
+"imdb_id": "tt4537842",
+"original_title": "A Very Murray Christmas",
+"overview": "Bill Murray worries no one will show up to his TV show due to a massive snowstorm in New York City. Through luck and perseverance, guests arrive at Gotham’s Carlyle Hotel to help him — dancing and singing in holiday spirit.",
+"poster": "https://image.tmdb.org/t/p/w342/2ir2DjNNXmMePsyc4inFa8oI23r.jpg",
+"runtime": 56,
+"title": "A Very Murray Christmas",
+"tmdb_id": 364067,
+"year": 2015
 },
 "364150": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tYjyk4Ij7CwVOn2ovcXdRYffR9k.jpg",
@@ -56911,32 +58136,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 367988,
 "year": 1983
 },
-"36826": {
-"backdrop": "https://image.tmdb.org/t/p/w780/dpfIsCtDkXw6zX5Dlf3En8Tygho.jpg",
-"cast": [
-"Willem Dafoe",
-"Robert Gordon",
-"Marin Kanter",
-"J. Don Ferguson",
-"Tina L'Hotsky",
-"Lawrence Matarese"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Kathryn Bigelow",
-"Monty Montgomery"
-],
-"imdb_id": "tt0085872",
-"original_title": "The Loveless",
-"overview": "Trouble ensues when a motorcycle gang stops in a small southern town while heading to the races at Daytona.",
-"poster": "https://image.tmdb.org/t/p/w342/3aZcW9NBsLX7ZldQkDtbKkHMfUq.jpg",
-"runtime": 83,
-"title": "The Loveless",
-"tmdb_id": 36826,
-"year": 1984
-},
 "368352": {
 "backdrop": null,
 "cast": [],
@@ -57250,31 +58449,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 37103,
 "year": 1957
 },
-"37165": {
-"backdrop": "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
-"cast": [
-"Jim Carrey",
-"Laura Linney",
-"Noah Emmerich",
-"Natascha McElhone",
-"Holland Taylor",
-"Ed Harris"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Peter Weir"
-],
-"imdb_id": "tt0120382",
-"original_title": "The Truman Show",
-"overview": "Han er stjernen i showet, men han er den eneste som ikke vet det. Jim Carrey har begeistret kritikere og publikum som den uvitende Truman Burbank i dette vidunderet av en film fra regissøren Peter Weir (Vitne til mord, Dagen er din) om en man hvis liv er et tv-show som går 24 timer i døgnet. Truman vet ikke at hjembyen hans er et gigantisk tv-studio under ledelse av en drømmende produsent/regissør/skaper (Ed Harris), at folkene som bor og jobber der er skuespillere fra Hollywood, og at til og med hans intense, sprudlende kone er en skuespiller på kontrakt. Etterhvert begynner Truman å forstå. Og det han er i ferd med å oppdage vil få deg til å le, gråte og juble som få filmer før har fått deg til å gjøre.",
-"poster": "https://image.tmdb.org/t/p/w342/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-"runtime": 103,
-"title": "The Truman Show",
-"tmdb_id": 37165,
-"year": 1998
-},
 "372343": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rfBUlspOpxPavxrhkhvzlBlwfD8.jpg",
 "cast": [
@@ -57301,31 +58475,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Snowman",
 "tmdb_id": 372343,
 "year": 2017
-},
-"37257": {
-"backdrop": "https://image.tmdb.org/t/p/w780/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
-"cast": [
-"Tyrone Power",
-"Marlene Dietrich",
-"Charles Laughton",
-"Elsa Lanchester",
-"John Williams",
-"Henry Daniell"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Billy Wilder"
-],
-"imdb_id": "tt0051201",
-"original_title": "Witness for the Prosecution",
-"overview": "An ailing barrister is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending a man being tried for the murder of a socialite.",
-"poster": "https://image.tmdb.org/t/p/w342/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
-"runtime": 116,
-"title": "Witness for the Prosecution",
-"tmdb_id": 37257,
-"year": 1957
 },
 "37258": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2Oyu9SU0V4qBxHAlzKjFqjt9OxV.jpg",
@@ -57453,31 +58602,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Fugitive",
 "tmdb_id": 37368,
 "year": 1947
-},
-"374331": {
-"backdrop": "https://image.tmdb.org/t/p/w780/1Ks0Nq8d9XYsNVgZFSpDs3ap1vQ.jpg",
-"cast": [
-"Kari Ann Grønsund",
-"Trond Høvik",
-"Per Skjølsvik",
-"Kåre Conradi",
-"Fridtjov Såheim",
-"Bjarte Hjelmeland"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt4970552",
-"original_title": "Solan og Ludvig: Herfra til Flåklypa",
-"overview": "Endelig skal det avgjøres hvilken bygd som er best, Flåklypa eller Slidre. Øvelsen er det tradisjonsrike Osteløpet, og optimisten Solan er Flåklypas representant.",
-"poster": "https://image.tmdb.org/t/p/w342/nKlLEfbFcEu2bMbGpb3XlgW5vgn.jpg",
-"runtime": 78,
-"title": "Louis & Luca: The Big Cheese Race",
-"tmdb_id": 374331,
-"year": 2015
 },
 "374447": {
 "backdrop": "https://image.tmdb.org/t/p/w780/kNLtDKRolHirbqaQqQUBKwFm4G2.jpg",
@@ -57616,31 +58740,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Submergence",
 "tmdb_id": 375327,
 "year": 2018
-},
-"37563": {
-"backdrop": "https://image.tmdb.org/t/p/w780/db6A9w2yth0TunDvz5jgOrGPVw4.jpg",
-"cast": [
-"Melvil Poupaud",
-"Amanda Langlet",
-"Gwenaëlle Simon",
-"Aurelia Nolin",
-"Aimé Lefèvre",
-"Alain Guellaff"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Éric Rohmer"
-],
-"imdb_id": "tt0115940",
-"original_title": "Conte d'été",
-"overview": "Awaiting his girlfriend Léna’s arrival at the Breton seaside resort of Dinard, Gaspard befriends — and flirts heavily with — two other women, the companionable ethnology student Margot and the sensual townie Solène, making for a rather complicated situation when Léna finally arrives.",
-"poster": "https://image.tmdb.org/t/p/w342/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
-"runtime": 114,
-"title": "A Summer's Tale",
-"tmdb_id": 37563,
-"year": 1996
 },
 "37606": {
 "backdrop": "https://image.tmdb.org/t/p/w780/upZUY8Tj9RHHLKPpGKU40qQ0Y1R.jpg",
@@ -58280,6 +59379,28 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 38189,
 "year": 2001
 },
+"382697": {
+"backdrop": null,
+"cast": [
+"Ole-Jørgen Nilsen",
+"Trond Høvik",
+"Elin Sogn"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt0377494",
+"original_title": "De beste går først",
+"overview": "Nine oldtimers come upon a young woman stuck in a swamp.",
+"poster": null,
+"runtime": 9,
+"title": "United We Stand",
+"tmdb_id": 382697,
+"year": 2003
+},
 "382921": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1J60IMS3zAzxJtlhpiN1EgnNb8k.jpg",
 "cast": [
@@ -58468,6 +59589,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Fast Company",
 "tmdb_id": 38493,
 "year": 1979
+},
+"384947": {
+"backdrop": "https://image.tmdb.org/t/p/w780/9KC9xXKkxIVgiNJbLmCO4jfXQ1N.jpg",
+"cast": [
+"María Luisa Mosquera",
+"Roman Coppola",
+"Amanda de Cadenet",
+"Jaqueline De La Fontaine",
+"Caitlin Keats",
+"Donovan Leitch"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sofia Coppola",
+"Andrew Durham",
+"Ione Skye"
+],
+"imdb_id": "tt0816430",
+"original_title": "Bed, Bath and Beyond",
+"overview": "Dominique is desperate to to play the title role in her husband Jean Claude's bio-pic \"No Sunrise for Selena,\" but why won't Jean Claude cast his voluptuous British bombshell wife as the beloved Tejano pop star? Could it be the influence of his Latina temptress of a maid, Isobelle? Somewhere among big houses and bad shoes, bulimic husbands and waxers with whips is... Bed Bath and Beyond.",
+"poster": null,
+"runtime": 28,
+"title": "Bed, Bath and Beyond",
+"tmdb_id": 384947,
+"year": 1996
 },
 "384953": {
 "backdrop": "https://image.tmdb.org/t/p/w780/v010sdxKL2RzVjjOOCWbIFErb8V.jpg",
@@ -58929,6 +60077,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 38804,
 "year": 1948
 },
+"38811": {
+"backdrop": "https://image.tmdb.org/t/p/w780/tMOrUZqDE1kkt5gY1x1lu85a8Bg.jpg",
+"cast": [
+"Fernando Soler",
+"Rosario Granados",
+"Andrés Soler",
+"Rubén Rojo",
+"Gustavo Rojo",
+"Maruja Grifell"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0041423",
+"original_title": "El gran calavera",
+"overview": "Portrayal of a family’s attempt to change the spending habit of the indulgent and hedonistic patriarch, Alfredo. The family decides to try to fool him into spending less by telling him that his large fortune is gone.",
+"poster": "https://image.tmdb.org/t/p/w342/fBXUXJFzrXx2ggbMQGtjLUZNPCE.jpg",
+"runtime": 92,
+"title": "The Great Madcap",
+"tmdb_id": 38811,
+"year": 1949
+},
 "38812": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vPKyg8gadgpQu2ZKydzhQCYjQFn.jpg",
 "cast": [
@@ -59017,31 +60190,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Storytime",
 "tmdb_id": 38845,
 "year": 1979
-},
-"38879": {
-"backdrop": "https://image.tmdb.org/t/p/w780/z9S7Z0NDbXcqhDCoPMv6ixeXZ6V.jpg",
-"cast": [
-"Agnès Varda",
-"André Lubrano",
-"Blaise Fournier",
-"Vincent Fournier",
-"Andrée Vilar",
-"Stéphane Vilar"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Agnès Varda"
-],
-"imdb_id": "tt1129435",
-"original_title": "Les Plages d'Agnès",
-"overview": "Filmmaking icon Agnès Varda, the award-winning director regarded by many as the grandmother of the French new wave, turns the camera on herself with this unique autobiographical documentary. Composed of film excerpts and elaborate dramatic re-creations, Varda's self-portrait recounts the highs and lows of her professional career, the many friendships that affected her life and her longtime marriage to cinematic giant Jacques Demy.",
-"poster": "https://image.tmdb.org/t/p/w342/mqTFhLpdyMNLBvmN5KFhCOFWWIp.jpg",
-"runtime": 110,
-"title": "The Beaches of Agnès",
-"tmdb_id": 38879,
-"year": 2008
 },
 "38953": {
 "backdrop": "https://image.tmdb.org/t/p/w780/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
@@ -59387,33 +60535,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 39284,
 "year": 1950
 },
-"3933": {
-"backdrop": "https://image.tmdb.org/t/p/w780/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
-"cast": [
-"Johnny Depp",
-"Helena Bonham Carter",
-"Emily Watson",
-"Tracey Ullman",
-"Paul Whitehouse",
-"Joanna Lumley"
-],
-"countries": [
-"GB",
-"US"
-],
-"directors": [
-"Mike Johnson",
-"Tim Burton"
-],
-"imdb_id": "tt0121164",
-"original_title": "Corpse Bride",
-"overview": "Handlingen foregår i en europeisk landsby på 1800-tallet og følger Victor, en ung mann som forsvinner ned i underverdenen og gifter seg med en mystisk dødsbrud, mens hans egentlige brud, Victoria venter forsmådd i de levendes verden. Selv om Dødens rike viser seg å være mer fargerikt enn hans egen, strenge oppdragelse, finner Victor ut at ingenting i denne verdenen – eller den neste – kan holde ham borte fra hans store kjærlighet.",
-"poster": "https://image.tmdb.org/t/p/w342/3RAoVTxUk1OzZClscAsynuu670p.jpg",
-"runtime": 77,
-"title": "Corpse Bride",
-"tmdb_id": 3933,
-"year": 2005
-},
 "3935": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2kF5LpkWFyrrNetRia4I6CBtI6E.jpg",
 "cast": [
@@ -59485,6 +60606,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Good Night, Dear",
 "tmdb_id": 395942,
 "year": 1968
+},
+"396616": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7X2OUTjCpoY3JYVnoZgLY7OzKn7.jpg",
+"cast": [
+"Jesper Christensen",
+"Anders Baasmo Christiansen",
+"Karl Markovics",
+"Tuva Novotny",
+"Arthur Hakalahti",
+"Svein Tindberg"
+],
+"countries": [
+"DK",
+"IE",
+"NO",
+"SE"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt4353996",
+"original_title": "Kongens nei",
+"overview": "Kongens Nei handler om de tre dramatiske døgnene i april 1940, hvor den norske kongen får et ufattelig ultimatum av den tyske krigsmakten: Overgivelse eller døden.\r Med tyske fly og soldater i hælene tvinges kongefamilien på flukt. De bestemmer seg for å skille lag uten å vite om de noensinne vil se hverandre igjen. Kronprinsesse Märtha reiser med barna til Sverige, mens kong Haakon og kronprins Olav blir igjen i Norge for å fortsette kampen.\r Etter tre døgns desperat flukt, fatter kong Haakon sin endelige beslutning. Han nekter å kapitulere selv om dette kan koste både ham selv, hans familie, og mange uskyldige nordmenn livet.",
+"poster": "https://image.tmdb.org/t/p/w342/qulAxlraNWYrvtq2lIi6AakbeUs.jpg",
+"runtime": 136,
+"title": "The King's Choice",
+"tmdb_id": 396616,
+"year": 2016
 },
 "396634": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qjTRLZbmzCqpMhNzBBN15SC6DbU.jpg",
@@ -59631,33 +60780,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Major and the Minor",
 "tmdb_id": 39871,
 "year": 1942
-},
-"399057": {
-"backdrop": "https://image.tmdb.org/t/p/w780/kJwQXgAk440l2vZOspUJee6inim.jpg",
-"cast": [
-"Colin Farrell",
-"Nicole Kidman",
-"Barry Keoghan",
-"Raffey Cassidy",
-"Sunny Suljic",
-"Bill Camp"
-],
-"countries": [
-"GB",
-"US",
-"IE"
-],
-"directors": [
-"Yorgos Lanthimos"
-],
-"imdb_id": "tt5715874",
-"original_title": "The Killing of a Sacred Deer",
-"overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
-"poster": "https://image.tmdb.org/t/p/w342/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
-"runtime": 121,
-"title": "The Killing of a Sacred Deer",
-"tmdb_id": 399057,
-"year": 2017
 },
 "399121": {
 "backdrop": "https://image.tmdb.org/t/p/w780/qyHc9Fxgt6Szby7fmItRd9fpM6V.jpg",
@@ -59840,31 +60962,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Spetters",
 "tmdb_id": 40072,
 "year": 1980
-},
-"4011": {
-"backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
-"cast": [
-"Alec Baldwin",
-"Geena Davis",
-"Winona Ryder",
-"Catherine O'Hara",
-"Jeffrey Jones",
-"Michael Keaton"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Tim Burton"
-],
-"imdb_id": "tt0094721",
-"original_title": "Beetlejuice",
-"overview": "Etter å ha omkommet i en bilulykke, eksisterer nå ekteparet Barbara og Adam Maitland som spøkelser. Tilværelsen er slett ikke så ille da de fremdeles kan bo i sitt vakre hus. Husfreden varer imidlertid ikke lenge. Til Adam og Barbaras store fortvilelse kjøper en snobbete familie huset deres. De forsøker å skremme dem bort etter alle kunstens regler, men de de klarer ikke å oppføre seg som slemme spøkelser. Det de trenger er eksperthjelp og henvender seg til et slemmere spøkelse som er ekspert på å skremme vannet av levende vesener.",
-"poster": "https://image.tmdb.org/t/p/w342/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
-"runtime": 92,
-"title": "Beetlejuice",
-"tmdb_id": 4011,
-"year": 1988
 },
 "401200": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
@@ -60557,6 +61654,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 41670,
 "year": 1992
 },
+"41714": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oaiwUCoLOboBr0qLsIX9VfeYUHl.jpg",
+"cast": [
+"Damien Nguyen",
+"Bai Ling",
+"Nick Nolte",
+"Tim Roth",
+"Temuera Morrison",
+"Thu An"
+],
+"countries": [
+"NO",
+"US"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt0273108",
+"original_title": "The Beautiful Country",
+"overview": "After reuniting with his mother in Ho Chi Minh City, a family tragedy causes Binh to flee from Viet Nam to America. Landing in New York, Binh begins a road trip to Texas, where his American father is said to live.",
+"poster": "https://image.tmdb.org/t/p/w342/cyPJuYz3c8kL7FcjfJDoB2o5yVt.jpg",
+"runtime": 137,
+"title": "The Beautiful Country",
+"tmdb_id": 41714,
+"year": 2004
+},
 "417198": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p04OwhvsoxgmdHQqflnDW8h3QBb.jpg",
 "cast": [
@@ -60754,31 +61877,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Trail of Hate",
 "tmdb_id": 419697,
 "year": 1917
-},
-"419709": {
-"backdrop": "https://image.tmdb.org/t/p/w780/brOj9ODIBPnhNnR8prIbBPy2j23.jpg",
-"cast": [
-"Steve Carell",
-"Bryan Cranston",
-"Laurence Fishburne",
-"Yul Vazquez",
-"J. Quinton Johnson",
-"Deanna Reed-Foster"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Richard Linklater"
-],
-"imdb_id": "tt6018306",
-"original_title": "Last Flag Flying",
-"overview": "Thirty years after serving together in the Vietnam War, Larry, Sal and Richard reunite for a different type of mission: to bury Doc's son, a young Marine killed in Iraq. Forgoing the burial, the trio take the casket on a bittersweet trip up the coast to New Hampshire – along the way reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.",
-"poster": "https://image.tmdb.org/t/p/w342/pizynKUzJ9YucGff1O1MYisY1WM.jpg",
-"runtime": 125,
-"title": "Last Flag Flying",
-"tmdb_id": 419709,
-"year": 2017
 },
 "419711": {
 "backdrop": null,
@@ -61029,33 +62127,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 420011,
 "year": 1926
 },
-"42021": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7YjjphrUKt9tdtVEcm5mJQZ4DYX.jpg",
-"cast": [
-"Giulietta Masina",
-"Marcello Mastroianni",
-"Franco Fabrizi",
-"Friedrich von Ledebur",
-"Augusto Poderosi",
-"Martin Maria Blau"
-],
-"countries": [
-"FR",
-"DE",
-"IT"
-],
-"directors": [
-"Federico Fellini"
-],
-"imdb_id": "tt0091113",
-"original_title": "Ginger e Fred",
-"overview": "Amelia and Pippo are reunited after several decades to perform their old music-hall act, imitating Fred Astaire and Ginger Rogers, on a TV variety show.",
-"poster": "https://image.tmdb.org/t/p/w342/nuhHvDVQLIDzpLpomBHilS1hliL.jpg",
-"runtime": 125,
-"title": "Ginger and Fred",
-"tmdb_id": 42021,
-"year": 1986
-},
 "420210": {
 "backdrop": null,
 "cast": [],
@@ -61227,32 +62298,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 421510,
 "year": 1970
 },
-"42152": {
-"backdrop": "https://image.tmdb.org/t/p/w780/t7xlCrZsXcPa9LWCgvProbR72qD.jpg",
-"cast": [
-"Robert Atzorn",
-"Christine Buchegger",
-"Martin Benrath",
-"Rita Russek",
-"Lola Müthel",
-"Walter Schmidinger"
-],
-"countries": [
-"DE",
-"AT"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0080397",
-"original_title": "Aus dem Leben der Marionetten",
-"overview": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
-"poster": "https://image.tmdb.org/t/p/w342/w4wPV7AqX3IebvW1cElyP098El2.jpg",
-"runtime": 104,
-"title": "From the Life of the Marionettes",
-"tmdb_id": 42152,
-"year": 1980
-},
 "42156": {
 "backdrop": "https://image.tmdb.org/t/p/w780/utB1Qx30hoJv2d5Bpuu6hDelldW.jpg",
 "cast": [
@@ -61278,31 +62323,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Lightning Over Water",
 "tmdb_id": 42156,
 "year": 1980
-},
-"42164": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zMzh7y3bcvFdHxPFedOOp8zFgOS.jpg",
-"cast": [
-"Jerzy Stuhr",
-"Małgorzata Ząbkowska",
-"Ewa Pokas",
-"Stefan Czyżewski",
-"Jerzy Nowak",
-"Tadeusz Bradecki"
-],
-"countries": [
-"PL"
-],
-"directors": [
-"Krzysztof Kieślowski"
-],
-"imdb_id": "tt0078763",
-"original_title": "Amator",
-"overview": "Filip buys an 8mm movie camera when his first child is born. Because it's the first camera in town, he's named official photographer by the local Party boss. His horizons widen when he is sent to regional film festivals with his first works but his focus on movie making also leads to domestic strife and philosophical dilemmas.",
-"poster": "https://image.tmdb.org/t/p/w342/q2GE3qqj5tecyJ31ifjUjPrrzo8.jpg",
-"runtime": 112,
-"title": "Camera Buff",
-"tmdb_id": 42164,
-"year": 1979
 },
 "42200": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iBsfqlbjxDkox9RUlnLZ1tA6Mx5.jpg",
@@ -61382,31 +62402,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Appointment with Death",
 "tmdb_id": 422298,
 "year": 1989
-},
-"42232": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
-"cast": [
-"David Carradine",
-"Ronny Cox",
-"Melinda Dillon",
-"Gail Strickland",
-"John Lehne",
-"Ji-Tu Cumbuka"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Hal Ashby"
-],
-"imdb_id": "tt0074235",
-"original_title": "Bound for Glory",
-"overview": "A biography of Woody Guthrie, one of America's greatest folk singers. He left his dust-devastated Texas home in the 1930s to find work, discovering the suffering and strength of America's working class.",
-"poster": "https://image.tmdb.org/t/p/w342/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
-"runtime": 148,
-"title": "Bound for Glory",
-"tmdb_id": 42232,
-"year": 1976
 },
 "42233": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2JbySwrCjjZUasCwIbh6uxUlF8R.jpg",
@@ -61624,6 +62619,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 42481,
 "year": 1975
 },
+"42502": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uTrf7aWMduVdjLsRDi5SUq5B1hA.jpg",
+"cast": [
+"Pedro Armendáriz",
+"Katy Jurado",
+"Rosita Arenas",
+"Andrés Soler",
+"Paco Martínez",
+"Gloria Mestre"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0044453",
+"original_title": "El bruto",
+"overview": "A tough young man, who helps to kick poor people out of their houses, falls in love with a girl. She lives with her father in the building about to be demolished.",
+"poster": "https://image.tmdb.org/t/p/w342/mLSssRzdL1Ww4mje7sBoirWJTv6.jpg",
+"runtime": 81,
+"title": "The Brute",
+"tmdb_id": 42502,
+"year": 1953
+},
 "42510": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7QTZO90t7opowFGvapaYnTUKtil.jpg",
 "cast": [
@@ -61753,6 +62773,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4256,
 "year": 2003
 },
+"425651": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zBjLkXUzxsBo3ChWByLlVqWXXyU.jpg",
+"cast": [
+"Francesca Dotto",
+"Antonio Poli",
+"Roberto Frontali",
+"Anna Malavasi",
+"Andrea Giovannini",
+"Roberto Accurso"
+],
+"countries": [
+"IT"
+],
+"directors": [
+"Francesca Nesler",
+"Sofia Coppola"
+],
+"imdb_id": "tt6954298",
+"original_title": "La Traviata",
+"overview": "A collaboration between award-winning American filmmaker Sofia Coppola and Italia haute couture king Valentino comes in the form of a revival of Giuseppe Verdi's classic opera, La Traviata. Captured live from the Teatro dell'Opera di Roma.",
+"poster": "https://image.tmdb.org/t/p/w342/kXK472FXPlOU7vjVL7rPg8Rj1mk.jpg",
+"runtime": 141,
+"title": "La Traviata",
+"tmdb_id": 425651,
+"year": 2016
+},
 "425656": {
 "backdrop": null,
 "cast": [],
@@ -61846,83 +62892,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Hi, Mom!",
 "tmdb_id": 42589,
 "year": 1970
-},
-"42590": {
-"backdrop": "https://image.tmdb.org/t/p/w780/lEvdinLO1qmc6dAHsRArExHtjYw.jpg",
-"cast": [
-"Riccardo Billi",
-"Gigi Reder",
-"Tino Scotti",
-"Valentini",
-"Fanfulla",
-"Merli"
-],
-"countries": [
-"IT",
-"FR",
-"DE"
-],
-"directors": [
-"Federico Fellini"
-],
-"imdb_id": "tt0066922",
-"original_title": "I Clowns",
-"overview": "Fellini exposes his great attraction for the clowns and the world of the circus first recalling a childhood experience when the circus arrives nearby his home. Then he joins his crew and travel from Italy to Paris chasing the last greatest European clowns still live in these countries. He also meets Anita Ekberg trying to buy a panther in a circus.",
-"poster": "https://image.tmdb.org/t/p/w342/uS7GdwTpn5c1bcRkjL5bbE4m8Fl.jpg",
-"runtime": 93,
-"title": "The Clowns",
-"tmdb_id": 42590,
-"year": 1970
-},
-"42595": {
-"backdrop": "https://image.tmdb.org/t/p/w780/teD2odnlfZUyAoSgxtzkZrR4UXG.jpg",
-"cast": [
-"Giulio Brogi",
-"Alida Valli",
-"Pippo Campanini",
-"Franco Giovanelli",
-"Tino Scotti",
-"Allen Midgette"
-],
-"countries": [
-"IT"
-],
-"directors": [
-"Bernardo Bertolucci"
-],
-"imdb_id": "tt0066413",
-"original_title": "Strategia del ragno",
-"overview": "A young man returns to his countryside hometown to investigate the unclear circumstances behind the death of his father, ostensibly killed by Fascists in 1936, before his birth. As he unravels a web of lies that seems to encompass the whole town, he finds himself entangled in the same web.",
-"poster": "https://image.tmdb.org/t/p/w342/z8IK3qwu3pscCFsIK6Wkbn4boq3.jpg",
-"runtime": 100,
-"title": "The Spider's Stratagem",
-"tmdb_id": 42595,
-"year": 1970
-},
-"42602": {
-"backdrop": "https://image.tmdb.org/t/p/w780/gmbk9C6ge97Wx48lLnGq6TciaJF.jpg",
-"cast": [
-"Max von Sydow",
-"Liv Ullmann",
-"Bibi Andersson",
-"Erland Josephson",
-"Erik Hell",
-"Sigge Fürst"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0064793",
-"original_title": "En passion",
-"overview": "A recently divorced man and an emotionally devastated widow begin a love affair.",
-"poster": "https://image.tmdb.org/t/p/w342/cr01316AyxUZyZrdLwzz3AXrgJc.jpg",
-"runtime": 101,
-"title": "The Passion of Anna",
-"tmdb_id": 42602,
-"year": 1969
 },
 "42622": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tRyPuhThCFVWaE4JkPOBdFl5a5s.jpg",
@@ -62073,32 +63042,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "You're a Big Boy Now",
 "tmdb_id": 42728,
 "year": 1966
-},
-"42741": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pVhFrfHcbQ7aUjdffRC9FPuF4S0.jpg",
-"cast": [
-"Alain Delon",
-"Richard Crenna",
-"Catherine Deneuve",
-"Riccardo Cucciolla",
-"Michael Conrad",
-"Paul Crauchet"
-],
-"countries": [
-"FR",
-"IT"
-],
-"directors": [
-"Jean-Pierre Melville"
-],
-"imdb_id": "tt0067900",
-"original_title": "Un flic",
-"overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
-"poster": "https://image.tmdb.org/t/p/w342/gICgcF0VuxW13XeHeeUEKlAkyOE.jpg",
-"runtime": 100,
-"title": "Un Flic",
-"tmdb_id": 42741,
-"year": 1972
 },
 "427768": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2HhhQcF32IaOQX4SIuqVmuts32R.jpg",
@@ -62580,6 +63523,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 432839,
 "year": 1952
 },
+"43328": {
+"backdrop": "https://image.tmdb.org/t/p/w780/r8ordppo5kDyw6kUjYyl40mTSA2.jpg",
+"cast": [
+"Irasema Dilián",
+"Jorge Mistral",
+"Lilia Prado",
+"Ernesto Alonso",
+"Francisco Reiguera",
+"Hortensia Santoveña"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0046675",
+"original_title": "Abismos de pasión",
+"overview": "In 19th-century Mexico, young orphan Alejandro is adopted by the wealthy, landowning Earnshaw family and moves into their estate, Wuthering Heights. Soon, the new resident falls for his compassionate foster sister, Catalina. The two share a remarkable bond that seems unbreakable until Catalina, feeling the pressure of social convention, suppresses her feelings and marries Eduardo, a man of means who befits her stature. Alejandro vows to win her back.",
+"poster": "https://image.tmdb.org/t/p/w342/u1u2bDkzfzRgbwdJ8njHXdCchC3.jpg",
+"runtime": 91,
+"title": "Wuthering Heights",
+"tmdb_id": 43328,
+"year": 1954
+},
 "43362": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6Bi7gmPzoMRgwtm2XxQhVho155g.jpg",
 "cast": [
@@ -62915,6 +63883,33 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Dune",
 "tmdb_id": 438631,
 "year": 2021
+},
+"438650": {
+"backdrop": "https://image.tmdb.org/t/p/w780/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+"cast": [
+"Liam Neeson",
+"Tom Bateman",
+"Tom Jackson",
+"Laura Dern",
+"Nicholas Holmes",
+"Emmy Rossum"
+],
+"countries": [
+"FR",
+"NO",
+"US"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt5719748",
+"original_title": "Cold Pursuit",
+"overview": "Nels Coxmans rolige tilværelse som snøplogsjåfør knuses da hans elskede sønn dør under mystiske omstendigheter. Hans søk etter sannheten leder han til en psykotisk narkotikabaron ved navn Viking, og hans sleipe håndlangere.",
+"poster": "https://image.tmdb.org/t/p/w342/5RILVnOchQyL1LbcVzmabipdJfc.jpg",
+"runtime": 119,
+"title": "Cold Pursuit",
+"tmdb_id": 438650,
+"year": 2019
 },
 "43869": {
 "backdrop": "https://image.tmdb.org/t/p/w780/AlF360ESV76PLZmBG3PrsTcQ8Tc.jpg",
@@ -63335,32 +64330,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 44297,
 "year": 1998
 },
-"443009": {
-"backdrop": "https://image.tmdb.org/t/p/w780/a1z2vx0ZnEKF2rmhqSNfjhbIeKK.jpg",
-"cast": [
-"Joaquin Phoenix",
-"Jonah Hill",
-"Rooney Mara",
-"Jack Black",
-"Tony Greenhand",
-"Beth Ditto"
-],
-"countries": [
-"FR",
-"US"
-],
-"directors": [
-"Gus Van Sant"
-],
-"imdb_id": "tt6288124",
-"original_title": "Don't Worry, He Won't Get Far on Foot",
-"overview": "On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life.",
-"poster": "https://image.tmdb.org/t/p/w342/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
-"runtime": 115,
-"title": "Don't Worry, He Won't Get Far on Foot",
-"tmdb_id": 443009,
-"year": 2018
-},
 "443129": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i3QOByxdUhY7vykKWUxIBKbF4OI.jpg",
 "cast": [
@@ -63382,31 +64351,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Reservoir Dogs",
 "tmdb_id": 443129,
 "year": 1991
-},
-"444101": {
-"backdrop": "https://image.tmdb.org/t/p/w780/x7rEqrms68D7uODbUb8BCeu5tVt.jpg",
-"cast": [
-"Kari Ann Grønsund",
-"Trond Høvik",
-"Per Skjølsvik",
-"Hege Schøyen",
-"Ingar Helge Gimle",
-"Kåre Conradi"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt7533756",
-"original_title": "Månelyst i Flåklypa",
-"overview": "I det internasjonale månekappløpet er det norske bidraget ledet an av den briljante oppfinneren Reodor fra den lille bygda Flåklypa. Med Solan og Ludvig som modige astronauter, er det naturlig å spørre seg hva som egentlig kan gå galt? Men det er ganske mye, faktisk – på det farlige oppdraget oppdages hemmelige passasjerer, skjulte agendaer, og ingenting virker som det går etter planen. Solan og hans venn Ludvig møter en del overraskelser på sin ferd til månen.  Dette er den tredje filmen i stop-motion-trilogien om de kjære karakterene fra Flåklypa-universet.",
-"poster": "https://image.tmdb.org/t/p/w342/h7zDejUy3FccGW6yXl1XGdqbGm7.jpg",
-"runtime": 80,
-"title": "Louis & Luca: Mission to the Moon",
-"tmdb_id": 444101,
-"year": 2018
 },
 "4442": {
 "backdrop": "https://image.tmdb.org/t/p/w780/aDfGKWdtNHzDmnHkdDyXz7zoDuy.jpg",
@@ -63545,6 +64489,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 446329,
 "year": 1989
 },
+"44655": {
+"backdrop": "https://image.tmdb.org/t/p/w780/atNiMTTg211WNG5Jv7S2Fs23j0h.jpg",
+"cast": [
+"Fernando Soler",
+"Rosita Quintana",
+"Víctor Manuel Mendoza",
+"Matilde Palou",
+"María Gentil Arcos",
+"Luis López Somoza"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0043018",
+"original_title": "Susana",
+"overview": "The story of a girl of questionable mental stability who escapes from incarceration and ends up at a plantation where she disrupts a working family's daily routines and chemistry.",
+"poster": "https://image.tmdb.org/t/p/w342/k5tA8DuisnLPpkDZYUFKecCjlHR.jpg",
+"runtime": 86,
+"title": "Susana",
+"tmdb_id": 44655,
+"year": 1951
+},
 "446791": {
 "backdrop": "https://image.tmdb.org/t/p/w780/wJLTRnFKAVDDD7ci2L1eVnNJ7aI.jpg",
 "cast": [
@@ -63647,30 +64616,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4477,
 "year": 1997
 },
-"44826": {
-"backdrop": "https://image.tmdb.org/t/p/w780/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
+"44804": {
+"backdrop": "https://image.tmdb.org/t/p/w780/wmKtjGWzgUWUlUgnJ4yfIdUQPjg.jpg",
 "cast": [
-"Asa Butterfield",
-"Ben Kingsley",
-"Chloë Grace Moretz",
-"Sacha Baron Cohen",
-"Ray Winstone",
-"Emily Mortimer"
+"Esteban Márquez",
+"Lilia Prado",
+"Luis Aceves Castañeda",
+"Manuel Dondé",
+"Roberto Cobo",
+"Beatriz Ramos"
 ],
 "countries": [
-"US"
+"MX"
 ],
 "directors": [
-"Martin Scorsese"
+"Luis Buñuel"
 ],
-"imdb_id": "tt0970179",
-"original_title": "Hugo",
-"overview": "En foreldreløs gutt som bor inne i veggene på en togstasjon i Paris på 1930-tallet trenger en spesiell nøkkel for å få maskinen faren etterlot til ham til å virke.",
-"poster": "https://image.tmdb.org/t/p/w342/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
-"runtime": 126,
-"title": "Hugo",
-"tmdb_id": 44826,
-"year": 2011
+"imdb_id": "tt0044084",
+"original_title": "Subida al cielo",
+"overview": "Newlywed Oliverio receives disturbing news that his mother is on her deathbed. He travels to a remote part of Mexico to fetch a lawyer who can sort out her will. Leaving his wife behind, he embarks on a bus ride that’s interrupted by an increasingly absurd series of episodes, including an impromptu birthday celebration; a one-legged man writhing in the mud; come-ons from an insatiable small-town belle, Raquel; and Oliverio’s frequent, Freudian nightmares.",
+"poster": "https://image.tmdb.org/t/p/w342/b8LLhwG4PqXFPHhGPOfp2qLXPMP.jpg",
+"runtime": 80,
+"title": "Mexican Bus Ride",
+"tmdb_id": 44804,
+"year": 1952
 },
 "44865": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hhT61DEebn8IicJbImFXw29GvRl.jpg",
@@ -64060,32 +65029,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 45169,
 "year": 1979
 },
-"451995": {
-"backdrop": "https://image.tmdb.org/t/p/w780/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
-"cast": [
-"Agnès Varda",
-"JR",
-"Patricia Mercier",
-"Amaury Bossy",
-"Claude Flaert",
-"Clemens Van Dungern"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Agnès Varda",
-"JR"
-],
-"imdb_id": "tt5598102",
-"original_title": "Visages Villages",
-"overview": "Director Agnès Varda and photographer/muralist JR journey through rural France and form an unlikely friendship.",
-"poster": "https://image.tmdb.org/t/p/w342/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg",
-"runtime": 94,
-"title": "Faces Places",
-"tmdb_id": 451995,
-"year": 2017
-},
 "45212": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uh2A3sW75P2fvXSVlIy2yP6tV5B.jpg",
 "cast": [
@@ -64234,31 +65177,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Seafarers",
 "tmdb_id": 45314,
 "year": 1953
-},
-"4543": {
-"backdrop": "https://image.tmdb.org/t/p/w780/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
-"cast": [
-"Terry Gilliam",
-"Graham Chapman",
-"John Cleese",
-"Eric Idle",
-"Terry Jones",
-"Michael Palin"
-],
-"countries": [
-"GB"
-],
-"directors": [
-"Terry Jones"
-],
-"imdb_id": "tt0085959",
-"original_title": "Monty Python's The Meaning of Life",
-"overview": "De seks elleville gærningene i Monty Python er tilbake og har tatt på seg oppgaven med å forklare oss meningen med livet. De ustyrlige britene byr på sedvanelig raffinerte sketsjer, blant annet om ulike favorittkroppsdeler og deres funksjoner, krigens undre, fødselens mirakel samt et lite innblikk i hva som venter oss i Himmelen. Ingen ting er hellig for Monty Python-gjengen. Og etter å ha sett dem i action, vil du ha et helt nytt syn på livet!",
-"poster": "https://image.tmdb.org/t/p/w342/9yavZ9WgEZIpWi2EbVW8At9RPdo.jpg",
-"runtime": 107,
-"title": "Monty Python's The Meaning of Life",
-"tmdb_id": 4543,
-"year": 1983
 },
 "4547": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg",
@@ -65536,31 +66454,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 46910,
 "year": 1934
 },
-"46918": {
-"backdrop": "https://image.tmdb.org/t/p/w780/o7l1P351p4gh9dTlcQy1xB8NL8H.jpg",
-"cast": [
-"Ganjirō Nakamura II",
-"Machiko Kyō",
-"Ayako Wakao",
-"Hiroshi Kawaguchi",
-"Haruko Sugimura",
-"Hitomi Nozoe"
-],
-"countries": [
-"JP"
-],
-"directors": [
-"Yasujirō Ozu"
-],
-"imdb_id": "tt0053390",
-"original_title": "浮草",
-"overview": "A theater troupe master's visit with his old flame unintentionally sets off a chain of unexpected events with devastating consequences.",
-"poster": "https://image.tmdb.org/t/p/w342/nLepKtb48XSnPQNsuS4svbtNBY7.jpg",
-"runtime": 115,
-"title": "Floating Weeds",
-"tmdb_id": 46918,
-"year": 1959
-},
 "46929": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gcLCXH7ZTr3Yk2JG1u7cXb7p1vy.jpg",
 "cast": [
@@ -65754,6 +66647,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Voyage in Time",
 "tmdb_id": 47011,
 "year": 1990
+},
+"47053": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nLSWM9Eszh3aFxVzdr61LDCwHSB.jpg",
+"cast": [
+"Mihály Víg"
+],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt0113491",
+"original_title": "Utazás az Alföldön",
+"overview": "Revisits of locations on the Great Hungarian Plain - the puszta - that were used in Tarr's Sátántangó and Werckmeister harmóniák. Recitations of short lyric poems by Hungary's national poet Sándor Petofi.",
+"poster": "https://image.tmdb.org/t/p/w342/3QS40ytyfsUfi3flYB3s5e0elCz.jpg",
+"runtime": 35,
+"title": "Journey on the Plain",
+"tmdb_id": 47053,
+"year": 1995
 },
 "47124": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7ofyYLXuDWmXV2kHtvyF4wYsyYi.jpg",
@@ -66007,32 +66920,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Véronique and Her Dunce",
 "tmdb_id": 47456,
 "year": 1959
-},
-"47474": {
-"backdrop": "https://image.tmdb.org/t/p/w780/luHUQITsjkkRzStHlkbEejatTx.jpg",
-"cast": [
-"David Carradine",
-"Liv Ullmann",
-"Gert Fröbe",
-"Heinz Bennent",
-"Toni Berger",
-"Christian Berkel"
-],
-"countries": [
-"DE",
-"IT"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0076686",
-"original_title": "The Serpent's Egg",
-"overview": "In 1923 Berlin, following the suicide of his brother, an American acrobat struggles to survive while facing unemployment, depression, alcoholism, and the social decay of Germany during the Weimar Republic.",
-"poster": "https://image.tmdb.org/t/p/w342/n7z0doFkXHcvo8QQWHLFnkEPXRU.jpg",
-"runtime": 120,
-"title": "The Serpent's Egg",
-"tmdb_id": 47474,
-"year": 1977
 },
 "475303": {
 "backdrop": "https://image.tmdb.org/t/p/w780/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
@@ -66520,6 +67407,26 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 4789,
 "year": 1970
 },
+"479537": {
+"backdrop": null,
+"cast": [
+"Muhamed Osmanović"
+],
+"countries": [
+"NL"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt7683884",
+"original_title": "Muhamed",
+"overview": "A young boy plays an accordion in a shopping mall. Béla Tarr picks up the camera one more time to shoot his very last scene. It is his anger about how refugees are treated in Europe, and especially in Hungary, that drove him to make a statement.",
+"poster": null,
+"runtime": 10,
+"title": "Muhamed",
+"tmdb_id": 479537,
+"year": 2017
+},
 "47962": {
 "backdrop": "https://image.tmdb.org/t/p/w780/bnhQpO4lIi1MYrb4fT0mIz0ZBuN.jpg",
 "cast": [
@@ -66641,31 +67548,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Bon Voyage",
 "tmdb_id": 48140,
 "year": 1944
-},
-"48145": {
-"backdrop": "https://image.tmdb.org/t/p/w780/qmxkOVsMiSubQ152TFIElQa6Vca.jpg",
-"cast": [
-"Jarl Kulle",
-"Bibi Andersson",
-"Stig Järrel",
-"Nils Poppe",
-"Gertrud Fridh",
-"Sture Lagerwall"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0053772",
-"original_title": "Djävulens öga",
-"overview": "Don Juan is sent from Hell to Earth with a mission: to seduce a virgin in order to spoil her pure wedding. The mission becomes frantic when Don Juan falls in love for the first time in centuries.",
-"poster": "https://image.tmdb.org/t/p/w342/njgS53DDdtsj5DXaGcEwglwq8z3.jpg",
-"runtime": 88,
-"title": "The Devil's Eye",
-"tmdb_id": 48145,
-"year": 1960
 },
 "4820": {
 "backdrop": "https://image.tmdb.org/t/p/w780/lmlfBM23b1zgLmSJTswRGZwm1km.jpg",
@@ -66835,6 +67717,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 48278,
 "year": 2004
 },
+"48309": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vzL6klPoUMgRC2wEkG25EiP7GcU.jpg",
+"cast": [
+"Viggo Mortensen",
+"Chelsea Field",
+"Lane Smith",
+"Lincoln Kilpatrick",
+"Tom Everett",
+"Ivan Kane"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0095904",
+"original_title": "Prison",
+"overview": "After Charles Forsyth was sent to the electric chair for a crime he didn't commit, he forever haunts the prison where he was executed. Flash forward several years when the prison is reopened, under the control of its new warden Eaton Sharpe, a former security guard who framed Charlie. When prisoners are ordered to break down the wall to the execution room, they unknowingly release the angry spirit of Charles Forsyth, a powerful being distributing his murderous rage to all, leading up to the Warden himself.",
+"poster": "https://image.tmdb.org/t/p/w342/bB6iCnYO1dlVA1kZp04acFyXTpg.jpg",
+"runtime": 102,
+"title": "Prison",
+"tmdb_id": 48309,
+"year": 1987
+},
 "48336": {
 "backdrop": "https://image.tmdb.org/t/p/w780/uonotYnbDrHXcMFA1AbembrrQ8N.jpg",
 "cast": [
@@ -66931,6 +67838,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Anna",
 "tmdb_id": 484641,
 "year": 2019
+},
+"48484": {
+"backdrop": "https://image.tmdb.org/t/p/w780/RxrJi9BuxArz6bGhfb7kPTt0hY.jpg",
+"cast": [
+"Jorge Negrete",
+"Libertad Lamarque",
+"Meche Barba",
+"Agustín Isunza",
+"Julio Villarreal",
+"José Baviera"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0039434",
+"original_title": "Gran Casino",
+"overview": "After the mysterious disappearance of an oil well owner, one of his workers, Gerardo assumes the business management. Soon, the owner's sister arrives from Argentina, and, believing that Gerardo killed her brother to keep the wells for himself, she starts working as a singer under a false name in the same casino her brother disappeared, in order to find out what exactly happened.",
+"poster": "https://image.tmdb.org/t/p/w342/mZRKncWwHGlGl8loCdKjeU8VAw0.jpg",
+"runtime": 92,
+"title": "Gran Casino",
+"tmdb_id": 48484,
+"year": 1947
 },
 "484925": {
 "backdrop": "https://image.tmdb.org/t/p/w780/mmOIUPo8Bofe4O54aPCJlgtDpyV.jpg",
@@ -67140,6 +68072,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 488000,
 "year": 1984
 },
+"48849": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zHn3741Xxmi6NLW9IYGi0fwFFHR.jpg",
+"cast": [
+"Fernando Soler",
+"Alicia Caro",
+"Fernando Soto",
+"Rubén Rojo",
+"Nacho Contla",
+"Amparo Garrido"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0043639",
+"original_title": "La hija del engaño",
+"overview": "In the drama, a father, firmly believing that the baby daughter in his arms is not his own, abandons her upon the doorstep of the town drunk. Many years pass, and the man finds himself continually wracked with guilt about deserting her.",
+"poster": "https://image.tmdb.org/t/p/w342/6gA2HhYrzjd8RgV1ePsLEpTEihv.jpg",
+"runtime": 78,
+"title": "Daughter of Deceit",
+"tmdb_id": 48849,
+"year": 1951
+},
 "48859": {
 "backdrop": "https://image.tmdb.org/t/p/w780/i9ebv4NeZ95acw8uHfLYdXhDhXF.jpg",
 "cast": [
@@ -67198,6 +68155,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 48860,
 "year": 1971
 },
+"48863": {
+"backdrop": "https://image.tmdb.org/t/p/w780/dBlWShywAgnUILzEzJjnrP2rb5j.jpg",
+"cast": [
+"María Félix",
+"Gérard Philipe",
+"Jean Servais",
+"Miguel Ángel Ferriz Sr.",
+"Raúl Dantés",
+"Domingo Soler"
+],
+"countries": [
+"FR",
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0052810",
+"original_title": "La fièvre monte à El Pao",
+"overview": "After Caribbean despot Mariano Vargas is murdered at the hands of his enraged populace, his secretary Ramón Vázquez takes not just control but also Vargas' widow Inés, with whom he's been having an affair. Special military unit leader Alejandro Gual arrives to overthrow Vázquez by turning the people and Inés against him.",
+"poster": "https://image.tmdb.org/t/p/w342/mrlQzUGzi1FfMB6sh0p0H1ZYgsx.jpg",
+"runtime": 97,
+"title": "Fever Mounts at El Pao",
+"tmdb_id": 48863,
+"year": 1959
+},
 "48864": {
 "backdrop": "https://image.tmdb.org/t/p/w780/iIdRMGCNNAaaQF9wf1iBYJQb9vC.jpg",
 "cast": [
@@ -67246,6 +68229,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 48868,
 "year": 2000
 },
+"48883": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ibWi1sjBr3bLGMXvDwLJNwhRH2J.jpg",
+"cast": [
+"Rosario Granados",
+"Tito Junco",
+"Julio Villarreal",
+"Joaquín Cordero",
+"Xavier Loyá",
+"Elda Peralta"
+],
+"countries": [
+"MX"
+],
+"directors": [
+"Luis Buñuel"
+],
+"imdb_id": "tt0043824",
+"original_title": "Una mujer sin amor",
+"overview": "After indulging in an affair with a man (a friend of the family) she truly loves, a woman returns to her young son and husband for good, and loses contact with the man. Her husband is unaware of the affair. Twenty years later, there is news that the friend has died and left all of his money to the younger son in the family, which leads us to question this younger son's biological origin.",
+"poster": "https://image.tmdb.org/t/p/w342/3P6b465zE1jqevT8sm68EaVvl9J.jpg",
+"runtime": 85,
+"title": "A Woman Without Love",
+"tmdb_id": 48883,
+"year": 1952
+},
 "48884": {
 "backdrop": null,
 "cast": [],
@@ -67264,31 +68272,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "I Was a Soldier",
 "tmdb_id": 48884,
 "year": 1971
-},
-"489": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
-"cast": [
-"Matt Damon",
-"Robin Williams",
-"Ben Affleck",
-"Stellan Skarsgård",
-"Minnie Driver",
-"Casey Affleck"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Gus Van Sant"
-],
-"imdb_id": "tt0119217",
-"original_title": "Good Will Hunting",
-"overview": "Will Hunting, en problemrik men talentfull ung mann som arbeider som vaktmester på Massachusetts Institute of Technology, selv om han har kunnskaper innen matematikk som er langt større enn de hos studentene ved skolen. Will må lære seg å gi slipp på fortiden for å komme videre i livet sitt. Den enestående Will Hunting viser historien til en ung mann, og hans kamp mot både seg selv om personlige forhold, der han forsøker å arbeide seg gjennom problemene sine slik at han kan åpne seg til andre, og slik at han kan bruke sitt enorme intellekt til noe nyttig.",
-"poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
-"runtime": 127,
-"title": "Good Will Hunting",
-"tmdb_id": 489,
-"year": 1997
 },
 "489429": {
 "backdrop": "https://image.tmdb.org/t/p/w780/c4AlPUutFI92NmpoyuzMAO4m9kM.jpg",
@@ -67440,32 +68423,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Everybody Loves Goofy",
 "tmdb_id": 49030,
 "year": 2003
-},
-"49051": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
-"cast": [
-"Martin Freeman",
-"Ian McKellen",
-"Richard Armitage",
-"James Nesbitt",
-"Ken Stott",
-"Sylvester McCoy"
-],
-"countries": [
-"NZ",
-"US"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt0903624",
-"original_title": "The Hobbit: An Unexpected Journey",
-"overview": "Bilbo Baggins, en ung hobbit, setter ut på en fantastisk reise for å hjelpe en gruppe dverger som har blitt frastjålet hjemmet sitt av en drage.",
-"poster": "https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
-"runtime": 169,
-"title": "The Hobbit: An Unexpected Journey",
-"tmdb_id": 49051,
-"year": 2012
 },
 "49097": {
 "backdrop": "https://image.tmdb.org/t/p/w780/u3P1p4PbZrkU4RP6KA3k0Mtf6tp.jpg",
@@ -68176,6 +69133,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 495449,
 "year": 1998
 },
+"4959": {
+"backdrop": "https://image.tmdb.org/t/p/w780/rX7EDn70R2L0ijCPRbz5cjoQ73h.jpg",
+"cast": [
+"Clive Owen",
+"Naomi Watts",
+"Armin Mueller-Stahl",
+"Ulrich Thomsen",
+"Brían F. O'Byrne",
+"Patrick Baladi"
+],
+"countries": [
+"DE",
+"GB",
+"US"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0963178",
+"original_title": "The International",
+"overview": "Interpol-agent Louis Salinger og assisterende statsadvokat Eleanor Whitman fra Manhattan, satt seg fore å etterforske en av verdens mektigste banker. De avdekker utallige klanderverdige, ulovlige aktiviteter, og Salinger og Whitman følger etter pengestrømmen fra Berlin til Milano via NewYork til Istanbul. De befinner seg plutselig midt i en risikofylt jakt på kryss og tvers av kloden. Deres ubøyelige utholdenhet setter livene deres i fare; for motstanderne deres skyr ingen midler – ikke engang mord – for å kunne fortsette finansieringen av terror og krig.",
+"poster": "https://image.tmdb.org/t/p/w342/fneofXacvudxNUKyM61UtoilHRI.jpg",
+"runtime": 118,
+"title": "The International",
+"tmdb_id": 4959,
+"year": 2009
+},
 "49650": {
 "backdrop": "https://image.tmdb.org/t/p/w780/208aRGBlyf8wVACc3TjgzaDm91X.jpg",
 "cast": [
@@ -68202,32 +69186,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 49650,
 "year": 1978
 },
-"49687": {
-"backdrop": "https://image.tmdb.org/t/p/w780/eOJb6uspOUEbs4wdMTAfuoOyTg2.jpg",
-"cast": [
-"Sophia Loren",
-"Marcello Mastroianni",
-"Aldo Puglisi",
-"Tecla Scarano",
-"Marilù Tolo",
-"Gianni Ridolfi"
-],
-"countries": [
-"IT",
-"FR"
-],
-"directors": [
-"Vittorio De Sica"
-],
-"imdb_id": "tt0058335",
-"original_title": "Matrimonio all'italiana",
-"overview": "During the bombing of Naples in World War II, a cynical businessman helps a naive prostitute, who spends the next two decades desperate to have him reciprocate her feelings.",
-"poster": "https://image.tmdb.org/t/p/w342/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg",
-"runtime": 102,
-"title": "Marriage Italian Style",
-"tmdb_id": 49687,
-"year": 1964
-},
 "4982": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
 "cast": [
@@ -68252,6 +69210,26 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "American Gangster",
 "tmdb_id": 4982,
 "year": 2007
+},
+"498244": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uItwYMwYJ8kM0KUoubteGy0fQRE.jpg",
+"cast": [
+"Per Fugelli"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt7757844",
+"original_title": "Per Fugelli: Siste resept",
+"overview": "A final meeting with the life affirming Per Fugelli, who wasn't afraid to speak out on behalf of the weak. A man called the wisest man in Norway died in September 2017. This is his legacy.",
+"poster": "https://image.tmdb.org/t/p/w342/yo10ZrDUQd5y9TCJ9COZyf2BJBx.jpg",
+"runtime": 119,
+"title": "Per Fugelli: Siste resept",
+"tmdb_id": 498244,
+"year": 2018
 },
 "49921": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gw0ugxqblFODyoQug4RLaD33FHe.jpg",
@@ -68327,6 +69305,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Sorrow of the Beautiful Woman",
 "tmdb_id": 499845,
 "year": 1931
+},
+"500006": {
+"backdrop": "https://image.tmdb.org/t/p/w780/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
+"cast": [
+"Andrea Berntzen",
+"Aleksander Holmen",
+"Brede Fristad",
+"Elli Rhiannon Müller Osborne",
+"Jenny Svennevig",
+"Ingeborg Enes"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt7959216",
+"original_title": "Utøya 22. juli",
+"overview": "Spillefilmen Utøya 22. juli handler om dagen vi aldri glemmer, men vanskelig kan forstå. En stor mengde fakta fra AUFs sommerleir 22.juli 2011 er allerede gjengitt i rettsaker, bøker og media. Men de færreste av oss vet mye om den ufattelige panikken og forvirringen som oppstod, eller de umulige valgene ofrene ble stilt overfor. En terror som påførte så mange en frykt og sorg de må leve med resten av sitt liv. Utøya 22. juli er skrevet på bakgrunn av vitneskildringer og kjente fakta, og skapt i tett dialog med flere overlevende. Av respekt for ofrene og deres pårørende, er karakterer og enkeltopplevelser oppdiktet. I filmen møter vi Kaja (18) og hennes venner på sommerleiren, og ser hendelsene slik de kunne ha sett ut for noen på øya. Filmen starter når ungdommene, sjokkerte over bombeangrepet i Oslo, betrygger sine pårørende med at de er langt unna. Den trygge atmosfæren brytes da skudd høres. Så følger vi Kaja i hennes kamp for å overleve - minutt for minutt.",
+"poster": "https://image.tmdb.org/t/p/w342/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg",
+"runtime": 92,
+"title": "Utøya: July 22",
+"tmdb_id": 500006,
+"year": 2018
 },
 "50106": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dW132K3GtENDxIPRRL4rgsmGQgI.jpg",
@@ -68473,32 +69476,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 503455,
 "year": 1975
 },
-"5038": {
-"backdrop": "https://image.tmdb.org/t/p/w780/uU7Ctqx6V27BXWhWgxcnFWaYYHz.jpg",
-"cast": [
-"Scarlett Johansson",
-"Rebecca Hall",
-"Javier Bardem",
-"Penélope Cruz",
-"Christopher Evan Welch",
-"Chris Messina"
-],
-"countries": [
-"ES",
-"US"
-],
-"directors": [
-"Woody Allen"
-],
-"imdb_id": "tt0497465",
-"original_title": "Vicky Cristina Barcelona",
-"overview": "De to venninnene Vicky og Cristina skal tilbringe sommeren i den spanske byen Barcelona. Selv om de er bestevenner har de to kvinnene svært forskjellig syn på, og holdninger til, kjærligheten. Vicky er jordnær, realistisk og den mest fornuftige av de to. Hennes ønske for ferien er å ha en måned til å jobbe med masteroppgaven, før hun skal hjem og gifte seg med den trauste newyorkeren Doug. Cristina er derimot single - åpen for nye eventyr, både emosjonelle og seksuelle, og på evig søken etter lidenskapen som skal ta henne med storm. Under et galleribesøk treffer de den vakre maleren Juan Antonio, kjent for sitt turbulente forhold til ekskona Maria Elena. Fra nå av skjer ting fort, og løpet av en begivenhetsrik helg har både Cristina og Vicky fått livene sine snudd opp ned.",
-"poster": "https://image.tmdb.org/t/p/w342/ekAIg0GSbbHTH7y1GPgWj0brLTW.jpg",
-"runtime": 96,
-"title": "Vicky Cristina Barcelona",
-"tmdb_id": 5038,
-"year": 2008
-},
 "504564": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vt1dlCSkn8U7EO27Z3CmKExaZRT.jpg",
 "cast": [
@@ -68637,6 +69614,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 505822,
 "year": 2006
 },
+"50601": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2dnkRdmv7nQxb18X7eXv9uNBA3R.jpg",
+"cast": [
+"Rupert Friend",
+"Emmanuelle Chriqui",
+"Richard Coyle",
+"Heather Graham",
+"Johnathon Schaech",
+"Rade Šerbedžija"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt1486193",
+"original_title": "5 Days of War",
+"overview": "An American journalist and his cameraman are caught in the combat zone during the first Russian airstrikes against Georgia. Rescuing Tatia, a young Georgian schoolteacher separated from her family during the attack, the two reporters agree to help reunite her with her family in exchange for serving as their interpreter. As the three attempt to escape to safety, they witness--and document--the devastation from the full-scale crossfire and cold-blooded murder of innocent civilians.",
+"poster": "https://image.tmdb.org/t/p/w342/iRH1VspiF7lyHj7P4mRP5tqmqxv.jpg",
+"runtime": 113,
+"title": "5 Days of War",
+"tmdb_id": 50601,
+"year": 2011
+},
 "50621": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7P3g4ubghUtejzXll2M3hWkt2DK.jpg",
 "cast": [
@@ -68696,29 +69698,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Isle of the Snake People",
 "tmdb_id": 50688,
 "year": 1971
-},
-"50704": {
-"backdrop": "https://image.tmdb.org/t/p/w780/wZGTjX8Wnj3MnBG4wXNm4bfYqa9.jpg",
-"cast": [
-"Buster Keaton",
-"Edward F. Cline",
-"Sybil Seely"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Buster Keaton",
-"Edward F. Cline"
-],
-"imdb_id": "tt0011984",
-"original_title": "The Boat",
-"overview": "A boat builder and his family attempt to set sail in his handmade boat, 'The Damfino'.",
-"poster": "https://image.tmdb.org/t/p/w342/jWkhrQ1MbSPEGWKa6Z18NyDhQ4V.jpg",
-"runtime": 23,
-"title": "The Boat",
-"tmdb_id": 50704,
-"year": 1921
 },
 "507485": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tc2YK6BgzSPweXTTviAUmc4YM4x.jpg",
@@ -69340,32 +70319,6 @@ window.LANGTAGNING_DIRECTORS = {
 "runtime": 19,
 "title": "The Scarecrow",
 "tmdb_id": 51357,
-"year": 1920
-},
-"51358": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pwbWZ7nyseuTvZ7jjSkizrpBn2h.jpg",
-"cast": [
-"Buster Keaton",
-"Virginia Fox",
-"Joe Roberts",
-"Joe Keaton",
-"Edward F. Cline",
-"Jack Duffy"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Buster Keaton",
-"Edward F. Cline"
-],
-"imdb_id": "tt0011508",
-"original_title": "Neighbors",
-"overview": "The Romeo and Juliet story played out in a tenement neighborhood with Buster and Virginia's families hating each other over the fence separating their buildings.",
-"poster": "https://image.tmdb.org/t/p/w342/k1UjHdeHAIS3vlgmdiwP5ITKVu5.jpg",
-"runtime": 18,
-"title": "Neighbors",
-"tmdb_id": 51358,
 "year": 1920
 },
 "51359": {
@@ -70299,31 +71252,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 52482,
 "year": 1936
 },
-"5255": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
-"cast": [
-"Tom Hanks",
-"Leslie Zemeckis",
-"Eddie Deezen",
-"Nona Gaye",
-"Peter Scolari",
-"Michael Jeter"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Robert Zemeckis"
-],
-"imdb_id": "tt0338348",
-"original_title": "The Polar Express",
-"overview": "Det er julekveld. Chris ligger våken på rommet sitt og lytter etter de kimende klokkene på julenissens slede. Så hører han et dundrende brøl. Utenfor huset venter en overraskelse. En reise som gir ny næring til fantasien kan starte.",
-"poster": "https://image.tmdb.org/t/p/w342/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
-"runtime": 100,
-"title": "The Polar Express",
-"tmdb_id": 5255,
-"year": 2004
-},
 "52561": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vMTGbVTjyCFQtUKGYJvnRnr8uGX.jpg",
 "cast": [
@@ -70802,6 +71730,32 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 531219,
 "year": 2020
 },
+"531368": {
+"backdrop": "https://image.tmdb.org/t/p/w780/ddDT35DEwlRfEEzgHym4vRb44nR.jpg",
+"cast": [
+"Nick Cheung Ka-Fai",
+"Richie Jen",
+"Yang Zi",
+"Feng Jiayi",
+"Carlos Chan Ka-Lok",
+"Ma Shuliang"
+],
+"countries": [
+"CN",
+"HK"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt7937440",
+"original_title": "沉默的證人",
+"overview": "Working in the morgue, a hardworking forensics expert and his assistant are suddenly accosted by masked intruders who demand access to a body involved in a recent crime.",
+"poster": "https://image.tmdb.org/t/p/w342/eSZqde1KnLI3Z5hctfMWsG0VRDP.jpg",
+"runtime": 93,
+"title": "Bodies at Rest",
+"tmdb_id": 531368,
+"year": 2019
+},
 "53178": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zDiqums2ddiNLGNhkXVLzMrT5pM.jpg",
 "cast": [],
@@ -70956,6 +71910,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Switzerland",
 "tmdb_id": 532484,
 "year": 1985
+},
+"53256": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7KzhgodLSMjgZD0IcQrevNMovhz.jpg",
+"cast": [
+"Sophie Rois",
+"Sebastian Schipper",
+"Devid Striesow",
+"Annedore Kleist",
+"Alexander Hörbe",
+"Winnie Böwe"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt1517177",
+"original_title": "Drei",
+"overview": "Hanna and Simon are in a 20 year marriage with an unexciting relationship. By chance, they both meet and start separate affairs with Adam. Adam has no idea that his two lovers are married, until they are all found out when Hanna becomes pregnant, with the natural doubts stemming from their situation.",
+"poster": "https://image.tmdb.org/t/p/w342/t21QP3eQGLmPsaCLyxiMyxpFfYn.jpg",
+"runtime": 119,
+"title": "Three",
+"tmdb_id": 53256,
+"year": 2010
 },
 "532625": {
 "backdrop": null,
@@ -72281,6 +73260,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 537459,
 "year": 2005
 },
+"537968": {
+"backdrop": "https://image.tmdb.org/t/p/w780/oQcLaBFNeyE7rnvq8VMpgj2BFmo.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt8749146",
+"original_title": "Monrovia, Indiana",
+"overview": "Monrovia, Indiana explores a small town in rural, mid-America and illustrates how values like community service, duty, spiritual life, generosity, and authenticity are formed, experienced, and lived along with conflicting stereotypes. The film gives a complex and nuanced view of daily life in Monrovia and provides some understanding of a way of life whose influence and force have not always been recognized or understood in the big cities on the east and west coasts of America and in other countries.",
+"poster": "https://image.tmdb.org/t/p/w342/oM8NztR6giuwFP2g26HmD7zM4EF.jpg",
+"runtime": 143,
+"title": "Monrovia, Indiana",
+"tmdb_id": 537968,
+"year": 2018
+},
 "537996": {
 "backdrop": "https://image.tmdb.org/t/p/w780/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
 "cast": [
@@ -73604,6 +74601,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 554967,
 "year": 2019
 },
+"555020": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7kV5YxXWlcJHqUerrq4WsYIEdsy.jpg",
+"cast": [
+"Leehom Wang",
+"Victoria Song",
+"Godfrey Gao",
+"Archie Kao",
+"Karena Ng Chin-Yu",
+"Julian Cheung"
+],
+"countries": [
+"CN"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt5806792",
+"original_title": "古剑奇谭之流月昭明",
+"overview": "Due to a fateful occurrence, Yue Wuyi leaves home. He meets revered master Xie Yi, who imparts to him the magical arts of Yan, and thus begins his journey of cultivation. Along the way he meets Wen Renyu, Xia Yize, Ah Ruan and company. They discover the schemes and conspiracies of Shen Ye, the grand priest of Liu Yue City. The group of adventurers undergoes dangers to defeat Shen Ye, and prevent a disaster from befalling the world.",
+"poster": "https://image.tmdb.org/t/p/w342/1QHwlirJb7MJJcvTICMJvfG3oyh.jpg",
+"runtime": 105,
+"title": "Legend of the Ancient Sword",
+"tmdb_id": 555020,
+"year": 2018
+},
 "55541": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2VJyZKgb1QyI1F7t3ecnkNb6qkE.jpg",
 "cast": [
@@ -74301,6 +75323,44 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 5656,
 "year": 1973
 },
+"56694": {
+"backdrop": null,
+"cast": [
+"Denis Moschitto",
+"Kai Strittmatter",
+"Peter Jordan",
+"Andreas Hofer",
+"Anneke Kim Sarnau",
+"Winnie Böwe"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer",
+"Isabelle Stever",
+"Fatih Akin",
+"Romuald Karmakar",
+"Wolfgang Becker",
+"Dani Levy",
+"Dominik Graf",
+"Martin Gressmann",
+"Hans Steinbichler",
+"Christoph Hochhäusler",
+"Nicolette Krebitz",
+"Sylke Enders",
+"Hans Weingartner",
+"Angela Schanelec"
+],
+"imdb_id": "tt1260051",
+"original_title": "Deutschland 09 - 13 kurze Filme zur Lage der Nation",
+"overview": "Thirteen German directors present short films exploring the state of their country.",
+"poster": "https://image.tmdb.org/t/p/w342/4bgBGauu6izdrqThtEvcsnZIR7u.jpg",
+"runtime": 152,
+"title": "Germany ’09 – 13 Short Films About the State of the Nation",
+"tmdb_id": 56694,
+"year": 2009
+},
 "5674": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vVi2MRu4SpY3d1kf7fRwWHKsXp1.jpg",
 "cast": [
@@ -74399,32 +75459,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Heavenly Bodies",
 "tmdb_id": 5711,
 "year": 1963
-},
-"57158": {
-"backdrop": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
-"cast": [
-"Ian McKellen",
-"Martin Freeman",
-"Richard Armitage",
-"Benedict Cumberbatch",
-"Orlando Bloom",
-"Evangeline Lilly"
-],
-"countries": [
-"NZ",
-"US"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt1170358",
-"original_title": "The Hobbit: The Desolation of Smaug",
-"overview": "I \"Hobbiten: Smaugs ødemark\" fortsetter det store eventyret til hobbiten Bilbo Lommelun. Sammen med trollmannen Gandalv den Grå og tretten dverger ledet av dvergeprinsen Thorin Eikenskjold fortsetter de det farlige oppdraget om å gjenerobre Ensomfjellet og det legendariske dvergekongeriket Erebor.  Reisefølgets ferd fortsetter østover i Midgard. Underveis møter de hamskifteren Beorn som ikke alltid er like lett å ha med å gjøre. I den forræderske skogen Myrkskog må de hanskes med ondskapsfulle og motbydelige edderkopper og mystiske og farlige skogalver. Etter en stopp i Langsjøby når de til slutt reisens mål: Ensomfjellet.  I tillegg til at mot og visdom vil bli testet til det aller ytterste, vil vennskapet i reisefølget bli satt på prøve under møte med den største faren av alle - den mektige dragen Smaug.",
-"poster": "https://image.tmdb.org/t/p/w342/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
-"runtime": 161,
-"title": "The Hobbit: The Desolation of Smaug",
-"tmdb_id": 57158,
-"year": 2013
 },
 "5719": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7HAxaIgeDHr2dGNmYiPwNJwM4BV.jpg",
@@ -74586,31 +75620,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Sissela Kyle - Your Days Are Shaved",
 "tmdb_id": 57231,
 "year": 2011
-},
-"5725": {
-"backdrop": "https://image.tmdb.org/t/p/w780/491YUaK0Au2kpnOIqH6PNrrcM2c.jpg",
-"cast": [
-"Shari Eubank",
-"Charles Pitts",
-"Charles Napier",
-"Uschi Digard",
-"Christy Hartburg",
-"Colleen Brennan"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Russ Meyer"
-],
-"imdb_id": "tt0073768",
-"original_title": "Supervixens",
-"overview": "Clint must flee after his wife is killed by a psychopathic cop, who tries to pin the murder on him.",
-"poster": "https://image.tmdb.org/t/p/w342/1xtBWyQj15pz28qQ255rUF5W9iw.jpg",
-"runtime": 106,
-"title": "Supervixens",
-"tmdb_id": 5725,
-"year": 1975
 },
 "5726": {
 "backdrop": "https://image.tmdb.org/t/p/w780/6sswkS3SQCgavptmAxSpNET87JV.jpg",
@@ -74943,31 +75952,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 5748,
 "year": 1967
 },
-"57537": {
-"backdrop": "https://image.tmdb.org/t/p/w780/xlfnuI20UHQzlviGXghtjilT2rt.jpg",
-"cast": [
-"Peter Strauss",
-"Roger E. Mosley",
-"Richard Lawson",
-"Brian Dennehy",
-"Geoffrey Lewis",
-"Billy Green Bush"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Michael Mann"
-],
-"imdb_id": "tt0079366",
-"original_title": "The Jericho Mile",
-"overview": "A runner, serving a life sentence at Folsom Prison, works at becoming the world's fastest miler and wins a chance to compete for a spot on the Olympic team.",
-"poster": "https://image.tmdb.org/t/p/w342/cinQBqd5K5jDqEJ0ECbXA58dXt4.jpg",
-"runtime": 97,
-"title": "The Jericho Mile",
-"tmdb_id": 57537,
-"year": 1980
-},
 "57646": {
 "backdrop": "https://image.tmdb.org/t/p/w780/g7HaqokNxlkazKdVwZGo4RNRCja.jpg",
 "cast": [
@@ -75204,6 +76188,33 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 58160,
 "year": 1937
 },
+"581644": {
+"backdrop": "https://image.tmdb.org/t/p/w780/6FzuNrApEc71aJ3CwwkpadbNled.jpg",
+"cast": [
+"Pierce Brosnan",
+"Tim Roth",
+"Nick Cannon",
+"Rami Jaber",
+"Jamie Chung",
+"Hermione Corfield"
+],
+"countries": [
+"FI",
+"AE",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt4876134",
+"original_title": "The Misfits",
+"overview": "After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.",
+"poster": "https://image.tmdb.org/t/p/w342/dPOyYnCkRbWAEem85N3VFpQODf5.jpg",
+"runtime": 94,
+"title": "The Misfits",
+"tmdb_id": 581644,
+"year": 2021
+},
 "58185": {
 "backdrop": "https://image.tmdb.org/t/p/w780/tM5MrMYLvbLIhGgQVOb2M3vcBFN.jpg",
 "cast": [
@@ -75254,32 +76265,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "In View: Six Days to Saturday",
 "tmdb_id": 582183,
 "year": 1963
-},
-"58416": {
-"backdrop": "https://image.tmdb.org/t/p/w780/9NBOuI2Zh2pv4M3NFWhmPIp7Gg3.jpg",
-"cast": [
-"Kati Outinen",
-"Matti Pellonpää",
-"Kirsi Tykkyläinen",
-"Mato Valtonen",
-"Elina Salo",
-"Irma Junnilainen"
-],
-"countries": [
-"FI",
-"DE"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0110832",
-"original_title": "Pidä huivista kiinni, Tatjana",
-"overview": "Two Finnish men agree to drive an Estonian woman and a Russian woman to a harbor.",
-"poster": "https://image.tmdb.org/t/p/w342/AdYTwhIAx4SK14euoQxvcRRsjGw.jpg",
-"runtime": 62,
-"title": "Take Care of Your Scarf, Tatjana",
-"tmdb_id": 58416,
-"year": 1994
 },
 "58527": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zUCrMahkEYuUMEsvdyHxLFYBFDw.jpg",
@@ -75831,6 +76816,48 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 589166,
 "year": 1928
 },
+"590343": {
+"backdrop": null,
+"cast": [
+"Rolf Søder",
+"Øyvind Gulliksen",
+"Martin Simensen"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Bent Hamer"
+],
+"imdb_id": "tt0332423",
+"original_title": "Søndagsmiddag",
+"overview": "Early dialogue free short by Bent Hamer.",
+"poster": "https://image.tmdb.org/t/p/w342/mukNjHZoyNlDsrn9dUCoTOVg6Ij.jpg",
+"runtime": 16,
+"title": "Sunday Dinner",
+"tmdb_id": 590343,
+"year": 1991
+},
+"590344": {
+"backdrop": null,
+"cast": [
+"Eli Toftemo",
+"Lars Martin Thorstein",
+"Bjørn Westad"
+],
+"countries": [],
+"directors": [
+"Bent Hamer"
+],
+"imdb_id": "tt0222732",
+"original_title": "Applaus",
+"overview": "Short film by Bent Hamer, no dialogue, only music.",
+"poster": null,
+"runtime": 7,
+"title": "Applause",
+"tmdb_id": 590344,
+"year": 1994
+},
 "59045": {
 "backdrop": "https://image.tmdb.org/t/p/w780/olvFHqjMCCUVJ6NxxDxNJKPSl21.jpg",
 "cast": [
@@ -75986,31 +77013,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 593804,
 "year": 1941
 },
-"59388": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vbbxn85rbcfchIcLDpxfhssundR.jpg",
-"cast": [
-"Timo Eränkö",
-"Kari Heiskanen",
-"Asmo Hurula",
-"Sakke Järvenpää",
-"Sakari Kuosmanen",
-"Dave Lindholm"
-],
-"countries": [
-"FI"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0087020",
-"original_title": "Calamari Union",
-"overview": "A group of men all called Frank—except for one named Pekka—have had enough of life in their working-class neighborhood, so they set off for a better existence in the magical seaside district of Eira. But the way is long, and the group face many hurdles including stray dogs and defunct streetlights.",
-"poster": "https://image.tmdb.org/t/p/w342/1rS3Rl17upvBEnaUE67lCPowDEs.jpg",
-"runtime": 81,
-"title": "Calamari Union",
-"tmdb_id": 59388,
-"year": 1985
-},
 "594": {
 "backdrop": "https://image.tmdb.org/t/p/w780/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
 "cast": [
@@ -76060,6 +77062,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Red Badge of Courage",
 "tmdb_id": 59401,
 "year": 1951
+},
+"594031": {
+"backdrop": "https://image.tmdb.org/t/p/w780/z4wKokhxikEBw0TPJrQ6zBwmmh4.jpg",
+"cast": [],
+"countries": [
+"AT"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt9799550",
+"original_title": "Missing People",
+"overview": "Presents moving images of society’s outsiders, the impoverished and oppressed, whose lives are contrasted with the opulent surroundings of contemporary Vienna.",
+"poster": "https://image.tmdb.org/t/p/w342/jWDOjAF1cu3O8yRpUGxyxiwc7q6.jpg",
+"runtime": 95,
+"title": "Missing People",
+"tmdb_id": 594031,
+"year": 2019
 },
 "59436": {
 "backdrop": "https://image.tmdb.org/t/p/w780/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
@@ -76492,31 +77512,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 60813,
 "year": 1982
 },
-"60899": {
-"backdrop": "https://image.tmdb.org/t/p/w780/l810ZtbnQzqivGJRqNjs007LbC0.jpg",
-"cast": [
-"Eva Dahlbeck",
-"Ingrid Thulin",
-"Bibi Andersson",
-"Barbro Hiort af Ornäs",
-"Erland Josephson",
-"Max von Sydow"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0052017",
-"original_title": "Nära livet",
-"overview": "This intimate chamber drama, set in a maternity ward, follows the emotional crises of three women as they grapple with motherhood.",
-"poster": "https://image.tmdb.org/t/p/w342/zEXjLCknAuml2e1aw2Gxh2eLxdV.jpg",
-"runtime": 85,
-"title": "Brink of Life",
-"tmdb_id": 60899,
-"year": 1958
-},
 "609931": {
 "backdrop": null,
 "cast": [],
@@ -76649,31 +77644,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Mail Pilot",
 "tmdb_id": 61129,
 "year": 1933
-},
-"6114": {
-"backdrop": "https://image.tmdb.org/t/p/w780/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg",
-"cast": [
-"Gary Oldman",
-"Winona Ryder",
-"Anthony Hopkins",
-"Keanu Reeves",
-"Sadie Frost",
-"Cary Elwes"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Francis Ford Coppola"
-],
-"imdb_id": "tt0103874",
-"original_title": "Bram Stoker's Dracula",
-"overview": "Grev Dracula har dratt fra Transylvania til London for å finne en ung skjønnhet, som er en kopi av den unge kvinnen han mistet for fire hundre år siden. Draculas mål er å forene seg med sin elskede for evig og alltid.",
-"poster": "https://image.tmdb.org/t/p/w342/wpRrdm6g8zWtJnzVqME5QwSKkn7.jpg",
-"runtime": 128,
-"title": "Bram Stoker's Dracula",
-"tmdb_id": 6114,
-"year": 1992
 },
 "612": {
 "backdrop": "https://image.tmdb.org/t/p/w780/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
@@ -77564,6 +78534,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 62761,
 "year": 1974
 },
+"62819": {
+"backdrop": "https://image.tmdb.org/t/p/w780/88UWJUVvZAitpmCpxjBdA9QuurJ.jpg",
+"cast": [
+"Maikel Andressen Abou-Zelof",
+"Jalal Zahedjekta",
+"Sharjil Arshed",
+"Mickael Marman",
+"Seth Raknes",
+"Kiyana Faravardeh"
+],
+"countries": [
+"NO"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt0175136",
+"original_title": "Schpaaa",
+"overview": "Schpaaa er historien om fem småkriminelle gutter på Oslos østkant. Jonas, bestevennen Emir og resten av gjengen deres: Jack, Ali og Lille-Jan. Gutta er under den kriminelle lavalder og respekten for politiet er liten. En dag får de et oppdrag for en jugoslavisk bande. Gjengen roter ril jobben. Plutselig er alt snudd på hodet og de jages av en gjeng som ikke går av veien for noe. Vi følger guttene gjennom seks døgn fylt av dramatiske hendelser. Schpaaa er et dykk ned i et stykke rå, norsk virkelighet.",
+"poster": "https://image.tmdb.org/t/p/w342/nIa3uVmGysTYsKvKrMENnZ8eqd4.jpg",
+"runtime": 84,
+"title": "Bunch of Five",
+"tmdb_id": 62819,
+"year": 1998
+},
 "62982": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hixCaSWhy70MBqqDIm138PUbJ9.jpg",
 "cast": [
@@ -77762,33 +78757,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Boy Meets Girl",
 "tmdb_id": 63418,
 "year": 1984
-},
-"63763": {
-"backdrop": "https://image.tmdb.org/t/p/w780/yPH1CnCP53iRHujUlQ8wIRCsGAc.jpg",
-"cast": [
-"Myriam Boyer",
-"Delphine Seyrig",
-"Fanny Cottençon",
-"Lio",
-"Pascale Salkin",
-"Charles Denner"
-],
-"countries": [
-"BE",
-"FR",
-"CH"
-],
-"directors": [
-"Chantal Akerman"
-],
-"imdb_id": "tt0092219",
-"original_title": "Golden Eighties",
-"overview": "In a lively shopping center, proprietors and customers are bustling, including three women vying for a man's heart with song and dance.",
-"poster": "https://image.tmdb.org/t/p/w342/gLkHUqNzpoppeuxWy7uyuPTkwwF.jpg",
-"runtime": 98,
-"title": "Golden Eighties",
-"tmdb_id": 63763,
-"year": 1986
 },
 "637649": {
 "backdrop": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
@@ -78276,55 +79244,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 644900,
 "year": 2007
 },
-"64544": {
-"backdrop": "https://image.tmdb.org/t/p/w780/7P7Gd5iiqISDI3UUsmryBUK8rMj.jpg",
-"cast": [
-"Emmanuelle Chaulet",
-"Sophie Renoir",
-"François-Eric Gendron",
-"Éric Viellard",
-"Anne-Laure Meury"
-],
-"countries": [
-"FR"
-],
-"directors": [
-"Éric Rohmer"
-],
-"imdb_id": "tt0092550",
-"original_title": "L'Ami de mon amie",
-"overview": "Middle-class Parisian suburbs: Blanche and Léa, office worker and student, meet and become friends. Léa is going out with Fabien, but is thinking of leaving him. Blanche falls for Léa's handsome and witty friend Alexandre, but is tongue-tied whenever she meets him. Léa goes on holiday and Blanche, still smitten with the dashing Alexandre, begins to get to know Fabien.",
-"poster": "https://image.tmdb.org/t/p/w342/obfJYuVMGFZRlMeNQklFlvhShFu.jpg",
-"runtime": 103,
-"title": "Boyfriends and Girlfriends",
-"tmdb_id": 64544,
-"year": 1987
-},
-"645992": {
-"backdrop": "https://image.tmdb.org/t/p/w780/wmFAIzObxg4Lm5dSmpE0USQpLDQ.jpg",
-"cast": [
-"Thorbjørn Harr",
-"Aksel Hennie",
-"Jeppe Beck Laursen",
-"Linn Skåber",
-"Anders Baasmo Christiansen",
-"Ivar Nørve"
-],
-"countries": [
-"NO"
-],
-"directors": [
-"Rasmus A. Sivertsen"
-],
-"imdb_id": "tt20864716",
-"original_title": "Folk og røvere i Kardemomme by",
-"overview": "Kardemomme by er en koselig, liten by full av smilende mennesker, med egen trikk og verdens hyggeligste politimann. En by der alt er idyll, hadde det ikke vært for de tre røverne Kasper og Jesper og Jonatan.",
-"poster": "https://image.tmdb.org/t/p/w342/5TeOV5JyaOHPu0PlsTZKL6NYvR8.jpg",
-"runtime": 78,
-"title": "Three Robbers and a Lion",
-"tmdb_id": 645992,
-"year": 2022
-},
 "646171": {
 "backdrop": "https://image.tmdb.org/t/p/w780/grCZFplnTKyukCiWr2AJuHQAZA7.jpg",
 "cast": [
@@ -78345,6 +79264,34 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Portrait of a Lazy Woman",
 "tmdb_id": 646171,
 "year": 1986
+},
+"646376": {
+"backdrop": "https://image.tmdb.org/t/p/w780/uKtvtcMwY92Taf4IlygUAHYTZjI.jpg",
+"cast": [
+"Pål Sverre Hagen",
+"Tuva Novotny",
+"Nina Andresen-Borud",
+"Aksel Hennie",
+"Trond Fausa Aurvåg",
+"Kenneth Welsh"
+],
+"countries": [
+"CA",
+"DK",
+"DE",
+"NO"
+],
+"directors": [
+"Bent Hamer"
+],
+"imdb_id": "tt11640536",
+"original_title": "The Middle Man",
+"overview": "Småbyen Karmack rammes av så mange ulykker at de ansetter en mellommann for å gå med dødsbudskap til pårørende. Frank Farrelli er en stille, sindig fyr som viser seg perfekt for jobben. Presset i jobben og en spirende ny romantisk forbindelse overvelder Frank. For å lette byrden, kaller han inn en ‘tjeneste’, men det hele ender med et drap, og nå sitter Frank fast i en ond spiral der han ikke bare bringer dårlige nyheter, men han er også den som skaper dem. Filmen er basert på deler av Lars Saabye Christensen roman «Sluk» fra 2012.",
+"poster": "https://image.tmdb.org/t/p/w342/lp0wpfAih1g4yUB78x0fVvzAJzu.jpg",
+"runtime": 95,
+"title": "The Middle Man",
+"tmdb_id": 646376,
+"year": 2021
 },
 "64648": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gN31S1RXUzE9HyY2gQczBc5dLvz.jpg",
@@ -78559,31 +79506,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Victory Vehicles",
 "tmdb_id": 64708,
 "year": 1943
-},
-"64782": {
-"backdrop": "https://image.tmdb.org/t/p/w780/u8C3cbk6UgDNp0sZN4DROp8kQXy.jpg",
-"cast": [
-"Eva Dahlbeck",
-"Yvonne Lombard",
-"Harriet Andersson",
-"Olof Winnerstrand",
-"Gunnar Björnstrand",
-"Åke Grönberg"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0047167",
-"original_title": "En lektion i kärlek",
-"overview": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
-"poster": "https://image.tmdb.org/t/p/w342/y2033AA89qdxgJMASAfmuZ17GoA.jpg",
-"runtime": 97,
-"title": "A Lesson in Love",
-"tmdb_id": 64782,
-"year": 1954
 },
 "647991": {
 "backdrop": "https://image.tmdb.org/t/p/w780/x5fAfO3xMNFj1TpAjFk1FJQwfZO.jpg",
@@ -81314,6 +82236,31 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 67772,
 "year": 1982
 },
+"680673": {
+"backdrop": "https://image.tmdb.org/t/p/w780/2r1MUncHTy6YX8AQ9ytyLzE71hP.jpg",
+"cast": [
+"Sami Hedberg",
+"Aku Hirviniemi",
+"Jaajo Linnonmaa",
+"Antti Luusuaniemi",
+"Ilona Chevakova",
+"Pertti Sveholm"
+],
+"countries": [
+"FI"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt11905960",
+"original_title": "Luokkakokous 3 – Sinkkuristeily",
+"overview": "The approaching baptism of his ex-wife's new baby destroys Antti's ability to function and puts him in catatonic state. Tuomas and Nippe take action to cheer him up and decide to take him on a singles cruise.",
+"poster": "https://image.tmdb.org/t/p/w342/rfFhGIPjYwmJBmRVDrlDUW5EXIy.jpg",
+"runtime": 104,
+"title": "Reunion 3: Singles Cruise",
+"tmdb_id": 680673,
+"year": 2021
+},
 "68291": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rctnquyNxfn0MiYrxoCpIGoPw7P.jpg",
 "cast": [
@@ -82397,31 +83344,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 695352,
 "year": 2014
 },
-"69544": {
-"backdrop": "https://image.tmdb.org/t/p/w780/usZCxiu4qqL4H8O8x5Pltrgd0VT.jpg",
-"cast": [
-"Anita Björk",
-"Eva Dahlbeck",
-"Maj-Britt Nilsson",
-"Birger Malmsten",
-"Gunnar Björnstrand",
-"Karl-Arne Holmsten"
-],
-"countries": [
-"SE"
-],
-"directors": [
-"Ingmar Bergman"
-],
-"imdb_id": "tt0044811",
-"original_title": "Kvinnors väntan",
-"overview": "The four wives of four brothers share stories of their marriages as they wait for their husbands in a small, secluded cottage.",
-"poster": "https://image.tmdb.org/t/p/w342/bUUTuh376ppUQJCzpjz4PSWNohv.jpg",
-"runtime": 104,
-"title": "Waiting Women",
-"tmdb_id": 69544,
-"year": 1952
-},
 "695789": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fnyXriQDq4HbDWKllJjbj6qVHY4.jpg",
 "cast": [
@@ -83103,6 +84025,30 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 718009,
 "year": 1984
 },
+"71809": {
+"backdrop": "https://image.tmdb.org/t/p/w780/he2qZJ9FnGlfAmCV12rgaxpZWBj.jpg",
+"cast": [
+"Ed Koch",
+"Francis Ford Coppola",
+"Peter Garrett",
+"Luciano Pavarotti",
+"LeVar Burton"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0097033",
+"original_title": "Central Park",
+"overview": "The famous New York City landmark is given the spotlight, as well as the variety of ways in which people make use of it: running, boating, walking, skating, music, theatre, sports, picnics, parades and concerts. Further illustrated are the complex problems the NYC Parks Department deals with in order to maintain and preserve the park and keep it open and accessible to the public.",
+"poster": "https://image.tmdb.org/t/p/w342/bJq37y0jFuHY1oOFbGiljevVjpC.jpg",
+"runtime": 176,
+"title": "Central Park",
+"tmdb_id": 71809,
+"year": 1990
+},
 "72004": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hhIBwdTdzPUAhGdzvbHWGt88BAS.jpg",
 "cast": [
@@ -83491,33 +84437,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 72898,
 "year": 1962
 },
-"7294": {
-"backdrop": "https://image.tmdb.org/t/p/w780/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
-"cast": [
-"Markku Peltola",
-"Kati Outinen",
-"Juhani Niemelä",
-"Kaija Pakarinen",
-"Sakari Kuosmanen",
-"Annikki Tähti"
-],
-"countries": [
-"FI",
-"FR",
-"DE"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0311519",
-"original_title": "Mies vailla menneisyyttä",
-"overview": "Arriving in Helsinki, a nameless man is beaten within an inch of his life by thugs, miraculously recovering only to find that he has completely lost his memory. Back on the streets, he attempts to begin again from zero, befriending a moody dog and becoming besotted with a Salvation Army volunteer.",
-"poster": "https://image.tmdb.org/t/p/w342/9tBepCujkyNg1qM52MsaJfDkIRw.jpg",
-"runtime": 97,
-"title": "The Man Without a Past",
-"tmdb_id": 7294,
-"year": 2002
-},
 "73131": {
 "backdrop": "https://image.tmdb.org/t/p/w780/538wIwTuvEEIg7GrBeuj8r75B6W.jpg",
 "cast": [
@@ -83637,31 +84556,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Bucket List",
 "tmdb_id": 7350,
 "year": 2007
-},
-"73567": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mpiwGcxp30sHxTOJ1jw3Dd1QgPZ.jpg",
-"cast": [
-"Matthew McConaughey",
-"Emile Hirsch",
-"Juno Temple",
-"Thomas Haden Church",
-"Gina Gershon",
-"Marc Macaulay"
-],
-"countries": [
-"US"
-],
-"directors": [
-"William Friedkin"
-],
-"imdb_id": "tt1726669",
-"original_title": "Killer Joe",
-"overview": "A cop who moonlights as a hit man agrees to kill the hated mother of a desperate drug dealer in exchange for a tumble with the young man's virginal sister.",
-"poster": "https://image.tmdb.org/t/p/w342/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg",
-"runtime": 102,
-"title": "Killer Joe",
-"tmdb_id": 73567,
-"year": 2012
 },
 "73629": {
 "backdrop": "https://image.tmdb.org/t/p/w780/7QNQc3NjiwyuDKeZy4WPLsIXg9h.jpg",
@@ -84055,6 +84949,34 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 74468,
 "year": 1946
 },
+"744733": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nbN4mD6AnUgUUcbCKymH0gMwzBG.jpg",
+"cast": [
+"Lisa Carlehed",
+"Gustaf Skarsgård",
+"Tove Lo",
+"Lena Strömdahl",
+"Sofia Helin",
+"Nova Salmi-Wikander"
+],
+"countries": [
+"DK",
+"NZ",
+"NO",
+"SE"
+],
+"directors": [
+"Erik Poppe"
+],
+"imdb_id": "tt4697290",
+"original_title": "Utvandrarna",
+"overview": "Sweden, 1849. A poverty-stricken family decides to move to America in the hope of finding a better and more prosperous life. Although they know the journey will be dangerous and the pressure of facing a new life in a strange and wild land is great, they are determined to succeed.",
+"poster": "https://image.tmdb.org/t/p/w342/lMEg2ed0KZAA9kB2vDnfkU7Uduq.jpg",
+"runtime": 148,
+"title": "The Emigrants",
+"tmdb_id": 744733,
+"year": 2021
+},
 "744797": {
 "backdrop": null,
 "cast": [
@@ -84276,6 +85198,24 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 747225,
 "year": 2022
 },
+"748284": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"HU"
+],
+"directors": [
+"Béla Tarr"
+],
+"imdb_id": "tt16440574",
+"original_title": "Cinemarxisme",
+"overview": "A student film by Béla Tarr, from 1979. Presumed lost until very recently.",
+"poster": "https://image.tmdb.org/t/p/w342/7rXgvllT3zbpJIhj2etjm2eGnfv.jpg",
+"runtime": 33,
+"title": "Cinemarxism",
+"tmdb_id": 748284,
+"year": 1979
+},
 "74958": {
 "backdrop": "https://image.tmdb.org/t/p/w780/5U8vXPZz5TpmP07YVfoMaJt194Q.jpg",
 "cast": [
@@ -84296,31 +85236,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Donald and Pluto",
 "tmdb_id": 74958,
 "year": 1936
-},
-"75": {
-"backdrop": "https://image.tmdb.org/t/p/w780/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
-"cast": [
-"Jack Nicholson",
-"Glenn Close",
-"Annette Bening",
-"Pierce Brosnan",
-"Danny DeVito",
-"Martin Short"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Tim Burton"
-],
-"imdb_id": "tt0116996",
-"original_title": "Mars Attacks!",
-"overview": "SKRIK! Til slemmee, grønne angripere fra den sinte røde planeten! Bevæpnet med hurtigstekende strålevåpen, utstyrt med slimete, gigantiske hjerner - og opplivet med ut-av-denne-verden men i-ypperste-klasse spesialeffekter. GISP! Når det blir for mye for den amerikanske lovgivningsmakten. (Ikke vær redd, det er fremdeles 2 av 3 regjeringsinstanser som arbeider for oss, og det er ikke så verst!) HERLIG! Når jorden kjemper imot med et uventet våpen. Ta den, Marsboere!",
-"poster": "https://image.tmdb.org/t/p/w342/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
-"runtime": 106,
-"title": "Mars Attacks!",
-"tmdb_id": 75,
-"year": 1996
 },
 "75009": {
 "backdrop": "https://image.tmdb.org/t/p/w780/2I5fJAV1QPg5U5hCqA5Ezj9Qq99.jpg",
@@ -84509,6 +85424,24 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Roots of Heaven",
 "tmdb_id": 75799,
 "year": 1958
+},
+"762892": {
+"backdrop": null,
+"cast": [],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": null,
+"original_title": "Der Mensch im Ding",
+"overview": "Tom Tykwer takes a revelatory deep dive into a single image of a typical Berlin sidewalk, exploring the multifarious traces, backgrounds, and interconnections of human labor and industrial production, necessary for the manufacture of the objects and commodities that shape our everyday surroundings.",
+"poster": null,
+"runtime": 9,
+"title": "Man in Things",
+"tmdb_id": 762892,
+"year": 2008
 },
 "762987": {
 "backdrop": null,
@@ -84878,29 +85811,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 77333,
 "year": 1970
 },
-"77352": {
-"backdrop": "https://image.tmdb.org/t/p/w780/yZq6UtScwm8atkK2pPIGEWUrBM8.jpg",
-"cast": [
-"Wim Wenders",
-"Yohji Yamamoto"
-],
-"countries": [
-"DE",
-"FR",
-"JP"
-],
-"directors": [
-"Wim Wenders"
-],
-"imdb_id": "tt0096852",
-"original_title": "Aufzeichnungen zu Kleidern und Städten",
-"overview": "Wim Wenders talks with Japanese fashion designer Yohji Yamamoto about the creative process and ponders the relationship between cities, identity and the cinema in the digital age.",
-"poster": "https://image.tmdb.org/t/p/w342/1VVxGn3K0gj6V6jEN5UnzrUC1YT.jpg",
-"runtime": 81,
-"title": "Notebook on Cities and Clothes",
-"tmdb_id": 77352,
-"year": 1989
-},
 "77365": {
 "backdrop": "https://image.tmdb.org/t/p/w780/fFt23F1shcYqwD7QgvdapZNrTvy.jpg",
 "cast": [
@@ -85081,6 +85991,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Big Trouble",
 "tmdb_id": 78041,
 "year": 1986
+},
+"781": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7KB5MLHBkkZrjKIZm5PRhImOSdt.jpg",
+"cast": [
+"Ulrich Matthes",
+"Marie-Lou Sellem",
+"Floriane Daniel",
+"Heino Ferch",
+"Josef Bierbichler",
+"Laura Tonke"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0120522",
+"original_title": "Winterschläfer",
+"overview": "Young blonde translator Rebecca lives with her boyfriend ski instructor Marco in a mountain villa owned by her friend, nurse Laura. Rene, local cinema projectionist, steals Marco's car and gets into a car crash with local Theo, whose daughter, after being in coma for a time, dies. Rene suffers from partial short term memory loss and starts a relationship with Laura. Meanwhile Marco is looking for the man who stole his car and Theo - for the man who killed his daughter...",
+"poster": "https://image.tmdb.org/t/p/w342/9eSSVuhQ197uSzhgkuW8rKGQ1bo.jpg",
+"runtime": 120,
+"title": "Winter Sleepers",
+"tmdb_id": 781,
+"year": 1997
 },
 "78353": {
 "backdrop": "https://image.tmdb.org/t/p/w780/byFvyxWDBcv6IhhLubSKREX4WiD.jpg",
@@ -85594,59 +86529,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 7972,
 "year": 2007
 },
-"7974": {
-"backdrop": "https://image.tmdb.org/t/p/w780/tHF5OIcguut0Y83BXzqHtGdJOAf.jpg",
-"cast": [
-"Kati Outinen",
-"Elina Salo",
-"Esko Nikkari",
-"Vesa Vierikko",
-"Reijo Taipale",
-"Silu Seppälä"
-],
-"countries": [
-"FI",
-"SE"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0098532",
-"original_title": "Tulitikkutehtaan tyttö",
-"overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge.",
-"poster": "https://image.tmdb.org/t/p/w342/zHfabvr3RKEbNfksFBs2Cder91i.jpg",
-"runtime": 69,
-"title": "The Match Factory Girl",
-"tmdb_id": 7974,
-"year": 1990
-},
-"7980": {
-"backdrop": "https://image.tmdb.org/t/p/w780/vmonG9lV1s3CtmOQmmWUO206Xay.jpg",
-"cast": [
-"Saoirse Ronan",
-"Mark Wahlberg",
-"Rachel Weisz",
-"Susan Sarandon",
-"Stanley Tucci",
-"Rose McIver"
-],
-"countries": [
-"GB",
-"NZ",
-"US"
-],
-"directors": [
-"Peter Jackson"
-],
-"imdb_id": "tt0380510",
-"original_title": "The Lovely Bones",
-"overview": "Historien kretser rundt Susie Salmon, kun 14 år gammel og på vei hjem fra skolen da hun ble drept en desemberdag i 1973. Etter drapet fortsetter hun å passe på familien sin, mens morderen forblir på frifot. Fanget i et hvileløst og mystisk etterliv tvinges Susie til å velge mellom sitt eget behov for hevn og ønsket om at hennes kjære skal forsone seg med tapet og fortsette sine liv.",
-"poster": "https://image.tmdb.org/t/p/w342/kIa9CyK2yiE4CAy7RJPGe7lztse.jpg",
-"runtime": 136,
-"title": "The Lovely Bones",
-"tmdb_id": 7980,
-"year": 2009
-},
 "79838": {
 "backdrop": "https://image.tmdb.org/t/p/w780/u0wyF8kUD8stSaHeUK0y1ugXfnn.jpg",
 "cast": [
@@ -85790,6 +86672,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Ways of Love",
 "tmdb_id": 800564,
 "year": 1950
+},
+"801970": {
+"backdrop": "https://image.tmdb.org/t/p/w780/nCw4mcVXSZHEmFOfl6cS6yIg0hh.jpg",
+"cast": [
+"Sophie Simnett",
+"Aston McAuley",
+"Jason Flemyng",
+"Shervin Alenabi",
+"Howard Dell",
+"Raza Jaffrey"
+],
+"countries": [
+"BG",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt14351530",
+"original_title": "Refuge",
+"overview": "Sergeant Rick Pedroni comes home to his wife Kate changed and dangerous after suffering an attack by a mysterious force during combat in Afghanistan.",
+"poster": "https://image.tmdb.org/t/p/w342/ql9iTvgAdol4pZylmt6jDK5PARY.jpg",
+"runtime": 91,
+"title": "Refuge",
+"tmdb_id": 801970,
+"year": 2023
 },
 "801986": {
 "backdrop": null,
@@ -86060,31 +86968,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Macabre Serenade",
 "tmdb_id": 80655,
 "year": 1968
-},
-"8068": {
-"backdrop": "https://image.tmdb.org/t/p/w780/pBje8Zw42aEy7E2IxrCIw9jM4qC.jpg",
-"cast": [
-"Antonio Banderas",
-"Salma Hayek Pinault",
-"Joaquim de Almeida",
-"Steve Buscemi",
-"Cheech Marin",
-"Carlos Gómez"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Robert Rodriguez"
-],
-"imdb_id": "tt0112851",
-"original_title": "Desperado",
-"overview": "Antonio Banderas, Joaquim De Almeida, Salma Hayek, Steve Buscemi, Cheech Marin og Quentin Tarantino spiller i denne tøffe shoot’em up-filmen som beskrives som en mexikansk Pulp Fiction. Regissøren Robert Rodriguez følger opp sin legendariske debutfilm, El Mariachi, med denne sexy filmen om en mystisk gitarspiller (Banderas) som vil hevne seg på de mennene som myrdet kjæresten hans.",
-"poster": "https://image.tmdb.org/t/p/w342/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
-"runtime": 104,
-"title": "Desperado",
-"tmdb_id": 8068,
-"year": 1995
 },
 "8070": {
 "backdrop": "https://image.tmdb.org/t/p/w780/vTG5rpUcNGl28iKsf6Pd3G312pp.jpg",
@@ -86571,31 +87454,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 81787,
 "year": 1984
 },
-"81831": {
-"backdrop": "https://image.tmdb.org/t/p/w780/jhMk9aLhN0wLLFuzc5MfKxwzBP6.jpg",
-"cast": [
-"Alberto Sordi",
-"Gianna Maria Canale",
-"Ettore Geri",
-"Elena Nicolai",
-"Mariolina Bovo",
-"Gloria Cervi"
-],
-"countries": [
-"IT"
-],
-"directors": [
-"Vittorio De Sica"
-],
-"imdb_id": "tt0056883",
-"original_title": "Il boom",
-"overview": "Sweet-sour comedy on Italy's 1950s rage to get rich as fast as possible! The businessman wants to satisfy his wife's craving for luxury and a \"respectable life\" so he becomes heavily indebted. In desperation he agrees to sell a precious part of his body for a large sum of money. But just before the crucial operation he panics...",
-"poster": "https://image.tmdb.org/t/p/w342/osvbQlIPhIEAVT7kHy1govIZEH3.jpg",
-"runtime": 89,
-"title": "The Boom",
-"tmdb_id": 81831,
-"year": 1963
-},
 "81836": {
 "backdrop": "https://image.tmdb.org/t/p/w780/p4Ol9H1FUaPISjx5U3C5KVRnUTv.jpg",
 "cast": [
@@ -86675,35 +87533,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 81857,
 "year": 2011
 },
-"819876": {
-"backdrop": "https://image.tmdb.org/t/p/w780/sqdsuvy8X6Maila4IAc7deMtPAA.jpg",
-"cast": [
-"Viggo Mortensen",
-"Léa Seydoux",
-"Scott Speedman",
-"Kristen Stewart",
-"Welket Bungué",
-"Don McKellar"
-],
-"countries": [
-"CA",
-"GR",
-"GB",
-"FR",
-"US"
-],
-"directors": [
-"David Cronenberg"
-],
-"imdb_id": "tt14549466",
-"original_title": "Crimes of the Future",
-"overview": "With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. An investigator from the National Organ Registry obsessively tracks their movements, which is when a mysterious group is revealed... Their mission — to use Tenser's notoriety to shed light on the next phase of human evolution.",
-"poster": "https://image.tmdb.org/t/p/w342/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
-"runtime": 107,
-"title": "Crimes of the Future",
-"tmdb_id": 819876,
-"year": 2022
-},
 "82": {
 "backdrop": "https://image.tmdb.org/t/p/w780/jYhMlpOJMIiDTGcwZsKikZ7FShq.jpg",
 "cast": [
@@ -86729,33 +87558,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Miami Vice",
 "tmdb_id": 82,
 "year": 2006
-},
-"8214": {
-"backdrop": "https://image.tmdb.org/t/p/w780/dqcXtv7k8WbM0R9Z6Pm1wUcCQiN.jpg",
-"cast": [
-"Kati Outinen",
-"Kari Väänänen",
-"Elina Salo",
-"Sakari Kuosmanen",
-"Markku Peltola",
-"Matti Onnismaa"
-],
-"countries": [
-"FI",
-"FR",
-"DE"
-],
-"directors": [
-"Aki Kaurismäki"
-],
-"imdb_id": "tt0116752",
-"original_title": "Kauas pilvet karkaavat",
-"overview": "The ever-poker-faced Ilona loses her job as a restaurant hostess, as her tram driver husband, Lauri, also finds himself out of work. Together they must hit the streets of Helsinki, facing up to hardship and humiliation in their quest for survival, guided through the gloom by a ray of hope.",
-"poster": "https://image.tmdb.org/t/p/w342/xxzuKTo3RNyyUGXghfVkeiSbVDt.jpg",
-"runtime": 97,
-"title": "Drifting Clouds",
-"tmdb_id": 8214,
-"year": 1996
 },
 "8217": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ofIyN1TZJFvoCePNpbJebsg54D4.jpg",
@@ -86832,6 +87634,30 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Lord Uncle Pete",
 "tmdb_id": 822488,
 "year": 1962
+},
+"82269": {
+"backdrop": "https://image.tmdb.org/t/p/w780/yLE0ugUiOPpeu5Lxy2iV9d5RuSh.jpg",
+"cast": [
+"Naamah Alva",
+"Daizy Blu",
+"Philippe Decouflé",
+"Philippe Katerine"
+],
+"countries": [
+"US",
+"FR"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt2043814",
+"original_title": "Crazy Horse",
+"overview": "A cinéma vérité exploration of the grueling schedules, auditions, lighting design, and backstage operations at the famous Parisian nude cabaret, Le Crazy Horse de Paris, over a ten-week period, specifically capturing the creation of a new show put together by choreographer Philippe Decouflé. Wiseman highlights the immense precision, discipline, and artistic effort required by dancers and staff to maintain the legendary cabaret's distinct aesthetic.",
+"poster": "https://image.tmdb.org/t/p/w342/9iuB3zor1Dllfxa3jtyr5SfTZKh.jpg",
+"runtime": 134,
+"title": "Crazy Horse",
+"tmdb_id": 82269,
+"year": 2011
 },
 "82309": {
 "backdrop": "https://image.tmdb.org/t/p/w780/1GKFy6fsosQN8PTtcjn70HfQeY0.jpg",
@@ -87253,6 +88079,37 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 83533,
 "year": 2025
 },
+"83542": {
+"backdrop": "https://image.tmdb.org/t/p/w780/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+"cast": [
+"Tom Hanks",
+"Halle Berry",
+"Jim Broadbent",
+"Hugo Weaving",
+"Jim Sturgess",
+"Bae Doona"
+],
+"countries": [
+"DE",
+"US",
+"CN",
+"HK",
+"SG"
+],
+"directors": [
+"Lilly Wachowski",
+"Lana Wachowski",
+"Tom Tykwer"
+],
+"imdb_id": "tt1371111",
+"original_title": "Cloud Atlas",
+"overview": "Hvordan vil våre handlinger i ett liv påvirke andres i nåtid og fortid? Cloud Atlas består av seks ulike historier som veves i hverandre og tar tilskueren fra Stillehavet på 1800-tallet til en fjern postapokalyptisk fremtid. Filmen er, i følge forfatteren, strukturert som en mosaikk: ‘Vi befinner oss i hver av de seks verdenene akkurat lenge nok til å bli nysgjerrige for så å hoppe til en ny’.",
+"poster": "https://image.tmdb.org/t/p/w342/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+"runtime": 172,
+"title": "Cloud Atlas",
+"tmdb_id": 83542,
+"year": 2012
+},
 "8358": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
 "cast": [
@@ -87545,34 +88402,23 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 84298,
 "year": 1931
 },
-"844": {
-"backdrop": "https://image.tmdb.org/t/p/w780/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
-"cast": [
-"Tony Leung Chiu-wai",
-"Gong Li",
-"Faye Wong",
-"Takuya Kimura",
-"Zhang Ziyi",
-"Dong Jie"
-],
+"84661": {
+"backdrop": "https://image.tmdb.org/t/p/w780/efKykegeU6IZOLDWHssiKX2zsVR.jpg",
+"cast": [],
 "countries": [
-"DE",
-"HK",
-"CN",
-"FR",
-"IT"
+"US"
 ],
 "directors": [
-"Wong Kar-wai"
+"Frederick Wiseman"
 ],
-"imdb_id": "tt0212712",
-"original_title": "2046",
-"overview": "Wong Kar-Wais tilbakevendende dagdrøm og hjertesorg handler om en science-fiction-forfatter som har en rekke lidenskapelige affærer på et lurvete Hong Kong-hotell.",
-"poster": "https://image.tmdb.org/t/p/w342/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
-"runtime": 128,
-"title": "2046",
-"tmdb_id": 844,
-"year": 2004
+"imdb_id": "tt0211942",
+"original_title": "Belfast, Maine",
+"overview": "A film about ordinary experience in a beautiful old New England port city. A portrait of daily life with particular emphasis on the work and the cultural life of the community, among the activities shown are the work of lobstermen, tug-boat operators, factory workers, shop owners, city counselors, doctors, judges, policemen, teachers, social workers, nurses and ministers. Cultural activities include choir rehearsal, dance class, music lessons and theatre production.",
+"poster": "https://image.tmdb.org/t/p/w342/bycGZmokSgvV3wiHZ1xUsTZZh4K.jpg",
+"runtime": 248,
+"title": "Belfast, Maine",
+"tmdb_id": 84661,
+"year": 1999
 },
 "846716": {
 "backdrop": "https://image.tmdb.org/t/p/w780/r4pDYHM7BQto4UEDmypytQ7IvSa.jpg",
@@ -87597,31 +88443,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Hand",
 "tmdb_id": 846716,
 "year": 2021
-},
-"8469": {
-"backdrop": "https://image.tmdb.org/t/p/w780/dBTWOjGU7ry4jGgP9fp63FZs83y.jpg",
-"cast": [
-"John Belushi",
-"Karen Allen",
-"Tom Hulce",
-"Stephen Furst",
-"Mark Metcalf",
-"Mary Louise Weller"
-],
-"countries": [
-"US"
-],
-"directors": [
-"John Landis"
-],
-"imdb_id": "tt0077975",
-"original_title": "Animal House",
-"overview": "At a 1962 College, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
-"poster": "https://image.tmdb.org/t/p/w342/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
-"runtime": 109,
-"title": "Animal House",
-"tmdb_id": 8469,
-"year": 1978
 },
 "84701": {
 "backdrop": "https://image.tmdb.org/t/p/w780/ziDIqBWRSWtP13YkRvCfoGBCTWb.jpg",
@@ -88022,6 +88843,27 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 85917,
 "year": 1954
 },
+"85923": {
+"backdrop": "https://image.tmdb.org/t/p/w780/zkErcW0MDF7uPuOnoKs53Or5o2L.jpg",
+"cast": [
+"Isis Krüger",
+"Thomas Wolff"
+],
+"countries": [
+"DE"
+],
+"directors": [
+"Tom Tykwer"
+],
+"imdb_id": "tt0279068",
+"original_title": "Epilog",
+"overview": "A love story has come to its end. When a man steps into the room where his beloved one lives, she tells him to go and that she doesn't want to see him anymore. He realizes that this is going to be their last meeting - the epilogue. Afterwards he remembers the tragic ending of their relationship in a different way from what really happened.",
+"poster": "https://image.tmdb.org/t/p/w342/mkCYrnjyYKCuD5yN8eLkFD2XEL6.jpg",
+"runtime": 13,
+"title": "Epilog",
+"tmdb_id": 85923,
+"year": 1992
+},
 "859235": {
 "backdrop": "https://image.tmdb.org/t/p/w780/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
 "cast": [
@@ -88097,31 +88939,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Thunderbolt",
 "tmdb_id": 86114,
 "year": 1947
-},
-"8619": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
-"cast": [
-"Russell Crowe",
-"Paul Bettany",
-"James D'Arcy",
-"Robert Pugh",
-"David Threlfall",
-"Lee Ingleby"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Peter Weir"
-],
-"imdb_id": "tt0311113",
-"original_title": "Master and Commander: The Far Side of the World",
-"overview": "Filmen er basert på Patrick O'Brians bøker og finner sted under Napoleonskrigene. Skipet til Kaptein \"Lucky\" Jack Aubrey blir plutselig angrepet av en overlegen fiende og får store skader. Likeså blir mange i besetningen hardt kvestet. Men Aubrey setter seil i en halsbrekkende \"katt og mus\" jakt med høy innsats for å avskjære og ta til fange fienden. Det er en jakt som enten kan gi han et solid rennomé - eller ødelegge Lucky Jack og hans mannskap...",
-"poster": "https://image.tmdb.org/t/p/w342/7ZUHF6P0vcA5v1Gm8NbRYyd9w4N.jpg",
-"runtime": 138,
-"title": "Master and Commander: The Far Side of the World",
-"tmdb_id": 8619,
-"year": 2003
 },
 "863630": {
 "backdrop": "https://image.tmdb.org/t/p/w780/4UmPsI8Y1BS2A9FtrGwXCNa2N.jpg",
@@ -88712,31 +89529,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 8773,
 "year": 1962
 },
-"879": {
-"backdrop": "https://image.tmdb.org/t/p/w780/39OxcFZjX4uc6vYzexUh5qXghxE.jpg",
-"cast": [
-"Dustin Hoffman",
-"Robin Williams",
-"Julia Roberts",
-"Bob Hoskins",
-"Maggie Smith",
-"Caroline Goodall"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Steven Spielberg"
-],
-"imdb_id": "tt0102057",
-"original_title": "Hook",
-"overview": "Peter Pan har blitt voksen. Han har også i stor grad glemt sin fortid, sine tidligere venner og sin verste fiende, kaptein Krok. På sin side har ikke Krok glemt Peter Pan. Etter alle disse årene syder fremdeles den grusomme røveren med stålhånden over av hevnplaner. For å realisere disse kidnapper han Peter Pans barn og tvinger dermed hovedpersonen tilbake til Neverland.",
-"poster": "https://image.tmdb.org/t/p/w342/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
-"runtime": 142,
-"title": "Hook",
-"tmdb_id": 879,
-"year": 1991
-},
 "879012": {
 "backdrop": null,
 "cast": [
@@ -88885,6 +89677,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Where Now Are the Dreams of Youth?",
 "tmdb_id": 88271,
 "year": 1932
+},
+"885370": {
+"backdrop": null,
+"cast": [
+"Jean-Paul Battaggia"
+],
+"countries": [
+"FR",
+"CH"
+],
+"directors": [
+"Jean-Luc Godard"
+],
+"imdb_id": null,
+"original_title": "Phony Wars",
+"overview": "",
+"poster": "https://image.tmdb.org/t/p/w342/kqWXbOHTySV9XfhbOIA9iXN8gR7.jpg",
+"runtime": null,
+"title": "Phony Wars",
+"tmdb_id": 885370,
+"year": 2023
 },
 "8880": {
 "backdrop": "https://image.tmdb.org/t/p/w780/d752ELVYYWdfqFpyq6tJmHfPKMk.jpg",
@@ -89064,6 +89877,32 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "A Mug's Game?",
 "tmdb_id": 890998,
 "year": 1973
+},
+"8914": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bdDTda15ZPbNumwkKa9eH9RplIe.jpg",
+"cast": [
+"Saffron Burrows",
+"Thomas Jane",
+"LL Cool J",
+"Samuel L. Jackson",
+"Jacqueline McKenzie",
+"Michael Rapaport"
+],
+"countries": [
+"AU",
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0149261",
+"original_title": "Deep Blue Sea",
+"overview": "Doktor Susan McAlester (Saffron Burrows) befinner seg på forskningsplattformen \"Acquatica\", der hun bruker makrohaier som forsøksobjekter for å finne en kur for Alzheimer sykdom. Ved å forstørre haiens hjerne genetisk, utvinner hun proteiner som kan kurere sykdommen. Disse DNA-eksperimentene har hjulpet McAlester til å oppnå fantastiske resultater, til tross for at flere av hennes kollegaer er kritiske til forskningsmetodene, ut fra etiske prinsipper. Selv investorene i prosjektet er skeptiske, og investoren Russell Franklin (Samuel L. Jackson) kommer til forskningsplattformen for å observere testene McAlester gjør seg klar til å utføre. Det er da ulykken inntreffer. De genmanipulerte haiene, som er blitt større, smartere og raskere enn noensinne, våkner til live og går til angrep på McAlester og resten av forskerteamet. Samtidig feier en tropisk storm over området, og forskerne får nok med å komme seg helskinnet til fastlandet. Men kjempehaiene vil gjøre alt de kan for å stoppe dem...",
+"poster": "https://image.tmdb.org/t/p/w342/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+"runtime": 105,
+"title": "Deep Blue Sea",
+"tmdb_id": 8914,
+"year": 1999
 },
 "891699": {
 "backdrop": "https://image.tmdb.org/t/p/w780/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
@@ -89456,60 +90295,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 899732,
 "year": 1968
 },
-"9008": {
-"backdrop": "https://image.tmdb.org/t/p/w780/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
-"cast": [
-"Al Pacino",
-"Russell Crowe",
-"Christopher Plummer",
-"Diane Venora",
-"Philip Baker Hall",
-"Lindsay Crouse"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Michael Mann"
-],
-"imdb_id": "tt0140352",
-"original_title": "The Insider",
-"overview": "\"60 MINUTES\" produsent, Lowell Bergmann, vil lage en sak om tobakksindustrien. Han treffer Wigand, en tidligere sjef hos tobakksprodusentene Brown & Williamson som egentlig fikk sparken. Han hadde meninger man ikke skulle ha. Wigand er redd for å fortelle hva han vet til TV; at tobakkprodusentene tilsetter avhengighetsstoffer i sigarettene. Han frykter for seg selv og sin familie for de som lever av at sannheten ikke kommer frem. Og de er mange og mektige.",
-"poster": "https://image.tmdb.org/t/p/w342/3BYhikNhkWALAbpAdoL0rcBrl5A.jpg",
-"runtime": 158,
-"title": "The Insider",
-"tmdb_id": 9008,
-"year": 1999
-},
-"902": {
-"backdrop": "https://image.tmdb.org/t/p/w780/yDjsUoEANHggKFabkAyTu3Y9j4N.jpg",
-"cast": [
-"Ron Perlman",
-"Dominique Pinon",
-"Judith Vittet",
-"Daniel Emilfork",
-"Jean-Claude Dreyfus",
-"Geneviève Brunet"
-],
-"countries": [
-"FR",
-"DE",
-"ES",
-"GB"
-],
-"directors": [
-"Marc Caro",
-"Jean-Pierre Jeunet"
-],
-"imdb_id": "tt0112682",
-"original_title": "La Cité des enfants perdus",
-"overview": "A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.",
-"poster": "https://image.tmdb.org/t/p/w342/zwTqStZ0wCDoi5hD1wZjJjUKtFq.jpg",
-"runtime": 112,
-"title": "The City of Lost Children",
-"tmdb_id": 902,
-"year": 1995
-},
 "90349": {
 "backdrop": null,
 "cast": [
@@ -89776,6 +90561,27 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "An Introduction to the Ketogenic Diet",
 "tmdb_id": 912387,
 "year": 1994
+},
+"912456": {
+"backdrop": null,
+"cast": [
+"Heikki Hatakka",
+"Pekka Yletyinen"
+],
+"countries": [
+"FI"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0165825",
+"original_title": "Huostaanotto",
+"overview": "An alcoholic man is forced to come to grips with a society when he's taken into custody.",
+"poster": null,
+"runtime": 6,
+"title": "Custody",
+"tmdb_id": 912456,
+"year": 1980
 },
 "912804": {
 "backdrop": null,
@@ -90464,6 +91270,56 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 92591,
 "year": 2012
 },
+"92657": {
+"backdrop": "https://image.tmdb.org/t/p/w780/bbiUm8kVTXf5ZN6CQn3s7DhVCpy.jpg",
+"cast": [
+"Christina Turley",
+"Audrey Heaven",
+"Julia Vanderham",
+"Lindsy Drummer",
+"Robert Schwartzman",
+"Rachael Vanni"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Sofia Coppola"
+],
+"imdb_id": "tt0197626",
+"original_title": "Lick the Star",
+"overview": "Kate has been absent from high school for a week due to a fractured foot. Upon returning, she discovers that her clique of friends has devised a new, secret plan codenamed \"Lick the Star.\"",
+"poster": "https://image.tmdb.org/t/p/w342/kyMHq9xj9CQwwCSBZpvcHg7voJ8.jpg",
+"runtime": 14,
+"title": "Lick the Star",
+"tmdb_id": 92657,
+"year": 1998
+},
+"927107": {
+"backdrop": "https://image.tmdb.org/t/p/w780/47SVqaO02doJ06tOmrjiWDkwU3T.jpg",
+"cast": [
+"Aaron Eckhart",
+"Nina Dobrev",
+"Clifton Collins Jr.",
+"Tim Blake Nelson",
+"Ilfenesh Hadera",
+"Oliver Trevena"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt2016303",
+"original_title": "The Bricklayer",
+"overview": "Someone is blackmailing the CIA by assassinating foreign journalists and making it look like the agency is responsible. As the world begins to unite against the U.S., the CIA must lure its most brilliant – and rebellious – operative out of retirement, forcing him to confront his checkered past while unraveling an international conspiracy.",
+"poster": "https://image.tmdb.org/t/p/w342/36pYugctLa70NmwMEgXTR1G31Kq.jpg",
+"runtime": 110,
+"title": "The Bricklayer",
+"tmdb_id": 927107,
+"year": 2023
+},
 "9276": {
 "backdrop": "https://image.tmdb.org/t/p/w780/oJRlYxfG10h4sxk2A7fpeOZnaFi.jpg",
 "cast": [
@@ -90559,35 +91415,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Aja baja, Alfons Åberg",
 "tmdb_id": 928697,
 "year": 2022
-},
-"929831": {
-"backdrop": "https://image.tmdb.org/t/p/w780/4BC3dC3Bz8241rSuYHoccEsoM0h.jpg",
-"cast": [
-"Lyna Khoudri",
-"Anamaria Vartolomei",
-"Camille Cottin",
-"Fabrice Luchini",
-"Brandon Vlieghe",
-"Julien Manier"
-],
-"countries": [
-"BE",
-"FR",
-"DE",
-"IT",
-"PT"
-],
-"directors": [
-"Bruno Dumont"
-],
-"imdb_id": "tt17375596",
-"original_title": "L'Empire",
-"overview": "In a quiet fishing village on northern France's Opal Coast, the birth of a peculiar child sparks a hidden war between extraterrestrial forces of good and evil.",
-"poster": "https://image.tmdb.org/t/p/w342/2GQ5GMsx7Ri4gJsMDU2aDLbMg1S.jpg",
-"runtime": 110,
-"title": "The Empire",
-"tmdb_id": 929831,
-"year": 2024
 },
 "9322": {
 "backdrop": "https://image.tmdb.org/t/p/w780/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
@@ -90691,6 +91518,52 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 934395,
 "year": 1921
 },
+"9350": {
+"backdrop": "https://image.tmdb.org/t/p/w780/hPTaANKrpghMQeRIOcPJbJA4Yia.jpg",
+"cast": [
+"Sylvester Stallone",
+"John Lithgow",
+"Michael Rooker",
+"Janine Turner",
+"Rex Linn",
+"Caroline Goodall"
+],
+"countries": [
+"FR",
+"IT",
+"US",
+"JP"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0106582",
+"original_title": "Cliffhanger",
+"overview": "Gabe Walker er en erfaren klatrer som blir øyenvitne til en venns fall fra over tusen meter. Et år senere orker Gabe fortsatt ikke tanken på å begynne å klatre igjen, helt til hans kollegaer klarer å overtale han om å redde passasjerene ombord i et fly som har styrtet i fjellet. Passasjerene viser seg å være kriminelle som tar han som gissel og påstår at de er på jakt etter et skjult bytte - og at de trenger hjelp fra en erfaren fjellklatrer til å finne det.",
+"poster": "https://image.tmdb.org/t/p/w342/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+"runtime": 113,
+"title": "Cliffhanger",
+"tmdb_id": 9350,
+"year": 1993
+},
+"93540": {
+"backdrop": "https://image.tmdb.org/t/p/w780/qEU2dLwqVtVCClv38bMJRlQGKZV.jpg",
+"cast": [],
+"countries": [
+"US"
+],
+"directors": [
+"Frederick Wiseman"
+],
+"imdb_id": "tt0097959",
+"original_title": "Near Death",
+"overview": "At the Medical Intensive Care Unit at Boston's Beth Israel Hospital, people face death. Sequences highlight the complex interrelationships among patients, families, doctors, nurses, hospital staff and religious advisors as they confront the personal, ethical, medical, psychological, religious and legal issues involved in making decisions about whether or not to give life-sustaining treatment to dying patients.",
+"poster": "https://image.tmdb.org/t/p/w342/6fjKRuZkcd6D4tYdEZ6Akq7KiyU.jpg",
+"runtime": 358,
+"title": "Near Death",
+"tmdb_id": 93540,
+"year": 1989
+},
 "935491": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pX0m2qG9e49bfcfsvzLRyaekfhg.jpg",
 "cast": [
@@ -90734,31 +91607,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 935954,
 "year": 1922
 },
-"9361": {
-"backdrop": "https://image.tmdb.org/t/p/w780/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
-"cast": [
-"Daniel Day-Lewis",
-"Madeleine Stowe",
-"Jodhi May",
-"Russell Means",
-"Wes Studi",
-"Eric Schweig"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Michael Mann"
-],
-"imdb_id": "tt0104691",
-"original_title": "The Last of the Mohicans",
-"overview": "Året er 1757 og kolonikrigen raser mellom Frankrike og England. På vei gjennom krigssonen avbryter Hawkeye sammen med adoptivfaren og broren et bakholdsangrep på en engelsk tropp, og redder livet til offiserdøtrene Cora og Alice Munro. Cora (Madeleine Stowe) og Hawkeye (Daniel Day-Lewis) forelsker seg, men gjennom en lang rekke dramatiske hendelser blir Cora fanget av hevngjerrige Huronere. Hennes eneste håp er at Hawkeye og Mohikanerne skal befri henne fra fangenskapet. Men mellom dem og Cora står en armé blodtørstige Huronere. Et blodig oppgjør venter..",
-"poster": "https://image.tmdb.org/t/p/w342/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
-"runtime": 112,
-"title": "The Last of the Mohicans",
-"tmdb_id": 9361,
-"year": 1992
-},
 "93669": {
 "backdrop": "https://image.tmdb.org/t/p/w780/upRrVdUCP4QbiIlVpRiJQnG1sQQ.jpg",
 "cast": [
@@ -90785,31 +91633,6 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "The Meetings of Anna",
 "tmdb_id": 93669,
 "year": 1978
-},
-"9367": {
-"backdrop": "https://image.tmdb.org/t/p/w780/zERY2aaCrLExpR6NQ1ceIs0WG8S.jpg",
-"cast": [
-"Carlos Gallardo",
-"Consuelo Gómez",
-"Jaime de Hoyos",
-"Peter Marquardt",
-"Reinol Martinez",
-"Ramiro Gómez"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Robert Rodriguez"
-],
-"imdb_id": "tt0104815",
-"original_title": "El Mariachi",
-"overview": "Alt han vil er å bli en mariachi, akkurat som sin far, sin farfar og sin farfars far var før ham. Men den byen som han tror skal bringe hell, gir ham bare en forbannelse i form av en dødelig identitetsforveksling. Tvunget til å bytte gitaren mot et våpen, spiller mariachien for sitt liv i Robert Rodriguez kritikerroste debutfilm.",
-"poster": "https://image.tmdb.org/t/p/w342/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
-"runtime": 81,
-"title": "El Mariachi",
-"tmdb_id": 9367,
-"year": 1993
 },
 "93718": {
 "backdrop": "https://image.tmdb.org/t/p/w780/x33hqHwJ3HaF1jl8dOj7STJNBLN.jpg",
@@ -92100,31 +92923,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 971505,
 "year": 1923
 },
-"9716": {
-"backdrop": "https://image.tmdb.org/t/p/w780/2G6nVbZPPMvrJCNHm3lbiWJp59v.jpg",
-"cast": [
-"Woody Allen",
-"Natasha Lyonne",
-"Goldie Hawn",
-"Alan Alda",
-"Drew Barrymore",
-"Edward Norton"
-],
-"countries": [
-"US"
-],
-"directors": [
-"Woody Allen"
-],
-"imdb_id": "tt0116242",
-"original_title": "Everyone Says I Love You",
-"overview": "Holden og Skylar er forelsket i hverandre. Skylar bor på Manhatten sammen med sin store og noe forvirrede familie. Hennes foreldre, Bob og Steffi, har vært gift med hverandre i en årrekke. En av deres venner, Joe, har vært gift med Steffi, og sammen har de datteren DJ. Etter nok et mislykket forhold, er Joe atter en gang singel. Han stikker av til Venezia hvor han møter Von, som raskt blir overbevist om at han er hennes drømmemann. Men deres kjærlighet er langt fra ekte, og Von reiser tilbake til sin eksmann. Steffi tilbringer dagene med veldedighetsarbeid, og klarer å ødelegge forholdet mellom Skylar og Holden når hun presenterer Skylar for den løslatte fengselsfuglen, Charles Ferry.",
-"poster": "https://image.tmdb.org/t/p/w342/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
-"runtime": 101,
-"title": "Everyone Says I Love You",
-"tmdb_id": 9716,
-"year": 1996
-},
 "9726": {
 "backdrop": "https://image.tmdb.org/t/p/w780/dV5AKLfihrUTfAqh7dj9MG3OUWl.jpg",
 "cast": [
@@ -92222,6 +93020,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Hannibal",
 "tmdb_id": 9740,
 "year": 2001
+},
+"974453": {
+"backdrop": "https://image.tmdb.org/t/p/w780/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+"cast": [
+"Liam Neeson",
+"Ron Perlman",
+"Yolonda Ross",
+"Frankie Shaw",
+"Daniel Diemer",
+"Jimmy Gonzales"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Hans Petter Moland"
+],
+"imdb_id": "tt8337290",
+"original_title": "Absolution",
+"overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+"poster": "https://image.tmdb.org/t/p/w342/2MeQG5Vq8rUnRAa463BZe5GNhVk.jpg",
+"runtime": 112,
+"title": "Absolution",
+"tmdb_id": 974453,
+"year": 2024
 },
 "9746": {
 "backdrop": "https://image.tmdb.org/t/p/w780/hDUGoS4BKEAn5ZwJsFEGPU2fJtS.jpg",
@@ -92565,31 +93388,6 @@ window.LANGTAGNING_DIRECTORS = {
 "tmdb_id": 9835,
 "year": 1998
 },
-"9846": {
-"backdrop": "https://image.tmdb.org/t/p/w780/1asVOmgViSEn4yi0EylEdtlL5H9.jpg",
-"cast": [
-"William L. Petersen",
-"Willem Dafoe",
-"John Pankow",
-"Debra Feuer",
-"John Turturro",
-"Dean Stockwell"
-],
-"countries": [
-"US"
-],
-"directors": [
-"William Friedkin"
-],
-"imdb_id": "tt0090180",
-"original_title": "To Live and Die in L.A.",
-"overview": "When his longtime partner on the force is killed, reckless U.S. Secret Service agent Richard Chance vows revenge, setting out to nab dangerous counterfeit artist Eric Masters.",
-"poster": "https://image.tmdb.org/t/p/w342/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
-"runtime": 116,
-"title": "To Live and Die in L.A.",
-"tmdb_id": 9846,
-"year": 1985
-},
 "984706": {
 "backdrop": null,
 "cast": [],
@@ -92871,6 +93669,31 @@ window.LANGTAGNING_DIRECTORS = {
 "title": "Rescue Dawn",
 "tmdb_id": 9952,
 "year": 2007
+},
+"9954": {
+"backdrop": "https://image.tmdb.org/t/p/w780/vn9BFSlvwILE4wPUITi4XDD3fEK.jpg",
+"cast": [
+"Chace Crawford",
+"Taylor Kitsch",
+"Toby Hemingway",
+"Sebastian Stan",
+"Steven Strait",
+"Laura Ramsey"
+],
+"countries": [
+"US"
+],
+"directors": [
+"Renny Harlin"
+],
+"imdb_id": "tt0475944",
+"original_title": "The Covenant",
+"overview": "Four young men who belong to a supernatural legacy are forced to battle a fifth power long thought to have died out. Another great force they must contend with is the jealousy and suspicion that threatens to tear them apart.",
+"poster": "https://image.tmdb.org/t/p/w342/r6jbhgqKao3K3in4eftu7gqgMNH.jpg",
+"runtime": 97,
+"title": "The Covenant",
+"tmdb_id": 9954,
+"year": 2006
 },
 "99657": {
 "backdrop": "https://image.tmdb.org/t/p/w780/pZ3jkKH9nCoEMxYsosmKOaHLQ4P.jpg",

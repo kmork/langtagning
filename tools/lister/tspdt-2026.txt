@@ -1,6 +1,6 @@
 # navn: They Shoot Pictures, Don't They? – The 1,000 Greatest Films (2026)
 # kort: TSPDT 2026
-# serie: TSPDT
+# serie: They Shoot Pictures, Don't They?
 # år: 2026
 # størrelse: 1000
 # kilde: https://www.theyshootpictures.com/gf1000_all1000films_table.php

@@ -13,6 +13,7 @@ Eksempler:
   python3 tools/langtagning.py queue           # behandle køen du har lagd på nettsiden
   python3 tools/langtagning.py cinemateket     # hent omtaler fra cinemateket.no
   python3 tools/langtagning.py kino            # hent kinoprogrammet (Cinemateket og Vega Scene)
+  python3 tools/langtagning.py cinemateket-alle  # lista over alle filmer Cinemateket har vist (kjør lists etterpå)
   python3 tools/langtagning.py filmoteket      # finn filmer som kan lånes på filmoteket.no
   python3 tools/langtagning.py wikidata        # Roger Ebert- og Criterion-lenker + Criterion-lista (kjør lists etterpå)
   python3 tools/langtagning.py directors       # hent filmografier (regissører du har minst 2 filmer av)
@@ -155,12 +156,12 @@ def api_key():
     return key
 
 
-def http_get(url, headers=None, binary=False):
+def http_get(url, headers=None, binary=False, timeout=30):
     url = urllib.parse.quote(url, safe=":/?&=%#+,;@!$'()*~")  # adresser med æ/ø/å o.l.
     req = urllib.request.Request(url, headers={"User-Agent": "Langtagning/1.0", **(headers or {})})
     for attempt in range(4):
         try:
-            with urllib.request.urlopen(req, timeout=30) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 data = r.read()
                 if data[:2] == b"\x1f\x8b":  # noen servere sender gzip selv uten å bli spurt
                     import gzip
@@ -190,6 +191,11 @@ def http_get(url, headers=None, binary=False):
                 time.sleep(1.5)
                 continue
             raise Fail(f"Nettverksfeil: {e.reason}")
+        except (TimeoutError, ConnectionError) as e:  # tidsavbrudd under lesing er ikke en URLError
+            if attempt < 3:
+                time.sleep(5 * (attempt + 1))
+                continue
+            raise Fail(f"Nettverksfeil: {type(e).__name__}")
 
 
 def tmdb(path, **params):
@@ -1104,11 +1110,7 @@ def cmd_cinemateket_program(a):
             json.dump(cache, f, ensure_ascii=False)
 
     # Kobling til TMDB: først lenkene fra «cinemateket», ellers et oppslag (huskes i tools/cinemateket-tmdb.json)
-    known_links = {}
-    if os.path.exists(CINE_LINKS):
-        with open(CINE_LINKS, encoding="utf-8") as f:
-            text = f.read()
-        known_links = {u: int(k) for k, u in json.loads(text[text.index("=") + 1:].strip().rstrip(";")).items()}
+    known_links = cine_known_links()
     looked = load_json(CINE_TMDB, {})
     by_url = {}
     for u in urls:
@@ -1123,6 +1125,234 @@ def cmd_cinemateket_program(a):
     _, movies = load_db()
     save_program("Cinemateket", CINE_PROGRAM, "LANGTAGNING_CINEMATEKET_PROGRAM", "cinemateket.no", shows, by_url,
                  {u: (cache.get(u) or {}).get("title") for u in urls}, movies)
+
+    # Nye filmer på programmet havner også i lista over alt Cinemateket har vist
+    films = {u: dict(cache[u], tmdb=by_url.get(u)) for u in urls if cache.get(u)}
+    new = cine_all_add(films, "program")
+    if new:
+        print(f"  {new} nye filmer i lista «Cinemateket» (kjør «lists» for å bygge den inn)")
+
+
+def cine_known_links():
+    """Filmside → tmdb-id fra data/cinemateket-lenker.js (lages av «cinemateket»)."""
+    if not os.path.exists(CINE_LINKS):
+        return {}
+    with open(CINE_LINKS, encoding="utf-8") as f:
+        text = f.read()
+    return {u: int(k) for k, u in json.loads(text[text.index("=") + 1:].strip().rstrip(";")).items()}
+
+
+# ---------------------------------------------------------------- Cinemateket – alle filmer som er vist (egen kåringsliste)
+
+CINE_ALL = os.path.join(ROOT, "tools", "cinemateket-alle.json")           # filmside/nøkkel → film og kilder
+CINE_ALL_LIST = os.path.join(ROOT, "tools", "lister", "cinemateket.txt")  # generert – bygges inn med «lists»
+
+
+def cine_all_add(films, source):
+    """Legg filmer til i cinemateket-alle.json, koble nye til TMDB og skriv lista på nytt. Returnerer antall nye.
+    films: nøkkel (filmside) → {title, original_title, norwegian_title, year, directors, tmdb?}.
+    Sider uten produksjonsår (arrangementer, kortfilmprogram, verksteder) tas ikke med."""
+    data = load_json(CINE_ALL, {})
+    new = 0
+    for key, p in films.items():
+        if not p or not p.get("year"):
+            continue
+        e = data.get(key)
+        if not e:
+            e = data[key] = {k: p.get(k) or ("" if k != "directors" else []) for k in ("title", "original_title", "norwegian_title", "directors")}
+            e["year"], e["sources"] = p["year"], []
+            new += 1
+        if p.get("tmdb") and not e.get("tmdb"):
+            e["tmdb"] = p["tmdb"]
+        if source not in e["sources"]:
+            e["sources"].append(source)
+
+    # TMDB: lenkene fra «cinemateket», oppslagene fra «kino», ellers et nytt oppslag (null = ikke funnet)
+    links, looked = cine_known_links(), load_json(CINE_TMDB, {})
+    todo = [k for k, e in data.items() if "tmdb" not in e]
+    if todo:
+        print(f"  Kobler {len(todo)} filmer til TMDB …")
+    for n, k in enumerate(todo, 1):
+        e = data[k]
+        tid = links.get(k) or looked.get(k)
+        if not tid:
+            try:
+                tid = cine_tmdb_lookup(e)
+            except Fail as ex:
+                print(f"  ✗ {e['title']}: {ex}")
+                continue  # prøves igjen neste gang
+        e["tmdb"] = tid
+        if n % 100 == 0:
+            print(f"  … {n}/{len(todo)}")
+            save_json(CINE_ALL, data)
+    save_json(CINE_ALL, data)
+    write_cine_all_list(data)
+    return new
+
+
+def save_json(path, obj):
+    with open(path + ".tmp", "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=0, sort_keys=True)
+    os.replace(path + ".tmp", path)
+
+
+def write_cine_all_list(data):
+    """Skriv tools/lister/cinemateket.txt: én linje per film (samme TMDB-film bare én gang), alfabetisk."""
+    clean = lambda s: re.sub(r"\s+", " ", (s or "").replace("\xad", "").replace("|", "/")).strip()
+    rows, seen = [], set()
+    for e in sorted(data.values(), key=lambda e: (fold_title(e["title"]), e["year"])):
+        if e.get("tmdb"):
+            if e["tmdb"] in seen:
+                continue
+            seen.add(e["tmdb"])
+        rows.append((clean(e["title"]), e["year"], clean(", ".join(e["directors"])), e.get("tmdb") or 0))
+    os.makedirs(os.path.dirname(CINE_ALL_LIST), exist_ok=True)
+    with open(CINE_ALL_LIST + ".tmp", "w", encoding="utf-8") as f:
+        f.write("# navn: Cinemateket i Oslo – filmer som er vist\n# kort: Cinemateket\n# serie: Cinemateket i Oslo\n"
+                "# type: samling\n# merke: Cinemateket\n# kilde: https://www.cinemateket.no\n"
+                "# Generert av «langtagning.py cinemateket-alle» fra tools/cinemateket-alle.json – ikke rediger for hånd.\n"
+                "# tmdb:0 = fant ikke filmen i TMDB.\n\n")
+        for i, (title, year, director, tid) in enumerate(rows, 1):
+            f.write(f"{i} | {title} ({year}) | {director} | tmdb:{tid}\n" if director else f"{i} | {title} ({year}) | tmdb:{tid}\n")
+    os.replace(CINE_ALL_LIST + ".tmp", CINE_ALL_LIST)
+
+
+def fold_title(t):
+    t = unicodedata.normalize("NFKD", (t or "").replace("\xad", "")).encode("ascii", "ignore").decode().lower()
+    return re.sub(ARTICLES, "", t).strip()
+
+
+WB = "https://web.archive.org"
+WB_CACHE = os.path.join(ROOT, "tools", "wayback-cache.json")  # arkivert adresse → funn (bare tittel/år/regi, ikke tekster)
+CINE_FILM_RE = re.compile(r"cinemateket\.no(?::80)?/filmer/([a-z0-9][a-z0-9\-]*)", re.I)
+
+
+def wb_get(url, timeout=60):
+    """Hent fra Wayback Machine. Gir None hvis arkivet er nede («Temporarily Offline») eller siden mangler."""
+    for attempt in range(3):
+        try:
+            data = http_get(url, CINE_UA, binary=True, timeout=timeout)
+        except Fail as e:
+            print(f"  ✗ {url}: {e}")
+            data = None
+        text = (data or b"").decode("utf-8", errors="replace")
+        if data and "Internet Archive: Temporarily Offline" not in text[:500]:
+            return text
+        time.sleep(120 * (attempt + 1))  # arkivet stenger en stund for den som spør for ofte
+    return None
+
+
+def wb_cdx(prefix, **params):
+    """Alle arkiverte adresser som begynner med prefix: [(adresse, tidsstempel)]."""
+    q = urllib.parse.urlencode({"url": prefix, "matchType": "prefix", "fl": "original,timestamp",
+                                "filter": "statuscode:200", **params})
+    text = wb_get(f"{WB}/cdx/search/cdx?{q}", timeout=300)
+    if text is None or text.lstrip().startswith("<"):
+        raise Fail(f"Wayback Machine svarer ikke for {prefix} – prøv igjen senere.")
+    return [tuple(l.split()[:2]) for l in text.splitlines() if len(l.split()) >= 2]
+
+
+def cine_film_url(slug):
+    return f"{CINE_BASE}/filmer/{slug.lower()}"
+
+
+def wayback_films(delay):
+    """Filmsider fra Wayback Machine (dagens nettsted, ca. 2018 →): arkiverte filmsider, og filmer som
+    arkiverte program- og kalendersider (/forestillinger, /ical) lenker til. Returnerer filmside → film."""
+    delay = max(delay, 4.0)  # Wayback Machine tåler ca. 15 forespørsler i minuttet
+    wb = load_json(WB_CACHE, {})
+    have = set(load_json(CINE_CACHE, {})) | set(load_json(CINE_ALL, {}))
+
+    def fetch(key, url, parse):
+        if key in wb:
+            return wb[key]
+        text = wb_get(url)
+        time.sleep(delay)
+        if text is None:
+            return None  # prøves igjen neste gang
+        wb[key] = parse(text)
+        if len(wb) % 50 == 0:
+            save_json(WB_CACHE, wb)
+        return wb[key]
+
+    def film_meta(text):
+        p = parse_cine_page(text)
+        return {k: p[k] for k in ("title", "original_title", "norwegian_title", "year", "directors")} if p else None
+
+    # 1. Arkiverte filmsider (nyeste kopi av hver)
+    pages = {}
+    for orig, ts in wb_cdx("cinemateket.no/filmer/"):
+        m = CINE_FILM_RE.search(orig)
+        u = cine_film_url(m.group(1)) if m and "?" not in orig else None
+        if u and ts > pages.get(u, ("", ""))[1]:
+            pages[u] = (orig, ts)
+    # 2. Lenker fra arkiverte kalenderfiler og programsider
+    refs = set()
+    ical = wb_cdx("cinemateket.no/ical/", collapse="urlkey")
+    prog = wb_cdx("cinemateket.no/forestillinger", collapse="timestamp:8")
+    print(f"Wayback: {len(pages)} arkiverte filmsider, {len(ical)} kalenderfiler, {len(prog)} programsider")
+    for n, (orig, ts) in enumerate(ical + prog, 1):
+        found = fetch(f"{ts}/{orig}", f"{WB}/web/{ts}id_/{orig}",
+                      lambda t: sorted({m.lower() for m in CINE_FILM_RE.findall(t)}))
+        refs |= {cine_film_url(s) for s in found or []}
+        if n % 100 == 0:
+            print(f"  … {n}/{len(ical) + len(prog)} kalender-/programsider")
+    todo = sorted((set(pages) | refs) - have)
+    print(f"  {len(refs)} filmer nevnt i program/kalender – {len(todo)} filmsider å hente i alt")
+
+    # 3. Hent filmsidene: arkivert kopi hvis den finnes, ellers den levende siden
+    films = {}
+    for n, u in enumerate(todo, 1):
+        if u in pages:
+            orig, ts = pages[u]
+            films[u] = fetch(u, f"{WB}/web/{ts}id_/{orig}", film_meta)
+        elif u not in wb:
+            try:
+                page = http_get(u, CINE_UA, binary=True)
+                wb[u] = film_meta(page.decode("utf-8", errors="replace")) if page else None
+            except Fail as e:
+                print(f"  ✗ {u}: {e}")
+            time.sleep(delay)
+            films[u] = wb.get(u)
+        else:
+            films[u] = wb[u]
+        if n % 100 == 0:
+            print(f"  … {n}/{len(todo)} filmsider")
+    save_json(WB_CACHE, wb)
+    gone = sum(1 for u in todo if not films.get(u))
+    if gone:
+        print(f"  {gone} filmsider kunne ikke leses (verken arkivert eller på nettstedet lenger)")
+    return {u: p for u, p in films.items() if p}
+
+
+def cmd_cinemateket_alle(a):
+    before = len(load_json(CINE_ALL, {}))
+    if a.kilde == "wayback":
+        cine_all_add(wayback_films(a.delay), "wayback")
+    if a.kilde in ("alle", "sitemap"):
+        cache = load_json(CINE_CACHE, {})
+        urls = cine_urls()
+        todo = [u for u in urls if u not in cache]
+        print(f"Sitemap: {len(urls)} filmsider, {len(todo)} nye å hente …")
+        for u in todo:
+            try:
+                page = http_get(u, CINE_UA, binary=True)
+                cache[u] = parse_cine_page(page.decode("utf-8", errors="replace")) if page else None
+            except Fail as e:
+                print(f"  ✗ {u}: {e}")
+            time.sleep(a.delay)
+        if todo:
+            with open(CINE_CACHE, "w", encoding="utf-8") as f:
+                json.dump(cache, f, ensure_ascii=False)
+        # også sider som har forsvunnet fra sitemapen siden sist – de er vist like fullt
+        cine_all_add(cache, "sitemap")
+    if a.kilde in ("alle", "program"):
+        cmd_cinemateket_program(a)
+    data = load_json(CINE_ALL, {})
+    linked = {e["tmdb"] for e in data.values() if e.get("tmdb")}
+    missing = sum(1 for e in data.values() if not e.get("tmdb"))
+    print(f"\nCinemateket: {len(data)} filmsider ({len(data) - before} nye) → {len(linked)} filmer i TMDB, "
+          f"{missing} ikke funnet. Kjør «lists» for å bygge lista inn i appen.")
 
 
 # ---------------------------------------------------------------- Vega Scene (kinoprogrammet på vegascene.no)
@@ -1224,6 +1454,133 @@ def cmd_kino(a):
     for fn in (cmd_cinemateket_program, cmd_vega_program):
         fn(a)
         print()
+
+
+# ---------------------------------------------------------------- Filmfrelst (podkasten til Montages.no)
+
+FF_FEED = "https://feed.podbean.com/filmfrelst/feed.xml"
+FF_JS = os.path.join(ROOT, "data", "filmfrelst.js")                    # tmdb-id → episoder (bare lenker) – kan publiseres
+FF_FIX = os.path.join(ROOT, "tools", "filmfrelst-rettelser.txt")       # «episode | tittel | tmdb:ID» – tmdb:0 = ikke koble
+FF_TMDB = os.path.join(ROOT, "tools", "filmfrelst-tmdb.json")            # TMDB-søk som er gjort (null = ikke funnet)
+FF_PREFIX = re.compile(r"^Filmfrelst\s*#?\s*(\d+)\s*[:\-–]\s*", re.I)
+# Deler av gamle titler (uten «») som ikke er filmer: festivaler, årsoppsummeringer, samtaler …
+FF_NOT_FILM = re.compile(r"^(seriefrelst|filmåret|oscar|cannes|berlinalen|venezia|kosmorama|film fra sør|tiff|toronto|"
+                         r"sundance|oslo pix|nordiske filmdager|tromsø|haugesund|amanda|en samtale|samtale|intervju|"
+                         r"spesial|lytter|oppsummer|m\.m\.|mm\.?$|med )", re.I)
+
+
+def ff_episodes():
+    """Episodene i podkast-feeden: [{n, title, date, url}], nyeste først."""
+    import email.utils
+    import html as _html
+    text = http_get(FF_FEED, CINE_UA, binary=True).decode("utf-8", errors="replace")
+    eps = []
+    for item in re.findall(r"<item>(.*?)</item>", text, re.S):
+        get = lambda tag: _html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", (re.search(rf"<{tag}>(.*?)</{tag}>", item, re.S) or [None, ""])[1])).strip()
+        title, m = get("title"), FF_PREFIX.match(get("title"))
+        date = email.utils.parsedate_to_datetime(get("pubDate")).date().isoformat() if get("pubDate") else ""
+        eps.append({"n": int(m.group(1)) if m else None, "title": title, "date": date, "url": get("link")})
+    return eps
+
+
+def ff_titles(title):
+    """Filmtitler i en episodetittel: [(tittel, år eller None, regissør-hint eller "")].
+    «Steven Spielbergs «West Side Story»» → ("West Side Story", None, "Steven Spielberg")."""
+    rest = FF_PREFIX.sub("", title).strip()
+    if re.match(r"seriefrelst", rest, re.I):
+        return []
+    if "«" in rest:
+        out = []
+        for m in re.finditer(r"«([^»]+)»(?:\s*\((\d{4})\))?", rest):
+            before = rest[:m.start()].rstrip()
+            hint = re.search(r"((?:[A-ZÆØÅÉ][\w.\-’']*\s+){0,2}[A-ZÆØÅÉ][\w.\-’']*?)s$", before)  # genitiv: «Spielbergs»
+            out.append((m.group(1).strip(), int(m.group(2)) if m.group(2) else None, hint.group(1) if hint else ""))
+        return out
+    # Eldre titler: «Shutter Island, Fish Tank, The Road, Up in the Air»
+    parts = re.split(r",\s*|\s+og\s+|\s+\+\s+|\s+[-–]\s+|:\s+", rest)
+    return [(p.strip(), None, "") for p in parts
+            if len(p.strip()) > 1 and not FF_NOT_FILM.match(p.strip()) and not re.search(r"\b(19|20)\d\d\b", p)]
+
+
+def ff_search(title, year, hint, ep_year):
+    """Første TMDB-treff (søk på norsk, finner også norske titler) som passer med år og regissør. None = ingen."""
+    for r in (tmdb("/search/movie", query=title, language="nb-NO", include_adult="false") or {}).get("results", [])[:8]:
+        y = year_of(r)
+        if not y or y > ep_year + 1 or (year and abs(y - year) > 1):
+            continue
+        if hint and not director_ok(hint, details_cached(r["id"])):
+            continue
+        return r["id"]
+    return None
+
+
+def cmd_filmfrelst(a):
+    eps = ff_episodes()
+    _, movies = load_db()
+    films = {f["tmdb_id"]: f for f in all_known_films(movies)}
+    index = {}
+    for f in films.values():
+        for t in (f.get("title"), f.get("original_title")):
+            for k in title_keys(t):
+                index.setdefault(k, {})[f["tmdb_id"]] = f
+    fixes = {}
+    if os.path.exists(FF_FIX):
+        with open(FF_FIX, encoding="utf-8") as fh:
+            for line in fh:
+                m = re.match(r"^\s*(\d+)\s*\|\s*(.+?)\s*\|\s*tmdb:(\d+)\s*$", line)
+                if m:
+                    fixes.setdefault(int(m.group(1)), {})[norm(m.group(2))] = int(m.group(3))
+
+    looked = load_json(FF_TMDB, {})
+    out, missing, unsure, n_named = {}, [], [], 0
+    for ep in eps:
+        ep_year = int(ep["date"][:4]) if ep["date"] else 9999
+        found = {}
+        for title, year, hint in ff_titles(ep["title"]):
+            n_named += 1
+            key = norm(title)
+            if key in fixes.get(ep["n"], {}):
+                found[key] = fixes[ep["n"]][key]
+                continue
+            # bare eksakt tittel (med/uten artikkel) – ikke undertittel-varianter fra episodesiden
+            cands = {tid: f for k in {norm(title), norm(re.sub(ARTICLES, "", title, flags=re.I))} for tid, f in index.get(k, {}).items()}
+            cands = [f for f in cands.values() if f.get("year") and f["year"] <= ep_year + 1 and (not year or abs(f["year"] - year) <= 1)]
+            if hint and len(cands) > 1:
+                cands = [f for f in cands if director_ok(hint, f)] or cands
+            if len(cands) == 1:
+                found[key] = cands[0]["tmdb_id"]
+                continue
+            if "«" not in ep["title"]:
+                continue  # gamle titler uten «»: bare sikre treff, ellers for mye støy
+            # Ingen eller flere: la TMDB-søket (også norske titler) avgjøre, men bare filmer som finnes i Langtagning
+            skey = f"{key}|{year or ''}|{hint}|{ep_year}"
+            if skey not in looked:
+                looked[skey] = ff_search(title, year, hint, ep_year)
+            tid = looked[skey]
+            if tid in films:
+                found[key] = tid
+                if cands:
+                    unsure.append(f"#{ep['n']}: {title} → {films[tid]['title']} ({films[tid]['year']}), tmdb:{tid} – valgt blant {len(cands)}")
+            else:
+                missing.append(f"#{ep['n']}: {title}")
+        for key, tid in fixes.get(ep["n"], {}).items():
+            found.setdefault(key, tid)  # rettelser kan også legge til filmer som ikke står i tittelen
+        for tid in dict.fromkeys(found.values()):
+            if tid:
+                out.setdefault(str(tid), []).append({"n": ep["n"], "t": FF_PREFIX.sub("", ep["title"]), "d": ep["date"], "u": ep["url"]})
+    save_json(FF_TMDB, looked)
+    write_js(FF_JS, "LANGTAGNING_FILMFRELST", out, "Episoder av Filmfrelst (Montages.no) som handler om filmen (tmdb-id → episoder). Lages med «langtagning.py filmfrelst».")
+
+    mine = sum(1 for k in out if int(k) in {m["tmdb_id"] for m in movies if m.get("tmdb_id")})
+    print(f"Filmfrelst: {len(eps)} episoder, {n_named} filmtitler → {len(out)} filmer koblet ({mine} i databasen din).")
+    if unsure:
+        print(f"\nValgt blant flere filmer med samme tittel ({len(unsure)}) – rett evt. i tools/filmfrelst-rettelser.txt:")
+        for u in unsure:
+            print("  -", u)
+    if missing:
+        print(f"\nIkke funnet blant filmene i Langtagning ({len(missing)}):")
+        for u in missing:
+            print("  -", u)
 
 
 # ---------------------------------------------------------------- Filmoteket (bibliotekenes strømmetjeneste)
@@ -1626,9 +1983,9 @@ def parse_list_file(path):
             if not line:
                 continue
             if line.startswith("#"):
-                m = re.match(r"#\s*(navn|kort|serie|år|størrelse|type|kilde|nummer):\s*(.+)$", line)
+                m = re.match(r"#\s*(navn|kort|serie|år|størrelse|type|kilde|nummer|merke):\s*(.+)$", line)
                 if m:
-                    meta[{"navn": "name", "kort": "short", "serie": "series", "år": "year", "størrelse": "size", "type": "kind", "kilde": "source", "nummer": "numbered"}[m.group(1)]] = m.group(2).strip()
+                    meta[{"navn": "name", "kort": "short", "serie": "series", "år": "year", "størrelse": "size", "type": "kind", "kilde": "source", "nummer": "numbered", "merke": "badge"}[m.group(1)]] = m.group(2).strip()
                 continue
             m = LIST_LINE.match(line)
             if not m:
@@ -1941,6 +2298,13 @@ def main():
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_cinemateket_program)
 
+    s = sub.add_parser("cinemateket-alle", help="bygg lista over alle filmer Cinemateket har vist (tools/lister/cinemateket.txt)")
+    s.add_argument("--kilde", choices=["alle", "sitemap", "program", "wayback"], default="alle",
+                   help="hvor filmene hentes fra: alle = sitemap + program (standard); wayback = arkiverte sider (tar lang tid)")
+    s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt (programmet)")
+    s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
+    s.set_defaults(fn=cmd_cinemateket_alle)
+
     s = sub.add_parser("vega-program", help="hent kinoprogrammet fra vegascene.no/kino")
     s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt")
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
@@ -1950,6 +2314,9 @@ def main():
     s.add_argument("--refresh", action="store_true", help="slå opp filmer som ikke ble funnet i TMDB på nytt")
     s.add_argument("--delay", type=float, default=1.0, help="sekunder mellom hver side (standard 1)")
     s.set_defaults(fn=cmd_kino)
+
+    s = sub.add_parser("filmfrelst", help="koble filmene til episoder av podkasten Filmfrelst (Montages.no)")
+    s.set_defaults(fn=cmd_filmfrelst)
 
     s = sub.add_parser("filmoteket", help="finn filmer som kan lånes på filmoteket.no")
     s.add_argument("--refresh", action="store_true", help="hent alle filmsidene på nytt")

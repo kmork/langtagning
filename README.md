@@ -212,7 +212,37 @@ ca. 45 minutter (én side i sekundet). Senere henter kommandoen bare nye sider. 
 - `data/cinemateket-lenker.js`: bare lenkene. Kan publiseres. På nett viser detaljvisningen en «Cinemateket»-lenke.
 - `tools/cinemateket-cache.json`: sider som allerede er hentet.
 
-Filmer med en side på cinemateket.no får et lite «C»-merke («Vist på Cinemateket»).
+Filmer med en side på cinemateket.no får en «Cinemateket»-lenke i detaljvisningen. Merket «Cinemateket» kommer
+fra lista under.
+
+## Alle filmer Cinemateket har vist (egen liste)
+
+```sh
+python3 tools/langtagning.py cinemateket-alle                 # sitemap + programmet
+python3 tools/langtagning.py cinemateket-alle --kilde sitemap # bare filmsidene på cinemateket.no
+python3 tools/langtagning.py cinemateket-alle --kilde wayback # arkiverte sider fra Wayback Machine (1–2 timer første gang)
+python3 tools/langtagning.py lists                            # bygg lista inn i appen
+```
+
+Lager én liste, «Cinemateket i Oslo», med alle filmene Cinemateket har vist. Den vises på linje med
+kåringene (under **Kuratert av andre**) og har merket «Cinemateket». Lista er ikke koblet til kinoprogrammet.
+
+- `tools/cinemateket-alle.json`: alle filmene som er funnet (filmside → tittel, år, regissør, tmdb-id og kilder).
+  Nye kilder legger bare til filmer, så kommandoen kan kjøres så ofte du vil.
+- `tools/lister/cinemateket.txt`: lista som `lists` bygger inn. **Genereres. Ikke rediger den.**
+  `tmdb:0` betyr at filmen ikke ble funnet i TMDB.
+- Sider uten produksjonsår (arrangementer, kortfilmprogram, verksteder) tas ikke med.
+- `kino` og `cinemateket-program` legger nye filmer fra programmet inn i lista automatisk.
+  Kjør `lists` etterpå.
+
+Kilder:
+- `sitemap`: filmsidene på dagens cinemateket.no.
+- `program`: programmet (også via `kino`).
+- `wayback`: filmsider som er fjernet fra nettstedet, hentet fra [Wayback Machine](https://web.archive.org).
+  Gjelder dagens nettsted (ca. 2018 og framover): arkiverte filmsider, og filmer som arkiverte program- og
+  kalendersider lenker til. Funnene lagres i `tools/wayback-cache.json`, så en avbrutt kjøring fortsetter der den slapp.
+
+Eldre nettsteder (før 2018) og trykte programmer (Nasjonalbiblioteket) kommer i senere steg.
 
 ## Kinoprogram: Cinemateket og Vega Scene
 
@@ -240,6 +270,26 @@ På siden:
 - Plakatene får merker som «Cinemateket 25. okt.» og «Vega 17. nov.», og detaljvisningen viser alle visningene
   med billettlenke.
 - Visninger som har vært, skjules automatisk. Programmet er likevel bare så ferskt som siste kjøring.
+
+## Filmfrelst (podkast)
+
+```sh
+python3 tools/langtagning.py filmfrelst
+```
+
+Kobler filmene til episoder av [Filmfrelst](https://filmfrelst.podbean.com), podkasten til Montages.no.
+Detaljvisningen får en lenke per episode, for eksempel «Filmfrelst #482». Det blir ingen merker og ingen filtre.
+
+- Filmtitlene leses fra episodetitlene: titler i «» (med regissør og år når de står der) og, for eldre episoder,
+  kommaseparerte titler. Seriefrelst (TV-serier) hoppes over.
+- Bare filmer som allerede finnes i Langtagning kobles (databasen, listene og filmografiene).
+  Når tittelen ikke gir ett sikkert treff, avgjør et TMDB-søk på norsk. Det finner også norske titler som «Parasitt».
+- `data/filmfrelst.js`: tmdb-id → episoder (bare lenker). Kan publiseres.
+- `tools/filmfrelst-tmdb.json`: TMDB-søk som er gjort.
+- `tools/filmfrelst-rettelser.txt` (valgfri): `482 | West Side Story | tmdb:511809`. `tmdb:0` fjerner en kobling.
+  Du kan også legge til filmer som ikke står i episodetittelen.
+
+Kjør kommandoen på nytt når det kommer nye episoder, eller etter `lists`/`directors` (flere filmer å koble mot).
 
 ## Lån på Filmoteket
 

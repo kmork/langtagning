@@ -964,11 +964,10 @@ body:has(.qbar:not([hidden]):not(.mini)) .layout { padding-bottom: 120px; }
 .k-vega { --kino: #b9a2f2; --kino-badge: #cdbcff; --kino-bg: #6a4bc4; }
 :root[data-theme="light"] .k-vega { --kino: #5b3db5; }
 .badge.kino { color: var(--kino-badge); border-color: color-mix(in srgb, var(--kino-bg) 75%, transparent); text-transform: none; letter-spacing: 0; }
-.badge.cine-was { color: #ffb0a9; padding: 2px 5px; }
 .mt.kino { color: var(--kino); border-color: color-mix(in srgb, var(--kino) 55%, transparent); }
-.mt.cine-was { color: var(--cine); }
 .tab.kino-toggle[aria-pressed="true"] { background: #c4251f; border-color: #c4251f; color: #fff; }
 .extlink .vega { background: #6a4bc4; color: #fff; }
+.extlink .ff { background: #1f6f5c; color: #fff; }
 .cine-shows { margin: 18px 0 4px; }
 .cine-shows ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
 .cine-shows li {
